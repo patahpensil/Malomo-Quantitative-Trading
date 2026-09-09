@@ -224,7 +224,9 @@ function statusFor(entryScore) {
 
 /** @param {any} of @param {import('../core/types.js').Side} dir */
 function describeOF(of, dir) {
-  if (!of || of.provenance === 'tidak_tersedia') return 'order flow —';
+  // E6 belum pernah tersambung ke WSManager (net/orderflow.js tak dipakai) —
+  // beda dari keluarga lain yang tidak_tersedia-nya bersifat sementara.
+  if (!of || of.provenance === 'tidak_tersedia') return 'order flow belum aktif';
   const sign = Math.sign(of.value);
   const dirSign = dir === 'long' ? 1 : dir === 'short' ? -1 : 0;
   if (sign === 0) return 'order flow netral';

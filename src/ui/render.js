@@ -129,6 +129,19 @@ function cell(lbl, val, dir) {
 }
 
 /**
+ * Teks tag saat keluarga tidak tersedia. E6 (order flow) sengaja diberi label
+ * berbeda: CVDTracker/orderBookImbalance (net/orderflow.js) belum disambungkan
+ * ke WSManager mana pun, jadi E6 SELALU tidak tersedia — ini bukan kekosongan
+ * data sementara seperti keluarga lain, melainkan fitur yang belum aktif.
+ * Bila E6 sudah disambungkan sungguhan, hapus pengecualian ini.
+ * @param {import('../core/types.js').Family} family
+ */
+export function unavailableTag(family) {
+  if (family === 'E6') return 'belum aktif · order flow belum tersambung';
+  return 'tidak tersedia · bobot dinormalisasi';
+}
+
+/**
  * Satu baris keluarga bukti. Batang berlawanan bila melawan arah (§UI-3);
  * baris redup + alasan bila tidak tersedia (§UI-4).
  * @param {import('../core/types.js').FamilyResult} f
@@ -138,7 +151,7 @@ function familyRow(f) {
   if (f.provenance === 'tidak_tersedia') {
     return el('div', { class: 'fam-row' }, [
       el('span', { class: 'name muted', text: label }),
-      el('span', { class: 'tag', text: 'tidak tersedia · bobot dinormalisasi' }),
+      el('span', { class: 'tag', text: unavailableTag(f.family) }),
       el('span', { class: 'val muted', text: '—' }),
     ]);
   }
