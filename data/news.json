@@ -1,7 +1,37 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1788982838391,
+  "generatedAt": 1788992815582,
   "articles": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788989400000
+    },
+    {
+      "title": "US Treasury Secretary Scott Bessent ‘Strongly Urges’ Senate To Pass Clarity Act",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/scott-bessent-urges-clarity-act-action",
+      "pubDate": 1788988851000
+    },
+    {
+      "title": "Jack Dorsey’s Block Becomes Latest Bitcoin-Focused Company To Apply for Banking Charter",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/block-applies-for-banking-charter",
+      "pubDate": 1788986141000
+    },
+    {
+      "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377818/ai-math-best-problems-terence-tao",
+      "pubDate": 1788985889000
+    },
+    {
+      "title": "DoubleZero adds Kalshi election market data ahead of US midterms",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788984489000
+    },
     {
       "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
       "source": "Decrypt",
@@ -75,7 +105,7 @@
       "pubDate": 1788970564000
     },
     {
-      "title": "Robinhood’s CEO Vlad Tenev fires back at AMC CEO in escalating fight over stock tokens",
+      "title": "Robinhood CEO Vlad Tenev fires back at AMC's Aron in escalating fight over stock tokens",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
       "pubDate": 1788970267000
@@ -327,40 +357,10 @@
       "pubDate": 1788939381000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788933081000
-    },
-    {
       "title": "Gemini receives Singapore payment license for crypto services",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1788931632000
-    },
-    {
-      "title": "Cybercrime ringleader Malone Lam pleads guilty in $245M crypto theft conspiracy",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788926991000
-    },
-    {
-      "title": "OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
-      "pubDate": 1788903514000
-    },
-    {
-      "title": "Lummis Blasts Democrats Ahead of Clarity Act Vote — But Adds Bill Can Get Passed",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/lummis-blasts-democrats-on-clarity-act",
-      "pubDate": 1788900990000
-    },
-    {
-      "title": "$47M Still Missing After Liquid Hack as Blockstream Bargains With 'White Hats'",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat",
-      "pubDate": 1788900394000
     }
   ]
 }
