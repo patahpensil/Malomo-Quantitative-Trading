@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1" />
+  <title>MALOMO QT</title>
+  <meta name="description" content="Platform keputusan & riset trading kuantitatif — pemakaian pribadi." />
+
+  <!-- PWA / iOS: pemasangan wajib agar IndexedDB tak dihapus 7 hari (§19) -->
+  <meta name="theme-color" content="#0A0B07" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="MALOMO QT" />
+  <link rel="manifest" href="./manifest.json" />
+  <link rel="apple-touch-icon" href="./icons/icon-180.png" />
+  <link rel="icon" href="./icons/icon-192.png" />
+
+  <link rel="stylesheet" href="./src/ui/styles.css" />
+</head>
+<body>
+  <header class="appbar">
+    <div>
+      <h1>MALOMO <span style="color:var(--mint)">QT</span></h1>
+      <div class="sub">keputusan &amp; riset · pemakaian pribadi</div>
+    </div>
+    <div class="sub" id="clock"></div>
+  </header>
+
+  <div class="netbar" id="netbar"></div>
+
+  <main>
+    <section class="view active" id="view-pantau"></section>
+    <section class="view" id="view-scan"></section>
+    <section class="view" id="view-analisa"></section>
+    <section class="view" id="view-berita"></section>
+    <section class="view" id="view-jurnal"></section>
+    <section class="view" id="view-bukti"></section>
+  </main>
+
+  <nav class="tabbar" aria-label="Navigasi utama">
+    <button data-tab="pantau" aria-label="Pantau">
+      <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/></svg>
+      <span>Pantau</span>
+    </button>
+    <button data-tab="scan" aria-label="Scan">
+      <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12a10 10 0 1 1-10-10"/><path d="M12 12 22 2"/><path d="M12 12v10"/></svg>
+      <span>Scan</span>
+    </button>
+    <button data-tab="analisa" aria-label="Analisa">
+      <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="m7 14 4-4 3 3 5-6"/></svg>
+      <span>Analisa</span>
+    </button>
+    <button data-tab="berita" aria-label="Berita">
+      <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h13a2 2 0 0 1 2 2v13a2 2 0 0 1-2 2H4Z"/><path d="M8 8h7M8 12h7M8 16h4"/></svg>
+      <span>Berita</span>
+    </button>
+    <button data-tab="jurnal" aria-label="Jurnal">
+      <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5a2 2 0 0 1 2-2h13v18H6a2 2 0 0 1-2-2Z"/><path d="M9 3v18"/></svg>
+      <span>Jurnal</span>
+    </button>
+    <button data-tab="bukti" aria-label="Bukti">
+      <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/><path d="m9 12 2 2 4-4"/></svg>
+      <span>Bukti</span>
+    </button>
+  </nav>
+
+  <script type="module">
+    import { boot } from './src/ui/app.js';
+
+    // Jam kecil di app bar
+    const clock = document.getElementById('clock');
+    function tick() {
+      if (clock) clock.textContent = new Date().toLocaleTimeString('id-ID', { hour: '2-digit', minute: '2-digit' });
+    }
+    tick(); setInterval(tick, 30_000);
+
+    boot().catch((e) => {
+      const nb = document.getElementById('netbar');
+      if (nb) { nb.className = 'netbar show err'; nb.textContent = 'Gagal memulai aplikasi: ' + (e && e.message ? e.message : e); }
+      console.error(e);
+    });
+
+    // Service worker (§CD-7): network-first untuk seluruh src/
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js').catch((e) => console.warn('SW gagal daftar', e));
+      });
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+name: checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2   # perlu HEAD~1 untuk cek cache-bump (§CD-7)
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # Pemeriksaan tanpa dependensi — tak perlu npm install (§CD-3).
+      - name: Static architecture checks (§CD-5, §NET-4, §ST-R1)
+        run: node scripts/check.js
+
+      - name: Service worker cache guard (§CD-7)
+        run: node scripts/check-cache-bump.js
+
+      - name: Unit tests (§21.3, §6)
+        run: node --test
+
+      - name: End-to-end wiring self-test
+        run: node scripts/selftest.js
+
+  typecheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      # TypeScript hanya sebagai PEMERIKSA (§CD-2) — tak menghasilkan berkas.
+      - name: Install TypeScript (dev-only)
+        run: npm install --no-save typescript@5
+      - name: Type-check JSDoc (§L-R1, §PR-4)
+        run: npx tsc -p tsconfig.json

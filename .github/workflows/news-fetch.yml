@@ -1,0 +1,37 @@
+name: news-fetch
+
+on:
+  schedule:
+    - cron: '7,37 * * * *'   # dua kali per jam
+  workflow_dispatch: {}        # bisa dipicu manual
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-fetch
+  cancel-in-progress: true
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch RSS → data/news.json (§N-R1)
+        run: node scripts/fetch-news.js
+
+      - name: Commit bila berubah
+        run: |
+          git config user.name "malomo-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if ! git diff --quiet -- data/news.json; then
+            git add data/news.json
+            git commit -m "chore(news): perbarui data berita [skip ci]"
+            git push
+          else
+            echo "Tidak ada perubahan berita."
+          fi

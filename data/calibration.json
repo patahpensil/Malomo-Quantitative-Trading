@@ -1,0 +1,12 @@
+{
+  "model_version": "prior-v0",
+  "status": "prior",
+  "oosPeriod": null,
+  "measuredFamilies": 0,
+  "gate": null,
+  "weights": {
+    "E1": 1, "E2": 1, "E3": 1, "E4": 1,
+    "E5": 1, "E6": 1, "E7": 1, "E8": 1
+  },
+  "_note": "Bobot prior — semua sama. Digantikan artefak Bidang Riset setelah IC per-keluarga terukur (§A-1, §S-R3). JANGAN sunting tangan untuk 'memperbaiki' hasil; itu justru yang dilarang PRD."
+}

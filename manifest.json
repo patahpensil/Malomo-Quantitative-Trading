@@ -1,0 +1,20 @@
+{
+  "id": "malomo-qt",
+  "name": "MALOMO QT — Keputusan & Riset Trading",
+  "short_name": "MALOMO QT",
+  "description": "Platform keputusan & riset trading kuantitatif untuk pemakaian pribadi. Crypto-first (Binance USDT-M perp).",
+  "lang": "id-ID",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0B07",
+  "theme_color": "#0A0B07",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

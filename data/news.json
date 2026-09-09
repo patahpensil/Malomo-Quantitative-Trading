@@ -1,0 +1,5 @@
+{
+  "_note": "Placeholder. Ditimpa otomatis oleh .github/workflows/news-fetch.yml yang menjalankan scripts/fetch-news.js dan commit hasilnya (§N-R1). Aplikasi tetap jalan bila kosong.",
+  "generatedAt": null,
+  "articles": []
+}

@@ -1,0 +1,8 @@
+{
+  "_note": "Kalender ekonomi STATIS, diperbarui manual (§N-R4). Format tanggal ISO 8601. importance: high|med|low. Ini konteks, bukan sinyal — tidak pernah masuk skor.",
+  "events": [
+    { "date": "2026-09-17T18:00:00Z", "title": "FOMC — keputusan suku bunga", "importance": "high" },
+    { "date": "2026-09-11T12:30:00Z", "title": "CPI AS (Agustus)", "importance": "high" },
+    { "date": "2026-10-02T12:30:00Z", "title": "Non-farm payrolls AS", "importance": "high" }
+  ]
+}

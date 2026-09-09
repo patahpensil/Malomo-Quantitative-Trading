@@ -1,0 +1,20 @@
+{
+  "name": "malomo-qt",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "MALOMO Quantitative Trading Decision & Research Platform — PWA statis, tanpa langkah build.",
+  "scripts": {
+    "check": "node scripts/check.js && node scripts/check-cache-bump.js",
+    "selftest": "node scripts/selftest.js",
+    "test": "node --test",
+    "typecheck": "tsc -p tsconfig.json",
+    "verify": "npm run check && npm run typecheck && npm run test && npm run selftest"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0"
+  }
+}

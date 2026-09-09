@@ -1,0 +1,28 @@
+# Dependensi (hanya devDep TypeScript; tak wajib untuk menjalankan app)
+node_modules/
+package-lock.json
+
+# Build output
+dist/
+build/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Berkas OS & editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Log & sementara
+*.log
+npm-debug.log*
+.cache/
+
+# Keluaran riset lokal (jangan commit hasil backtest mentah)
+research/out/
+research/*.local.json
