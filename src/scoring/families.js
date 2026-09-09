@@ -37,7 +37,10 @@ export function buildPriceFamilies(c, extra = {}) {
   out.E1 = [
     makeCriterion({
       id: 'struktur.bias', family: 'E1',
-      raw: structSide === 'neutral' ? 0 : sideSign(structSide) * (s.event === 'BOS' ? 1 : s.event === 'CHoCH' ? 0.6 : 0.4),
+      // §CD-6 perbaikan: swing belum terkonfirmasi (s.measured===false) berarti
+      // TAK BISA diukur → raw null (tidak_tersedia). Beda dari struktur yang
+      // sungguh diukur dan hasilnya netral (raw 0, tetap 'terukur').
+      raw: !s.measured ? null : structSide === 'neutral' ? 0 : sideSign(structSide) * (s.event === 'BOS' ? 1 : s.event === 'CHoCH' ? 0.6 : 0.4),
       edge: 0.2, sat: 1, unit: 'struct',
       decideSide: () => structSide,
     }),
@@ -74,10 +77,13 @@ export function buildPriceFamilies(c, extra = {}) {
     makeCriterion({ id: 'ema21.slope', family: 'E3', raw: emaSlopeRaw, edge: CRITERIA.emaSlope.edge, sat: CRITERIA.emaSlope.sat, unit: 'rel/bar' }),
     makeCenteredCriterion({ id: 'rsi14', family: 'E3', value: rsiVal, center: 50, edge: CRITERIA.rsi.edge, sat: CRITERIA.rsi.sat, unit: 'rsi' }),
     makeCriterion({ id: 'macd.hist', family: 'E3', raw: histRel, edge: CRITERIA.macdHist.edge, sat: CRITERIA.macdHist.sat, unit: 'rel' }),
-    // ADX hanya memberi arah bila kuat & gap DI cukup — deadband ganda (§17.1)
+    // ADX hanya memberi arah bila kuat & gap DI cukup — deadband ganda (§17.1).
+    // §CD-6 perbaikan: adxVal/diGap null berarti TAK BISA diukur (bar belum
+    // cukup) → raw null (tidak_tersedia). Bila keduanya ada tapi trennya lemah,
+    // itu hasil terukur yang sungguh nol — bukan data yang hilang.
     makeCriterion({
       id: 'adx.di', family: 'E3',
-      raw: adxVal != null && adxVal >= CRITERIA.adx.edge && diGap != null && Math.abs(diGap) >= CRITERIA.adx.diGapMin ? diGap : 0,
+      raw: adxVal == null || diGap == null ? null : (adxVal >= CRITERIA.adx.edge && Math.abs(diGap) >= CRITERIA.adx.diGapMin ? diGap : 0),
       edge: CRITERIA.adx.diGapMin, sat: 40, unit: 'di',
     }),
   ];

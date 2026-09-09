@@ -33,14 +33,16 @@ export function swings(highs, lows, left = 2, right = 2) {
  * Mengembalikan Bias (kosakata 'bullish'/'bearish'/'neutral'), BUKAN Side —
  * pemanggil wajib biasToSide() (§21.1 bug #1).
  * @param {number[]} highs @param {number[]} lows @param {number[]} closes
- * @returns {{bias: import('../core/types.js').Bias, event: 'BOS'|'CHoCH'|null, lastSwingHigh:number|null, lastSwingLow:number|null}}
+ * @returns {{bias: import('../core/types.js').Bias, event: 'BOS'|'CHoCH'|null, lastSwingHigh:number|null, lastSwingLow:number|null, measured:boolean}}
  */
 export function structureBias(highs, lows, closes) {
   const { highs: sh, lows: sl } = swings(highs, lows, 2, 2);
   const lastSwingHigh = sh.length ? sh[sh.length - 1].price : null;
   const lastSwingLow = sl.length ? sl[sl.length - 1].price : null;
   if (sh.length < 2 || sl.length < 2) {
-    return { bias: 'neutral', event: null, lastSwingHigh, lastSwingLow };
+    // Belum ada cukup swing terkonfirmasi — TIDAK BISA diukur, beda dari
+    // "diukur dan hasilnya netral" (pemanggil wajib membedakan lewat `measured`).
+    return { bias: 'neutral', event: null, lastSwingHigh, lastSwingLow, measured: false };
   }
   const hh = sh[sh.length - 1].price > sh[sh.length - 2].price;
   const hl = sl[sl.length - 1].price > sl[sl.length - 2].price;
@@ -61,7 +63,7 @@ export function structureBias(highs, lows, closes) {
   } else if (lastSwingLow != null && price < lastSwingLow) {
     event = bias === 'bullish' ? 'CHoCH' : 'BOS';
   }
-  return { bias, event, lastSwingHigh, lastSwingLow };
+  return { bias, event, lastSwingHigh, lastSwingLow, measured: true };
 }
 
 /**

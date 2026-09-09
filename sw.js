@@ -12,7 +12,7 @@
  *    harus selalu langsung dari jaringan, tidak boleh basi dari cache.
  */
 
-const CACHE_NAME = 'malomo-qt-v1';
+const CACHE_NAME = 'malomo-qt-v2';
 
 const SHELL = [
   './',
