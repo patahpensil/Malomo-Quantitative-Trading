@@ -93,11 +93,13 @@ export async function klines(symbol, interval, limit, barBasis, opts = {}) {
 /**
  * Funding rate terkini.
  * @param {string} symbol
+ * @param {{tierA?:boolean, signal?:AbortSignal}} [opts] diteruskan ke gerbang agar
+ *   Tier A tetap dilayani walau kuota tinggi (§NET-2) — lihat market.js fetchInput.
  * @returns {Promise<number|null>}
  */
-export async function fundingRate(symbol) {
+export async function fundingRate(symbol, opts = {}) {
   try {
-    const d = await getJSON(`${F}/fapi/v1/premiumIndex?symbol=${symbol}`);
+    const d = await getJSON(`${F}/fapi/v1/premiumIndex?symbol=${symbol}`, opts);
     return parseFloat(d.lastFundingRate);
   } catch { return null; }
 }
@@ -105,11 +107,12 @@ export async function fundingRate(symbol) {
 /**
  * Perubahan open interest relatif (2 titik terakhir).
  * @param {string} symbol @param {string} period
+ * @param {{tierA?:boolean, signal?:AbortSignal}} [opts]
  * @returns {Promise<number|null>}
  */
-export async function oiChange(symbol, period = '5m') {
+export async function oiChange(symbol, period = '5m', opts = {}) {
   try {
-    const d = await getJSON(`${F}/futures/data/openInterestHist?symbol=${symbol}&period=${period}&limit=2`);
+    const d = await getJSON(`${F}/futures/data/openInterestHist?symbol=${symbol}&period=${period}&limit=2`, opts);
     if (!Array.isArray(d) || d.length < 2) return null;
     const a = parseFloat(d[0].sumOpenInterest), b = parseFloat(d[1].sumOpenInterest);
     return a === 0 ? null : (b - a) / a;
@@ -119,11 +122,12 @@ export async function oiChange(symbol, period = '5m') {
 /**
  * Rasio akun long/short (proxy sentimen).
  * @param {string} symbol @param {string} period
+ * @param {{tierA?:boolean, signal?:AbortSignal}} [opts]
  * @returns {Promise<number|null>}
  */
-export async function longShortRatio(symbol, period = '5m') {
+export async function longShortRatio(symbol, period = '5m', opts = {}) {
   try {
-    const d = await getJSON(`${F}/futures/data/globalLongShortAccountRatio?symbol=${symbol}&period=${period}&limit=1`);
+    const d = await getJSON(`${F}/futures/data/globalLongShortAccountRatio?symbol=${symbol}&period=${period}&limit=1`, opts);
     if (!Array.isArray(d) || !d.length) return null;
     return parseFloat(d[0].longShortRatio);
   } catch { return null; }

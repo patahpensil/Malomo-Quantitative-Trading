@@ -51,9 +51,9 @@ export async function fetchInput(symbol, timeframe, contextTf, barBasis, opts = 
   const [candles, contextCandles, funding, oi, ls, regime] = await Promise.all([
     bn.klines(symbol, timeframe, 200, barBasis, { tierA: opts.tierA }),
     bn.klines(symbol, contextTf, 200, barBasis, { tierA: opts.tierA }),
-    bn.fundingRate(symbol),
-    bn.oiChange(symbol),
-    bn.longShortRatio(symbol),
+    bn.fundingRate(symbol, { tierA: opts.tierA }),
+    bn.oiChange(symbol, '5m', { tierA: opts.tierA }),
+    bn.longShortRatio(symbol, '5m', { tierA: opts.tierA }),
     bn.klines(symbol, '4h', 200, 'closed', { tierA: opts.tierA })
       .then((c) => predictRegime(c.close, (x) => rsi(x, 14)))
       .catch(() => null),
