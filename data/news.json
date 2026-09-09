@@ -1,5 +1,366 @@
 {
-  "_note": "Placeholder. Ditimpa otomatis oleh .github/workflows/news-fetch.yml yang menjalankan scripts/fetch-news.js dan commit hasilnya (§N-R1). Aplikasi tetap jalan bila kosong.",
-  "generatedAt": null,
-  "articles": []
+  "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
+  "generatedAt": 1788956244935,
+  "articles": [
+    {
+      "title": "Germany moves to tax bitcoin like stocks as new draft bill targets tax-free gains",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/09/germany-moves-to-tax-bitcoin-like-stocks-as-new-draft-bill-targets-tax-free-gains",
+      "pubDate": 1788956039000
+    },
+    {
+      "title": "Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/09/crypto-lobbying-orgs-ask-court-to-suspend-illinois-tax-as-legal-case-continues",
+      "pubDate": 1788955200000
+    },
+    {
+      "title": "What could happen if the CLARITY Act fails to pass in 2026",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/clarity-act-fails-passage-next-session-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788954881000
+    },
+    {
+      "title": "UK Crime Agency Warns of 'Innovative Use' of Crypto by Launderers",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377757/uk-crime-agency-warns-of-innovative-use-of-crypto-by-launderers",
+      "pubDate": 1788954233000
+    },
+    {
+      "title": "U.S. Bank takes next step towards launching its stablecoin with cross-border payment test",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/08/u-s-bank-takes-next-step-towards-launching-its-stablecoin-with-cross-border-payment-test",
+      "pubDate": 1788954044000
+    },
+    {
+      "title": "OpenAI says 10,000 AI agents solved a $1 million math problem. Now mathematicians are fighting",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/09/openai-says-10-000-ai-agents-solved-a-usd1-million-math-problem-now-mathematicians-are-fighting",
+      "pubDate": 1788953030000
+    },
+    {
+      "title": "Wall Street's newest crypto fund comes with a staking feature to boost returns",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/09/wall-street-s-newest-crypto-fund-comes-with-a-staking-feature-to-boost-returns",
+      "pubDate": 1788953016000
+    },
+    {
+      "title": "Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788952523000
+    },
+    {
+      "title": "Bitcoin climbs as oil tops $100, equities drop after Iran strikes",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/09/bitcoin-climbs-as-oil-tops-usd100-equities-drop-after-iran-strikes",
+      "pubDate": 1788950843000
+    },
+    {
+      "title": "Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-sopr-metric-sees-longest-profit-run-of-2026-as-new-analysis-challenges-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788948736000
+    },
+    {
+      "title": "Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/silvergate-ex-ceo-biden-pressure-bank-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788948300000
+    },
+    {
+      "title": "Iran eases currency controls to let traders bring earnings home in crypto: FT",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/09/iran-eases-currency-controls-to-let-traders-bring-earnings-home-in-crypto-ft",
+      "pubDate": 1788947979000
+    },
+    {
+      "title": "Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case",
+      "pubDate": 1788947682000
+    },
+    {
+      "title": "Mexico Seizes 300 Crypto Mining Rigs Wired Into a Hydroelectric Dam",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377748/mexico-seizes-300-crypto-mining-rigs-wired-into-a-hydroelectric-dam",
+      "pubDate": 1788946109000
+    },
+    {
+      "title": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
+      "pubDate": 1788942368000
+    },
+    {
+      "title": "India’s financial intelligence unit flags 15 crypto platforms for AML lapses",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/09/india-s-financial-intelligence-unit-flags-15-crypto-platforms-for-aml-lapses",
+      "pubDate": 1788941874000
+    },
+    {
+      "title": "Iran eases currency rules to bypass US sanctions with crypto: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788939399000
+    },
+    {
+      "title": "Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788939381000
+    },
+    {
+      "title": "Live updates: Bitcoin climbs past $79,000 as Brent Crude tops $100 for first time since July",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
+      "pubDate": 1788938451000
+    },
+    {
+      "title": "AI could kill us, Anthropic researcher says after resigning",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/09/anthropic-researcher-quits-with-a-warning-on-ai-that-echoes-the-terminator-script",
+      "pubDate": 1788934838000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788933081000
+    },
+    {
+      "title": "Gemini receives Singapore payment license for crypto services",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788931632000
+    },
+    {
+      "title": "Hunter Biden defends LAPTOP ahead of Wednesday launch, calls TRUMP a ‘grift’",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/09/hunter-biden-defends-laptop-ahead-of-wednesday-launch-calls-trump-a-grift",
+      "pubDate": 1788931377000
+    },
+    {
+      "title": "Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/09/moonshot-s-kimi-rattled-markets-u-s-agencies-now-say-it-was-trained-on-american-models",
+      "pubDate": 1788928854000
+    },
+    {
+      "title": "Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/09/bitcoin-recovers-toward-usd79-000-as-zcash-records-a-usd500-million-etf-haul",
+      "pubDate": 1788928555000
+    },
+    {
+      "title": "Cybercrime ringleader Malone Lam pleads guilty in $245M crypto theft conspiracy",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788926991000
+    },
+    {
+      "title": "OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
+      "pubDate": 1788903514000
+    },
+    {
+      "title": "New York town weighs crypto mining and AI data center ban",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788903229000
+    },
+    {
+      "title": "Franklin Templeton digital asset veteran takes helm at StablecoinX",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788901160000
+    },
+    {
+      "title": "Lummis Blasts Democrats Ahead of Clarity Act Vote — But Adds Bill Can Get Passed",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/lummis-blasts-democrats-on-clarity-act",
+      "pubDate": 1788900990000
+    },
+    {
+      "title": "$47M Still Missing After Liquid Hack as Blockstream Bargains With 'White Hats'",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat",
+      "pubDate": 1788900394000
+    },
+    {
+      "title": "CoinCorner Launches Lloyd’s-Insured Multisig Bitcoin Vault with AnchorWatch",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/coincorner-debuts-multisig-vault",
+      "pubDate": 1788898580000
+    },
+    {
+      "title": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377705/bitcoin-holds-wall-street-stalls-oil-shock-fed-hike",
+      "pubDate": 1788893975000
+    },
+    {
+      "title": "Bybit launches 24/7 perpetuals for major currency pairs",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bybit-expands-tradfi-push-with-100x-fx-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788893468000
+    },
+    {
+      "title": "Visa Taps Onchain Lending to Finance Stablecoin Card Programs",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
+      "pubDate": 1788891364000
+    },
+    {
+      "title": "Capital B Buys 376 Bitcoins in Its Biggest Purchase of 2026",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/capital-b-makes-biggest-2026-buy",
+      "pubDate": 1788890013000
+    },
+    {
+      "title": "Strive Buys $109 Million in Bitcoin, Pushes Preferred Stock Toward $1 Billion",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377689/strive-buys-109-million-bitcoin-preferred-stock-1-billion",
+      "pubDate": 1788889565000
+    },
+    {
+      "title": "Cronos Erased Two Hours of Transactions to Reverse $111 Million DeFi Exploit",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit",
+      "pubDate": 1788887451000
+    },
+    {
+      "title": "Robinhood takes stakes in Crypto.com, OG.com in prediction markets deal",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/robinhood-takes-stakes-in-cryptocom-ogcom-in-prediction-markets-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788887027000
+    },
+    {
+      "title": "Visa brings onchain credit to its growing stablecoin card business",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788883913000
+    },
+    {
+      "title": "Bitcoin faces key support test at $78.3K as US crude oil hits three-month high",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-faces-key-support-test-at-783k-as-us-crude-oil-hits-three-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788882071000
+    },
+    {
+      "title": "Castle Opens Its Bitcoin Savings Stack to Individuals",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/castle-opens-savings-stack-individuals",
+      "pubDate": 1788881913000
+    },
+    {
+      "title": "Strategy Halted Its Bitcoin Buys Again Last Week",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/strategy-halted-bitcoin-buys-last-week",
+      "pubDate": 1788881906000
+    },
+    {
+      "title": "US Police Fear Meta Glasses Are Watching Them Back: Report",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report",
+      "pubDate": 1788881323000
+    },
+    {
+      "title": "Robinhood Takes Equity Stake in Crypto.com, Taps Exchange to Power Prediction Markets",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets",
+      "pubDate": 1788881116000
+    },
+    {
+      "title": "Copper CEO Amar Kuchinad departs as search for a buyer enters a fourth month",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/08/copper-ceo-amar-kuchinad-departs-as-search-for-a-buyer-enters-a-fourth-month",
+      "pubDate": 1788881026000
+    },
+    {
+      "title": "Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377672/tom-lee-bitmine-adds-70-million-ethereum",
+      "pubDate": 1788879884000
+    },
+    {
+      "title": "Circle agrees to buy cross-border payments firm Tazapay for $400 million",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million",
+      "pubDate": 1788878446000
+    },
+    {
+      "title": "Strive’s SATA nears $1 billion market cap as Strategy’s STRC continues to underperform",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/08/strive-s-sata-nears-usd1-billion-market-cap-as-strategy-s-strc-continues-to-underperform",
+      "pubDate": 1788878012000
+    },
+    {
+      "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/08/visa-opens-settlement-data-to-help-blockchain-lenders-finance-crypto-cards-as-volume-surges",
+      "pubDate": 1788877754000
+    },
+    {
+      "title": "Strategy's Return to Bitcoin Buying Lasted Exactly One Week",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377664/strategys-return-to-bitcoin-buying-lasted-exactly-one-week",
+      "pubDate": 1788875836000
+    },
+    {
+      "title": "Bitmine buys 28k ETH, completes 97% of treasury accumulation goal",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitmine-buys-28k-eth-completes-97-treasury-goal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788875464000
+    },
+    {
+      "title": "Is Bitcoin too volatile to risk your retirement on?",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/is-bitcoin-too-volatile-to-risk-your-retirement-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788874200000
+    },
+    {
+      "title": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline",
+      "pubDate": 1788873504000
+    },
+    {
+      "title": "Bitcoin rally has more room as volatility shorts unwind, Two Prime CEO says",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-rally-has-more-room-as-volatility-shorts-unwind-two-prime-ceo-says",
+      "pubDate": 1788873501000
+    },
+    {
+      "title": "Morning Minute: The Trenches Just Had Their Biggest Week Since TRUMP",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377661/morning-minute-the-trenches-just-had-their-biggest-week-since-trump",
+      "pubDate": 1788872793000
+    },
+    {
+      "title": "Strategy skips Bitcoin buy to repurchase $176M of STRC preferred shares",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/strategy-skips-bitcoin-buy-repurchase-176m-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788871860000
+    },
+    {
+      "title": "Mexico quadruple homicide tied to alleged Bitcoin robbery attempt",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/mexico-quadruple-homicide-alleged-bitcoin-robbery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788871274000
+    },
+    {
+      "title": "How One Executive Recruitment Firm Is Using M&A to Turn Earnings Into Bitcoin",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/how-one-executive-recruitment-firm-is-using-ma-to-turn-earnings-into-bitcoin",
+      "pubDate": 1788869740000
+    },
+    {
+      "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
+      "pubDate": 1788867230000
+    }
+  ]
 }
