@@ -1,7 +1,49 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1788972703807,
+  "generatedAt": 1788982838391,
   "articles": [
+    {
+      "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
+      "pubDate": 1788980218000
+    },
+    {
+      "title": "Consensys to split into MetaMask and institutional blockchain company",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788979652000
+    },
+    {
+      "title": "Steak ‘n Shake Says Sales Grew Double Digits Since Bitcoin Adoption",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/steak-n-shake-says-sales-grew",
+      "pubDate": 1788979051000
+    },
+    {
+      "title": "Iran Continues Using Bitcoin To Keep Economy Stable: Report",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/iran-still-using-bitcoin-to-help-economy",
+      "pubDate": 1788978202000
+    },
+    {
+      "title": "Apple Unveils Redesigned Siri AI and A20 Pro Chip as CEO John Ternus Makes Debut",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377807/apple-redesigned-siri-ai-a20-pro-chip",
+      "pubDate": 1788976214000
+    },
+    {
+      "title": "TRM Labs doubles valuation to $2B in Series C expansion",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1788975006000
+    },
+    {
+      "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
+      "pubDate": 1788974168000
+    },
     {
       "title": "While Bitcoin Devs Debate Next Moves, IonQ Unveils Superion 256 Quantum Computer",
       "source": "Decrypt",
@@ -309,18 +351,6 @@
       "pubDate": 1788903514000
     },
     {
-      "title": "New York town weighs crypto mining and AI data center ban",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788903229000
-    },
-    {
-      "title": "Franklin Templeton digital asset veteran takes helm at StablecoinX",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788901160000
-    },
-    {
       "title": "Lummis Blasts Democrats Ahead of Clarity Act Vote — But Adds Bill Can Get Passed",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/lummis-blasts-democrats-on-clarity-act",
@@ -331,36 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat",
       "pubDate": 1788900394000
-    },
-    {
-      "title": "CoinCorner Launches Lloyd’s-Insured Multisig Bitcoin Vault with AnchorWatch",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/coincorner-debuts-multisig-vault",
-      "pubDate": 1788898580000
-    },
-    {
-      "title": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377705/bitcoin-holds-wall-street-stalls-oil-shock-fed-hike",
-      "pubDate": 1788893975000
-    },
-    {
-      "title": "Visa Taps Onchain Lending to Finance Stablecoin Card Programs",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
-      "pubDate": 1788891364000
-    },
-    {
-      "title": "Capital B Buys 376 Bitcoins in Its Biggest Purchase of 2026",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/capital-b-makes-biggest-2026-buy",
-      "pubDate": 1788890013000
-    },
-    {
-      "title": "Strive Buys $109 Million in Bitcoin, Pushes Preferred Stock Toward $1 Billion",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377689/strive-buys-109-million-bitcoin-preferred-stock-1-billion",
-      "pubDate": 1788889565000
     }
   ]
 }
