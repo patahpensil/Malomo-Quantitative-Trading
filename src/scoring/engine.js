@@ -64,7 +64,7 @@ export function computeScore(byFamily, opts = {}) {
       // 'none' PRD dipetakan ke 'neutral' pada tipe Side
       direction: 'neutral',
       strength: 0,
-      agreement: 0,
+      agreement: null,
       raw: 0,
       families,
       availableCount: available.length,
@@ -96,16 +96,21 @@ export function computeScore(byFamily, opts = {}) {
 
   // agreement dari TANDA, bukan besaran (§17.3) — inilah yang membuatnya
   // independen dari strength.
-  let wSame = 0, wNonZero = 0;
+  let wSame = 0, wNonZero = 0, witnessCount = 0;
   for (const f of available) {
     const s = Math.sign(f.value);
     if (s === 0) continue;
+    witnessCount++;
     const w = /** @type {number} */(eff.get(f.family)) / sumEff;
     wNonZero += w;
     const dirSign = direction === 'long' ? 1 : direction === 'short' ? -1 : 0;
     if (s === dirSign) wSame += w;
   }
-  const agreement = wNonZero === 0 ? 0 : Math.round((wSame / wNonZero) * 100);
+  // §CD-6 perbaikan: dengan saksi berarah (non-nol) lebih sedikit dari
+  // minFamilies, "% sepakat" tak bermakna statistik — satu saksi selalu
+  // "sepakat dengan dirinya sendiri" (100%) padahal basisnya terlalu tipis.
+  // Laporkan null (UI menampilkan "—") daripada angka yang menyesatkan.
+  const agreement = witnessCount < THRESHOLDS.minFamilies ? null : Math.round((wSame / wNonZero) * 100);
 
   return {
     direction,
@@ -121,10 +126,11 @@ export function computeScore(byFamily, opts = {}) {
 /**
  * Kalimat penjelas untuk UI (§UI-2) — menyoroti kombinasi yang mudah salah baca.
  * @param {import('../core/types.js').Side} direction
- * @param {number} strength @param {number} agreement
+ * @param {number} strength @param {number|null} agreement
  */
 function buildNote(direction, strength, agreement) {
   if (direction === 'neutral') return 'Bukti berpencar — tidak ada arah yang menonjol.';
+  if (agreement == null) return 'Saksi searah terlalu sedikit — kekompakan tak bisa diukur.';
   if (agreement >= 75 && strength < 35) {
     return 'Kompak tapi lemah — semua keluarga searah, tapi tipis di atas deadband.';
   }

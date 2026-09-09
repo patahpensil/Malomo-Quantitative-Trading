@@ -80,7 +80,7 @@ export function sideSign(side) {
  * @typedef {Object} ScoreResult
  * @property {Side} direction
  * @property {number} strength     0..100
- * @property {number} agreement    0..100
+ * @property {number|null} agreement  0..100, null bila saksi non-nol < minFamilies (tak bermakna diukur)
  * @property {number} raw          -1..+1 (S sebelum dipetakan)
  * @property {FamilyResult[]} families
  * @property {number} availableCount

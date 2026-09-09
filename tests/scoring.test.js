@@ -94,6 +94,28 @@ test('agregasi keluarga = rata-rata, bukan jumlah (§17.2)', () => {
   assert.equal(f.value, 0.5);
 });
 
+test('agreement null bila saksi non-nol < minFamilies — satu saksi tak pernah 100 (§CD-6)', () => {
+  // 4 keluarga tersedia (availableCount memenuhi gate), tapi 3 di antaranya
+  // memang terukur netral (magnitude 0) — hanya 1 yang benar-benar berarah.
+  // Sebelum diperbaiki, kasus ini terbaca sebagai agreement=100 ("kompak").
+  const r = computeScore({
+    E1: [crit('E1', 'long', 1.0)],
+    E2: [crit('E2', 'neutral', 0)],
+    E3: [crit('E3', 'neutral', 0)],
+    E4: [crit('E4', 'neutral', 0)],
+  });
+  assert.equal(r.availableCount, 4);
+  assert.equal(r.agreement, null, 'satu saksi berarah tak boleh dilaporkan sebagai 100% kompak');
+});
+
+test('agreement tetap terlapor normal begitu saksi non-nol capai minFamilies', () => {
+  const r = computeScore({
+    E1: [crit('E1', 'long', 0.5)], E2: [crit('E2', 'long', 0.5)],
+    E3: [crit('E3', 'long', 0.5)], E4: [crit('E4', 'long', 0.5)],
+  });
+  assert.equal(r.agreement, 100);
+});
+
 test('provenance keluarga jadi proxy bila ada satu kriteria proxy', () => {
   const proxyCrit = { id: 'E7.p', family: /** @type {const} */('E7'), side: /** @type {const} */('long'), magnitude: 0.5, provenance: /** @type {const} */('proxy'), deadband: { lo: -1, hi: 1, unit: '' }, raw: 0.5 };
   const f = aggregateFamily('E7', [crit('E7', 'long', 0.5), proxyCrit]);

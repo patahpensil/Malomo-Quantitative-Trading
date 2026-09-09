@@ -86,7 +86,7 @@ export function scoreCard(p) {
   const triple = el('div', { class: 'triple' }, [
     cell('Arah', dirLabel(s.direction), s.direction),
     cell('Kekuatan', String(s.strength)),
-    cell('Kekompakan', String(s.agreement)),
+    cell('Kekompakan', s.agreement == null ? '—' : String(s.agreement)),
   ]);
 
   const noteClass = /kompak tapi lemah|kuat tapi terisolasi/i.test(s.note) ? 'warn' : 'info';

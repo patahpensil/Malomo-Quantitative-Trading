@@ -207,7 +207,7 @@ function rowFrom(r) {
   const of = r.families?.find((f) => f.family === 'E6');
   const desc = r.stale
     ? `data ${fmtDuration(Date.now() - r.lastOpenTime)} lalu · basi`
-    : `kompak ${sc.agreement} · ${describeOF(of, sc.direction)}`;
+    : `kompak ${sc.agreement == null ? '—' : sc.agreement} · ${describeOF(of, sc.direction)}`;
   return pairRow({
     symbol: r.symbol, status, desc,
     value: r.stale ? null : sc.strength, direction: sc.direction, stale: r.stale,

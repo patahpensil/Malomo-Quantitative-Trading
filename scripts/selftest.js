@@ -58,7 +58,7 @@ const a = analyzeSymbol({
 ok(a && a.fullScore != null, 'analyzeSymbol menghasilkan fullScore');
 ok(['long', 'short', 'neutral'].includes(a.fullScore.direction), 'direction valid');
 ok(a.fullScore.strength >= 0 && a.fullScore.strength <= 100, 'strength dalam 0..100');
-ok(a.fullScore.agreement >= 0 && a.fullScore.agreement <= 100, 'agreement dalam 0..100');
+ok(a.fullScore.agreement === null || (a.fullScore.agreement >= 0 && a.fullScore.agreement <= 100), 'agreement null atau dalam 0..100');
 ok(a.rankScore != null && a.entryScore != null, 'rank & entry score terpisah ada (§4.3)');
 ok(typeof a.lastPrice === 'number' && a.lastPrice > 0, 'lastPrice masuk akal');
 ok(a.atr == null || a.atr > 0, 'atr null atau positif');
