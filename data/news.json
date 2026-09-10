@@ -1,7 +1,103 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789049757025,
+  "generatedAt": 1789062542779,
   "articles": [
+    {
+      "title": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/10/okx-brings-openai-and-anthropic-bets-to-europe-as-pre-ipo-trading-grows",
+      "pubDate": 1789060079000
+    },
+    {
+      "title": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377898/sam-altman-elon-musk-zuckerberg-ai-bots",
+      "pubDate": 1789060070000
+    },
+    {
+      "title": "Nasdaq Invests $100M in Kraken Parent Company: Report",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/nasdaq-invests-in-kraken",
+      "pubDate": 1789059928000
+    },
+    {
+      "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
+      "pubDate": 1789059814000
+    },
+    {
+      "title": "Liquid Network resumes block production after $320M exploit",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789058296000
+    },
+    {
+      "title": "Bitcoin Suffers On Renewed US-Iran Fighting",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-drops-on-us-iran-fighting",
+      "pubDate": 1789057902000
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Says Clarity Act Will Pass — And That Bitcoin Bottom Is In",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-bottom-is-in-says-brian-armstrong",
+      "pubDate": 1789057483000
+    },
+    {
+      "title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/10/polymarket-names-former-amazon-finance-chief-warren-jenson-as-its-first-cfo",
+      "pubDate": 1789056603000
+    },
+    {
+      "title": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789055977000
+    },
+    {
+      "title": "Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/10/monument-bank-delays-retail-tokenized-deposits-cites-regulatory-issues-in-the-uk",
+      "pubDate": 1789055604000
+    },
+    {
+      "title": "EU finance groups push to remove tokenized securities cap",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789055362000
+    },
+    {
+      "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
+      "pubDate": 1789054391000
+    },
+    {
+      "title": "Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million",
+      "pubDate": 1789053289000
+    },
+    {
+      "title": "Crypto for Advisors: Hyperliquid and the future of finance",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors",
+      "pubDate": 1789052416000
+    },
+    {
+      "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789051935000
+    },
+    {
+      "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
+      "pubDate": 1789050600000
+    },
     {
       "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
       "source": "CoinDesk",
@@ -25,6 +121,12 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/377875/bitcoin-at-400k-by-2030-still-reasonable-target-coinbase-ceo",
       "pubDate": 1789045467000
+    },
+    {
+      "title": "Threatened with arrest online? Recognizing a law enforcement impersonation scam",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/opinion/2026/09/10/threatened-with-arrest-online-recognizing-a-law-enforcement-impersonation-scam",
+      "pubDate": 1789045200000
     },
     {
       "title": "Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%",
@@ -153,7 +255,7 @@
       "pubDate": 1789030511000
     },
     {
-      "title": "Live updates: Bitcoin slumps as ECB hikes rates and U.S. core PPI eases, but remains hot",
+      "title": "Live updates: Bitcoin slumps as oil and bond yields surge to new highs",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
       "pubDate": 1789026346000
@@ -175,18 +277,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789018461000
-    },
-    {
-      "title": "Dogecoin sinks 5% to lead majors' losses, with bitcoin holding $78,000 level",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level",
-      "pubDate": 1789018215000
-    },
-    {
-      "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/10/crypto-wins-regardless-of-clarity-act-vote-coinbase-s-armstrong-says",
-      "pubDate": 1789016741000
     },
     {
       "title": "US sanctions Xinbi scam marketplace, restrains $52M in crypto",
@@ -271,96 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/377737/bitcoin-debate-ionq-quantum-computer",
       "pubDate": 1788972365000
-    },
-    {
-      "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
-      "pubDate": 1788972050000
-    },
-    {
-      "title": "US Bank tests proprietary stablecoin in cross-border Stellar transaction",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788971828000
-    },
-    {
-      "title": "Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-fails-to-reclaim-80k-as-bessent-fuels-yen-strength-around-153-per-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788971299000
-    },
-    {
-      "title": "Mexican Musician and Family Killed Over Bitcoin Cold Wallet Believed to Hold Millions",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377795/mexican-family-killed-bitcoin-cold-wallet",
-      "pubDate": 1788970564000
-    },
-    {
-      "title": "Robinhood CEO Vlad Tenev fires back at AMC's Aron in escalating fight over stock tokens",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
-      "pubDate": 1788970267000
-    },
-    {
-      "title": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee",
-      "pubDate": 1788969911000
-    },
-    {
-      "title": "Hunter Biden’s laptop controversy gets a memecoin afterlife",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788969519000
-    },
-    {
-      "title": "Trade groups seek to block Illinois crypto tax before January effective date",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/trade-groups-seek-block-illinois-crypto-tax-before-january-effective-date?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788969427000
-    },
-    {
-      "title": "Tether pushes into private credit with $400 million fund with Fasanara",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
-      "pubDate": 1788969085000
-    },
-    {
-      "title": "Hunter Biden's LAPTOP Meme Coin Crashes 99% on Debut",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377783/hunter-biden-laptop-meme-coin-crashes",
-      "pubDate": 1788968829000
-    },
-    {
-      "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
-      "pubDate": 1788967800000
-    },
-    {
-      "title": "Consensys to split MetaMask into its own firm while staying silent on IPO",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo",
-      "pubDate": 1788967441000
-    },
-    {
-      "title": "Prediction Markets Abandon Cheap Oil as Brent Passes $100",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100",
-      "pubDate": 1788966901000
-    },
-    {
-      "title": "Consensys Is Splitting in Two as MetaMask Goes Its Own Way",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
-      "pubDate": 1788966444000
-    },
-    {
-      "title": "Crypto Long & Short:  Inside the 300-to-1 onchain gap between the dollar and euro",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
-      "pubDate": 1788965887000
     }
   ]
 }
