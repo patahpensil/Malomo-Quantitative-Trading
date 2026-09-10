@@ -1,7 +1,37 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789073193678,
+  "generatedAt": 1789081437769,
   "articles": [
+    {
+      "title": "Ringleader of $245M Crypto Theft Pleads Guilty",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/ringleader-in-bitcoin-theft-guilty",
+      "pubDate": 1789079080000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789075800000
+    },
+    {
+      "title": "Trezor Reveals Another Data Breach After Scammers Target Marketing Platform",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/trezor-reveals-another-data-breach",
+      "pubDate": 1789075735000
+    },
+    {
+      "title": "Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft",
+      "pubDate": 1789075128000
+    },
+    {
+      "title": "DeepSeek's New Model Nearly Matches GPT-6 Astra on Design—at 1.4% of the Cost",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377917/deepseek-openai-gpt-6-astra-design-benchmark",
+      "pubDate": 1789074963000
+    },
     {
       "title": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
       "source": "Decrypt",
@@ -163,12 +193,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789047323000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789046426000
     },
     {
       "title": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
@@ -337,30 +361,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/scott-bessent-urges-clarity-act-action",
       "pubDate": 1788988851000
-    },
-    {
-      "title": "Jack Dorsey’s Block Becomes Latest Bitcoin-Focused Company To Apply for Banking Charter",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/block-applies-for-banking-charter",
-      "pubDate": 1788986141000
-    },
-    {
-      "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377818/ai-math-best-problems-terence-tao",
-      "pubDate": 1788985889000
-    },
-    {
-      "title": "DoubleZero adds Kalshi election market data ahead of US midterms",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788984489000
-    },
-    {
-      "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
-      "pubDate": 1788980218000
     }
   ]
 }
