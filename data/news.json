@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1788992815582,
+  "generatedAt": 1789000185968,
   "articles": [
+    {
+      "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
+      "pubDate": 1788994943000
+    },
     {
       "title": "Here’s what happened in crypto today",
       "source": "Cointelegraph",
@@ -355,12 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1788939381000
-    },
-    {
-      "title": "Gemini receives Singapore payment license for crypto services",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788931632000
     }
   ]
 }
