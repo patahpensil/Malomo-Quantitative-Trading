@@ -1,7 +1,61 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789062542779,
+  "generatedAt": 1789073193678,
   "articles": [
+    {
+      "title": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377925/ai-agents-slash-cost-quantum-attack-bitcoin",
+      "pubDate": 1789072490000
+    },
+    {
+      "title": "Updated Crypto Clarity Act Starts Circulating Days Before Key Vote",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/updated-clarity-act-starts-circulating",
+      "pubDate": 1789071839000
+    },
+    {
+      "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
+      "pubDate": 1789071717000
+    },
+    {
+      "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789071029000
+    },
+    {
+      "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
+      "pubDate": 1789066890000
+    },
+    {
+      "title": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
+      "pubDate": 1789066264000
+    },
+    {
+      "title": "Bitcoin Rally Cools, But a Golden Cross Is Coming",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377903/bitcoin-price-golden-cross-coming",
+      "pubDate": 1789065964000
+    },
+    {
+      "title": "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377902/ai-hacks-shrinking-bank-time-fix-flaws-bis",
+      "pubDate": 1789063993000
+    },
+    {
+      "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789062852000
+    },
     {
       "title": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
       "source": "CoinDesk",
@@ -261,18 +315,6 @@
       "pubDate": 1789026346000
     },
     {
-      "title": "SGX's bitcoin and ether perpetual futures are now open to U.S. institutions",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/10/sgx-s-bitcoin-and-ether-perpetual-futures-are-now-open-to-u-s-institutions",
-      "pubDate": 1789023704000
-    },
-    {
-      "title": "Hunter Biden’s LAPTOP blames bots after 98% crash as traders rack up six-figure losses",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/10/hunter-biden-s-laptop-blames-bots-after-98-crash-as-traders-rack-up-six-figure-losses",
-      "pubDate": 1789020825000
-    },
-    {
       "title": "Trezor, BitBox warn users about fake hardware wallet security alerts",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -319,48 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
       "pubDate": 1788980218000
-    },
-    {
-      "title": "Consensys to split into MetaMask and institutional blockchain company",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788979652000
-    },
-    {
-      "title": "Steak ‘n Shake Says Sales Grew Double Digits Since Bitcoin Adoption",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/steak-n-shake-says-sales-grew",
-      "pubDate": 1788979051000
-    },
-    {
-      "title": "Iran Continues Using Bitcoin To Keep Economy Stable: Report",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/iran-still-using-bitcoin-to-help-economy",
-      "pubDate": 1788978202000
-    },
-    {
-      "title": "Apple Unveils Redesigned Siri AI and A20 Pro Chip as CEO John Ternus Makes Debut",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377807/apple-redesigned-siri-ai-a20-pro-chip",
-      "pubDate": 1788976214000
-    },
-    {
-      "title": "TRM Labs doubles valuation to $2B in Series C expansion",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788975006000
-    },
-    {
-      "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
-      "pubDate": 1788974168000
-    },
-    {
-      "title": "While Bitcoin Devs Debate Next Moves, IonQ Unveils Superion 256 Quantum Computer",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377737/bitcoin-debate-ionq-quantum-computer",
-      "pubDate": 1788972365000
     }
   ]
 }
