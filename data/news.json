@@ -1,7 +1,133 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789034373033,
+  "generatedAt": 1789049757025,
   "articles": [
+    {
+      "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial",
+      "pubDate": 1789048614000
+    },
+    {
+      "title": "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789047323000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789046426000
+    },
+    {
+      "title": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377875/bitcoin-at-400k-by-2030-still-reasonable-target-coinbase-ceo",
+      "pubDate": 1789045467000
+    },
+    {
+      "title": "Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
+      "pubDate": 1789045200000
+    },
+    {
+      "title": "Solana sees record 263K tokens issued in a single day",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789045200000
+    },
+    {
+      "title": "The Quantum Issue: WTF Is Quantum Computing?",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/print/the-quantum-issue-wtf-is-quantum-computing",
+      "pubDate": 1789045200000
+    },
+    {
+      "title": "Morning Minute: Hunter Biden’s LAPTOP Crashes",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377867/morning-minute-hunter-bidens-laptop-crashes",
+      "pubDate": 1789042248000
+    },
+    {
+      "title": "Ex-BoE deputy governor headlines trio of former central bankers joining Fnality",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ex-boe-cunliffe-central-bankers-fnality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789041736000
+    },
+    {
+      "title": "BIS chief warns AI capex arms race relies on opaque debt, posing systemic risks",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/10/ai-s-rapid-rise-poses-global-financial-stability-risks-says-head-of-the-bis",
+      "pubDate": 1789041636000
+    },
+    {
+      "title": "Treasury yields continue to rise even as Bessent doubles down on bond buybacks",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/10/scott-bessent-doubles-down-on-bond-buybacks-as-treasury-yields-continue-to-surge",
+      "pubDate": 1789040861000
+    },
+    {
+      "title": "Nasdaq invests $100M in Kraken parent at $21B valuation: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789040460000
+    },
+    {
+      "title": "Crypto exchange giant Bybit to offer European ‘super-app’ with stocks, derivatives",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/10/crypto-exchange-giant-bybit-to-offer-european-super-app-with-stocks-derivatives",
+      "pubDate": 1789040161000
+    },
+    {
+      "title": "Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377864/nasdaq-invests-100m-in-kraken-parent-payward-at-21b-valuation",
+      "pubDate": 1789039735000
+    },
+    {
+      "title": "Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/10/nasdaq-invests-usd100-million-in-kraken-parent-company-payward-at-usd21-billion-valuation",
+      "pubDate": 1789039281000
+    },
+    {
+      "title": "Bitcoin traders dial down bullish plays ahead of U.S. inflation data",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/10/bitcoin-traders-dial-down-bullish-plays-ahead-of-u-s-inflation-data",
+      "pubDate": 1789038900000
+    },
+    {
+      "title": "Bitcoin trades near $78,000 as memecoins, small caps lead a broad crypto retreat",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/10/bitcoin-trades-near-usd78-000-as-memecoins-small-caps-lead-a-broad-crypto-retreat",
+      "pubDate": 1789035854000
+    },
+    {
+      "title": "Treasury Secretary Bessent urges CLARITY Act passage after Senate returns",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789035600000
+    },
+    {
+      "title": "Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377857/vitalik-buterin-pushes-ethereum-plan-to-slash-quantum-safe-privacy-costs",
+      "pubDate": 1789035112000
+    },
+    {
+      "title": "Hunter Biden denies profiting from memecoin after his LAPTOP crashes",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/hunter-biden-denies-profiting-memecoin-laptop-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789034926000
+    },
+    {
+      "title": "Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-shed-167m-after-strongest-three-week-inflow-run-of-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789034372000
+    },
     {
       "title": "Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain",
       "source": "CoinDesk",
@@ -27,7 +153,7 @@
       "pubDate": 1789030511000
     },
     {
-      "title": "Live updates: Treasury yields climb further as Brent crude tops $102 and tech futures slip",
+      "title": "Live updates: Bitcoin slumps as ECB hikes rates and U.S. core PPI eases, but remains hot",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
       "pubDate": 1789026346000
@@ -43,12 +169,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/10/hunter-biden-s-laptop-blames-bots-after-98-crash-as-traders-rack-up-six-figure-losses",
       "pubDate": 1789020825000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789019961000
     },
     {
       "title": "Trezor, BitBox warn users about fake hardware wallet security alerts",
@@ -225,12 +345,6 @@
       "pubDate": 1788967441000
     },
     {
-      "title": "Tether, Fasanara launch $400M private credit fund targeting $3B",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788967304000
-    },
-    {
       "title": "Prediction Markets Abandon Cheap Oil as Brent Passes $100",
       "source": "Decrypt",
       "link": "https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100",
@@ -247,120 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
       "pubDate": 1788965887000
-    },
-    {
-      "title": "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
-      "pubDate": 1788964638000
-    },
-    {
-      "title": "VerifiedX Launches $15 Million Financing Round to Deploy Institutional Bitcoin Infrastructure",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/cantor-fitzgerald-working-with-verifiedx",
-      "pubDate": 1788964610000
-    },
-    {
-      "title": "Kalshi election data goes live on DoubleZero ahead of U.S. midterms",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/09/kalshi-election-data-goes-live-on-doublezero-ahead-of-u-s-midterms",
-      "pubDate": 1788962400000
-    },
-    {
-      "title": "PayPal expands stablecoin rails with custom token issuance platform",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
-      "pubDate": 1788962400000
-    },
-    {
-      "title": "Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/09/hunter-biden-s-laptop-memecoin-debuts-at-usd1-6-billion-market-cap",
-      "pubDate": 1788962277000
-    },
-    {
-      "title": "German finance ministry proposes 25% crypto tax starting 2028: Report",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788961795000
-    },
-    {
-      "title": "10 of the greatest unsolved crypto mysteries",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788960600000
-    },
-    {
-      "title": "Morning Minute: Venice’s VVV Token Soars After OpenAI Dispute",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377761/morning-minute-venices-vvv-token-soars-after-openai-dispute",
-      "pubDate": 1788960532000
-    },
-    {
-      "title": "BitMart misses roadmap deadline, appoints financial adviser",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitmart-misses-roadmap-deadline-appoints-financial-adviser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788959068000
-    },
-    {
-      "title": "KYC data is an irresistible honeypot for hackers, and we must change how it is collected",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/opinion/2026/09/09/kyc-data-is-an-irresistible-honeypot-for-hackers-and-we-must-change-how-it-is-collected",
-      "pubDate": 1788958969000
-    },
-    {
-      "title": "Algorand names former Chainlink executive William Herkelrath as CEO",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/09/algorand-names-former-chainlink-executive-william-herkelrath-as-ceo",
-      "pubDate": 1788958800000
-    },
-    {
-      "title": "Italy’s central bank orders sanctions screening for crypto transfers",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/italys-central-bank-orders-sanctions-screening-for-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788956433000
-    },
-    {
-      "title": "Germany moves to tax bitcoin like stocks as new draft bill targets tax-free gains",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/09/germany-moves-to-tax-bitcoin-like-stocks-as-new-draft-bill-targets-tax-free-gains",
-      "pubDate": 1788956039000
-    },
-    {
-      "title": "Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/09/crypto-lobbying-orgs-ask-court-to-suspend-illinois-tax-as-legal-case-continues",
-      "pubDate": 1788955200000
-    },
-    {
-      "title": "What could happen if the CLARITY Act fails to pass in 2026",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/clarity-act-fails-passage-next-session-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788954881000
-    },
-    {
-      "title": "UK Crime Agency Warns of 'Innovative Use' of Crypto by Launderers",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377757/uk-crime-agency-warns-of-innovative-use-of-crypto-by-launderers",
-      "pubDate": 1788954233000
-    },
-    {
-      "title": "U.S. Bank takes next step towards launching its stablecoin with cross-border payment test",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/08/u-s-bank-takes-next-step-towards-launching-its-stablecoin-with-cross-border-payment-test",
-      "pubDate": 1788954044000
-    },
-    {
-      "title": "Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788952523000
-    },
-    {
-      "title": "Mexico Seizes 300 Crypto Mining Rigs Wired Into a Hydroelectric Dam",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377748/mexico-seizes-300-crypto-mining-rigs-wired-into-a-hydroelectric-dam",
-      "pubDate": 1788946109000
     }
   ]
 }
