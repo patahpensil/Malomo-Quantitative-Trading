@@ -1,7 +1,67 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789016858683,
+  "generatedAt": 1789034373033,
   "articles": [
+    {
+      "title": "Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/10/indian-agri-warehouse-giant-is-putting-usd2-billion-in-grain-backed-loans-onchain",
+      "pubDate": 1789033379000
+    },
+    {
+      "title": "Bitcoin sell-side risk returns to rare lows as $80K sellers fade from view",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-sell-side-risk-returns-rare-lows-fade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789033002000
+    },
+    {
+      "title": "India’s Arya.ag to put grain ownership records on Avalanche",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/arya-ag-tests-tokenized-grain-receipts-avalanche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789032600000
+    },
+    {
+      "title": "Unicoin sues Uniswap Labs, seeks to cancel UNI registration",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/unicoin-sues-uniswap-court-cancel-uni-trademark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789030511000
+    },
+    {
+      "title": "Live updates: Treasury yields climb further as Brent crude tops $102 and tech futures slip",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
+      "pubDate": 1789026346000
+    },
+    {
+      "title": "SGX's bitcoin and ether perpetual futures are now open to U.S. institutions",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/10/sgx-s-bitcoin-and-ether-perpetual-futures-are-now-open-to-u-s-institutions",
+      "pubDate": 1789023704000
+    },
+    {
+      "title": "Hunter Biden’s LAPTOP blames bots after 98% crash as traders rack up six-figure losses",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/10/hunter-biden-s-laptop-blames-bots-after-98-crash-as-traders-rack-up-six-figure-losses",
+      "pubDate": 1789020825000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789019961000
+    },
+    {
+      "title": "Trezor, BitBox warn users about fake hardware wallet security alerts",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789018461000
+    },
+    {
+      "title": "Dogecoin sinks 5% to lead majors' losses, with bitcoin holding $78,000 level",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level",
+      "pubDate": 1789018215000
+    },
     {
       "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
       "source": "CoinDesk",
@@ -19,12 +79,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
       "pubDate": 1788994943000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788989400000
     },
     {
       "title": "US Treasury Secretary Scott Bessent ‘Strongly Urges’ Senate To Pass Clarity Act",
@@ -105,7 +159,7 @@
       "pubDate": 1788972050000
     },
     {
-      "title": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
+      "title": "US Bank tests proprietary stablecoin in cross-border Stellar transaction",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1788971828000
@@ -297,70 +351,16 @@
       "pubDate": 1788954044000
     },
     {
-      "title": "OpenAI says 10,000 AI agents solved a $1 million math problem. Now mathematicians are fighting",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/09/openai-says-10-000-ai-agents-solved-a-usd1-million-math-problem-now-mathematicians-are-fighting",
-      "pubDate": 1788953030000
-    },
-    {
-      "title": "Wall Street's newest crypto fund comes with a staking feature to boost returns",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/09/wall-street-s-newest-crypto-fund-comes-with-a-staking-feature-to-boost-returns",
-      "pubDate": 1788953016000
-    },
-    {
       "title": "Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1788952523000
     },
     {
-      "title": "Bitcoin climbs as oil tops $100, equities drop after Iran strikes",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/09/bitcoin-climbs-as-oil-tops-usd100-equities-drop-after-iran-strikes",
-      "pubDate": 1788950843000
-    },
-    {
-      "title": "Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-sopr-metric-sees-longest-profit-run-of-2026-as-new-analysis-challenges-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788948736000
-    },
-    {
-      "title": "Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/silvergate-ex-ceo-biden-pressure-bank-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788948300000
-    },
-    {
-      "title": "Iran eases currency controls to let traders bring earnings home in crypto: FT",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/09/iran-eases-currency-controls-to-let-traders-bring-earnings-home-in-crypto-ft",
-      "pubDate": 1788947979000
-    },
-    {
-      "title": "Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case",
-      "pubDate": 1788947682000
-    },
-    {
       "title": "Mexico Seizes 300 Crypto Mining Rigs Wired Into a Hydroelectric Dam",
       "source": "Decrypt",
       "link": "https://decrypt.co/377748/mexico-seizes-300-crypto-mining-rigs-wired-into-a-hydroelectric-dam",
       "pubDate": 1788946109000
-    },
-    {
-      "title": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
-      "pubDate": 1788942368000
-    },
-    {
-      "title": "Iran eases currency rules to bypass US sanctions with crypto: Report",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1788939399000
     }
   ]
 }
