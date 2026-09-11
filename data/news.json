@@ -1,9 +1,87 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789124792616,
+  "generatedAt": 1789138657561,
   "articles": [
     {
-      "title": "Live updates: Bitcoin sinks to $77,000 as CPI lands with hike odds near 70%",
+      "title": "Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377959/blockstream-refuses-ransom-for-return-of-47m-in-bitcoin-from-liquid-hack-it-is-theft",
+      "pubDate": 1789136258000
+    },
+    {
+      "title": "Metaplanet cuts executive reward pool by 41%, extinguishes $220 million in value",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/11/metaplanet-cuts-executive-reward-pool-by-41-extinguishes-usd220-million-in-value",
+      "pubDate": 1789134411000
+    },
+    {
+      "title": "Metaplanet cuts Series 10 stock pool by 41%, plans Hong Kong subsidiary",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/metaplanet-executive-stock-pool-hong-kong-subsidiary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789134267000
+    },
+    {
+      "title": "Zodia Custody CEO Julian Sawyer steps down, becomes adviser",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/11/zodia-custody-ceo-julian-sawyer-steps-down-becomes-adviser",
+      "pubDate": 1789133572000
+    },
+    {
+      "title": "Trading stocks against BONER is the latest trend for DeFi degens",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/trading-stocks-against-boner-is-the-latest-trend-for-defi-degens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789133400000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789131444000
+    },
+    {
+      "title": "Bitcoin ETF outflows accelerate as investors pull $449M in three days",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-282m-biggest-outflow-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789130018000
+    },
+    {
+      "title": "Core CPI rose a faster-than-forecast 0.3% in August, setting up possible Fed rate hike",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/11/core-cpi-rose-a-faster-than-forecast-0-3-in-august-setting-up-fed-rate-hike",
+      "pubDate": 1789129945000
+    },
+    {
+      "title": "Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377948/morning-minute-ai-agents-cut-btc-quantum-attack-benchmark-by-86",
+      "pubDate": 1789128623000
+    },
+    {
+      "title": "EU Regulator Says Prediction Markets Are 'Rife With Inside Trading'",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377947/eu-regulator-says-prediction-markets-are-rife-with-inside-trading",
+      "pubDate": 1789128384000
+    },
+    {
+      "title": "Robinhood’s crypto volume increases 61% in August, still down 38% YoY",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/robinhoods-crypto-volume-rebounds-august?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789127347000
+    },
+    {
+      "title": "UniCredit seeks infrastructure partner for crypto trading, custody: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/unicredit-infrastructure-partners-crypto-trading-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789126527000
+    },
+    {
+      "title": "Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/11/rising-yields-oil-prices-leave-bitcoin-vulnerable-ahead-of-u-s-inflation-report",
+      "pubDate": 1789125626000
+    },
+    {
+      "title": "Live updates: Bitcoin heads higher as investors look past looming Fed rate hike",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
       "pubDate": 1789124652000
@@ -79,12 +157,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/11/kalshi-wants-24-7-tesla-and-nvidia-perps-as-wall-street-fights-over-who-regulates-them",
       "pubDate": 1789107451000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789107281000
     },
     {
       "title": "Revised CLARITY Act targets ‘non-decentralized’ DeFi operators",
@@ -261,12 +333,6 @@
       "pubDate": 1789055604000
     },
     {
-      "title": "EU finance groups push to remove tokenized securities cap",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789055362000
-    },
-    {
       "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
       "source": "Decrypt",
       "link": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
@@ -285,82 +351,16 @@
       "pubDate": 1789052416000
     },
     {
-      "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789051935000
-    },
-    {
       "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
       "pubDate": 1789050600000
     },
     {
-      "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial",
-      "pubDate": 1789048614000
-    },
-    {
-      "title": "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789047323000
-    },
-    {
       "title": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
       "source": "Decrypt",
       "link": "https://decrypt.co/377875/bitcoin-at-400k-by-2030-still-reasonable-target-coinbase-ceo",
       "pubDate": 1789045467000
-    },
-    {
-      "title": "Threatened with arrest online? Recognizing a law enforcement impersonation scam",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/opinion/2026/09/10/threatened-with-arrest-online-recognizing-a-law-enforcement-impersonation-scam",
-      "pubDate": 1789045200000
-    },
-    {
-      "title": "Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
-      "pubDate": 1789045200000
-    },
-    {
-      "title": "Solana sees record 263K tokens issued in a single day",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789045200000
-    },
-    {
-      "title": "The Quantum Issue: WTF Is Quantum Computing?",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/print/the-quantum-issue-wtf-is-quantum-computing",
-      "pubDate": 1789045200000
-    },
-    {
-      "title": "Morning Minute: Hunter Biden’s LAPTOP Crashes",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377867/morning-minute-hunter-bidens-laptop-crashes",
-      "pubDate": 1789042248000
-    },
-    {
-      "title": "Ex-BoE deputy governor headlines trio of former central bankers joining Fnality",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ex-boe-cunliffe-central-bankers-fnality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789041736000
-    },
-    {
-      "title": "BIS chief warns AI capex arms race relies on opaque debt, posing systemic risks",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/10/ai-s-rapid-rise-poses-global-financial-stability-risks-says-head-of-the-bis",
-      "pubDate": 1789041636000
-    },
-    {
-      "title": "Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377864/nasdaq-invests-100m-in-kraken-parent-payward-at-21b-valuation",
-      "pubDate": 1789039735000
     }
   ]
 }
