@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789081437769,
+  "generatedAt": 1789088217082,
   "articles": [
+    {
+      "title": "Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789082486000
+    },
     {
       "title": "Ringleader of $245M Crypto Theft Pleads Guilty",
       "source": "Bitcoin Magazine",
@@ -355,12 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
       "pubDate": 1788994943000
-    },
-    {
-      "title": "US Treasury Secretary Scott Bessent ‘Strongly Urges’ Senate To Pass Clarity Act",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/scott-bessent-urges-clarity-act-action",
-      "pubDate": 1788988851000
     }
   ]
 }
