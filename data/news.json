@@ -1,7 +1,31 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789150910369,
+  "generatedAt": 1789161109359,
   "articles": [
+    {
+      "title": "Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off",
+      "pubDate": 1789160019000
+    },
+    {
+      "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789155984000
+    },
+    {
+      "title": "Italy’s Second Biggest Bank UniCredit Is Weighting up Crypto Custody: Report",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/unicredit-working-on-crypto-custody",
+      "pubDate": 1789152427000
+    },
+    {
+      "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789152315000
+    },
     {
       "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
       "source": "Decrypt",
@@ -47,7 +71,7 @@
     {
       "title": "Bitcoin Price Spikes, Shrugs off Hot US Inflation Data",
       "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-price-spikes-on-hot-inflation-data",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-spikes-on-hot-inflation-data",
       "pubDate": 1789141565000
     },
     {
@@ -147,7 +171,7 @@
       "pubDate": 1789125626000
     },
     {
-      "title": "Live updates: Bitcoin gives up early gains as markets fully price in Fed rate hike",
+      "title": "Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
       "pubDate": 1789124652000
@@ -303,12 +327,6 @@
       "pubDate": 1789071717000
     },
     {
-      "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789071029000
-    },
-    {
       "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
@@ -333,12 +351,6 @@
       "pubDate": 1789063993000
     },
     {
-      "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789062852000
-    },
-    {
       "title": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/10/okx-brings-openai-and-anthropic-bets-to-europe-as-pre-ipo-trading-grows",
@@ -349,18 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/377898/sam-altman-elon-musk-zuckerberg-ai-bots",
       "pubDate": 1789060070000
-    },
-    {
-      "title": "Nasdaq Invests $100M in Kraken Parent Company: Report",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/nasdaq-invests-in-kraken",
-      "pubDate": 1789059928000
-    },
-    {
-      "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
-      "pubDate": 1789059814000
     }
   ]
 }
