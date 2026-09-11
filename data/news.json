@@ -1,7 +1,97 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789105671458,
+  "generatedAt": 1789124792616,
   "articles": [
+    {
+      "title": "Live updates: Bitcoin sinks to $77,000 as CPI lands with hike odds near 70%",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
+      "pubDate": 1789124652000
+    },
+    {
+      "title": "Bitcoin buyers wary of July sub-$58K floor amid onchain data ‘anomaly’",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-buyers-wary-of-july-sub-58k-floor-amid-onchain-data-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789124035000
+    },
+    {
+      "title": "Bitcoin recovers toward $77,300 as zcash leverage unwinds",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-recovers-toward-usd77-300-as-zcash-leverage-unwinds",
+      "pubDate": 1789123847000
+    },
+    {
+      "title": "Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/sky-value-token-holders-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789123468000
+    },
+    {
+      "title": "India launches tokenized bond pilot with $107M issued",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/india-launches-tokenized-bond-pilot-with-107m-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789122804000
+    },
+    {
+      "title": "Bitcoin pulls back as another golden cross fails to deliver",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-pulls-back-as-another-golden-cross-fails-to-deliver",
+      "pubDate": 1789121624000
+    },
+    {
+      "title": "Albuquerque Bans Bitcoin ATMs, Giving Operators 45 Days to Remove Them",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377939/albuquerque-bans-bitcoin-atms-giving-operators-45-days-to-remove-them",
+      "pubDate": 1789121441000
+    },
+    {
+      "title": "Anthropic says Claude used for cyberattacks and surveillance",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/claude-ai-cyberattacks-surveillance-weapons-anthropic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789120051000
+    },
+    {
+      "title": "Sam Bankman-Fried Asks Supreme Court to Overturn FTX Fraud Conviction",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377931/sam-bankman-fried-asks-supreme-court-to-overturn-ftx-fraud-conviction",
+      "pubDate": 1789117451000
+    },
+    {
+      "title": "Blockstream rejects ransom as Liquid hackers hold nearly 600 BTC",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/blockstream-rejects-ransom-liquid-hackers-return-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789116199000
+    },
+    {
+      "title": "Bitwise to put down Dogecoin ETF less than a year after launch",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitwise-put-down-dogecoin-etf-year-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789112833000
+    },
+    {
+      "title": "SBF asks Supreme Court to overturn conviction, $11B forfeiture: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/sbf-appeals-supreme-court-conviction-forfeiture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789112599000
+    },
+    {
+      "title": "Kalshi wants 24/7 Tesla and Nvidia perps as Wall Street fights over who regulates them",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/11/kalshi-wants-24-7-tesla-and-nvidia-perps-as-wall-street-fights-over-who-regulates-them",
+      "pubDate": 1789107451000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789107281000
+    },
+    {
+      "title": "Revised CLARITY Act targets ‘non-decentralized’ DeFi operators",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789106906000
+    },
     {
       "title": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
       "source": "CoinDesk",
@@ -37,12 +127,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/ringleader-in-bitcoin-theft-guilty",
       "pubDate": 1789079080000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789075800000
     },
     {
       "title": "Trezor Reveals Another Data Breach After Scammers Target Marketing Platform",
@@ -273,94 +357,10 @@
       "pubDate": 1789041636000
     },
     {
-      "title": "Treasury yields continue to rise even as Bessent doubles down on bond buybacks",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/10/scott-bessent-doubles-down-on-bond-buybacks-as-treasury-yields-continue-to-surge",
-      "pubDate": 1789040861000
-    },
-    {
-      "title": "Nasdaq invests $100M in Kraken parent at $21B valuation: Report",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789040460000
-    },
-    {
-      "title": "Crypto exchange giant Bybit to offer European ‘super-app’ with stocks, derivatives",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/10/crypto-exchange-giant-bybit-to-offer-european-super-app-with-stocks-derivatives",
-      "pubDate": 1789040161000
-    },
-    {
       "title": "Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation",
       "source": "Decrypt",
       "link": "https://decrypt.co/377864/nasdaq-invests-100m-in-kraken-parent-payward-at-21b-valuation",
       "pubDate": 1789039735000
-    },
-    {
-      "title": "Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/10/nasdaq-invests-usd100-million-in-kraken-parent-company-payward-at-usd21-billion-valuation",
-      "pubDate": 1789039281000
-    },
-    {
-      "title": "Bitcoin traders dial down bullish plays ahead of U.S. inflation data",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/10/bitcoin-traders-dial-down-bullish-plays-ahead-of-u-s-inflation-data",
-      "pubDate": 1789038900000
-    },
-    {
-      "title": "Treasury Secretary Bessent urges CLARITY Act passage after Senate returns",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789035600000
-    },
-    {
-      "title": "Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377857/vitalik-buterin-pushes-ethereum-plan-to-slash-quantum-safe-privacy-costs",
-      "pubDate": 1789035112000
-    },
-    {
-      "title": "Hunter Biden denies profiting from memecoin after his LAPTOP crashes",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/hunter-biden-denies-profiting-memecoin-laptop-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789034926000
-    },
-    {
-      "title": "Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-shed-167m-after-strongest-three-week-inflow-run-of-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789034372000
-    },
-    {
-      "title": "Bitcoin sell-side risk returns to rare lows as $80K sellers fade from view",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-sell-side-risk-returns-rare-lows-fade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789033002000
-    },
-    {
-      "title": "India’s Arya.ag to put grain ownership records on Avalanche",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/arya-ag-tests-tokenized-grain-receipts-avalanche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789032600000
-    },
-    {
-      "title": "Unicoin sues Uniswap Labs, seeks to cancel UNI registration",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/unicoin-sues-uniswap-court-cancel-uni-trademark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789030511000
-    },
-    {
-      "title": "Trezor, BitBox warn users about fake hardware wallet security alerts",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789018461000
-    },
-    {
-      "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
-      "pubDate": 1788994943000
     }
   ]
 }
