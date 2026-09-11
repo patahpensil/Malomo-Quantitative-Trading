@@ -1,7 +1,31 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789088217082,
+  "generatedAt": 1789105671458,
   "articles": [
+    {
+      "title": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement",
+      "pubDate": 1789103595000
+    },
+    {
+      "title": "Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-below-usd77-000-zcash-leads-losses-as-traders-bet-on-a-fed-rate-hike",
+      "pubDate": 1789101975000
+    },
+    {
+      "title": "Ripple puts AI agents inside its $1 billion corporate treasury bet",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/11/ripple-puts-ai-agents-inside-its-usd1-billion-corporate-treasury-bet",
+      "pubDate": 1789100721000
+    },
+    {
+      "title": "Brevo login flaw enabled phishing email targeting 347K Trezor subscribers",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789100474000
+    },
     {
       "title": "Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express",
       "source": "Cointelegraph",
@@ -147,7 +171,7 @@
       "pubDate": 1789055977000
     },
     {
-      "title": "Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK",
+      "title": "Monument Bank delays retail tokenized deposits while onboarding custody partner",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/10/monument-bank-delays-retail-tokenized-deposits-cites-regulatory-issues-in-the-uk",
       "pubDate": 1789055604000
@@ -285,12 +309,6 @@
       "pubDate": 1789038900000
     },
     {
-      "title": "Bitcoin trades near $78,000 as memecoins, small caps lead a broad crypto retreat",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/10/bitcoin-trades-near-usd78-000-as-memecoins-small-caps-lead-a-broad-crypto-retreat",
-      "pubDate": 1789035854000
-    },
-    {
       "title": "Treasury Secretary Bessent urges CLARITY Act passage after Senate returns",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -315,12 +333,6 @@
       "pubDate": 1789034372000
     },
     {
-      "title": "Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/10/indian-agri-warehouse-giant-is-putting-usd2-billion-in-grain-backed-loans-onchain",
-      "pubDate": 1789033379000
-    },
-    {
       "title": "Bitcoin sell-side risk returns to rare lows as $80K sellers fade from view",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-sell-side-risk-returns-rare-lows-fade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -339,22 +351,10 @@
       "pubDate": 1789030511000
     },
     {
-      "title": "Live updates: Bitcoin slumps as oil and bond yields surge to new highs",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
-      "pubDate": 1789026346000
-    },
-    {
       "title": "Trezor, BitBox warn users about fake hardware wallet security alerts",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789018461000
-    },
-    {
-      "title": "US sanctions Xinbi scam marketplace, restrains $52M in crypto",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/us-sanctions-xinbi-restrains-52m-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789013103000
     },
     {
       "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
