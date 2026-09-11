@@ -1,7 +1,73 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789138657561,
+  "generatedAt": 1789150910369,
   "articles": [
+    {
+      "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377990/openai-congress-ai-slowdown-legal",
+      "pubDate": 1789150564000
+    },
+    {
+      "title": "Government Defeated as Lords Back UK Digital Assets Strategy",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/house-of-lords-backs-uk-crypto-bill",
+      "pubDate": 1789147712000
+    },
+    {
+      "title": "Robinhood Crypto Trading Volume Jumps 61% in August",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377982/robinhoods-crypto-volume-jumps-august",
+      "pubDate": 1789147359000
+    },
+    {
+      "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
+      "pubDate": 1789146765000
+    },
+    {
+      "title": "Bitwise to Close Dogecoin ETF Before Its First Anniversary",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377973/bitwise-shuts-dogecoin-etf",
+      "pubDate": 1789143365000
+    },
+    {
+      "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789142715000
+    },
+    {
+      "title": "Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789142617000
+    },
+    {
+      "title": "Bitcoin Price Spikes, Shrugs off Hot US Inflation Data",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-price-spikes-on-hot-inflation-data",
+      "pubDate": 1789141565000
+    },
+    {
+      "title": "With Fed rate hike all but assured, here's how markets might react",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/11/hotter-cpi-complicates-fed-hold-as-warsh-s-preferred-inflation-gauge-tells-different-story",
+      "pubDate": 1789141556000
+    },
+    {
+      "title": "Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377962/bitcoin-price-cpi-inflation-fed-rate-decision",
+      "pubDate": 1789140728000
+    },
+    {
+      "title": "India's richest state is exploring tokenizing its own assets to fund new infrastructure",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/11/india-s-richest-state-is-exploring-tokenizing-its-own-assets-to-fund-new-infrastructure",
+      "pubDate": 1789139828000
+    },
     {
       "title": "Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'",
       "source": "Decrypt",
@@ -81,7 +147,7 @@
       "pubDate": 1789125626000
     },
     {
-      "title": "Live updates: Bitcoin heads higher as investors look past looming Fed rate hike",
+      "title": "Live updates: Bitcoin gives up early gains as markets fully price in Fed rate hike",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
       "pubDate": 1789124652000
@@ -295,72 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
       "pubDate": 1789059814000
-    },
-    {
-      "title": "Liquid Network resumes block production after $320M exploit",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789058296000
-    },
-    {
-      "title": "Bitcoin Suffers On Renewed US-Iran Fighting",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-drops-on-us-iran-fighting",
-      "pubDate": 1789057902000
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Says Clarity Act Will Pass — And That Bitcoin Bottom Is In",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-bottom-is-in-says-brian-armstrong",
-      "pubDate": 1789057483000
-    },
-    {
-      "title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/10/polymarket-names-former-amazon-finance-chief-warren-jenson-as-its-first-cfo",
-      "pubDate": 1789056603000
-    },
-    {
-      "title": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789055977000
-    },
-    {
-      "title": "Monument Bank delays retail tokenized deposits while onboarding custody partner",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/10/monument-bank-delays-retail-tokenized-deposits-cites-regulatory-issues-in-the-uk",
-      "pubDate": 1789055604000
-    },
-    {
-      "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
-      "pubDate": 1789054391000
-    },
-    {
-      "title": "Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million",
-      "pubDate": 1789053289000
-    },
-    {
-      "title": "Crypto for Advisors: Hyperliquid and the future of finance",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors",
-      "pubDate": 1789052416000
-    },
-    {
-      "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
-      "pubDate": 1789050600000
-    },
-    {
-      "title": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377875/bitcoin-at-400k-by-2030-still-reasonable-target-coinbase-ceo",
-      "pubDate": 1789045467000
     }
   ]
 }
