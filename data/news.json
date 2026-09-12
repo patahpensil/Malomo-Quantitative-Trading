@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789194185935,
+  "generatedAt": 1789211465111,
   "articles": [
+    {
+      "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
+      "pubDate": 1789207861000
+    },
     {
       "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
       "source": "CoinDesk",
@@ -355,12 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
       "pubDate": 1789066890000
-    },
-    {
-      "title": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
-      "pubDate": 1789066264000
     }
   ]
 }
