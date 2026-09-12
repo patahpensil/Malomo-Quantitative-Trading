@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789169414400,
+  "generatedAt": 1789176433117,
   "articles": [
+    {
+      "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
+      "pubDate": 1789170471000
+    },
     {
       "title": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
       "source": "Decrypt",
@@ -355,12 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
       "pubDate": 1789066264000
-    },
-    {
-      "title": "Bitcoin Rally Cools, But a Golden Cross Is Coming",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377903/bitcoin-price-golden-cross-coming",
-      "pubDate": 1789065964000
     }
   ]
 }
