@@ -1,6 +1,6 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789248979550,
+  "generatedAt": 1789255008129,
   "articles": [
     {
       "title": "OpenAI IPO won't happen this year, says Sam Altman",
@@ -21,7 +21,7 @@
       "pubDate": 1789239064000
     },
     {
-      "title": "Anthropic CEO calls for AI race to slow down. Musk and OpenAI's Altman agrees",
+      "title": "Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
       "pubDate": 1789238613000
