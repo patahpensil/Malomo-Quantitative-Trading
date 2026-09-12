@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789211465111,
+  "generatedAt": 1789222784182,
   "articles": [
+    {
+      "title": "Staked ether should be seen as the benchmark of the decentralized economy",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
+      "pubDate": 1789221600000
+    },
+    {
+      "title": "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377998/chatgpt-images-2-5-vs-nano-banana-2-review",
+      "pubDate": 1789218063000
+    },
     {
       "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
       "source": "CoinDesk",
@@ -349,18 +361,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/updated-clarity-act-starts-circulating",
       "pubDate": 1789071839000
-    },
-    {
-      "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
-      "pubDate": 1789071717000
-    },
-    {
-      "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
-      "pubDate": 1789066890000
     }
   ]
 }
