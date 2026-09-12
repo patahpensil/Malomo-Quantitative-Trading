@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789241795538,
+  "generatedAt": 1789248979550,
   "articles": [
+    {
+      "title": "OpenAI IPO won't happen this year, says Sam Altman",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
+      "pubDate": 1789247371000
+    },
+    {
+      "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
+      "pubDate": 1789247346000
+    },
     {
       "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
       "source": "CoinDesk",
@@ -349,18 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/sbf-appeals-supreme-court-conviction-forfeiture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789112599000
-    },
-    {
-      "title": "Kalshi wants 24/7 Tesla and Nvidia perps as Wall Street fights over who regulates them",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/11/kalshi-wants-24-7-tesla-and-nvidia-perps-as-wall-street-fights-over-who-regulates-them",
-      "pubDate": 1789107451000
-    },
-    {
-      "title": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement",
-      "pubDate": 1789103595000
     }
   ]
 }
