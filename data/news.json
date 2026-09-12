@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789233852115,
+  "generatedAt": 1789241795538,
   "articles": [
+    {
+      "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
+      "pubDate": 1789239064000
+    },
+    {
+      "title": "Anthropic CEO calls for AI race to slow down. Musk and OpenAI's Altman agrees",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
+      "pubDate": 1789238613000
+    },
     {
       "title": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request",
       "source": "Decrypt",
@@ -45,7 +57,7 @@
       "pubDate": 1789228275000
     },
     {
-      "title": "Farage’s Reform UK gets biggest donation ever from crypto billionaire: Reports",
+      "title": "Farage’s Reform UK gets $97M from two crypto billionaires",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789228214000
@@ -349,18 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement",
       "pubDate": 1789103595000
-    },
-    {
-      "title": "Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-below-usd77-000-zcash-leads-losses-as-traders-bet-on-a-fed-rate-hike",
-      "pubDate": 1789101975000
-    },
-    {
-      "title": "Ripple puts AI agents inside its $1 billion corporate treasury bet",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/11/ripple-puts-ai-agents-inside-its-usd1-billion-corporate-treasury-bet",
-      "pubDate": 1789100721000
     }
   ]
 }
