@@ -1,7 +1,67 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789222784182,
+  "generatedAt": 1789233852115,
   "articles": [
+    {
+      "title": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach",
+      "pubDate": 1789232464000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789229381000
+    },
+    {
+      "title": "North Korea using foreign talent to help infiltrate US companies: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789229309000
+    },
+    {
+      "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378101/gpt-6-astra-openai-model-dumber-nerfed",
+      "pubDate": 1789228864000
+    },
+    {
+      "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
+      "pubDate": 1789228800000
+    },
+    {
+      "title": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/12/ditching-bonds-for-bitcoin-how-crypto-can-tackle-the-ai-heavy-portfolio-dilemma",
+      "pubDate": 1789228800000
+    },
+    {
+      "title": "Crypto Billionaires Hand Reform UK $97M in Record Donations",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378107/crypto-billionaires-hand-reform-uk-97m-in-record-donations",
+      "pubDate": 1789228275000
+    },
+    {
+      "title": "Farage’s Reform UK gets biggest donation ever from crypto billionaire: Reports",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789228214000
+    },
+    {
+      "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789225960000
+    },
+    {
+      "title": "GTA Mod Adds Flock Cameras—And Lets Players Destroy Them",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/377997/gta-mod-flock-cameras-players-destroy",
+      "pubDate": 1789225263000
+    },
     {
       "title": "Staked ether should be seen as the benchmark of the decentralized economy",
       "source": "CoinDesk",
@@ -31,12 +91,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web",
       "pubDate": 1789163105000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789162200000
     },
     {
       "title": "Bitcoin’s ‘Unusual Mix’: Bearish Inflation Print, Bullish Buyback Failure",
@@ -291,12 +345,6 @@
       "pubDate": 1789107451000
     },
     {
-      "title": "Revised CLARITY Act targets ‘non-decentralized’ DeFi operators",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789106906000
-    },
-    {
       "title": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement",
@@ -313,54 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/11/ripple-puts-ai-agents-inside-its-usd1-billion-corporate-treasury-bet",
       "pubDate": 1789100721000
-    },
-    {
-      "title": "Brevo login flaw enabled phishing email targeting 347K Trezor subscribers",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789100474000
-    },
-    {
-      "title": "Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789082486000
-    },
-    {
-      "title": "Ringleader of $245M Crypto Theft Pleads Guilty",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/ringleader-in-bitcoin-theft-guilty",
-      "pubDate": 1789079080000
-    },
-    {
-      "title": "Trezor Reveals Another Data Breach After Scammers Target Marketing Platform",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/trezor-reveals-another-data-breach",
-      "pubDate": 1789075735000
-    },
-    {
-      "title": "Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft",
-      "pubDate": 1789075128000
-    },
-    {
-      "title": "DeepSeek's New Model Nearly Matches GPT-6 Astra on Design—at 1.4% of the Cost",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377917/deepseek-openai-gpt-6-astra-design-benchmark",
-      "pubDate": 1789074963000
-    },
-    {
-      "title": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377925/ai-agents-slash-cost-quantum-attack-bitcoin",
-      "pubDate": 1789072490000
-    },
-    {
-      "title": "Updated Crypto Clarity Act Starts Circulating Days Before Key Vote",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/updated-clarity-act-starts-circulating",
-      "pubDate": 1789071839000
     }
   ]
 }
