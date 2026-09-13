@@ -1,7 +1,31 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789303243958,
+  "generatedAt": 1789318551355,
   "articles": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789318073000
+    },
+    {
+      "title": "AI Agents Spending Money Online? New Research Says Not Really",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378103/ai-agents-spending-money-research",
+      "pubDate": 1789304463000
+    },
+    {
+      "title": "Fed rate hike is about Wall Street, not inflation, says economist",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
+      "pubDate": 1789304400000
+    },
+    {
+      "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
+      "pubDate": 1789304400000
+    },
     {
       "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
       "source": "CoinDesk",
@@ -49,12 +73,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach",
       "pubDate": 1789232464000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789229381000
     },
     {
       "title": "North Korea using foreign talent to help infiltrate US companies: Report",
@@ -321,12 +339,6 @@
       "pubDate": 1789124035000
     },
     {
-      "title": "Bitcoin recovers toward $77,300 as zcash leverage unwinds",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-recovers-toward-usd77-300-as-zcash-leverage-unwinds",
-      "pubDate": 1789123847000
-    },
-    {
       "title": "Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/sky-value-token-holders-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -339,12 +351,6 @@
       "pubDate": 1789122804000
     },
     {
-      "title": "Bitcoin pulls back as another golden cross fails to deliver",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-pulls-back-as-another-golden-cross-fails-to-deliver",
-      "pubDate": 1789121624000
-    },
-    {
       "title": "Albuquerque Bans Bitcoin ATMs, Giving Operators 45 Days to Remove Them",
       "source": "Decrypt",
       "link": "https://decrypt.co/377939/albuquerque-bans-bitcoin-atms-giving-operators-45-days-to-remove-them",
@@ -355,12 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/claude-ai-cyberattacks-surveillance-weapons-anthropic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789120051000
-    },
-    {
-      "title": "Sam Bankman-Fried Asks Supreme Court to Overturn FTX Fraud Conviction",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377931/sam-bankman-fried-asks-supreme-court-to-overturn-ftx-fraud-conviction",
-      "pubDate": 1789117451000
     }
   ]
 }
