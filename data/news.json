@@ -1,7 +1,25 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789281786150,
+  "generatedAt": 1789303243958,
   "articles": [
+    {
+      "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
+      "pubDate": 1789300800000
+    },
+    {
+      "title": "Anthropic chief urges slowdown in AI development to safer pace",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789297794000
+    },
+    {
+      "title": "Revolut says customer data exposed through fake government email",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789291641000
+    },
     {
       "title": "OpenAI IPO won't happen this year, says Sam Altman",
       "source": "CoinDesk",
@@ -343,24 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/377931/sam-bankman-fried-asks-supreme-court-to-overturn-ftx-fraud-conviction",
       "pubDate": 1789117451000
-    },
-    {
-      "title": "Blockstream rejects ransom as Liquid hackers hold nearly 600 BTC",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/blockstream-rejects-ransom-liquid-hackers-return-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789116199000
-    },
-    {
-      "title": "Bitwise to put down Dogecoin ETF less than a year after launch",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitwise-put-down-dogecoin-etf-year-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789112833000
-    },
-    {
-      "title": "SBF asks Supreme Court to overturn conviction, $11B forfeiture: Report",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/sbf-appeals-supreme-court-conviction-forfeiture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789112599000
     }
   ]
 }
