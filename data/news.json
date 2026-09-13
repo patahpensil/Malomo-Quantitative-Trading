@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789318551355,
+  "generatedAt": 1789327089209,
   "articles": [
+    {
+      "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
+      "pubDate": 1789325108000
+    },
+    {
+      "title": "Quantum-proof blockchain: why math, not machines, holds the key",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
+      "pubDate": 1789318800000
+    },
     {
       "title": "Here’s what happened in crypto today",
       "source": "Cointelegraph",
@@ -319,18 +331,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/unicredit-infrastructure-partners-crypto-trading-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789126527000
-    },
-    {
-      "title": "Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/11/rising-yields-oil-prices-leave-bitcoin-vulnerable-ahead-of-u-s-inflation-report",
-      "pubDate": 1789125626000
-    },
-    {
-      "title": "Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
-      "pubDate": 1789124652000
     },
     {
       "title": "Bitcoin buyers wary of July sub-$58K floor amid onchain data ‘anomaly’",
