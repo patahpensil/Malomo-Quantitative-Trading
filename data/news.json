@@ -1,7 +1,31 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789349475625,
+  "generatedAt": 1789368892368,
   "articles": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789363915000
+    },
+    {
+      "title": "King Charles to host AI chiefs amid industry call to slow development",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789363019000
+    },
+    {
+      "title": "Robinhood CEO says issuers should not have veto over tokenized stocks",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789361728000
+    },
+    {
+      "title": "US Republicans send ‘final’ CLARITY Act offer to Democrats",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789356169000
+    },
     {
       "title": "Revolut attackers threaten daily customer data leaks",
       "source": "Cointelegraph",
@@ -25,12 +49,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
       "pubDate": 1789318800000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789318073000
     },
     {
       "title": "AI Agents Spending Money Online? New Research Says Not Really",
@@ -343,24 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/unicredit-infrastructure-partners-crypto-trading-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789126527000
-    },
-    {
-      "title": "Bitcoin buyers wary of July sub-$58K floor amid onchain data ‘anomaly’",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-buyers-wary-of-july-sub-58k-floor-amid-onchain-data-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789124035000
-    },
-    {
-      "title": "Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/sky-value-token-holders-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789123468000
-    },
-    {
-      "title": "India launches tokenized bond pilot with $107M issued",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/india-launches-tokenized-bond-pilot-with-107m-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789122804000
     }
   ]
 }
