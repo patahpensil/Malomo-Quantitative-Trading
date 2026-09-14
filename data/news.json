@@ -1,18 +1,186 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789393938411,
+  "generatedAt": 1789413268463,
   "articles": [
     {
-      "title": "HYPE price could suffer as Binance takes its revenue: Alice Liu",
+      "title": "Microsoft Unveils 'Humanist AI' Code of Conduct, Asks the Public to Poke Holes in It",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378168/microsoft-humanist-ai-code-of-conduct",
+      "pubDate": 1789412848000
+    },
+    {
+      "title": "Bitcoin tops $79K, oil falls as Trump says Iran war could end",
       "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/hype-price-could-suffer-as-binance-takes-its-revenue-alice-liu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789392600000
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789412188000
+    },
+    {
+      "title": "White House crypto adviser says Trump gave up 'historic' ethics powers in compromise",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/14/white-house-crypto-adviser-says-trump-gave-up-historic-ethics-powers-in-compromise",
+      "pubDate": 1789410849000
+    },
+    {
+      "title": "Lummis Credits Trump for Ethics Deal as Clarity Act Faces Tuesday Vote",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/lummis-credits-trump-on-clarity-act",
+      "pubDate": 1789410569000
+    },
+    {
+      "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378166/trump-ai-guardrails-attacks-anthropic",
+      "pubDate": 1789410364000
+    },
+    {
+      "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/14/banks-escalate-stablecoin-rewards-fight-as-senate-prepares-for-a-clarity-act-vote",
+      "pubDate": 1789408280000
+    },
+    {
+      "title": "Strive adds 469 Bitcoin to reach 25,000 BTC treasury",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789408212000
+    },
+    {
+      "title": "CLARITY Act faces state AGs opposition ahead of key Senate vote",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789407724000
+    },
+    {
+      "title": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378157/bitcoin-climbs-ai-slowdown-nvidia-chip-stocks",
+      "pubDate": 1789407604000
+    },
+    {
+      "title": "Morgan Stanley’s Bitcoin Investment Recommendation Explained w/ Amy Oldenburg",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/morgan-stanleys-bitcoin-investment-recommendation",
+      "pubDate": 1789406984000
+    },
+    {
+      "title": "Crypto Market Has 'Definitely Not Priced In' Clarity Act Surprise, Says Bernstein",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378155/crypto-not-priced-in-clarity-act-surprise-bernstein",
+      "pubDate": 1789406706000
+    },
+    {
+      "title": "Strive Snaps Up More Bitcoin, Brings Holdings to 25,000 BTC",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/strive-buys-more-bitcoin",
+      "pubDate": 1789403612000
+    },
+    {
+      "title": "S&P Global backs Kaiko as Series B reaches $110M",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/sp-global-leads-110m-kaiko-funding-round-as-wall-street-eyes-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789402672000
+    },
+    {
+      "title": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378132/bitmine-adds-68-million-ethereum",
+      "pubDate": 1789401745000
+    },
+    {
+      "title": "A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/14/bipartisan-group-of-state-attorneys-general-oppose-clarity-act-over-federal-preemption-worry",
+      "pubDate": 1789401421000
+    },
+    {
+      "title": "Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitmine-5-million-eth-staked-334-million-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789401359000
+    },
+    {
+      "title": "Strategy Buys Back $139 Million of STRC, Bitcoin Stack Frozen for Second Week",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378134/strategy-buys-139-million-strc-bitcoin-frozen",
+      "pubDate": 1789400506000
+    },
+    {
+      "title": "Strategy Buys Back Stock, Skips Bitcoin Purchase",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/strategy-again-skips-bitcoin-buy",
+      "pubDate": 1789400024000
+    },
+    {
+      "title": "Why Trump Backed Tougher Ethics Rules in Clarity Act, and Why the Crypto Industry Thinks It Can Pass",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378125/clarity-act-crypto-ethics-trump-key-vote",
+      "pubDate": 1789399371000
+    },
+    {
+      "title": "Why are AI’s biggest companies suddenly asking to slow down?",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/why-are-biggest-ai-companies-suddenly-asking-to-slow-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789399126000
+    },
+    {
+      "title": "Clarity Act odds surge on prediction markets, but crypto bill still faces long road",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/14/clarity-act-odds-surge-on-prediction-markets-but-crypto-bill-still-faces-long-road",
+      "pubDate": 1789398629000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789396698000
+    },
+    {
+      "title": "Consensus heads to Hong Kong for third year with expanded focus on AI",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/14/consensus-heads-to-hong-kong-for-third-straight-year-with-expanded-focus-on-ai",
+      "pubDate": 1789396676000
+    },
+    {
+      "title": "Morning Minute: Clarity Act Odds Soar as Trump Agrees to Ethics Provisions",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378122/morning-minute-clarity-act-odds-soar-trump-ethics",
+      "pubDate": 1789396641000
+    },
+    {
+      "title": "Don’t let perfect be the enemy of Clarity",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/opinion/2026/09/14/don-t-let-perfect-be-the-enemy-of-clarity",
+      "pubDate": 1789396496000
+    },
+    {
+      "title": "Here is the revised Clarity Act ethics provision Donald Trump has agreed to",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/14/here-is-the-revised-clarity-act-ethics-provision-donald-trump-has-agreed-to",
+      "pubDate": 1789396068000
+    },
+    {
+      "title": "Kaiko extends Series B funding round to $110 million with S&P Global, BNP Paribas",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/14/kaiko-extends-series-b-funding-round-to-usd110-million-with-s-and-p-global-bnp-paribas",
+      "pubDate": 1789394788000
+    },
+    {
+      "title": "MetaMask Adds New Wallet Protections Against Crypto Scams",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378117/metamask-adds-wallet-protections",
+      "pubDate": 1789394464000
     },
     {
       "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789392253000
+      "pubDate": 1789392600000
+    },
+    {
+      "title": "HYPE price could suffer as Binance takes its revenue: Alice Liu",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/hype-price-could-suffer-as-binance-takes-its-revenue-alice-liu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789392600000
     },
     {
       "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
@@ -45,7 +213,7 @@
       "pubDate": 1789387108000
     },
     {
-      "title": "Live updates: Bitcoin manages small gains as stocks drop on AI concern, oil surges",
+      "title": "Live updates: Bitcoin climbs near $79,000 as stocks narrow declines",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges",
       "pubDate": 1789386261000
@@ -123,12 +291,6 @@
       "pubDate": 1789369674000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789363915000
-    },
-    {
       "title": "King Charles to host AI chiefs amid industry call to slow development",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -177,58 +339,10 @@
       "pubDate": 1789304463000
     },
     {
-      "title": "Fed rate hike is about Wall Street, not inflation, says economist",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
-      "pubDate": 1789304400000
-    },
-    {
-      "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
-      "pubDate": 1789304400000
-    },
-    {
-      "title": "Crypto’s Clarity Act heads into a make-or-break week with no clear outcome",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
-      "pubDate": 1789300800000
-    },
-    {
       "title": "Anthropic chief urges slowdown in AI development to safer pace",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789297794000
-    },
-    {
-      "title": "Revolut says customer data exposed through fake government email",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789291641000
-    },
-    {
-      "title": "OpenAI IPO won't happen this year, says Sam Altman",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
-      "pubDate": 1789247371000
-    },
-    {
-      "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
-      "pubDate": 1789247346000
-    },
-    {
-      "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
-      "pubDate": 1789239064000
-    },
-    {
-      "title": "Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
-      "pubDate": 1789238613000
     },
     {
       "title": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request",
@@ -237,130 +351,16 @@
       "pubDate": 1789232464000
     },
     {
-      "title": "North Korea using foreign talent to help infiltrate US companies: Report",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789229309000
-    },
-    {
       "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
       "source": "Decrypt",
       "link": "https://decrypt.co/378101/gpt-6-astra-openai-model-dumber-nerfed",
       "pubDate": 1789228864000
     },
     {
-      "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
-      "pubDate": 1789228800000
-    },
-    {
       "title": "Crypto Billionaires Hand Reform UK $97M in Record Donations",
       "source": "Decrypt",
       "link": "https://decrypt.co/378107/crypto-billionaires-hand-reform-uk-97m-in-record-donations",
       "pubDate": 1789228275000
-    },
-    {
-      "title": "Farage’s Reform UK gets $97M from two crypto billionaires",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789228214000
-    },
-    {
-      "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789225960000
-    },
-    {
-      "title": "GTA Mod Adds Flock Cameras—And Lets Players Destroy Them",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377997/gta-mod-flock-cameras-players-destroy",
-      "pubDate": 1789225263000
-    },
-    {
-      "title": "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377998/chatgpt-images-2-5-vs-nano-banana-2-review",
-      "pubDate": 1789218063000
-    },
-    {
-      "title": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web",
-      "pubDate": 1789163105000
-    },
-    {
-      "title": "Bitcoin’s ‘Unusual Mix’: Bearish Inflation Print, Bullish Buyback Failure",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-has-unusual-mix-says-coinshares",
-      "pubDate": 1789161779000
-    },
-    {
-      "title": "Blockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/blockstream-tells-demands-bitcoin",
-      "pubDate": 1789161228000
-    },
-    {
-      "title": "Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off",
-      "pubDate": 1789160019000
-    },
-    {
-      "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789155984000
-    },
-    {
-      "title": "Italy’s Second Biggest Bank UniCredit Is Weighting up Crypto Custody: Report",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/unicredit-working-on-crypto-custody",
-      "pubDate": 1789152427000
-    },
-    {
-      "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789152315000
-    },
-    {
-      "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377990/openai-congress-ai-slowdown-legal",
-      "pubDate": 1789150564000
-    },
-    {
-      "title": "Government Defeated as Lords Back UK Digital Assets Strategy",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/house-of-lords-backs-uk-crypto-bill",
-      "pubDate": 1789147712000
-    },
-    {
-      "title": "Robinhood Crypto Trading Volume Jumps 61% in August",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377982/robinhoods-crypto-volume-jumps-august",
-      "pubDate": 1789147359000
-    },
-    {
-      "title": "Bitwise to Close Dogecoin ETF Before Its First Anniversary",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377973/bitwise-shuts-dogecoin-etf",
-      "pubDate": 1789143365000
-    },
-    {
-      "title": "Bitcoin Price Spikes, Shrugs off Hot US Inflation Data",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-spikes-on-hot-inflation-data",
-      "pubDate": 1789141565000
-    },
-    {
-      "title": "Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/377962/bitcoin-price-cpi-inflation-fed-rate-decision",
-      "pubDate": 1789140728000
     }
   ]
 }
