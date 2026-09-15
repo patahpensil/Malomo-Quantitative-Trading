@@ -1,7 +1,103 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789491001694,
+  "generatedAt": 1789502850443,
   "articles": [
+    {
+      "title": "Crypto stocks sink after Senate rejects Clarity Act",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
+      "pubDate": 1789502597000
+    },
+    {
+      "title": "Senate Blocks Clarity Act, Likely Killing It for 2026",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/senate-blocks-clarity-act",
+      "pubDate": 1789502319000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789501993000
+    },
+    {
+      "title": "Why the Clarity Act Could Decide America’s Financial Future w/ John Deaton",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/why-the-clarity-act-could-decide-americas-financial-future",
+      "pubDate": 1789501901000
+    },
+    {
+      "title": "Crypto Reacts: Bitcoin Slides as Clarity Act Fails to Clear Senate Vote",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378286/crypto-clarity-act-fails-clear-senate-bitcoin-slides",
+      "pubDate": 1789499909000
+    },
+    {
+      "title": "Crypto industry reacts after Clarity Act fails Senate vote",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/15/clarity-act-fails-in-senate-here-is-how-the-crypto-industry-is-reacting",
+      "pubDate": 1789499191000
+    },
+    {
+      "title": "Clarity Act Stalls in Senate as Crypto Bill Fails to Clear Key Vote",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378283/clarity-act-fails-senate-hurdle",
+      "pubDate": 1789498450000
+    },
+    {
+      "title": "Crypto Clarity Act flames out in failed U.S. Senate vote",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
+      "pubDate": 1789498258000
+    },
+    {
+      "title": "US Senate fails to advance CLARITY Act",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/us-senate-fails-to-advance-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789498011000
+    },
+    {
+      "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
+      "pubDate": 1789495325000
+    },
+    {
+      "title": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789494784000
+    },
+    {
+      "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378267/robinhood-engineers-charged-fraud-over-crypto-listing-trades",
+      "pubDate": 1789494563000
+    },
+    {
+      "title": "'It's Now or Never' for Clarity Act, Says 'Bitcoin Senator' Lummis",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378268/now-or-never-clarity-act-bitcoin-cynthia-lummis",
+      "pubDate": 1789494181000
+    },
+    {
+      "title": "AI Could Be Bitcoin’s Next Onboarding Engine, Nakamoto CEO Says",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/ai-could-be-bitcoin-onboarder",
+      "pubDate": 1789493666000
+    },
+    {
+      "title": "Binance adds 11 US-listed ETFs to wealth management offering",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789492924000
+    },
+    {
+      "title": "US Seeks Forfeiture of $61 Million in Crypto Linked to Alleged Iranian Oil Scheme",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378261/us-forfeiture-61-million-crypto-iranian-oil-scheme",
+      "pubDate": 1789491963000
+    },
     {
       "title": "Crypto's Long-Sought 'De Minimis' Tax Break Gets a House Markup This Week",
       "source": "Decrypt",
@@ -195,7 +291,7 @@
       "pubDate": 1789460333000
     },
     {
-      "title": "Live updates: Bitcoin slumps as Clarity Act passage odds fade",
+      "title": "Live updates: Clarity Act fails in Senate, sending crypto lower",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
       "pubDate": 1789454244000
@@ -205,12 +301,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/09/15/xrp-ledger-is-one-vote-away-from-starting-its-next-big-payments-upgrade",
       "pubDate": 1789451921000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789451400000
     },
     {
       "title": "CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer",
@@ -225,40 +315,16 @@
       "pubDate": 1789449126000
     },
     {
-      "title": "Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
-      "pubDate": 1789446850000
-    },
-    {
       "title": "CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789445956000
     },
     {
-      "title": "Democrats send counteroffer to Republicans over Clarity Act provisions",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/15/democrats-send-counteroffer-to-republicans-over-clarity-act-provisions",
-      "pubDate": 1789445341000
-    },
-    {
       "title": "Balancer eyes wind-down after restructuring fails to revive revenue",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789443203000
-    },
-    {
-      "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week",
-      "pubDate": 1789442858000
-    },
-    {
-      "title": "Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb",
-      "pubDate": 1789442608000
     },
     {
       "title": "Democrats push back on GOP’s ‘final’ CLARITY offer with counterproposal: Politico",
@@ -295,72 +361,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/jack-mallers-says-bitcoin-rewards-work",
       "pubDate": 1789417846000
-    },
-    {
-      "title": "Trump Says He 'Likes' Flock Surveillance Cameras Amid Bipartisan Pushback",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378171/trump-likes-flocks-ai-surveillance-cameras",
-      "pubDate": 1789416461000
-    },
-    {
-      "title": "Microsoft Unveils 'Humanist AI' Code of Conduct, Asks the Public to Poke Holes in It",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378168/microsoft-humanist-ai-code-of-conduct",
-      "pubDate": 1789412848000
-    },
-    {
-      "title": "Bitcoin tops $79K, oil falls as Trump says Iran war could end",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789412188000
-    },
-    {
-      "title": "Lummis Credits Trump for Ethics Deal as Clarity Act Faces Tuesday Vote",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/lummis-credits-trump-on-clarity-act",
-      "pubDate": 1789410569000
-    },
-    {
-      "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378166/trump-ai-guardrails-attacks-anthropic",
-      "pubDate": 1789410364000
-    },
-    {
-      "title": "Strive adds 469 Bitcoin to reach 25,000 BTC treasury",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789408212000
-    },
-    {
-      "title": "CLARITY Act faces state AGs opposition ahead of key Senate vote",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789407724000
-    },
-    {
-      "title": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378157/bitcoin-climbs-ai-slowdown-nvidia-chip-stocks",
-      "pubDate": 1789407604000
-    },
-    {
-      "title": "Morgan Stanley’s Bitcoin Investment Recommendation Explained w/ Amy Oldenburg",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/morgan-stanleys-bitcoin-investment-recommendation",
-      "pubDate": 1789406984000
-    },
-    {
-      "title": "Crypto Market Has 'Definitely Not Priced In' Clarity Act Surprise, Says Bernstein",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378155/crypto-not-priced-in-clarity-act-surprise-bernstein",
-      "pubDate": 1789406706000
-    },
-    {
-      "title": "Strive Snaps Up More Bitcoin, Brings Holdings to 25,000 BTC",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/strive-buys-more-bitcoin",
-      "pubDate": 1789403612000
     }
   ]
 }
