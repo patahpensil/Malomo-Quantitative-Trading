@@ -1,7 +1,67 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789435285131,
+  "generatedAt": 1789454215546,
   "articles": [
+    {
+      "title": "XRP Ledger is one vote away from starting its next big payments upgrade",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/15/xrp-ledger-is-one-vote-away-from-starting-its-next-big-payments-upgrade",
+      "pubDate": 1789451921000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789450755000
+    },
+    {
+      "title": "CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789450332000
+    },
+    {
+      "title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds",
+      "pubDate": 1789449126000
+    },
+    {
+      "title": "Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
+      "pubDate": 1789446850000
+    },
+    {
+      "title": "CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789445956000
+    },
+    {
+      "title": "Democrats send counteroffer to Republicans over Clarity Act provisions",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/15/democrats-send-counteroffer-to-republicans-over-clarity-act-provisions",
+      "pubDate": 1789445341000
+    },
+    {
+      "title": "Balancer eyes wind-down after restructuring fails to revive revenue",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789443203000
+    },
+    {
+      "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week",
+      "pubDate": 1789442858000
+    },
+    {
+      "title": "Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb",
+      "pubDate": 1789442608000
+    },
     {
       "title": "Democrats push back on GOP’s ‘final’ CLARITY offer with counterproposal: Politico",
       "source": "Cointelegraph",
@@ -55,12 +115,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789419250000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789418498000
     },
     {
       "title": "Mallers: Bitcoin and AI Could Give Humans Back Their Time",
@@ -267,52 +321,16 @@
       "pubDate": 1789389806000
     },
     {
-      "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion",
-      "pubDate": 1789387715000
-    },
-    {
-      "title": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap",
-      "pubDate": 1789387639000
-    },
-    {
-      "title": "FCA considers exempting tokenized gold from fund rules to defend London market",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/14/fca-considers-exempting-tokenized-gold-from-fund-rules-to-defend-london-market",
-      "pubDate": 1789387108000
-    },
-    {
-      "title": "Live updates: Bitcoin climbs near $79,000 as stocks narrow declines",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges",
-      "pubDate": 1789386261000
-    },
-    {
       "title": "EU cyber rules put crypto wallet makers on 24-hour reporting clock",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789385924000
     },
     {
-      "title": "Crypto market outperforms as call for slower AI development weighs on tech stocks",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/14/crypto-market-outperforms-as-call-for-slower-ai-development-weighs-on-tech-stocks",
-      "pubDate": 1789384500000
-    },
-    {
       "title": "India Begins Tokenizing Its $620 Billion Corporate Bond Market",
       "source": "Decrypt",
       "link": "https://decrypt.co/378120/india-begins-tokenizing-its-620-billion-corporate-bond-market",
       "pubDate": 1789383665000
-    },
-    {
-      "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff",
-      "pubDate": 1789380581000
     },
     {
       "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
@@ -343,24 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789369674000
-    },
-    {
-      "title": "King Charles to host AI chiefs amid industry call to slow development",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789363019000
-    },
-    {
-      "title": "Robinhood CEO says issuers should not have veto over tokenized stocks",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789361728000
-    },
-    {
-      "title": "US Republicans send ‘final’ CLARITY Act offer to Democrats",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789356169000
     }
   ]
 }
