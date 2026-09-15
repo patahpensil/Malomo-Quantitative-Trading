@@ -1,7 +1,25 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789425731856,
+  "generatedAt": 1789435285131,
   "articles": [
+    {
+      "title": "Democrats push back on GOP’s ‘final’ CLARITY offer with counterproposal: Politico",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/democrats-push-back-on-gops-final-clarity-offer-with-counterproposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789433175000
+    },
+    {
+      "title": "Even if Clarity fails, Wall Street’s crypto push is unlikely to stop",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/14/even-if-clarity-fails-wall-street-s-crypto-push-is-unlikely-to-stop",
+      "pubDate": 1789429408000
+    },
+    {
+      "title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it",
+      "pubDate": 1789428640000
+    },
     {
       "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
       "source": "CoinDesk",
@@ -309,18 +327,6 @@
       "pubDate": 1789379735000
     },
     {
-      "title": "TikTok developer ByteDance arranges $29.6 billion loan as it builds AI ambitions",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/14/tiktok-developer-bytedance-arranges-usd29-6-billion-loan-as-it-builds-ai-ambitions",
-      "pubDate": 1789379025000
-    },
-    {
-      "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/14/fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
-      "pubDate": 1789378197000
-    },
-    {
       "title": "Bitcoin Suisse to Cut Up to Half Its Swiss Jobs in Overseas Shift",
       "source": "Decrypt",
       "link": "https://decrypt.co/378119/bitcoin-suisse-cut-half-swiss-jobs",
@@ -355,12 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789356169000
-    },
-    {
-      "title": "Revolut attackers threaten daily customer data leaks",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/revolut-attackers-threaten-daily-customer-data-leaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789347248000
     }
   ]
 }
