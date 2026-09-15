@@ -1,7 +1,61 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789502850443,
+  "generatedAt": 1789513639124,
   "articles": [
+    {
+      "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
+      "pubDate": 1789509528000
+    },
+    {
+      "title": "Wall Street Bets on Fed Rate Hike: Here's What It Means for Bitcoin, Bonds and Trump",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378306/wall-street-fed-rate-hike-bitcoin-bonds-trump",
+      "pubDate": 1789508763000
+    },
+    {
+      "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789507380000
+    },
+    {
+      "title": "Bitcoin, BTC-Related Stocks Tumble After Senate Blocks Clarity Act",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-tumbles-after-clarity-act-blockage",
+      "pubDate": 1789507364000
+    },
+    {
+      "title": "Strive’s Matt Cole: Bitcoin is Primed for 30% Growth into 2030",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/strive-matt-cole-bitcoin-growth-2030",
+      "pubDate": 1789507261000
+    },
+    {
+      "title": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378303/coinbase-crypto-group-midterms-vote-clarity-act",
+      "pubDate": 1789506606000
+    },
+    {
+      "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789504654000
+    },
+    {
+      "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378300/openai-safety-concerns-slowed-most-advanced-ai-work",
+      "pubDate": 1789502959000
+    },
+    {
+      "title": "Lightning Lands on BitBox — And It Doesn’t Ask for a New Seed Phrase",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/lightning-lands-on-bitbox",
+      "pubDate": 1789502865000
+    },
     {
       "title": "Crypto stocks sink after Senate rejects Clarity Act",
       "source": "CoinDesk",
@@ -307,60 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789450332000
-    },
-    {
-      "title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds",
-      "pubDate": 1789449126000
-    },
-    {
-      "title": "CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789445956000
-    },
-    {
-      "title": "Balancer eyes wind-down after restructuring fails to revive revenue",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789443203000
-    },
-    {
-      "title": "Democrats push back on GOP’s ‘final’ CLARITY offer with counterproposal: Politico",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/democrats-push-back-on-gops-final-clarity-offer-with-counterproposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789433175000
-    },
-    {
-      "title": "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378181/banks-senate-clarity-act-stablecoin-rules-key-vote",
-      "pubDate": 1789422364000
-    },
-    {
-      "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai",
-      "pubDate": 1789420564000
-    },
-    {
-      "title": "Swiss Bitcoin Pay Shuts Down Servers After Data Breach",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/swiss-bitcoin-pay-data-breach",
-      "pubDate": 1789419325000
-    },
-    {
-      "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789419250000
-    },
-    {
-      "title": "Mallers: Bitcoin and AI Could Give Humans Back Their Time",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/jack-mallers-says-bitcoin-rewards-work",
-      "pubDate": 1789417846000
     }
   ]
 }
