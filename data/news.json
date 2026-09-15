@@ -1,7 +1,103 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789454215546,
+  "generatedAt": 1789473809818,
   "articles": [
+    {
+      "title": "To ensure permanent economic innovation, we must pass the Clarity Act now",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/opinion/2026/09/15/to-ensure-permanent-economic-innovation-we-must-pass-the-clarity-act-now",
+      "pubDate": 1789473606000
+    },
+    {
+      "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses",
+      "pubDate": 1789470944000
+    },
+    {
+      "title": "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378183/solana-defi-development-corp-chad",
+      "pubDate": 1789470064000
+    },
+    {
+      "title": "Why banks should stop worrying and learn to love the Clarity Act",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/opinion/2026/09/15/why-banks-should-stop-worrying-and-learn-to-love-the-clarity-act",
+      "pubDate": 1789470000000
+    },
+    {
+      "title": "Velocity extends Series A to $48M at $200M valuation with backing from Visa, Circle, and Ripple",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/10/velocity-extends-series-a-to-usd48m-at-usd200m-valuation-with-backing-from-visa-circle-and-ripple",
+      "pubDate": 1789470000000
+    },
+    {
+      "title": "Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-gives-back-monday-s-gain-as-clarity-act-odds-fade-on-polymarket",
+      "pubDate": 1789468895000
+    },
+    {
+      "title": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet",
+      "pubDate": 1789468075000
+    },
+    {
+      "title": "Nigel Farage-backed Stack BTC eyes $16 million gold dealer deal to fund bitcoin buy",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/15/nigel-farage-backed-stack-btc-eyes-usd16-million-gold-dealer-deal-to-fund-bitcoin-buy",
+      "pubDate": 1789466800000
+    },
+    {
+      "title": "US House crypto tax package omits mining, staking reward deferral",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789466661000
+    },
+    {
+      "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789465227000
+    },
+    {
+      "title": "Hong Kong crypto exchange CoinEx to cease operations after 9 years in business",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/15/hong-kong-crypto-exchange-coinex-to-cease-operations-after-9-years-in-business",
+      "pubDate": 1789464658000
+    },
+    {
+      "title": "Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-short-term-holders-hit-30-day-profit-streak-as-bull-market-odds-improve-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789464631000
+    },
+    {
+      "title": "Strive's Bitcoin Stash Hits an Even 25,000 BTC After $36.6 Million Buy",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378190/strive-bitcoin-25000-btc-after-buy",
+      "pubDate": 1789462865000
+    },
+    {
+      "title": "US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/doj-61m-usdt-forfeiture-iranian-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789461995000
+    },
+    {
+      "title": "Solana more than triples transaction size limit with mainnet upgrade",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789460333000
+    },
+    {
+      "title": "Live updates: Bitcoin slides to $77,000 as Senate votes on Clarity Act",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
+      "pubDate": 1789454244000
+    },
     {
       "title": "XRP Ledger is one vote away from starting its next big payments upgrade",
       "source": "CoinDesk",
@@ -147,12 +243,6 @@
       "pubDate": 1789412188000
     },
     {
-      "title": "White House crypto adviser says Trump gave up 'historic' ethics powers in compromise",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/14/white-house-crypto-adviser-says-trump-gave-up-historic-ethics-powers-in-compromise",
-      "pubDate": 1789410849000
-    },
-    {
       "title": "Lummis Credits Trump for Ethics Deal as Clarity Act Faces Tuesday Vote",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/lummis-credits-trump-on-clarity-act",
@@ -163,12 +253,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/378166/trump-ai-guardrails-attacks-anthropic",
       "pubDate": 1789410364000
-    },
-    {
-      "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/14/banks-escalate-stablecoin-rewards-fight-as-senate-prepares-for-a-clarity-act-vote",
-      "pubDate": 1789408280000
     },
     {
       "title": "Strive adds 469 Bitcoin to reach 25,000 BTC treasury",
@@ -219,12 +303,6 @@
       "pubDate": 1789401745000
     },
     {
-      "title": "A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/14/bipartisan-group-of-state-attorneys-general-oppose-clarity-act-over-federal-preemption-worry",
-      "pubDate": 1789401421000
-    },
-    {
       "title": "Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/bitmine-5-million-eth-staked-334-million-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -255,40 +333,10 @@
       "pubDate": 1789399126000
     },
     {
-      "title": "Clarity Act odds surge on prediction markets, but crypto bill still faces long road",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/14/clarity-act-odds-surge-on-prediction-markets-but-crypto-bill-still-faces-long-road",
-      "pubDate": 1789398629000
-    },
-    {
-      "title": "Consensus heads to Hong Kong for third year with expanded focus on AI",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/14/consensus-heads-to-hong-kong-for-third-straight-year-with-expanded-focus-on-ai",
-      "pubDate": 1789396676000
-    },
-    {
       "title": "Morning Minute: Clarity Act Odds Soar as Trump Agrees to Ethics Provisions",
       "source": "Decrypt",
       "link": "https://decrypt.co/378122/morning-minute-clarity-act-odds-soar-trump-ethics",
       "pubDate": 1789396641000
-    },
-    {
-      "title": "Don’t let perfect be the enemy of Clarity",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/opinion/2026/09/14/don-t-let-perfect-be-the-enemy-of-clarity",
-      "pubDate": 1789396496000
-    },
-    {
-      "title": "Here is the revised Clarity Act ethics provision Donald Trump has agreed to",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/14/here-is-the-revised-clarity-act-ethics-provision-donald-trump-has-agreed-to",
-      "pubDate": 1789396068000
-    },
-    {
-      "title": "Kaiko extends Series B funding round to $110 million with S&P Global, BNP Paribas",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/14/kaiko-extends-series-b-funding-round-to-usd110-million-with-s-and-p-global-bnp-paribas",
-      "pubDate": 1789394788000
     },
     {
       "title": "MetaMask Adds New Wallet Protections Against Crypto Scams",
@@ -309,58 +357,10 @@
       "pubDate": 1789392600000
     },
     {
-      "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead",
-      "pubDate": 1789390722000
-    },
-    {
       "title": "A Bitcoin Berkshire Model: Orange Juice",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/bitcoin-berkshire-orange-juice",
       "pubDate": 1789389806000
-    },
-    {
-      "title": "EU cyber rules put crypto wallet makers on 24-hour reporting clock",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/eu-cyber-rules-put-crypto-wallet-24-hour-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789385924000
-    },
-    {
-      "title": "India Begins Tokenizing Its $620 Billion Corporate Bond Market",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378120/india-begins-tokenizing-its-620-billion-corporate-bond-market",
-      "pubDate": 1789383665000
-    },
-    {
-      "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789380120000
-    },
-    {
-      "title": "Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/symbiosis-recovered-15-btc-bridge-hack-20-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789379735000
-    },
-    {
-      "title": "Bitcoin Suisse to Cut Up to Half Its Swiss Jobs in Overseas Shift",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378119/bitcoin-suisse-cut-half-swiss-jobs",
-      "pubDate": 1789376463000
-    },
-    {
-      "title": "UK FCA seeks views on fund rule exemptions for tokenized gold",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789376220000
-    },
-    {
-      "title": "Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789369674000
     }
   ]
 }
