@@ -1,7 +1,37 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789590178460,
+  "generatedAt": 1789600335472,
   "articles": [
+    {
+      "title": "Crypto Tax Bill Clears House Committee After Clarity Act Setback",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378449/crypto-tax-bill-clears-house-committee",
+      "pubDate": 1789595163000
+    },
+    {
+      "title": "Meta May Have Found a Fix for Its 'Pervert Glasses'",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378448/meta-fix-pervert-glasses",
+      "pubDate": 1789593363000
+    },
+    {
+      "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789591898000
+    },
+    {
+      "title": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378446/openai-rogue-agents-hugging-face-two-months-before-hack",
+      "pubDate": 1789590663000
+    },
+    {
+      "title": "Peter Schiff: “The Fed Has Already Lost The Battle Against Inflation” & BTC vs GOLD Debate",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/peter-schiff-the-fed-has-already-lost-the-battle",
+      "pubDate": 1789590530000
+    },
     {
       "title": "Bitcoin Price Wobbles Before Settling After Fed Raises Rates",
       "source": "Bitcoin Magazine",
@@ -331,36 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/ecb-online-merchants-2027-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789547804000
-    },
-    {
-      "title": "Crypto Exchange CoinEx Is Shutting Down After Nine Years, Giving Users Until December to Cash Out",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378324/coinex-shutting-down",
-      "pubDate": 1789545663000
-    },
-    {
-      "title": "AI has been a ‘net negative’ for crypto: Phemex CEO",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ai-has-been-a-net-negative-for-crypto-phemex-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789540728000
-    },
-    {
-      "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789534100000
-    },
-    {
-      "title": "Bitcoin ETFs shed $450M in biggest outflow since June",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-etfs-shed-450m-in-biggest-outflow-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789531539000
-    },
-    {
-      "title": "Crypto industry turns to US regulators after CLARITY setback",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/crypto-industry-turns-to-us-regulators-after-clarity-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789525447000
     }
   ]
 }
