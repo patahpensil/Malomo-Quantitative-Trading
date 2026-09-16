@@ -1,7 +1,79 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789578872578,
+  "generatedAt": 1789590178460,
   "articles": [
+    {
+      "title": "Bitcoin Price Wobbles Before Settling After Fed Raises Rates",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-price-wobbles-after-rate-hike",
+      "pubDate": 1789588009000
+    },
+    {
+      "title": "Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right",
+      "pubDate": 1789587804000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789586746000
+    },
+    {
+      "title": "UK FCA sets crypto authorization guidance ahead of September application window",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789586363000
+    },
+    {
+      "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
+      "pubDate": 1789585654000
+    },
+    {
+      "title": "Bitcoin Core Software Update Aims for Speed and Security Patches",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378430/bitcoin-core-software-october-update",
+      "pubDate": 1789584828000
+    },
+    {
+      "title": "CFTC Chairman Says Agency Will Write Crypto Rules After Clarity Act Vote Fails",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/cftc-chair-will-write-rules-clarity-fail",
+      "pubDate": 1789583234000
+    },
+    {
+      "title": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378417/fed-hikes-rates-first-time-since-2023-bitcoin",
+      "pubDate": 1789582538000
+    },
+    {
+      "title": "US House tax committee advances crypto tax overhaul in 38–5 vote",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789581715000
+    },
+    {
+      "title": "Fed raises rates by 25 basis points in first hike since July 2023",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
+      "pubDate": 1789581295000
+    },
+    {
+      "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
+      "pubDate": 1789580044000
+    },
+    {
+      "title": "CFTC and SEC Double Down on Crypto After Clarity Act Defeat",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378408/cftc-sec-double-down-crypto-clarity-act",
+      "pubDate": 1789579023000
+    },
     {
       "title": "Hackers Hijack HBO Max’s Reddit Account to Spread Crypto-Stealing Malware",
       "source": "Decrypt",
@@ -63,7 +135,7 @@
       "pubDate": 1789572649000
     },
     {
-      "title": "Hamas’ military wing told donors to avoid Binance. Use Bybit, OKX and others instead",
+      "title": "Hamas military wing told donors to avoid sending crypto directly from Binance, DOJ filing shows",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
       "pubDate": 1789572341000
@@ -195,7 +267,7 @@
       "pubDate": 1789555588000
     },
     {
-      "title": "Live updates: Bitcoin holds near $76,000 as traders brace for first Fed rate hike in three years",
+      "title": "Live updates: Bitcoin steady as stocks slide following Fed rate hike, Warsh press conference",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
       "pubDate": 1789555066000
@@ -261,40 +333,16 @@
       "pubDate": 1789547804000
     },
     {
-      "title": "Ethereum, Base give up on common wallet standard after months of talks",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks",
-      "pubDate": 1789546079000
-    },
-    {
       "title": "Crypto Exchange CoinEx Is Shutting Down After Nine Years, Giving Users Until December to Cash Out",
       "source": "Decrypt",
       "link": "https://decrypt.co/378324/coinex-shutting-down",
       "pubDate": 1789545663000
     },
     {
-      "title": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/16/fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine",
-      "pubDate": 1789540942000
-    },
-    {
       "title": "AI has been a ‘net negative’ for crypto: Phemex CEO",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/ai-has-been-a-net-negative-for-crypto-phemex-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789540728000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789538400000
-    },
-    {
-      "title": "Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings",
-      "pubDate": 1789538044000
     },
     {
       "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
@@ -313,54 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/crypto-industry-turns-to-us-regulators-after-clarity-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789525447000
-    },
-    {
-      "title": "Wall Street Bets on Fed Rate Hike: Here's What It Means for Bitcoin, Bonds and Trump",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378306/wall-street-fed-rate-hike-bitcoin-bonds-trump",
-      "pubDate": 1789508763000
-    },
-    {
-      "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789507380000
-    },
-    {
-      "title": "Bitcoin, BTC-Related Stocks Tumble After Senate Blocks Clarity Act",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-tumbles-after-clarity-act-blockage",
-      "pubDate": 1789507364000
-    },
-    {
-      "title": "Strive’s Matt Cole: Bitcoin is Primed for 30% Growth into 2030",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/strive-matt-cole-bitcoin-growth-2030",
-      "pubDate": 1789507261000
-    },
-    {
-      "title": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378303/coinbase-crypto-group-midterms-vote-clarity-act",
-      "pubDate": 1789506606000
-    },
-    {
-      "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789504654000
-    },
-    {
-      "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378300/openai-safety-concerns-slowed-most-advanced-ai-work",
-      "pubDate": 1789502959000
-    },
-    {
-      "title": "Lightning Lands on BitBox — And It Doesn’t Ask for a New Seed Phrase",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/lightning-lands-on-bitbox",
-      "pubDate": 1789502865000
     }
   ]
 }
