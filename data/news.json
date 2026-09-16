@@ -1,7 +1,49 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789522492551,
+  "generatedAt": 1789540760594,
   "articles": [
+    {
+      "title": "Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings",
+      "pubDate": 1789538044000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789537951000
+    },
+    {
+      "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789534100000
+    },
+    {
+      "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
+      "pubDate": 1789531647000
+    },
+    {
+      "title": "Bitcoin ETFs shed $450M in biggest outflow since June",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-etfs-shed-450m-in-biggest-outflow-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789531539000
+    },
+    {
+      "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
+      "pubDate": 1789529865000
+    },
+    {
+      "title": "Crypto industry turns to US regulators after CLARITY setback",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/crypto-industry-turns-to-us-regulators-after-clarity-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789525447000
+    },
     {
       "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
       "source": "CoinDesk",
@@ -67,12 +109,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/senate-blocks-clarity-act",
       "pubDate": 1789502319000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789501993000
     },
     {
       "title": "Why the Clarity Act Could Decide America’s Financial Future w/ John Deaton",
@@ -315,12 +351,6 @@
       "pubDate": 1789465227000
     },
     {
-      "title": "Hong Kong crypto exchange CoinEx to cease operations after 9 years in business",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/15/hong-kong-crypto-exchange-coinex-to-cease-operations-after-9-years-in-business",
-      "pubDate": 1789464658000
-    },
-    {
       "title": "Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-short-term-holders-hit-30-day-profit-streak-as-bull-market-odds-improve-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -331,36 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/378190/strive-bitcoin-25000-btc-after-buy",
       "pubDate": 1789462865000
-    },
-    {
-      "title": "US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/doj-61m-usdt-forfeiture-iranian-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789461995000
-    },
-    {
-      "title": "Solana more than triples transaction size limit with mainnet upgrade",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789460333000
-    },
-    {
-      "title": "Live updates: Clarity Act fails in Senate, sending crypto lower",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
-      "pubDate": 1789454244000
-    },
-    {
-      "title": "XRP Ledger is one vote away from starting its next big payments upgrade",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/15/xrp-ledger-is-one-vote-away-from-starting-its-next-big-payments-upgrade",
-      "pubDate": 1789451921000
-    },
-    {
-      "title": "CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789450332000
     }
   ]
 }
