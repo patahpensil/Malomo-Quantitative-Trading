@@ -1,7 +1,145 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789649086268,
+  "generatedAt": 1789666518276,
   "articles": [
+    {
+      "title": "SEC Green Lights Tokenized Stock Trading Despite Clarity Act Fail",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/clarity-act-fails-sec-pushes-tokenization",
+      "pubDate": 1789665099000
+    },
+    {
+      "title": "Bitcoin Bounces as Markets Brace for the Fed’s Next Move",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378506/bitcoin-bounces-wall-street-fed-next-move",
+      "pubDate": 1789664463000
+    },
+    {
+      "title": "Is there any chance left to save the CLARITY Act?",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/is-there-any-chance-left-to-save-the-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789664400000
+    },
+    {
+      "title": "Financial Data Giant S&P Global Moves Deeper Into Crypto With OpenZeppelin Deal",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378505/sp-global-acquire-crypto-openzeppelin",
+      "pubDate": 1789662792000
+    },
+    {
+      "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789662143000
+    },
+    {
+      "title": "Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/former-hut-8-ceo-jaime-leverton-to-lead-zcash-miner-fortitude-ahead-of-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789660713000
+    },
+    {
+      "title": "Ric Edelman: Buying Bitcoin Today Is Like Buying Amazon in 1999",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/ric-edelman-says-bitcoin-is-like-amazon",
+      "pubDate": 1789660490000
+    },
+    {
+      "title": "FCA Targets Three More London Sites Over Unregistered P2P Crypto Trading",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378495/fca-targets-three-more-london-sites-over-unregistered-p2p-crypto-trading",
+      "pubDate": 1789658479000
+    },
+    {
+      "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
+      "pubDate": 1789657704000
+    },
+    {
+      "title": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
+      "pubDate": 1789657399000
+    },
+    {
+      "title": "Crypto for Advisors: Beyond bitcoin and ether",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
+      "pubDate": 1789657031000
+    },
+    {
+      "title": "SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378492/sec-innovation-exemption-tokenized-stocks-clarity-act",
+      "pubDate": 1789656723000
+    },
+    {
+      "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
+      "pubDate": 1789656658000
+    },
+    {
+      "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
+      "pubDate": 1789656007000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789653194000
+    },
+    {
+      "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789652157000
+    },
+    {
+      "title": "SEC grants temporary exemption for tokenized US stock trading",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789652057000
+    },
+    {
+      "title": "Bitcoin treasury firms can outperform BTC... but is the risk worth taking?",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789651800000
+    },
+    {
+      "title": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push",
+      "pubDate": 1789650921000
+    },
+    {
+      "title": "SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/17/sec-rolls-out-long-awaited-innovation-exemption-for-tokenized-securities-venues",
+      "pubDate": 1789650000000
+    },
+    {
+      "title": "S&P Global to acquire blockchain security platform OpenZeppelin",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/sp-global-openzeppelin-acquisition-blockchain-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789649783000
+    },
+    {
+      "title": "Revolut Hackers Demand $3M Monero Ransom, Threaten to Sell Customer Data: Report",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378472/revolut-hackers-demand-3m-monero-ransom-threaten-to-sell-customer-data-report",
+      "pubDate": 1789649581000
+    },
+    {
+      "title": "Ethereum’s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity",
+      "pubDate": 1789648641000
+    },
     {
       "title": "Crypto adoption blooming in Germany, while UK is falling ‘behind,’ says CoinShares researcher",
       "source": "Cointelegraph",
@@ -45,7 +183,7 @@
       "pubDate": 1789643949000
     },
     {
-      "title": "Live updates: Bitcoin rises as oil sinks on report of China intervention on Iran",
+      "title": "Live updates: Bitcoin continues near $76,000 as stocks surge following Fed rate hike",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
       "pubDate": 1789641675000
@@ -105,12 +243,6 @@
       "pubDate": 1789630027000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789624891000
-    },
-    {
       "title": "BitMEX faces Celsius lawsuit ahead of exchange closure",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -159,6 +291,12 @@
       "pubDate": 1789593363000
     },
     {
+      "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789592400000
+    },
+    {
       "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -189,13 +327,7 @@
       "pubDate": 1789587804000
     },
     {
-      "title": "UK FCA sets crypto authorization guidance ahead of September application window",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789586363000
-    },
-    {
-      "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
+      "title": "Group behind Revolut data breach demands $3 million in Monero, threaten to sell customer data",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
       "pubDate": 1789585654000
@@ -219,12 +351,6 @@
       "pubDate": 1789582538000
     },
     {
-      "title": "US House tax committee advances crypto tax overhaul in 38–5 vote",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789581715000
-    },
-    {
       "title": "Fed raises rates by 25 basis points in first hike since July 2023",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
@@ -235,132 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
       "pubDate": 1789580044000
-    },
-    {
-      "title": "CFTC and SEC Double Down on Crypto After Clarity Act Defeat",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378408/cftc-sec-double-down-crypto-clarity-act",
-      "pubDate": 1789579023000
-    },
-    {
-      "title": "Hackers Hijack HBO Max’s Reddit Account to Spread Crypto-Stealing Malware",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378401/hackers-hbo-max-reddit-account-crypto-malware",
-      "pubDate": 1789578362000
-    },
-    {
-      "title": "Bitcoin Is on Sale and Should Be Accumulated, Says Morgan Creek Capital CEO",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-on-sale-says-mark-yusko",
-      "pubDate": 1789576806000
-    },
-    {
-      "title": "The Quantum Issue: To Freeze Coins Or Not",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/print/the-quantum-issue-to-freeze-coins-or-not",
-      "pubDate": 1789576741000
-    },
-    {
-      "title": "Zuckerberg Pushes Back on Coordinated AI Slowdown, Says Labs Can Act Alone",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378381/zuckerberg-pushes-back-ai-slowdown",
-      "pubDate": 1789576263000
-    },
-    {
-      "title": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
-      "pubDate": 1789575704000
-    },
-    {
-      "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789574615000
-    },
-    {
-      "title": "Coinbase faces greater fallout from CLARITY Act setback: Saxo",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/coinbase-clarity-act-exposure-saxo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789573937000
-    },
-    {
-      "title": "Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378382/bitcoin-etfs-clarity-act-vote",
-      "pubDate": 1789573807000
-    },
-    {
-      "title": "Deutsche Bank To Debut Bitcoin Custody for Institutional Clients",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/deutsche-bank-to-debut-bitcoin-custody",
-      "pubDate": 1789573344000
-    },
-    {
-      "title": "Bitcoin awaits Fed rate decision below $76K as analysis discounts ‘dovish surprise’ odds",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789572649000
-    },
-    {
-      "title": "Hamas military wing told donors to avoid sending crypto directly from Binance, DOJ filing shows",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
-      "pubDate": 1789572341000
-    },
-    {
-      "title": "Crypto Long & Short: Six signs a crypto winter is ending",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/09/15/crypto-long-and-short-six-signs-a-crypto-winter-is-ending",
-      "pubDate": 1789570774000
-    },
-    {
-      "title": "Circle Launches Arc Mainnet With BlackRock, DTCC and Visa as Validators",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378374/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-as-validators",
-      "pubDate": 1789570562000
-    },
-    {
-      "title": "AI Pause Would Help Dominant Firms, Not Safety, Think Tank Warns",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378323/ai-pause-protect-giants-not-safety-cato-jack-dorsey",
-      "pubDate": 1789569389000
-    },
-    {
-      "title": "Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
-      "pubDate": 1789569343000
-    },
-    {
-      "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases",
-      "pubDate": 1789567200000
-    },
-    {
-      "title": "A LatAm telecom operator is putting part of its finances on Avalanche",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/15/a-latam-telecom-operator-is-putting-part-of-its-finances-on-avalanche",
-      "pubDate": 1789567200000
-    },
-    {
-      "title": "Revolut ID thefts highlight KYC’s dangers: Here’s how to fix it",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/revolut-id-thefts-highlight-kycs-dangers-heres-how-to-fix-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789565400000
-    },
-    {
-      "title": "How MSCI Shifted from Objective Benchmark to Defacto Market Regulator",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/msci-objective-benchmark-to-market-regulator",
-      "pubDate": 1789564703000
-    },
-    {
-      "title": "FCA Guidance Lands Two Weeks Before UK Crypto Authorization Window Opens",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378363/fca-guidance-lands-two-weeks-before-uk-crypto-authorization-window-opens",
-      "pubDate": 1789564353000
     }
   ]
 }
