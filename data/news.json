@@ -1,7 +1,67 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789666518276,
+  "generatedAt": 1789677093756,
   "articles": [
+    {
+      "title": "CFTC Opens Door for Crypto Apps to Offer Regulated Derivatives Access",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378560/cftc-crypto-apps-regulated-derivatives-access",
+      "pubDate": 1789676164000
+    },
+    {
+      "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378551/openai-progress-second-millennium-prize-math-problem",
+      "pubDate": 1789673542000
+    },
+    {
+      "title": "CFTC expands regulatory relief for passive trading software providers",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789673448000
+    },
+    {
+      "title": "Bitcoin ETFs Could Triple Gold Counterparts as Asset Matures: Expert",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-etfs-could-triple-gold-etfs",
+      "pubDate": 1789673041000
+    },
+    {
+      "title": "Ethereum Founder Vitalik Buterin Says AI Won’t Doom Crypto Security",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378544/ethereum-vitalik-buterin-ai-crypto-security",
+      "pubDate": 1789671665000
+    },
+    {
+      "title": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
+      "pubDate": 1789670438000
+    },
+    {
+      "title": "SEC opens door to tokenized U.S. stock trading. Here’s who could benefit",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
+      "pubDate": 1789670290000
+    },
+    {
+      "title": "Andrew Yang Calls for AI Kill Switch as Safety Fears Mount",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378522/andrew-yang-ai-kill-switch-safety-fears",
+      "pubDate": 1789668363000
+    },
+    {
+      "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378504/king-charles-openai-anthropic-nvidia-google-deepmind-ai-safety",
+      "pubDate": 1789666562000
+    },
+    {
+      "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789666272000
+    },
     {
       "title": "SEC Green Lights Tokenized Stock Trading Despite Clarity Act Fail",
       "source": "Bitcoin Magazine",
@@ -183,7 +243,7 @@
       "pubDate": 1789643949000
     },
     {
-      "title": "Live updates: Bitcoin continues near $76,000 as stocks surge following Fed rate hike",
+      "title": "Live updates: Bitcoin edges higher as Nasdaq climbs 1.7% in wake of Fed rate hike",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
       "pubDate": 1789641675000
@@ -291,18 +351,6 @@
       "pubDate": 1789593363000
     },
     {
-      "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789592400000
-    },
-    {
-      "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789591898000
-    },
-    {
       "title": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
       "source": "Decrypt",
       "link": "https://decrypt.co/378446/openai-rogue-agents-hugging-face-two-months-before-hack",
@@ -313,54 +361,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/videos/peter-schiff-the-fed-has-already-lost-the-battle",
       "pubDate": 1789590530000
-    },
-    {
-      "title": "Bitcoin Price Wobbles Before Settling After Fed Raises Rates",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-price-wobbles-after-rate-hike",
-      "pubDate": 1789588009000
-    },
-    {
-      "title": "Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right",
-      "pubDate": 1789587804000
-    },
-    {
-      "title": "Group behind Revolut data breach demands $3 million in Monero, threaten to sell customer data",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
-      "pubDate": 1789585654000
-    },
-    {
-      "title": "Bitcoin Core Software Update Aims for Speed and Security Patches",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378430/bitcoin-core-software-october-update",
-      "pubDate": 1789584828000
-    },
-    {
-      "title": "CFTC Chairman Says Agency Will Write Crypto Rules After Clarity Act Vote Fails",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/cftc-chair-will-write-rules-clarity-fail",
-      "pubDate": 1789583234000
-    },
-    {
-      "title": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378417/fed-hikes-rates-first-time-since-2023-bitcoin",
-      "pubDate": 1789582538000
-    },
-    {
-      "title": "Fed raises rates by 25 basis points in first hike since July 2023",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
-      "pubDate": 1789581295000
-    },
-    {
-      "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
-      "pubDate": 1789580044000
     }
   ]
 }
