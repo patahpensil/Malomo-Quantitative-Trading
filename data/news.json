@@ -1,7 +1,103 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789630345598,
+  "generatedAt": 1789649086268,
   "articles": [
+    {
+      "title": "Crypto adoption blooming in Germany, while UK is falling ‘behind,’ says CoinShares researcher",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/crypto-adoption-blooming-germany-uk-behind-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789648451000
+    },
+    {
+      "title": "Morning Minute: Crypto Rebounds After The Fed’s First Hike Since 2023",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378462/morning-minute-crypto-rebounds-after-the-feds-first-hike-since-2023",
+      "pubDate": 1789647200000
+    },
+    {
+      "title": "Zcash Closes On $1,400 After Coinholders Vote to Keep Bitcoin-Style Halvings",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378460/zcash-closes-on-1400-after-coinholders-vote-to-keep-bitcoin-style-halvings",
+      "pubDate": 1789646713000
+    },
+    {
+      "title": "Zcash miner Fortitude names former Hut 8 chief Jaime Leverton CEO ahead of Nasdaq deal",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/17/zcash-miner-fortitude-names-former-hut-8-chief-jaime-leverton-ceo-ahead-of-nasdaq-deal",
+      "pubDate": 1789646400000
+    },
+    {
+      "title": "State hackers drive 420% surge in onchain malware, Chainalysis finds",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/onchain-malware-writes-surge-420-north-korea-iran-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789646400000
+    },
+    {
+      "title": "How Circle’s institutional Arc blockchain got taken over by memecoins on day one",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/17/circle-launched-a-corporate-l2-backed-by-blackrock-but-traders-immediately-turned-it-into-a-memecoin-casino",
+      "pubDate": 1789645342000
+    },
+    {
+      "title": "Optimism creeps back into crypto, with the 2022 test still to come",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/17/optimism-creeps-back-into-crypto-with-the-2022-test-still-to-come",
+      "pubDate": 1789643949000
+    },
+    {
+      "title": "Live updates: Bitcoin rises as oil sinks on report of China intervention on Iran",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
+      "pubDate": 1789641675000
+    },
+    {
+      "title": "Crypto rallies through the Fed's first rate increase since 2023",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/17/crypto-rallies-through-the-fed-s-first-rate-increase-since-2023",
+      "pubDate": 1789641601000
+    },
+    {
+      "title": "Zcash gains 20% as Paradigm founder reveals firm made ZEC investment",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/zcash-zec-price-paradigm-investment-privacy-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789641329000
+    },
+    {
+      "title": "House Committee Advances US Bitcoin Reserve Bill on Party-Line Split",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378457/house-committee-advances-us-bitcoin-reserve-bill-on-party-line-split",
+      "pubDate": 1789640661000
+    },
+    {
+      "title": "Revolut says no direct contact from hackers after $3M public ransom demand",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/revolut-data-breach-monero-ransom-no-direct-contact?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789639071000
+    },
+    {
+      "title": "Polymarket users referred to prosecutors in South Korea: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-polymarket-users-prosecutors-gambling-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789637852000
+    },
+    {
+      "title": "Bitcoin treasuries buy just 5.9K BTC in three months as paper losses linger",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-treasuries-buy-just-59k-btc-in-three-months-as-paper-losses-linger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789635631000
+    },
+    {
+      "title": "Bitcoin faces 2022 parallels as Federal Reserve resumes rate increases",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
+      "pubDate": 1789634508000
+    },
+    {
+      "title": "Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
+      "pubDate": 1789631673000
+    },
     {
       "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
       "source": "CoinDesk",
@@ -265,102 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/378363/fca-guidance-lands-two-weeks-before-uk-crypto-authorization-window-opens",
       "pubDate": 1789564353000
-    },
-    {
-      "title": "A stolen coin can be returned. A leaked identity cannot.",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/opinion/2026/09/16/a-stolen-coin-can-be-returned-a-leaked-identity-cannot",
-      "pubDate": 1789563600000
-    },
-    {
-      "title": "Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789562180000
-    },
-    {
-      "title": "Morning Minute: Clarity Act Vote Falls Short as Democrats All Vote ‘No’",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378352/morning-minute-clarity-act-vote-falls-short-as-democrats-all-vote-no",
-      "pubDate": 1789561070000
-    },
-    {
-      "title": "Bitcoin Hovers at $76K as Analysts Argue the Fed Matters More Than Clarity Act",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378351/bitcoin-hovers-at-76k-as-analysts-argue-the-fed-matters-more-than-clarity-act",
-      "pubDate": 1789560741000
-    },
-    {
-      "title": "Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
-      "pubDate": 1789560041000
-    },
-    {
-      "title": "Zcash holders back 25-second blocks, vote to keep ZEC halving schedule",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/zcash-nu7-poll-faster-blocks-zec-halvings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789559199000
-    },
-    {
-      "title": "Circle launches Arc mainnet with USDC as native gas token",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/circle-arc-mainnet-launch-usdc-native-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789558784000
-    },
-    {
-      "title": "Bitcoin loses touch with the Dollar Index, U.S. stocks ahead of the Fed",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed",
-      "pubDate": 1789557411000
-    },
-    {
-      "title": "Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-traders-brace-for-fed-hike-but-a-surprise-hold-could-pose-bigger-risk",
-      "pubDate": 1789556400000
-    },
-    {
-      "title": "Two Prime makes onchain finance push with $10 million-backed bitcoin yield vault",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
-      "pubDate": 1789556400000
-    },
-    {
-      "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
-      "pubDate": 1789555724000
-    },
-    {
-      "title": "Deutsche Bank close to debuting crypto custody for institutions",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
-      "pubDate": 1789555588000
-    },
-    {
-      "title": "Live updates: Bitcoin steady as stocks slide following Fed rate hike, Warsh press conference",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
-      "pubDate": 1789555066000
-    },
-    {
-      "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789554792000
-    },
-    {
-      "title": "Ethiopia cuts Bitcoin miners’ power by 77% amid hydropower shortage: Report",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ethiopia-bitcoin-mining-power-cut-hydro-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789553499000
-    },
-    {
-      "title": "Italy investigates government email breach linked to Revolut data leak",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/italy-government-email-breach-revolut-data-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789552728000
     }
   ]
 }
