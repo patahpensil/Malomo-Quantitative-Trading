@@ -1,7 +1,49 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789609136299,
+  "generatedAt": 1789630345598,
   "articles": [
+    {
+      "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
+      "pubDate": 1789630027000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789624891000
+    },
+    {
+      "title": "BitMEX faces Celsius lawsuit ahead of exchange closure",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789624518000
+    },
+    {
+      "title": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789624146000
+    },
+    {
+      "title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
+      "pubDate": 1789620447000
+    },
+    {
+      "title": "Goldman pivots, now forecasts Fed rate hike in October",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
+      "pubDate": 1789618675000
+    },
+    {
+      "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789613528000
+    },
     {
       "title": "US lawmakers advance bill to lock Trump’s Bitcoin reserve into law",
       "source": "Cointelegraph",
@@ -49,12 +91,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right",
       "pubDate": 1789587804000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789586746000
     },
     {
       "title": "UK FCA sets crypto authorization guidance ahead of September application window",
@@ -315,12 +351,6 @@
       "pubDate": 1789554792000
     },
     {
-      "title": "Circle debuts Arc blockchain which Jeremy Allaire calls ‘more consequential’ than USDC",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/15/circle-debuts-arc-blockchain-which-jeremy-allaire-calls-more-consequential-than-usdc",
-      "pubDate": 1789554600000
-    },
-    {
       "title": "Ethiopia cuts Bitcoin miners’ power by 77% amid hydropower shortage: Report",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/ethiopia-bitcoin-mining-power-cut-hydro-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -331,36 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/italy-government-email-breach-revolut-data-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789552728000
-    },
-    {
-      "title": "Bitcoin's Coinbase premium sinks to one-month low, here’s why",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-s-coinbase-premium-sinks-to-one-month-low-here-s-why",
-      "pubDate": 1789552632000
-    },
-    {
-      "title": "Bitcoin Coinbase Premium hits monthly low as CLARITY Act vote squeezes US demand",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-coinbase-premium-hits-monthly-low-as-clarity-act-vote-squeezes-us-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789552516000
-    },
-    {
-      "title": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/16/two-robinhood-engineers-charged-with-insider-trading-using-hyperliquid-perpetuals",
-      "pubDate": 1789551757000
-    },
-    {
-      "title": "UK Backs Money Laundering Crackdown With $676M and 500 New Officers",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378337/uk-backs-money-laundering-crackdown-with-676m-and-500-new-officers",
-      "pubDate": 1789551713000
-    },
-    {
-      "title": "Tonkeeper Becomes Keeper as Wallet Adds Bitcoin, Ethereum, and Tron",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378265/tonkeeper-keeper-adds-bitcoin-ethereum-tron",
-      "pubDate": 1789549263000
     }
   ]
 }
