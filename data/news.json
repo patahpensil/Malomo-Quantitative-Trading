@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789600335472,
+  "generatedAt": 1789609136299,
   "articles": [
+    {
+      "title": "US lawmakers advance bill to lock Trump’s Bitcoin reserve into law",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789604624000
+    },
     {
       "title": "Crypto Tax Bill Clears House Committee After Clarity Act Setback",
       "source": "Decrypt",
@@ -355,12 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/378265/tonkeeper-keeper-adds-bitcoin-ethereum-tron",
       "pubDate": 1789549263000
-    },
-    {
-      "title": "ECB seeks online merchants for 2027 digital euro pilot",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ecb-online-merchants-2027-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789547804000
     }
   ]
 }
