@@ -1,7 +1,67 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789693962330,
+  "generatedAt": 1789713100660,
   "articles": [
+    {
+      "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
+      "pubDate": 1789712217000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789711200000
+    },
+    {
+      "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
+      "pubDate": 1789710201000
+    },
+    {
+      "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
+      "pubDate": 1789709009000
+    },
+    {
+      "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789707089000
+    },
+    {
+      "title": "Ether and XRP ETFs post outflows as bitcoin moves above $77,000",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
+      "pubDate": 1789706957000
+    },
+    {
+      "title": "Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/cardanos-iog-warns-users-to-avoid-youtube-channel-amid-giveaway-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789704700000
+    },
+    {
+      "title": "World launches self-custodial ‘super app’ World Money",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789702828000
+    },
+    {
+      "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
+      "pubDate": 1789700618000
+    },
+    {
+      "title": "US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789695234000
+    },
     {
       "title": "Dan Hillery: Digital Credit Could Rival BTC’s $1.5 Trillion Market Cap",
       "source": "Bitcoin Magazine",
@@ -61,12 +121,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/378553/why-chipotle-working-with-palantir",
       "pubDate": 1789677963000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789677840000
     },
     {
       "title": "CFTC Opens Door for Crypto Apps to Offer Regulated Derivatives Access",
@@ -307,60 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
       "pubDate": 1789641675000
-    },
-    {
-      "title": "Crypto rallies through the Fed's first rate increase since 2023",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/17/crypto-rallies-through-the-fed-s-first-rate-increase-since-2023",
-      "pubDate": 1789641601000
-    },
-    {
-      "title": "Zcash gains 20% as Paradigm founder reveals firm made ZEC investment",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/zcash-zec-price-paradigm-investment-privacy-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789641329000
-    },
-    {
-      "title": "House Committee Advances US Bitcoin Reserve Bill on Party-Line Split",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378457/house-committee-advances-us-bitcoin-reserve-bill-on-party-line-split",
-      "pubDate": 1789640661000
-    },
-    {
-      "title": "Revolut says no direct contact from hackers after $3M public ransom demand",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/revolut-data-breach-monero-ransom-no-direct-contact?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789639071000
-    },
-    {
-      "title": "Polymarket users referred to prosecutors in South Korea: Report",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-polymarket-users-prosecutors-gambling-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789637852000
-    },
-    {
-      "title": "Bitcoin treasuries buy just 5.9K BTC in three months as paper losses linger",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-treasuries-buy-just-59k-btc-in-three-months-as-paper-losses-linger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789635631000
-    },
-    {
-      "title": "Bitcoin faces 2022 parallels as Federal Reserve resumes rate increases",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
-      "pubDate": 1789634508000
-    },
-    {
-      "title": "Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
-      "pubDate": 1789631673000
-    },
-    {
-      "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
-      "pubDate": 1789630027000
     }
   ]
 }
