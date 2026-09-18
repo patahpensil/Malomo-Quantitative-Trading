@@ -1,7 +1,43 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789758497262,
+  "generatedAt": 1789768056565,
   "articles": [
+    {
+      "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
+      "pubDate": 1789765290000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789765200000
+    },
+    {
+      "title": "CFTC Sends Proposal To Regulate Crypto Transactions Following Clarity Act Fail",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/cftc-proposes-rules-following-clarity-fail",
+      "pubDate": 1789761613000
+    },
+    {
+      "title": "Coinbase files to bring single-stock perpetual futures to US market",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789761234000
+    },
+    {
+      "title": "Zcash Is Running—Devs Want to Make It Faster",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
+      "pubDate": 1789758963000
+    },
+    {
+      "title": "Binance launches 24/7 FX perps with weekend pricing system",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789758390000
+    },
     {
       "title": "Bitcoin Will Hit $1 Million, Says Kevin O’Leary—But There’s a Quantum Catch",
       "source": "Decrypt",
@@ -79,12 +115,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789740283000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789738451000
     },
     {
       "title": "DHS’s predictive policing is unconstitutional, un-American and should be stopped",
@@ -331,36 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/378551/openai-progress-second-millennium-prize-math-problem",
       "pubDate": 1789673542000
-    },
-    {
-      "title": "CFTC expands regulatory relief for passive trading software providers",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789673448000
-    },
-    {
-      "title": "Bitcoin ETFs Could Triple Gold Counterparts as Asset Matures: Expert",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-etfs-could-triple-gold-etfs",
-      "pubDate": 1789673041000
-    },
-    {
-      "title": "Ethereum Founder Vitalik Buterin Says AI Won’t Doom Crypto Security",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378544/ethereum-vitalik-buterin-ai-crypto-security",
-      "pubDate": 1789671665000
-    },
-    {
-      "title": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
-      "pubDate": 1789670438000
-    },
-    {
-      "title": "SEC opens door to tokenized U.S. stock trading. Here’s who could benefit",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
-      "pubDate": 1789670290000
     }
   ]
 }
