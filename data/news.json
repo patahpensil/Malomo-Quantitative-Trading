@@ -1,7 +1,109 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789731684608,
+  "generatedAt": 1789748271338,
   "articles": [
+    {
+      "title": "CFTC Kicks Off Crypto Rulemaking, Bypassing a Stalled Congress",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act",
+      "pubDate": 1789747693000
+    },
+    {
+      "title": "CFTC submits crypto market regulation plan for White House review",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789747462000
+    },
+    {
+      "title": "Bitcoin Community Recognizes Quantum Computing Risk: VanEck",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-community-recognizes-quantum-risk",
+      "pubDate": 1789746952000
+    },
+    {
+      "title": "Bitcoin hits $81K as US bond yields rebound on global oil woes",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789745759000
+    },
+    {
+      "title": "Bitcoin Blasts Past $80K and a Fresh Short Squeeze Is On",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378630/bitcoin-blasts-short-squeeze-crypto-liquidations",
+      "pubDate": 1789744969000
+    },
+    {
+      "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
+      "pubDate": 1789744597000
+    },
+    {
+      "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
+      "pubDate": 1789743991000
+    },
+    {
+      "title": "The Next 3-5 Years of Bitcoin Lending",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/the-next-3-5-years-of-bitcoin-lending",
+      "pubDate": 1789742267000
+    },
+    {
+      "title": "Banks double on EU MiCA crypto provider list as share hits 23%",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789740283000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789738451000
+    },
+    {
+      "title": "DHS’s predictive policing is unconstitutional, un-American and should be stopped",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
+      "pubDate": 1789736400000
+    },
+    {
+      "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
+      "pubDate": 1789736226000
+    },
+    {
+      "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378622/microsoft-staff-asked-if-ai-scraping-was-largest-theft-of-labor-in-human-history",
+      "pubDate": 1789735923000
+    },
+    {
+      "title": "Zcash targets November upgrade to make private payments up to three times faster",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/18/zcash-targets-november-upgrade-to-make-private-payments-up-to-three-times-faster",
+      "pubDate": 1789735801000
+    },
+    {
+      "title": "Ethereum Institutional signals support for Ethlabs’ motion to reduce Ethereum block times",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ethereum-institutional-support-ethlabs-reduce-ethereum-block-times?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789735204000
+    },
+    {
+      "title": "Morning Minute: SEC Approves ‘Innovation Exemption’ Moving Tokenized Stocks Forward",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378619/morning-minute-sec-approves-innovation-exemption-moving-tokenized-stocks-forward",
+      "pubDate": 1789734890000
+    },
+    {
+      "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789732464000
+    },
     {
       "title": "Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028",
       "source": "Cointelegraph",
@@ -39,7 +141,7 @@
       "pubDate": 1789725453000
     },
     {
-      "title": "Live updates: HYPE leads altcoin rally as bitcoin recovers toward $78,000",
+      "title": "Live updates: Bitcoin climbs over $80,000 as rally accelerates at U.S. market open",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
       "pubDate": 1789724991000
@@ -85,12 +187,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
       "pubDate": 1789712217000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789711200000
     },
     {
       "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
@@ -265,102 +361,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/clarity-act-fails-sec-pushes-tokenization",
       "pubDate": 1789665099000
-    },
-    {
-      "title": "Bitcoin Bounces as Markets Brace for the Fed’s Next Move",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378506/bitcoin-bounces-wall-street-fed-next-move",
-      "pubDate": 1789664463000
-    },
-    {
-      "title": "Is there any chance left to save the CLARITY Act?",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/is-there-any-chance-left-to-save-the-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789664400000
-    },
-    {
-      "title": "Financial Data Giant S&P Global Moves Deeper Into Crypto With OpenZeppelin Deal",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378505/sp-global-acquire-crypto-openzeppelin",
-      "pubDate": 1789662792000
-    },
-    {
-      "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789662143000
-    },
-    {
-      "title": "Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/former-hut-8-ceo-jaime-leverton-to-lead-zcash-miner-fortitude-ahead-of-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789660713000
-    },
-    {
-      "title": "Ric Edelman: Buying Bitcoin Today Is Like Buying Amazon in 1999",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/ric-edelman-says-bitcoin-is-like-amazon",
-      "pubDate": 1789660490000
-    },
-    {
-      "title": "FCA Targets Three More London Sites Over Unregistered P2P Crypto Trading",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378495/fca-targets-three-more-london-sites-over-unregistered-p2p-crypto-trading",
-      "pubDate": 1789658479000
-    },
-    {
-      "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
-      "pubDate": 1789657704000
-    },
-    {
-      "title": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
-      "pubDate": 1789657399000
-    },
-    {
-      "title": "Crypto for Advisors: Beyond bitcoin and ether",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
-      "pubDate": 1789657031000
-    },
-    {
-      "title": "SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378492/sec-innovation-exemption-tokenized-stocks-clarity-act",
-      "pubDate": 1789656723000
-    },
-    {
-      "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
-      "pubDate": 1789656658000
-    },
-    {
-      "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
-      "pubDate": 1789656007000
-    },
-    {
-      "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789652157000
-    },
-    {
-      "title": "SEC grants temporary exemption for tokenized US stock trading",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789652057000
-    },
-    {
-      "title": "Bitcoin treasury firms can outperform BTC... but is the risk worth taking?",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789651800000
     }
   ]
 }
