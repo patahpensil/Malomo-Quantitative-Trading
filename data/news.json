@@ -1,7 +1,85 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789713100660,
+  "generatedAt": 1789731684608,
   "articles": [
+    {
+      "title": "Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789730544000
+    },
+    {
+      "title": "XRP on the brink of a golden cross as focus switches to altcoins",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
+      "pubDate": 1789730100000
+    },
+    {
+      "title": "Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789728377000
+    },
+    {
+      "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
+      "pubDate": 1789727585000
+    },
+    {
+      "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
+      "pubDate": 1789726053000
+    },
+    {
+      "title": "UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Killings",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378611/uae-sweden-arrest-seven-over-7-1m-crypto-laundering-ring-linked-to-contract-killings",
+      "pubDate": 1789725453000
+    },
+    {
+      "title": "Live updates: HYPE leads altcoin rally as bitcoin recovers toward $78,000",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
+      "pubDate": 1789724991000
+    },
+    {
+      "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789722843000
+    },
+    {
+      "title": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378604/treasury-sanctions-crypto-exchange-behind-irans-bitcoin-tolls-on-hormuz-ships",
+      "pubDate": 1789722115000
+    },
+    {
+      "title": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789721438000
+    },
+    {
+      "title": "Bitcoin cycle bottom may already be in at $58K, says analyst James Check",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-cycle-bottom-58k-james-check?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789721240000
+    },
+    {
+      "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
+      "pubDate": 1789717052000
+    },
+    {
+      "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
+      "pubDate": 1789714343000
+    },
     {
       "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
       "source": "CoinDesk",
@@ -33,7 +111,7 @@
       "pubDate": 1789707089000
     },
     {
-      "title": "Ether and XRP ETFs post outflows as bitcoin moves above $77,000",
+      "title": "Ether and XRP ETFs post outflows as crypto majors move higher",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
       "pubDate": 1789706957000
@@ -283,84 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789651800000
-    },
-    {
-      "title": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push",
-      "pubDate": 1789650921000
-    },
-    {
-      "title": "SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/17/sec-rolls-out-long-awaited-innovation-exemption-for-tokenized-securities-venues",
-      "pubDate": 1789650000000
-    },
-    {
-      "title": "S&P Global to acquire blockchain security platform OpenZeppelin",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/sp-global-openzeppelin-acquisition-blockchain-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789649783000
-    },
-    {
-      "title": "Revolut Hackers Demand $3M Monero Ransom, Threaten to Sell Customer Data: Report",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378472/revolut-hackers-demand-3m-monero-ransom-threaten-to-sell-customer-data-report",
-      "pubDate": 1789649581000
-    },
-    {
-      "title": "Ethereum’s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity",
-      "pubDate": 1789648641000
-    },
-    {
-      "title": "Crypto adoption blooming in Germany, while UK is falling ‘behind,’ says CoinShares researcher",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/crypto-adoption-blooming-germany-uk-behind-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789648451000
-    },
-    {
-      "title": "Morning Minute: Crypto Rebounds After The Fed’s First Hike Since 2023",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378462/morning-minute-crypto-rebounds-after-the-feds-first-hike-since-2023",
-      "pubDate": 1789647200000
-    },
-    {
-      "title": "Zcash Closes On $1,400 After Coinholders Vote to Keep Bitcoin-Style Halvings",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378460/zcash-closes-on-1400-after-coinholders-vote-to-keep-bitcoin-style-halvings",
-      "pubDate": 1789646713000
-    },
-    {
-      "title": "Zcash miner Fortitude names former Hut 8 chief Jaime Leverton CEO ahead of Nasdaq deal",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/17/zcash-miner-fortitude-names-former-hut-8-chief-jaime-leverton-ceo-ahead-of-nasdaq-deal",
-      "pubDate": 1789646400000
-    },
-    {
-      "title": "State hackers drive 420% surge in onchain malware, Chainalysis finds",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/onchain-malware-writes-surge-420-north-korea-iran-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789646400000
-    },
-    {
-      "title": "How Circle’s institutional Arc blockchain got taken over by memecoins on day one",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/17/circle-launched-a-corporate-l2-backed-by-blackrock-but-traders-immediately-turned-it-into-a-memecoin-casino",
-      "pubDate": 1789645342000
-    },
-    {
-      "title": "Optimism creeps back into crypto, with the 2022 test still to come",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/17/optimism-creeps-back-into-crypto-with-the-2022-test-still-to-come",
-      "pubDate": 1789643949000
-    },
-    {
-      "title": "Live updates: Bitcoin edges higher as Nasdaq climbs 1.7% in wake of Fed rate hike",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
-      "pubDate": 1789641675000
     }
   ]
 }
