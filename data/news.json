@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789686079777,
+  "generatedAt": 1789693962330,
   "articles": [
+    {
+      "title": "Dan Hillery: Digital Credit Could Rival BTC’s $1.5 Trillion Market Cap",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/dan-hillery-digital-credit-could-rival-btcs-1-5-trillion-market-cap",
+      "pubDate": 1789693058000
+    },
+    {
+      "title": "North Korea drives onchain malware surge, CoinEx shuts: Asia Express",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789688963000
+    },
     {
       "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them",
       "source": "Decrypt",
@@ -349,18 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
       "pubDate": 1789630027000
-    },
-    {
-      "title": "BitMEX faces Celsius lawsuit ahead of exchange closure",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789624518000
-    },
-    {
-      "title": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789624146000
     }
   ]
 }
