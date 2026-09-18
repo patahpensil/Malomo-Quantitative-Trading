@@ -1,7 +1,31 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789748271338,
+  "generatedAt": 1789758497262,
   "articles": [
+    {
+      "title": "Bitcoin Will Hit $1 Million, Says Kevin O’Leary—But There’s a Quantum Catch",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch",
+      "pubDate": 1789756554000
+    },
+    {
+      "title": "Crypto stocks rebound after CLARITY Act selloff",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789754157000
+    },
+    {
+      "title": "Bitcoin Price Surges Over $81,000 Despite Clarity Act Fail and Interest Rate Hike",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-jumps-over-81000",
+      "pubDate": 1789750008000
+    },
+    {
+      "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
+      "pubDate": 1789749752000
+    },
     {
       "title": "CFTC Kicks Off Crypto Rulemaking, Bypassing a Stalled Congress",
       "source": "Decrypt",
@@ -141,7 +165,7 @@
       "pubDate": 1789725453000
     },
     {
-      "title": "Live updates: Bitcoin climbs over $80,000 as rally accelerates at U.S. market open",
+      "title": "Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
       "pubDate": 1789724991000
@@ -337,30 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
       "pubDate": 1789670290000
-    },
-    {
-      "title": "Andrew Yang Calls for AI Kill Switch as Safety Fears Mount",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378522/andrew-yang-ai-kill-switch-safety-fears",
-      "pubDate": 1789668363000
-    },
-    {
-      "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378504/king-charles-openai-anthropic-nvidia-google-deepmind-ai-safety",
-      "pubDate": 1789666562000
-    },
-    {
-      "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789666272000
-    },
-    {
-      "title": "SEC Green Lights Tokenized Stock Trading Despite Clarity Act Fail",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/clarity-act-fails-sec-pushes-tokenization",
-      "pubDate": 1789665099000
     }
   ]
 }
