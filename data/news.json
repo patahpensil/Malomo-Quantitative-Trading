@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789768056565,
+  "generatedAt": 1789776481389,
   "articles": [
+    {
+      "title": "European Central Bank President Blocked Binance’s EU Entry: Report",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-binance",
+      "pubDate": 1789768081000
+    },
     {
       "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
       "source": "Decrypt",
@@ -355,12 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/378560/cftc-crypto-apps-regulated-derivatives-access",
       "pubDate": 1789676164000
-    },
-    {
-      "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378551/openai-progress-second-millennium-prize-math-problem",
-      "pubDate": 1789673542000
     }
   ]
 }
