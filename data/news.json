@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789836253123,
+  "generatedAt": 1789845388498,
   "articles": [
+    {
+      "title": "Kalshi joins Coinbase with filing for US stock perpetual futures",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789842916000
+    },
+    {
+      "title": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378688/how-clarity-act-defeat-sec-cftc-wheel-crypto",
+      "pubDate": 1789837263000
+    },
     {
       "title": "VanEck criticizes Metaplanet over executive dilution despite compensation cuts",
       "source": "Cointelegraph",
@@ -345,22 +357,10 @@
       "pubDate": 1789704700000
     },
     {
-      "title": "World launches self-custodial ‘super app’ World Money",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789702828000
-    },
-    {
       "title": "Dan Hillery: Digital Credit Could Rival BTC’s $1.5 Trillion Market Cap",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/videos/dan-hillery-digital-credit-could-rival-btcs-1-5-trillion-market-cap",
       "pubDate": 1789693058000
-    },
-    {
-      "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying",
-      "pubDate": 1789684263000
     }
   ]
 }
