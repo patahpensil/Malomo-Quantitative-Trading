@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789845388498,
+  "generatedAt": 1789854047146,
   "articles": [
+    {
+      "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789845278000
+    },
     {
       "title": "Kalshi joins Coinbase with filing for US stock perpetual futures",
       "source": "Cointelegraph",
@@ -349,12 +355,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789707089000
-    },
-    {
-      "title": "Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/cardanos-iog-warns-users-to-avoid-youtube-channel-amid-giveaway-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789704700000
     },
     {
       "title": "Dan Hillery: Digital Credit Could Rival BTC’s $1.5 Trillion Market Cap",
