@@ -1,7 +1,37 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789809747521,
+  "generatedAt": 1789824007482,
   "articles": [
+    {
+      "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
+      "pubDate": 1789822864000
+    },
+    {
+      "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
+      "pubDate": 1789820037000
+    },
+    {
+      "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
+      "pubDate": 1789819200000
+    },
+    {
+      "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
+      "pubDate": 1789819200000
+    },
+    {
+      "title": "Bastion wins conditional OCC approval for national trust bank charter",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789818449000
+    },
     {
       "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
       "source": "Cointelegraph",
@@ -309,12 +339,6 @@
       "pubDate": 1789693058000
     },
     {
-      "title": "North Korea drives onchain malware surge, CoinEx shuts: Asia Express",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789688963000
-    },
-    {
       "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them",
       "source": "Decrypt",
       "link": "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying",
@@ -337,30 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/378575/us-china-never-let-ai-control-nukes",
       "pubDate": 1789681563000
-    },
-    {
-      "title": "The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
-      "pubDate": 1789680515000
-    },
-    {
-      "title": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378573/elon-musk-spacex-buy-startup-data-train-ai",
-      "pubDate": 1789679763000
-    },
-    {
-      "title": "Bitcoin Price Unlikely To Be Bothered by Interest Rate Hike: Grayscale",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-not-bothered-by-fed-says-grayscale",
-      "pubDate": 1789679331000
-    },
-    {
-      "title": "Why Is Chipotle Now Working With the CIA-Funded Palantir?",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378553/why-chipotle-working-with-palantir",
-      "pubDate": 1789677963000
     }
   ]
 }
