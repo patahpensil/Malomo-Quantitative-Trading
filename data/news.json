@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789793770634,
+  "generatedAt": 1789809747521,
   "articles": [
+    {
+      "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789804258000
+    },
     {
       "title": "European Central Bank President Blocked Binance’s EU Entry: Report",
       "source": "Bitcoin Magazine",
@@ -355,12 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/378553/why-chipotle-working-with-palantir",
       "pubDate": 1789677963000
-    },
-    {
-      "title": "CFTC Opens Door for Crypto Apps to Offer Regulated Derivatives Access",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378560/cftc-crypto-apps-regulated-derivatives-access",
-      "pubDate": 1789676164000
     }
   ]
 }
