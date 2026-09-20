@@ -1,7 +1,61 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789897346125,
+  "generatedAt": 1789913119534,
   "articles": [
+    {
+      "title": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet",
+      "pubDate": 1789912863000
+    },
+    {
+      "title": "Move Over Housing – Bitcoin is Gen Z’s New Wealth Building Asset",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/move-over-housing-bitcoin-is-gen-zs-new-wealth-building-asset",
+      "pubDate": 1789911241000
+    },
+    {
+      "title": "T. Rowe Price’s Blue Macellari: Bitcoin is Now Core to the Debasement Conversation",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/t-rowe-prices-blue-macellari-bitcoin-is-now-core-to-the-debasement-conversation",
+      "pubDate": 1789910677000
+    },
+    {
+      "title": "Coinbase Policy Chief: Strategic Bitcoin Reserve Bill Outlook",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/coinbase-policy-chief-strategic-bitcoin-reserve-bill-outlook",
+      "pubDate": 1789910142000
+    },
+    {
+      "title": "Strategy CEO Phong Le: We Want to Be the JPMorgan of Bitcoin",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/strategy-ceo-phong-le-jpmorgan-of-bitcoin",
+      "pubDate": 1789909606000
+    },
+    {
+      "title": "Why Legendary Investor Bill Miller IV has “Never Been More Bullish on Bitcoin”",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/bill-miller-iv-bullish-on-bitcoin",
+      "pubDate": 1789909054000
+    },
+    {
+      "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789905652000
+    },
+    {
+      "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
+      "pubDate": 1789905600000
+    },
+    {
+      "title": "Crypto traders braced for a total wipeout this week but Bitcoin had other plans",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
+      "pubDate": 1789905600000
+    },
     {
       "title": "Grayscale’s Zcash ETF files for 3-for-1 forward share split",
       "source": "Cointelegraph",
@@ -307,60 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
       "pubDate": 1789724991000
-    },
-    {
-      "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789722843000
-    },
-    {
-      "title": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378604/treasury-sanctions-crypto-exchange-behind-irans-bitcoin-tolls-on-hormuz-ships",
-      "pubDate": 1789722115000
-    },
-    {
-      "title": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789721438000
-    },
-    {
-      "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
-      "pubDate": 1789717052000
-    },
-    {
-      "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
-      "pubDate": 1789714343000
-    },
-    {
-      "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
-      "pubDate": 1789712217000
-    },
-    {
-      "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
-      "pubDate": 1789710201000
-    },
-    {
-      "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
-      "pubDate": 1789709009000
-    },
-    {
-      "title": "Dan Hillery: Digital Credit Could Rival BTC’s $1.5 Trillion Market Cap",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/dan-hillery-digital-credit-could-rival-btcs-1-5-trillion-market-cap",
-      "pubDate": 1789693058000
     }
   ]
 }
