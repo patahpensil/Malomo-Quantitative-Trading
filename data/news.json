@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789913119534,
+  "generatedAt": 1789925101299,
   "articles": [
+    {
+      "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
+      "pubDate": 1789920063000
+    },
+    {
+      "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
+      "pubDate": 1789916088000
+    },
     {
       "title": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years",
       "source": "Decrypt",
@@ -349,18 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
       "pubDate": 1789726053000
-    },
-    {
-      "title": "UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Killings",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378611/uae-sweden-arrest-seven-over-7-1m-crypto-laundering-ring-linked-to-contract-killings",
-      "pubDate": 1789725453000
-    },
-    {
-      "title": "Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
-      "pubDate": 1789724991000
     }
   ]
 }
