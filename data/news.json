@@ -1,7 +1,79 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789968040891,
+  "generatedAt": 1789988501068,
   "articles": [
+    {
+      "title": "NEAR jumps nearly 80% in a week as Intents volume nears $30B",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/near-price-surge-intents-zcash-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789987955000
+    },
+    {
+      "title": "Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets",
+      "pubDate": 1789986600000
+    },
+    {
+      "title": "BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789985751000
+    },
+    {
+      "title": "X sues its own users for running a fake bitcoin news bot farm",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/21/x-sues-its-won-users-for-running-a-fake-bitcoin-news-bot-farm",
+      "pubDate": 1789985744000
+    },
+    {
+      "title": "Crypto Worker's Children Held Hostage in Latest French ‘Wrench Attack,’ $46,000 Taken",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378720/crypto-workers-children-held-hostage-in-latest-french-wrench-attack-46000-taken",
+      "pubDate": 1789984284000
+    },
+    {
+      "title": "X sues Bitcoin account operators over alleged $278K payout fraud",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789983325000
+    },
+    {
+      "title": "Crypto enjoys bullish bounce post-Fed rate hike: Crypto Week Ahead",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/21/crypto-week-ahead",
+      "pubDate": 1789981962000
+    },
+    {
+      "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain",
+      "pubDate": 1789980599000
+    },
+    {
+      "title": "Live updates: Bitcoin hits $85,000 as short liquidations hit $300 million in an hour",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
+      "pubDate": 1789979966000
+    },
+    {
+      "title": "ZetaChain holders approve plan to wind down L1, move ZETA to Solana",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789975907000
+    },
+    {
+      "title": "Bank of Korea launches 24-hour won settlement pilot for foreign investors",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bank-korea-won-settlement-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789972883000
+    },
+    {
+      "title": "Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades",
+      "pubDate": 1789971647000
+    },
     {
       "title": "Here’s what happened in crypto today",
       "source": "Cointelegraph",
@@ -9,7 +81,7 @@
       "pubDate": 1789965888000
     },
     {
-      "title": "Bitcoin reclaims 50-week moving average: Is the bear market over?",
+      "title": "Bitcoin reclaims 50-week moving average as analysts eye end of bear market",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789964999000
@@ -261,12 +333,6 @@
       "pubDate": 1789756554000
     },
     {
-      "title": "Crypto stocks rebound after CLARITY Act selloff",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789754157000
-    },
-    {
       "title": "Bitcoin Price Surges Over $81,000 Despite Clarity Act Fail and Interest Rate Hike",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/markets/bitcoin-price-jumps-over-81000",
@@ -285,82 +351,16 @@
       "pubDate": 1789747693000
     },
     {
-      "title": "CFTC submits crypto market regulation plan for White House review",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789747462000
-    },
-    {
       "title": "Bitcoin Community Recognizes Quantum Computing Risk: VanEck",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/bitcoin-community-recognizes-quantum-risk",
       "pubDate": 1789746952000
     },
     {
-      "title": "Bitcoin hits $81K as US bond yields rebound on global oil woes",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789745759000
-    },
-    {
       "title": "Bitcoin Blasts Past $80K and a Fresh Short Squeeze Is On",
       "source": "Decrypt",
       "link": "https://decrypt.co/378630/bitcoin-blasts-short-squeeze-crypto-liquidations",
       "pubDate": 1789744969000
-    },
-    {
-      "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
-      "pubDate": 1789744597000
-    },
-    {
-      "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
-      "pubDate": 1789743991000
-    },
-    {
-      "title": "Banks double on EU MiCA crypto provider list as share hits 23%",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789740283000
-    },
-    {
-      "title": "DHS’s predictive policing is unconstitutional, un-American and should be stopped",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
-      "pubDate": 1789736400000
-    },
-    {
-      "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
-      "pubDate": 1789736226000
-    },
-    {
-      "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378622/microsoft-staff-asked-if-ai-scraping-was-largest-theft-of-labor-in-human-history",
-      "pubDate": 1789735923000
-    },
-    {
-      "title": "Zcash targets November upgrade to make private payments up to three times faster",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/18/zcash-targets-november-upgrade-to-make-private-payments-up-to-three-times-faster",
-      "pubDate": 1789735801000
-    },
-    {
-      "title": "Ethereum Institutional signals support for Ethlabs’ motion to reduce Ethereum block times",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ethereum-institutional-support-ethlabs-reduce-ethereum-block-times?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789735204000
-    },
-    {
-      "title": "Morning Minute: SEC Approves ‘Innovation Exemption’ Moving Tokenized Stocks Forward",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378619/morning-minute-sec-approves-innovation-exemption-moving-tokenized-stocks-forward",
-      "pubDate": 1789734890000
     }
   ]
 }
