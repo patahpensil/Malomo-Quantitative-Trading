@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789942901781,
+  "generatedAt": 1789950414891,
   "articles": [
+    {
+      "title": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789947459000
+    },
     {
       "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
       "source": "Decrypt",
@@ -355,12 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
       "pubDate": 1789727585000
-    },
-    {
-      "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
-      "pubDate": 1789726053000
     }
   ]
 }
