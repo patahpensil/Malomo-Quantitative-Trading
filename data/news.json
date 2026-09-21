@@ -1,7 +1,103 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790009830374,
+  "generatedAt": 1790024210625,
   "articles": [
+    {
+      "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
+      "pubDate": 1790023179000
+    },
+    {
+      "title": "Saudi Arabia exits China-backed mBridge CBDC project: FT",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790023035000
+    },
+    {
+      "title": "Bitcoin ETF Holders Back in the Black as Price Barrels Towards $87,000",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-etf-holders-back-in-profit",
+      "pubDate": 1790022752000
+    },
+    {
+      "title": "X Sues Two Bitcoin Influencers Over Bot Army That Milked Creator Payouts",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378877/x-sues-bitcoin-influencers-bot-army-creator-payout",
+      "pubDate": 1790021763000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790020384000
+    },
+    {
+      "title": "Jordi Visser: Why AI Agents Make the BTC Bull Case",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/jordi-visser-ai-agents-btc-bull-case",
+      "pubDate": 1790019951000
+    },
+    {
+      "title": "Strategy and Strive Announce $182.7 Million Bitcoin Buy as Price Surges Past $86,000",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/strategy-strive-buy-bitcoin",
+      "pubDate": 1790019108000
+    },
+    {
+      "title": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura",
+      "pubDate": 1790018809000
+    },
+    {
+      "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
+      "pubDate": 1790017720000
+    },
+    {
+      "title": "Europe’s Central Bank Prepares to Invest Own Funds in Tokenized Securities",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities",
+      "pubDate": 1790017204000
+    },
+    {
+      "title": "Ondo lets institutions convert stocks directly into tokenized shares",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790015743000
+    },
+    {
+      "title": "What Is VVV? The Privacy-Obsessed AI Token That’s Up 3,000% in 2026",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378840/what-is-vvv-privacy-ai-token-up-3000-percent-2026",
+      "pubDate": 1790015463000
+    },
+    {
+      "title": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790014522000
+    },
+    {
+      "title": "Can a Fruit Fly Brain Mine Bitcoin? These Companies Are Testing It",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378836/fruit-fly-brain-mine-bitcoin-these-companies-testing",
+      "pubDate": 1790012762000
+    },
+    {
+      "title": "xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378824/xai-launches-grok-4-7",
+      "pubDate": 1790010963000
+    },
+    {
+      "title": "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790009813000
+    },
     {
       "title": "Russian Crypto Industry Could Be Operating Legally by Year-End: Central Bank",
       "source": "Bitcoin Magazine",
@@ -27,7 +123,7 @@
       "pubDate": 1790007363000
     },
     {
-      "title": "Crypto's Fairshake repeats history with $30 million to oppose Sherrod Brown Senate bid",
+      "title": "Crypto political group plans to spend $30 million against Sherrod Brown's Senate bid",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid",
       "pubDate": 1790006496000
@@ -201,7 +297,7 @@
       "pubDate": 1789980599000
     },
     {
-      "title": "Live updates: Bitcoin tops $86,000, while Saylor returns to BTC buying",
+      "title": "Live updates: Bitcoin hits $87,000, while traders pile into leveraged bets",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
       "pubDate": 1789979966000
@@ -223,12 +319,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades",
       "pubDate": 1789971647000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789965888000
     },
     {
       "title": "Bitcoin reclaims 50-week moving average as analysts eye end of bear market",
@@ -271,96 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789947459000
-    },
-    {
-      "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
-      "pubDate": 1789920063000
-    },
-    {
-      "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
-      "pubDate": 1789916088000
-    },
-    {
-      "title": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet",
-      "pubDate": 1789912863000
-    },
-    {
-      "title": "Move Over Housing – Bitcoin is Gen Z’s New Wealth Building Asset",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/move-over-housing-bitcoin-is-gen-zs-new-wealth-building-asset",
-      "pubDate": 1789911241000
-    },
-    {
-      "title": "T. Rowe Price’s Blue Macellari: Bitcoin is Now Core to the Debasement Conversation",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/t-rowe-prices-blue-macellari-bitcoin-is-now-core-to-the-debasement-conversation",
-      "pubDate": 1789910677000
-    },
-    {
-      "title": "Coinbase Policy Chief: Strategic Bitcoin Reserve Bill Outlook",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/coinbase-policy-chief-strategic-bitcoin-reserve-bill-outlook",
-      "pubDate": 1789910142000
-    },
-    {
-      "title": "Strategy CEO Phong Le: We Want to Be the JPMorgan of Bitcoin",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/strategy-ceo-phong-le-jpmorgan-of-bitcoin",
-      "pubDate": 1789909606000
-    },
-    {
-      "title": "Why Legendary Investor Bill Miller IV has “Never Been More Bullish on Bitcoin”",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/bill-miller-iv-bullish-on-bitcoin",
-      "pubDate": 1789909054000
-    },
-    {
-      "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789905652000
-    },
-    {
-      "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
-      "pubDate": 1789905600000
-    },
-    {
-      "title": "Grayscale’s Zcash ETF files for 3-for-1 forward share split",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/grayscales-zcash-etf-files-for-3-for-1-forward-share-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789895667000
-    },
-    {
-      "title": "Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789890684000
-    },
-    {
-      "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789845480000
-    },
-    {
-      "title": "Kalshi joins Coinbase with own filing for US stock perpetual futures",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789843200000
-    },
-    {
-      "title": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378688/how-clarity-act-defeat-sec-cftc-wheel-crypto",
-      "pubDate": 1789837263000
     }
   ]
 }
