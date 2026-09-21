@@ -1,7 +1,31 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790024210625,
+  "generatedAt": 1790035176914,
   "articles": [
+    {
+      "title": "Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent",
+      "pubDate": 1790030763000
+    },
+    {
+      "title": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million",
+      "pubDate": 1790028963000
+    },
+    {
+      "title": "Bitcoin Bull Market Engaged? 50-Week Moving Average Flips Bullish",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/bitcoin-bull-market-flips-bullish",
+      "pubDate": 1790027357000
+    },
+    {
+      "title": "Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
+      "pubDate": 1790027163000
+    },
     {
       "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
       "source": "CoinDesk",
@@ -337,30 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
       "pubDate": 1789963423000
-    },
-    {
-      "title": "Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs",
-      "pubDate": 1789962983000
-    },
-    {
-      "title": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789954973000
-    },
-    {
-      "title": "Strategy Founder Michael Saylor Argues Clarity Act Collapse Is a Win",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/saylor-argues-clarity-act-failure-is-a-win",
-      "pubDate": 1789951970000
-    },
-    {
-      "title": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789947459000
     }
   ]
 }
