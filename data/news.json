@@ -1,7 +1,49 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1789950414891,
+  "generatedAt": 1789968040891,
   "articles": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789965888000
+    },
+    {
+      "title": "Bitcoin reclaims 50-week moving average: Is the bear market over?",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789964999000
+    },
+    {
+      "title": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789964852000
+    },
+    {
+      "title": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
+      "pubDate": 1789963423000
+    },
+    {
+      "title": "Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs",
+      "pubDate": 1789962983000
+    },
+    {
+      "title": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1789954973000
+    },
+    {
+      "title": "Strategy Founder Michael Saylor Argues Clarity Act Collapse Is a Win",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/saylor-argues-clarity-act-failure-is-a-win",
+      "pubDate": 1789951970000
+    },
     {
       "title": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest",
       "source": "Cointelegraph",
@@ -189,12 +231,6 @@
       "pubDate": 1789765290000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789765200000
-    },
-    {
       "title": "CFTC Sends Proposal To Regulate Crypto Transactions Following Clarity Act Fail",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/cftc-proposes-rules-following-clarity-fail",
@@ -285,12 +321,6 @@
       "pubDate": 1789743991000
     },
     {
-      "title": "The Next 3-5 Years of Bitcoin Lending",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/the-next-3-5-years-of-bitcoin-lending",
-      "pubDate": 1789742267000
-    },
-    {
       "title": "Banks double on EU MiCA crypto provider list as share hits 23%",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -331,36 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/378619/morning-minute-sec-approves-innovation-exemption-moving-tokenized-stocks-forward",
       "pubDate": 1789734890000
-    },
-    {
-      "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789732464000
-    },
-    {
-      "title": "Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789730544000
-    },
-    {
-      "title": "XRP on the brink of a golden cross as focus switches to altcoins",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
-      "pubDate": 1789730100000
-    },
-    {
-      "title": "Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789728377000
-    },
-    {
-      "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
-      "pubDate": 1789727585000
     }
   ]
 }
