@@ -1,7 +1,85 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790087945627,
+  "generatedAt": 1790102643237,
   "articles": [
+    {
+      "title": "Bernstein Predicts $10 Trillion Prediction Market by 2035—10X Its Original Forecast",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378963/bernstein-10-trillion-prediction-markets",
+      "pubDate": 1790100963000
+    },
+    {
+      "title": "Anthropic’s New Claude Opus 5.5 Matches Fable at 60% the Price",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378947/anthropic-claude-opus-5-5-fable-price-comparison",
+      "pubDate": 1790099347000
+    },
+    {
+      "title": "Canada's 'Big Six' banks to launch interbank tokenized deposit initiative",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
+      "pubDate": 1790098443000
+    },
+    {
+      "title": "White Hats Move Over $4.5 in Bitcoins From Coldcard to Recovery Trust",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/white-hats-move-bitcoins-from-coldcard",
+      "pubDate": 1790097611000
+    },
+    {
+      "title": "Dogecoin Jumps to Highest Price in Months: Here's What's Going On",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378934/dogecoin-price-jumps-highest-months",
+      "pubDate": 1790096970000
+    },
+    {
+      "title": "Feds Probing Binance Over Iran’s Bitcoin Use: Report",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/feds-probing-iran-use-of-binance",
+      "pubDate": 1790095946000
+    },
+    {
+      "title": "Zcash gets first European ETP following US ETF launch",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790094104000
+    },
+    {
+      "title": "No Bitcoin Payments in Russia — But the Digital Ruble Is Open for Business",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/russia-advances-digital-ruble",
+      "pubDate": 1790093427000
+    },
+    {
+      "title": "Bitcoin price seeks $86K as new support after oil dips below $90",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-seeks-86k-as-new-support-after-oil-dips-below-90?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790092915000
+    },
+    {
+      "title": "CLARITY vote failure could stoke more crypto PAC spending in key races",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/failure-clarity-act-vote-us-lawmakers-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790092537000
+    },
+    {
+      "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790091437000
+    },
+    {
+      "title": "Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
+      "pubDate": 1790090488000
+    },
+    {
+      "title": "Bitcoin ETFs Take Nearly $1B in a Day as Average Holder Returns to Profit",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378921/bitcoin-etfs-take-nearly-1b-in-a-day-as-average-holder-returns-to-profit",
+      "pubDate": 1790089177000
+    },
     {
       "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
       "source": "CoinDesk",
@@ -19,12 +97,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/videos/jeff-walton-how-strive-supercharged-its-bitcoin-buying-strategy",
       "pubDate": 1790083144000
-    },
-    {
-      "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790082957000
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -289,78 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities",
       "pubDate": 1790017204000
-    },
-    {
-      "title": "Ondo lets institutions convert stocks directly into tokenized shares",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790015743000
-    },
-    {
-      "title": "What Is VVV? The Privacy-Obsessed AI Token That’s Up 3,000% in 2026",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378840/what-is-vvv-privacy-ai-token-up-3000-percent-2026",
-      "pubDate": 1790015463000
-    },
-    {
-      "title": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790014522000
-    },
-    {
-      "title": "Can a Fruit Fly Brain Mine Bitcoin? These Companies Are Testing It",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378836/fruit-fly-brain-mine-bitcoin-these-companies-testing",
-      "pubDate": 1790012762000
-    },
-    {
-      "title": "xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378824/xai-launches-grok-4-7",
-      "pubDate": 1790010963000
-    },
-    {
-      "title": "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790009813000
-    },
-    {
-      "title": "Russian Crypto Industry Could Be Operating Legally by Year-End: Central Bank",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/russia-crypto-industry-could-be-operating",
-      "pubDate": 1790009330000
-    },
-    {
-      "title": "Sony Says You Don't Own the Games You Bought. Crypto Says It Can Fix That",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378745/sony-dont-own-games-you-bought-crypto-fix-that",
-      "pubDate": 1790009163000
-    },
-    {
-      "title": "Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790008780000
-    },
-    {
-      "title": "Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378811/apple-google-crypto-talent-stablecoin",
-      "pubDate": 1790007363000
-    },
-    {
-      "title": "Crypto political group plans to spend $30 million against Sherrod Brown's Senate bid",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid",
-      "pubDate": 1790006496000
-    },
-    {
-      "title": "Bitcoin Is Rallying Again—What Happens Next?",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378767/bitcoin-rally-what-happens-next",
-      "pubDate": 1790005535000
     }
   ]
 }
