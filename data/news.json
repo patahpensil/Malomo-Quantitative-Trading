@@ -1,7 +1,127 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790070595001,
+  "generatedAt": 1790087945627,
   "articles": [
+    {
+      "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
+      "pubDate": 1790087579000
+    },
+    {
+      "title": "Big Questions: Does Satoshi actually own 1.1 million Bitcoin?",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/big-questions-does-satoshi-actually-own-1-million-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790083800000
+    },
+    {
+      "title": "Jeff Walton: How Strive Supercharged its Bitcoin Buying Strategy",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/jeff-walton-how-strive-supercharged-its-bitcoin-buying-strategy",
+      "pubDate": 1790083144000
+    },
+    {
+      "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790082957000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790082745000
+    },
+    {
+      "title": "Jim Bianco: Macro Outlook, The 4th Turning and Bitcoin Adoption",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/jim-bianco-macro-outlook-bitcoin-adoption",
+      "pubDate": 1790082299000
+    },
+    {
+      "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
+      "pubDate": 1790080335000
+    },
+    {
+      "title": "Binance takes $100M stake in Circle under expanded USDC deal",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-stake-circle-expanded-usdc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790079521000
+    },
+    {
+      "title": "Morning Minute: Robinhood CEO Bets Crypto Will Beat Sports at Prediction Markets",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378918/morning-minute-robinhood-ceo-bets-crypto-will-beat-sports-at-prediction-markets",
+      "pubDate": 1790079344000
+    },
+    {
+      "title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
+      "pubDate": 1790078755000
+    },
+    {
+      "title": "Now Accepting Bitcoin: Shortwave Coffee Bitcoin Enabled Across 3 States",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/culture/shortwave-coffee-bitcoin",
+      "pubDate": 1790078400000
+    },
+    {
+      "title": "Binance Takes $100M Stake in Circle Under Five-Year USDC Promotion Deal",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378910/binance-takes-100m-stake-in-circle-under-five-year-usdc-promotion-deal",
+      "pubDate": 1790077177000
+    },
+    {
+      "title": "A $3.2 million 'bitcoin butterfly' option trade bets on $95,000 by the end of October",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/22/a-usd3-2-million-bitcoin-butterfly-option-trade-bets-on-usd95-000-by-the-end-of-october",
+      "pubDate": 1790076943000
+    },
+    {
+      "title": "ECB to put its own money into tokenized securities via new Pontes DLT",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790076575000
+    },
+    {
+      "title": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
+      "pubDate": 1790075243000
+    },
+    {
+      "title": "Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite",
+      "pubDate": 1790074743000
+    },
+    {
+      "title": "Live updates: Bitcoin trades near $86,000 as U.S. stocks post small gains",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
+      "pubDate": 1790072412000
+    },
+    {
+      "title": "Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg",
+      "pubDate": 1790071672000
+    },
+    {
+      "title": "Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/crypto-metric-signals-altseason-as-bitcoin-market-cap-share-stalls-below-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790071243000
+    },
+    {
+      "title": "Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/crypto-market-cap-3-trillion-bitcoin-altcoins-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790071106000
+    },
     {
       "title": "US Probes Whether Binance 'Knowingly' Let Iran-Linked Trades Through: Report",
       "source": "Decrypt",
@@ -51,19 +171,13 @@
       "pubDate": 1790058448000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790055646000
-    },
-    {
       "title": "Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790054971000
     },
     {
-      "title": "Elon Musk's X brings bitcoin and stock trading closer to the timeline",
+      "title": "Elon Musk's X brings crypto and stock trading via Coinbase, Kraken and Interactive Brokers partnership",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
       "pubDate": 1790054760000
@@ -247,120 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/378767/bitcoin-rally-what-happens-next",
       "pubDate": 1790005535000
-    },
-    {
-      "title": "Bitcoin Price Shrugs Off Clarity Act Fail, Blasts Past $86,000",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-blasts-past-86000",
-      "pubDate": 1790004860000
-    },
-    {
-      "title": "Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790003297000
-    },
-    {
-      "title": "Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378754/tom-lee-bitmine-adds-ethereum-crypto-bull-market",
-      "pubDate": 1790002849000
-    },
-    {
-      "title": "ECB plans to buy tokenized bonds with its own funds",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/21/ecb-announces-it-will-invest-in-tokenized-securities-via-new-pontes-platform",
-      "pubDate": 1790002847000
-    },
-    {
-      "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say",
-      "pubDate": 1790002432000
-    },
-    {
-      "title": "Morning Minute: Kevin O’Leary Calls for $1 Million Bitcoin, With an Asterisk",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378728/morning-minute-kevin-oleary-calls-for-1-million-bitcoin-with-an-asterisk",
-      "pubDate": 1790001183000
-    },
-    {
-      "title": "Kyle Samani predicts SOL flippening, claims ‘no one’ uses ETH",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789997400000
-    },
-    {
-      "title": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
-      "pubDate": 1789996275000
-    },
-    {
-      "title": "Billionaire Investor Tim Draper: “Irresponsible” for Apple & Meta NOT to Hold BTC",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/billionaire-investor-tim-draper-irresponsible-for-apple-meta-not-to-hold-btc",
-      "pubDate": 1789996228000
-    },
-    {
-      "title": "Strategy's Bitcoin Pile Nears June Record After $76M Purchase",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378737/strategys-bitcoin-pile-nears-june-record-after-76m-purchase",
-      "pubDate": 1789995406000
-    },
-    {
-      "title": "Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/strategy-950-btc-buy-strc-repurchase-174-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789994901000
-    },
-    {
-      "title": "Treasury Secretary Scott Bessent champions dollar dominance across global markets and stablecoins",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/21/scott-bessent-champions-dollar-dominance-across-global-markets-and-stablecoins",
-      "pubDate": 1789994673000
-    },
-    {
-      "title": "Bitcoin Tops $85K as $648M in Crypto Shorts Liquidated",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378729/bitcoin-tops-85k-as-648m-in-crypto-shorts-liquidated",
-      "pubDate": 1789993320000
-    },
-    {
-      "title": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
-      "pubDate": 1789993068000
-    },
-    {
-      "title": "Strategy returns to bitcoin buys, adding $75 million of BTC last week",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/21/strategy-returns-to-bitcoin-buys-adding-usd75-million-of-btc-last-week",
-      "pubDate": 1789992482000
-    },
-    {
-      "title": "Bitcoin's 44% gain in third quarter teases full-blown crypto bull run",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
-      "pubDate": 1789990571000
-    },
-    {
-      "title": "Perp futures linked to 'bitcoin VIX' debut on Hyperliquid",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/21/perp-futures-linked-to-bitcoin-vix-debut-on-hyperliquid",
-      "pubDate": 1789990200000
-    },
-    {
-      "title": "ECB launches Pontes to settle tokenized assets without stablecoins",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789990020000
-    },
-    {
-      "title": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
-      "pubDate": 1789989535000
     }
   ]
 }
