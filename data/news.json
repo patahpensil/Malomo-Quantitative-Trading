@@ -1,7 +1,91 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790102643237,
+  "generatedAt": 1790114307734,
   "articles": [
+    {
+      "title": "Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says",
+      "pubDate": 1790112545000
+    },
+    {
+      "title": "$161 Million in Decade-Old Bitcoin Has Moved in Just Two Weeks",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379006/161-million-decade-old-bitcoin-moves-two-weeks",
+      "pubDate": 1790111763000
+    },
+    {
+      "title": "Arch Lending eyes tokenized stocks as next collateral market",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790111212000
+    },
+    {
+      "title": "Republican senator calls for probe into US presidents’ sons, citing crypto ventures",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790110671000
+    },
+    {
+      "title": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures",
+      "pubDate": 1790109963000
+    },
+    {
+      "title": "Crypto market structure can't wait for shot at post-election Clarity Act surge: White House",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/22/crypto-market-structure-can-t-wait-for-shot-at-post-election-clarity-act-surge-white-house",
+      "pubDate": 1790109062000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790107410000
+    },
+    {
+      "title": "Inside Coinbase’s $250 Billion Playbook for Post-Quantum Bitcoin Custody",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379000/coinbase-playbook-post-quantum-bitcoin-custody",
+      "pubDate": 1790107263000
+    },
+    {
+      "title": "Canada’s six largest banks explore tokenized Canadian dollar deposits",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790107008000
+    },
+    {
+      "title": "Bitcoin Investors Buy Nearly $1B in BTC ETFs as Bull Market Returns",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-etf-investors-buy-nearly-1-billion",
+      "pubDate": 1790106941000
+    },
+    {
+      "title": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust",
+      "pubDate": 1790105463000
+    },
+    {
+      "title": "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5",
+      "pubDate": 1790103638000
+    },
+    {
+      "title": "Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378972/bitcoin-breaks-out-nasdaq-hits-records-oil-slides",
+      "pubDate": 1790102763000
+    },
+    {
+      "title": "Bitcoin’s Bull Run Is Back — and the Data Agrees",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-bull-run-is-back-data-shows",
+      "pubDate": 1790102691000
+    },
     {
       "title": "Bernstein Predicts $10 Trillion Prediction Market by 2035—10X Its Original Forecast",
       "source": "Decrypt",
@@ -97,12 +181,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/videos/jeff-walton-how-strive-supercharged-its-bitcoin-buying-strategy",
       "pubDate": 1790083144000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790082745000
     },
     {
       "title": "Jim Bianco: Macro Outlook, The 4th Turning and Bitcoin Adoption",
@@ -279,88 +357,10 @@
       "pubDate": 1790046802000
     },
     {
-      "title": "Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790043779000
-    },
-    {
       "title": "Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks",
       "source": "Decrypt",
       "link": "https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent",
       "pubDate": 1790030763000
-    },
-    {
-      "title": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million",
-      "pubDate": 1790028963000
-    },
-    {
-      "title": "Bitcoin Bull Market Engaged? 50-Week Moving Average Flips Bullish",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/bitcoin-bull-market-flips-bullish",
-      "pubDate": 1790027357000
-    },
-    {
-      "title": "Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
-      "pubDate": 1790027163000
-    },
-    {
-      "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
-      "pubDate": 1790023179000
-    },
-    {
-      "title": "Saudi Arabia exits China-backed mBridge CBDC project: FT",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790023035000
-    },
-    {
-      "title": "Bitcoin ETF Holders Back in the Black as Price Barrels Towards $87,000",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-etf-holders-back-in-profit",
-      "pubDate": 1790022752000
-    },
-    {
-      "title": "X Sues Two Bitcoin Influencers Over Bot Army That Milked Creator Payouts",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378877/x-sues-bitcoin-influencers-bot-army-creator-payout",
-      "pubDate": 1790021763000
-    },
-    {
-      "title": "Jordi Visser: Why AI Agents Make the BTC Bull Case",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/jordi-visser-ai-agents-btc-bull-case",
-      "pubDate": 1790019951000
-    },
-    {
-      "title": "Strategy and Strive Announce $182.7 Million Bitcoin Buy as Price Surges Past $86,000",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/strategy-strive-buy-bitcoin",
-      "pubDate": 1790019108000
-    },
-    {
-      "title": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura",
-      "pubDate": 1790018809000
-    },
-    {
-      "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
-      "pubDate": 1790017720000
-    },
-    {
-      "title": "Europe’s Central Bank Prepares to Invest Own Funds in Tokenized Securities",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities",
-      "pubDate": 1790017204000
     }
   ]
 }
