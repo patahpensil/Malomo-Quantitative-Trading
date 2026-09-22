@@ -1,7 +1,37 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790035176914,
+  "generatedAt": 1790051893892,
   "articles": [
+    {
+      "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
+      "pubDate": 1790051591000
+    },
+    {
+      "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
+      "pubDate": 1790050545000
+    },
+    {
+      "title": "Trueo prediction market moves from Base to Ethereum",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790049780000
+    },
+    {
+      "title": "Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790046802000
+    },
+    {
+      "title": "Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790043779000
+    },
     {
       "title": "Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks",
       "source": "Decrypt",
@@ -331,36 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1789975907000
-    },
-    {
-      "title": "Bank of Korea launches 24-hour won settlement pilot for foreign investors",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bank-korea-won-settlement-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789972883000
-    },
-    {
-      "title": "Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades",
-      "pubDate": 1789971647000
-    },
-    {
-      "title": "Bitcoin reclaims 50-week moving average as analysts eye end of bear market",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789964999000
-    },
-    {
-      "title": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789964852000
-    },
-    {
-      "title": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
-      "pubDate": 1789963423000
     }
   ]
 }
