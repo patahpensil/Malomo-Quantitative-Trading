@@ -1,7 +1,73 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790051893892,
+  "generatedAt": 1790070595001,
   "articles": [
+    {
+      "title": "US Probes Whether Binance 'Knowingly' Let Iran-Linked Trades Through: Report",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/378902/us-probes-whether-binance-knowingly-let-iran-linked-trades-through-report",
+      "pubDate": 1790070467000
+    },
+    {
+      "title": "Animoca Brands delays IPO plans, suspends merger talks with Currenc",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/22/animoca-brands-delays-ipo-plans-suspends-merger-talks-with-currenc",
+      "pubDate": 1790070435000
+    },
+    {
+      "title": "White hats outrun Coldcard hackers in 52-Bitcoin evacuation",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/white-hats-coldcard-btc-exploit-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790068019000
+    },
+    {
+      "title": "Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790064383000
+    },
+    {
+      "title": "Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/22/spot-bitcoin-etfs-attracted-nearly-usd1-billion-on-monday-the-9th-largest-inflow-ever",
+      "pubDate": 1790062841000
+    },
+    {
+      "title": "Bitcoin ETFs flirt with $1B as inflows hit 2026 high",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790062417000
+    },
+    {
+      "title": "Animoca puts Currenc merger on ice, delaying its Nasdaq debut",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790059700000
+    },
+    {
+      "title": "Whitehats move 52 bitcoin from the Coldcard hack to a recovery trust",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/22/whitehats-move-52-bitcoin-from-the-coldcard-hack-to-a-recovery-trust",
+      "pubDate": 1790058448000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790055646000
+    },
+    {
+      "title": "Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790054971000
+    },
+    {
+      "title": "Elon Musk's X brings bitcoin and stock trading closer to the timeline",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
+      "pubDate": 1790054760000
+    },
     {
       "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
       "source": "CoinDesk",
@@ -79,12 +145,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/378877/x-sues-bitcoin-influencers-bot-army-creator-payout",
       "pubDate": 1790021763000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790020384000
     },
     {
       "title": "Jordi Visser: Why AI Agents Make the BTC Bull Case",
@@ -301,66 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
       "pubDate": 1789989535000
-    },
-    {
-      "title": "NEAR jumps nearly 80% in a week as Intents volume nears $30B",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/near-price-surge-intents-zcash-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789987955000
-    },
-    {
-      "title": "Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets",
-      "pubDate": 1789986600000
-    },
-    {
-      "title": "BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789985751000
-    },
-    {
-      "title": "X sues its own users for running a fake bitcoin news bot farm",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/21/x-sues-its-won-users-for-running-a-fake-bitcoin-news-bot-farm",
-      "pubDate": 1789985744000
-    },
-    {
-      "title": "Crypto Worker's Children Held Hostage in Latest French ‘Wrench Attack,’ $46,000 Taken",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378720/crypto-workers-children-held-hostage-in-latest-french-wrench-attack-46000-taken",
-      "pubDate": 1789984284000
-    },
-    {
-      "title": "X sues Bitcoin account operators over alleged $278K payout fraud",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789983325000
-    },
-    {
-      "title": "Crypto enjoys bullish bounce post-Fed rate hike: Crypto Week Ahead",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/21/crypto-week-ahead",
-      "pubDate": 1789981962000
-    },
-    {
-      "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain",
-      "pubDate": 1789980599000
-    },
-    {
-      "title": "Live updates: Bitcoin hits $87,000, while traders pile into leveraged bets",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
-      "pubDate": 1789979966000
-    },
-    {
-      "title": "ZetaChain holders approve plan to wind down L1, move ZETA to Solana",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1789975907000
     }
   ]
 }
