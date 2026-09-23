@@ -1,7 +1,85 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790189850089,
+  "generatedAt": 1790201473157,
   "articles": [
+    {
+      "title": "OpenAI Gives Ukraine Access to Daybreak AI Cyber-Defense Tool",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379126/openai-ukraine-access-daybreak-ai-cyber-defense-tool",
+      "pubDate": 1790201164000
+    },
+    {
+      "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790200072000
+    },
+    {
+      "title": "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude",
+      "pubDate": 1790199063000
+    },
+    {
+      "title": "Bitcoin Price Slips While US Treasury Yields Soar, Oil Prices Climb",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-price-slips-while-yields-soar",
+      "pubDate": 1790197707000
+    },
+    {
+      "title": "Meta's Muse AI Agent Read a User's Private iMessages. Then It Lied About How",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379122/metas-muse-ai-agent-user-private-imessages-lied-how",
+      "pubDate": 1790196260000
+    },
+    {
+      "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790196236000
+    },
+    {
+      "title": "US lawmakers from gaming states urge SCOTUS to take up Kalshi case",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790195314000
+    },
+    {
+      "title": "CFTC Chair Selig Says Regulator Is Preparing for ‘24-7, On-Chain’ Markets",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/cftc-is-preparing-for-onchain-markets",
+      "pubDate": 1790193321000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790192364000
+    },
+    {
+      "title": "Zcash's Wall Street Moment Reaches Europe With Its First ETP Listing",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379105/zcash-wall-street-europe-first-etp",
+      "pubDate": 1790192175000
+    },
+    {
+      "title": "Trump reveals up to $100K Strategy stock purchase in ethics filing",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/trump-discloses-up-to-100k-strategy-stock-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790190314000
+    },
+    {
+      "title": "Kalshi says it is not being investigated by the CFTC over trading activity",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/23/kalshi-says-it-is-not-being-investigated-by-the-cftc-over-trading-activity",
+      "pubDate": 1790190292000
+    },
+    {
+      "title": "Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/23/former-hack-vc-partner-hsin-ju-chuang-found-dead-following-public-dispute-with-firm",
+      "pubDate": 1790189976000
+    },
     {
       "title": "$15.6 Billion in Bitcoin Options Expire Friday—Here's What It Means",
       "source": "Decrypt",
@@ -133,12 +211,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790170800000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790170748000
     },
     {
       "title": "Assessing the Quantum Threat to Bitcoin w/ Shinobi",
@@ -289,78 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-inflow-2-days-holder-profitable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790148305000
-    },
-    {
-      "title": "US Treasury secretary emerges as frontrunner for Trump’s AI czar role: Report",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/us-treasury-secretary-emerges-as-contender-for-trumps-ai-czar-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790141689000
-    },
-    {
-      "title": "Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790140941000
-    },
-    {
-      "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds",
-      "pubDate": 1790140582000
-    },
-    {
-      "title": "Bitcoin's on a streak it hasn't hit since 2012",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-on-a-streak-it-hasn-t-hit-since-2012",
-      "pubDate": 1790140362000
-    },
-    {
-      "title": "AI potential to drive crypto demand remains ‘underappreciated’: BlackRock",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790137998000
-    },
-    {
-      "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000",
-      "pubDate": 1790136608000
-    },
-    {
-      "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790134395000
-    },
-    {
-      "title": "U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms",
-      "pubDate": 1790121645000
-    },
-    {
-      "title": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek",
-      "pubDate": 1790115363000
-    },
-    {
-      "title": "Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says",
-      "pubDate": 1790112545000
-    },
-    {
-      "title": "$161 Million in Decade-Old Bitcoin Has Moved in Just Two Weeks",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379006/161-million-decade-old-bitcoin-moves-two-weeks",
-      "pubDate": 1790111763000
-    },
-    {
-      "title": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures",
-      "pubDate": 1790109963000
     }
   ]
 }
