@@ -1,7 +1,115 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790175121744,
+  "generatedAt": 1790189850089,
   "articles": [
+    {
+      "title": "$15.6 Billion in Bitcoin Options Expire Friday—Here's What It Means",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379093/15-6-billion-bitcoin-options-expire-friday-what-means",
+      "pubDate": 1790189163000
+    },
+    {
+      "title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790187468000
+    },
+    {
+      "title": "Borrow Against Your Bitcoin at a Fixed Rate: Coinbase Expands Morpho Loans",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379091/borrow-against-bitcoin-fixed-rate-coinbase-morpho",
+      "pubDate": 1790187306000
+    },
+    {
+      "title": "White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/23/white-house-adviser-defends-president-trump-s-crypto-ties-in-wake-of-clarity-act-defeat",
+      "pubDate": 1790186651000
+    },
+    {
+      "title": "NYSE and Blockchain.com Working Together To List Tokenized Stocks",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/nyse-blockchaincom-tokenized-stocks",
+      "pubDate": 1790184789000
+    },
+    {
+      "title": "Crypto Exchange That Invented 100x Leverage Is No More: Here’s What BitMEX Users Need to Know",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379089/crypto-exchange-that-invented-100x-leverage-is-no-more-heres-what-bitmex-users-need-to-know",
+      "pubDate": 1790184663000
+    },
+    {
+      "title": "The Quantum Issue: You Never Really Know The Future",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/print/the-quantum-issue-you-never-really-know-the-future",
+      "pubDate": 1790183413000
+    },
+    {
+      "title": "Canada's Six Biggest Banks Team Up on a Shared Digital-Dollar Network",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379081/canada-six-biggest-banks-shared-digital-dollar-network",
+      "pubDate": 1790182863000
+    },
+    {
+      "title": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379080/nyse-taps-blockchain-com-to-reach-crypto-investors-with-tokenized-stocks-etfs",
+      "pubDate": 1790181363000
+    },
+    {
+      "title": "Bitwise launches first Lighter ETP amid Hyperliquid rivalry",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790181267000
+    },
+    {
+      "title": "Americans Would Use Stablecoins—If They Came With Bank Protections, Visa Study Finds",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379073/americans-stablecoins-bank-protections-visa",
+      "pubDate": 1790180763000
+    },
+    {
+      "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790178980000
+    },
+    {
+      "title": "Bitcoin Dips, But Its Forks Are Flying Again",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379048/bitcoin-dips-but-forks-are-flying-bch-bsv",
+      "pubDate": 1790178963000
+    },
+    {
+      "title": "Raiffeisen Bank International to Roll Out Bitcoin Services Across Europe in Expanded Bitpanda Deal",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/raiffeisen-to-roll-out-bitcoin-trading",
+      "pubDate": 1790178890000
+    },
+    {
+      "title": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379070/blackrock-ai-agents-crypto-next-demand-wave",
+      "pubDate": 1790178106000
+    },
+    {
+      "title": "Inside the FBI’s little-known annual crypto crime gathering",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
+      "pubDate": 1790177195000
+    },
+    {
+      "title": "Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
+      "pubDate": 1790176041000
+    },
+    {
+      "title": "Bitcoin long liquidations hit $280M as BTC price dips under $84K",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790175131000
+    },
     {
       "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
       "source": "Cointelegraph",
@@ -93,7 +201,7 @@
       "pubDate": 1790165718000
     },
     {
-      "title": "Live updates: Bitcoin slips as higher rates and dollar pressure markets",
+      "title": "Live updates: Bitcoin pulls back to $84,000 as bond yields fly higher",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec",
       "pubDate": 1790162970000
@@ -147,7 +255,7 @@
       "pubDate": 1790157187000
     },
     {
-      "title": "AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock",
+      "title": "BlackRock says AI agents could drive stablecoin and crypto adoption",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
       "pubDate": 1790155073000
@@ -225,12 +333,6 @@
       "pubDate": 1790134395000
     },
     {
-      "title": "CFTC issues warning over risky prediction market ‘mention’ contracts",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790122724000
-    },
-    {
       "title": "U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms",
@@ -255,112 +357,10 @@
       "pubDate": 1790111763000
     },
     {
-      "title": "Arch Lending eyes tokenized stocks as next collateral market",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790111212000
-    },
-    {
-      "title": "Republican senator calls for probe into US presidents’ sons, citing crypto ventures",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790110671000
-    },
-    {
       "title": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
       "source": "Decrypt",
       "link": "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures",
       "pubDate": 1790109963000
-    },
-    {
-      "title": "Crypto market structure can't wait for shot at post-election Clarity Act surge: White House",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/22/crypto-market-structure-can-t-wait-for-shot-at-post-election-clarity-act-surge-white-house",
-      "pubDate": 1790109062000
-    },
-    {
-      "title": "Inside Coinbase’s $250 Billion Playbook for Post-Quantum Bitcoin Custody",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379000/coinbase-playbook-post-quantum-bitcoin-custody",
-      "pubDate": 1790107263000
-    },
-    {
-      "title": "Canada’s six largest banks explore tokenized Canadian dollar deposits",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790107008000
-    },
-    {
-      "title": "Bitcoin Investors Buy Nearly $1B in BTC ETFs as Bull Market Returns",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-etf-investors-buy-nearly-1-billion",
-      "pubDate": 1790106941000
-    },
-    {
-      "title": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust",
-      "pubDate": 1790105463000
-    },
-    {
-      "title": "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5",
-      "pubDate": 1790103638000
-    },
-    {
-      "title": "Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378972/bitcoin-breaks-out-nasdaq-hits-records-oil-slides",
-      "pubDate": 1790102763000
-    },
-    {
-      "title": "Bitcoin’s Bull Run Is Back — and the Data Agrees",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-bull-run-is-back-data-shows",
-      "pubDate": 1790102691000
-    },
-    {
-      "title": "Bernstein Predicts $10 Trillion Prediction Market by 2035—10X Its Original Forecast",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378963/bernstein-10-trillion-prediction-markets",
-      "pubDate": 1790100963000
-    },
-    {
-      "title": "Anthropic’s New Claude Opus 5.5 Matches Fable at 60% the Price",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378947/anthropic-claude-opus-5-5-fable-price-comparison",
-      "pubDate": 1790099347000
-    },
-    {
-      "title": "Canada's 'Big Six' banks to launch interbank tokenized deposit initiative",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
-      "pubDate": 1790098443000
-    },
-    {
-      "title": "White Hats Move Over $4.5 in Bitcoins From Coldcard to Recovery Trust",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/white-hats-move-bitcoins-from-coldcard",
-      "pubDate": 1790097611000
-    },
-    {
-      "title": "Dogecoin Jumps to Highest Price in Months: Here's What's Going On",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378934/dogecoin-price-jumps-highest-months",
-      "pubDate": 1790096970000
-    },
-    {
-      "title": "Feds Probing Binance Over Iran’s Bitcoin Use: Report",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/feds-probing-iran-use-of-binance",
-      "pubDate": 1790095946000
-    },
-    {
-      "title": "No Bitcoin Payments in Russia — But the Digital Ruble Is Open for Business",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/russia-advances-digital-ruble",
-      "pubDate": 1790093427000
     }
   ]
 }
