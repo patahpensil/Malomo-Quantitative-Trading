@@ -1,7 +1,31 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790122538064,
+  "generatedAt": 1790139864127,
   "articles": [
+    {
+      "title": "AI potential to drive crypto demand remains ‘underappreciated’: BlackRock",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790137998000
+    },
+    {
+      "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000",
+      "pubDate": 1790136608000
+    },
+    {
+      "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790134395000
+    },
+    {
+      "title": "CFTC issues warning over risky prediction market ‘mention’ contracts",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790122724000
+    },
     {
       "title": "U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms",
       "source": "CoinDesk",
@@ -333,34 +357,10 @@
       "pubDate": 1790058448000
     },
     {
-      "title": "Australian 40-year economic outlook recognizes ‘AI revolution,’ omits crypto",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/australian-40-year-economic-outlook-recognizes-ai-revolution-omits-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790054971000
-    },
-    {
       "title": "Elon Musk's X brings crypto and stock trading via Coinbase, Kraken and Interactive Brokers partnership",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
       "pubDate": 1790054760000
-    },
-    {
-      "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
-      "pubDate": 1790051591000
-    },
-    {
-      "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
-      "pubDate": 1790050545000
-    },
-    {
-      "title": "Trueo prediction market moves from Base to Ethereum",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790049780000
     }
   ]
 }
