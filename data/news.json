@@ -1,7 +1,73 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790139864127,
+  "generatedAt": 1790157171561,
   "articles": [
+    {
+      "title": "AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
+      "pubDate": 1790155073000
+    },
+    {
+      "title": "BitMEX ends crypto trading, keeps withdrawals open after closure",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitmex-ends-crypto-trading-withdrawals-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790151518000
+    },
+    {
+      "title": "Zcash’s November upgrade could freeze funds in legacy Sprout pool",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/zcash-nu7-upgrade-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790150830000
+    },
+    {
+      "title": "Coinbase users can now borrow USDC against bitcoin at a fixed rate",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/23/coinbase-users-can-now-borrow-usdc-against-bitcoin-at-a-fixed-rate",
+      "pubDate": 1790149763000
+    },
+    {
+      "title": "XRP Ledger retries upgrade that lets banks split payment and compliance duties",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/23/xrp-ledger-retries-upgrade-that-lets-banks-split-payment-and-compliance-duties",
+      "pubDate": 1790149066000
+    },
+    {
+      "title": "Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-inflow-2-days-holder-profitable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790148305000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790142181000
+    },
+    {
+      "title": "US Treasury secretary emerges as frontrunner for Trump’s AI czar role: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/us-treasury-secretary-emerges-as-contender-for-trumps-ai-czar-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790141689000
+    },
+    {
+      "title": "Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790140941000
+    },
+    {
+      "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds",
+      "pubDate": 1790140582000
+    },
+    {
+      "title": "Bitcoin's on a streak it hasn't hit since 2012",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-on-a-streak-it-hasn-t-hit-since-2012",
+      "pubDate": 1790140362000
+    },
     {
       "title": "AI potential to drive crypto demand remains ‘underappreciated’: BlackRock",
       "source": "Cointelegraph",
@@ -73,12 +139,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/policy/2026/09/22/crypto-market-structure-can-t-wait-for-shot-at-post-election-clarity-act-surge-white-house",
       "pubDate": 1790109062000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790107410000
     },
     {
       "title": "Inside Coinbase’s $250 Billion Playbook for Post-Quantum Bitcoin Custody",
@@ -301,66 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/markets/crypto-metric-signals-altseason-as-bitcoin-market-cap-share-stalls-below-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790071243000
-    },
-    {
-      "title": "Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/crypto-market-cap-3-trillion-bitcoin-altcoins-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790071106000
-    },
-    {
-      "title": "US Probes Whether Binance 'Knowingly' Let Iran-Linked Trades Through: Report",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378902/us-probes-whether-binance-knowingly-let-iran-linked-trades-through-report",
-      "pubDate": 1790070467000
-    },
-    {
-      "title": "Animoca Brands delays IPO plans, suspends merger talks with Currenc",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/22/animoca-brands-delays-ipo-plans-suspends-merger-talks-with-currenc",
-      "pubDate": 1790070435000
-    },
-    {
-      "title": "White hats outrun Coldcard hackers in 52-Bitcoin evacuation",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/white-hats-coldcard-btc-exploit-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790068019000
-    },
-    {
-      "title": "Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790064383000
-    },
-    {
-      "title": "Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/22/spot-bitcoin-etfs-attracted-nearly-usd1-billion-on-monday-the-9th-largest-inflow-ever",
-      "pubDate": 1790062841000
-    },
-    {
-      "title": "Bitcoin ETFs flirt with $1B as inflows hit 2026 high",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790062417000
-    },
-    {
-      "title": "Animoca puts Currenc merger on ice, delaying its Nasdaq debut",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790059700000
-    },
-    {
-      "title": "Whitehats move 52 bitcoin from the Coldcard hack to a recovery trust",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/22/whitehats-move-52-bitcoin-from-the-coldcard-hack-to-a-recovery-trust",
-      "pubDate": 1790058448000
-    },
-    {
-      "title": "Elon Musk's X brings crypto and stock trading via Coinbase, Kraken and Interactive Brokers partnership",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
-      "pubDate": 1790054760000
     }
   ]
 }
