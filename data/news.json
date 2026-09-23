@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790114307734,
+  "generatedAt": 1790122538064,
   "articles": [
+    {
+      "title": "U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms",
+      "pubDate": 1790121645000
+    },
+    {
+      "title": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek",
+      "pubDate": 1790115363000
+    },
     {
       "title": "Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says",
       "source": "CoinDesk",
@@ -349,18 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790049780000
-    },
-    {
-      "title": "Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790046802000
-    },
-    {
-      "title": "Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent",
-      "pubDate": 1790030763000
     }
   ]
 }
