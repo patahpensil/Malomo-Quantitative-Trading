@@ -1,7 +1,97 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790265228489,
+  "generatedAt": 1790279790114,
   "articles": [
+    {
+      "title": "Jeff Booth: Why $1 Million BTC is Thinking too Small",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/jeff-booth-why-1-million-btc-is-thinking-too-small",
+      "pubDate": 1790278193000
+    },
+    {
+      "title": "Saifedean Ammous: The Bond Crisis & Bitcoin’s Rise as a True Macro Asset",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/saifedean-ammous-the-bond-crisis-bitcoins-rise-as-a-true-macro-asset",
+      "pubDate": 1790277698000
+    },
+    {
+      "title": "Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379253/meta-ai-toy-muse-charm-keychain-watches-listens",
+      "pubDate": 1790277363000
+    },
+    {
+      "title": "Brooklyn Man Sentenced to 12 Years for $16M Coinbase Phishing Scam",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/man-gets-12-years-for-coinbase-scam",
+      "pubDate": 1790277329000
+    },
+    {
+      "title": "Bitcoin just topped a key long-term moving average. Here's what it might mean",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-just-topped-a-key-long-term-moving-average-here-s-what-it-might-mean",
+      "pubDate": 1790275618000
+    },
+    {
+      "title": "AI Can Now Doxx Your Anonymous Accounts? Here's What’s Going On",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379228/ai-can-now-doxx-your-anonymous-accounts-heres-whats-going-on",
+      "pubDate": 1790274663000
+    },
+    {
+      "title": "Institutions Held Their Bitcoin Through Crash — and Some Bought More: Report",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/institutions-held-bitcoin-through-crash",
+      "pubDate": 1790273032000
+    },
+    {
+      "title": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379244/new-york-ban-polymarket-lawsuit",
+      "pubDate": 1790272291000
+    },
+    {
+      "title": "In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon'",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379217/sec-peirce-end-kyc-panopticon-zero-knowledge-proofs",
+      "pubDate": 1790271063000
+    },
+    {
+      "title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790270075000
+    },
+    {
+      "title": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790270018000
+    },
+    {
+      "title": "US Aims to Turn Stablecoins Into a Weapon for Dollar Dominance",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379219/us-stablecoins-weapon-dollar-dominance",
+      "pubDate": 1790268943000
+    },
+    {
+      "title": "Bitcoin Traders Brace for $15B Options Expiry as Bulls Eye $100,000",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-traders-await-15-billion-expiry",
+      "pubDate": 1790266597000
+    },
+    {
+      "title": "Bitcoin Breakout Cools as Fed Rate-Hike Bets Climb",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379189/bitcoins-breakout-cools-fed-rate-hike-bets-climb",
+      "pubDate": 1790265661000
+    },
+    {
+      "title": "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790265420000
+    },
     {
       "title": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
       "source": "CoinDesk",
@@ -159,7 +249,7 @@
       "pubDate": 1790249047000
     },
     {
-      "title": "Live updates: Bitcoin slips alongside continued gains in interest rates and oil",
+      "title": "Live updates: Oil back on the rise as Iran denies report of deal talks",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/09/24/live-updates-bitcoin-edges-lower-as-bond-yields-take-center-stage",
       "pubDate": 1790248812000
@@ -271,96 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
       "pubDate": 1790204163000
-    },
-    {
-      "title": "An AI Agent Just Hacked a Government Website for the First Time, Australia PM Says",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379134/an-ai-agent-just-hacked-a-government-website-for-the-first-time-australia-pm-says",
-      "pubDate": 1790202705000
-    },
-    {
-      "title": "OpenAI Gives Ukraine Access to Daybreak AI Cyber-Defense Tool",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379126/openai-ukraine-access-daybreak-ai-cyber-defense-tool",
-      "pubDate": 1790201164000
-    },
-    {
-      "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790200072000
-    },
-    {
-      "title": "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude",
-      "pubDate": 1790199063000
-    },
-    {
-      "title": "Bitcoin Price Slips While US Treasury Yields Soar, Oil Prices Climb",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-price-slips-while-yields-soar",
-      "pubDate": 1790197707000
-    },
-    {
-      "title": "Meta's Muse AI Agent Read a User's Private iMessages. Then It Lied About How",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379122/metas-muse-ai-agent-user-private-imessages-lied-how",
-      "pubDate": 1790196260000
-    },
-    {
-      "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790196236000
-    },
-    {
-      "title": "US lawmakers from gaming states urge SCOTUS to take up Kalshi case",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790195314000
-    },
-    {
-      "title": "CFTC Chair Selig Says Regulator Is Preparing for ‘24-7, On-Chain’ Markets",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/cftc-is-preparing-for-onchain-markets",
-      "pubDate": 1790193321000
-    },
-    {
-      "title": "Zcash's Wall Street Moment Reaches Europe With Its First ETP Listing",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379105/zcash-wall-street-europe-first-etp",
-      "pubDate": 1790192175000
-    },
-    {
-      "title": "Trump reveals up to $100K Strategy stock purchase in ethics filing",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/trump-discloses-up-to-100k-strategy-stock-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790190314000
-    },
-    {
-      "title": "Kalshi says it is not being investigated by the CFTC over trading activity",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/23/kalshi-says-it-is-not-being-investigated-by-the-cftc-over-trading-activity",
-      "pubDate": 1790190292000
-    },
-    {
-      "title": "$15.6 Billion in Bitcoin Options Expire Friday—Here's What It Means",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379093/15-6-billion-bitcoin-options-expire-friday-what-means",
-      "pubDate": 1790189163000
-    },
-    {
-      "title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790187468000
-    },
-    {
-      "title": "Borrow Against Your Bitcoin at a Fixed Rate: Coinbase Expands Morpho Loans",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379091/borrow-against-bitcoin-fixed-rate-coinbase-morpho",
-      "pubDate": 1790187306000
     }
   ]
 }
