@@ -1,7 +1,97 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790229771874,
+  "generatedAt": 1790249707527,
   "articles": [
+    {
+      "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme",
+      "pubDate": 1790249637000
+    },
+    {
+      "title": "Litecoin token has its moment as network activity booms",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/24/litecoin-token-has-its-moment-as-network-activity-booms",
+      "pubDate": 1790249178000
+    },
+    {
+      "title": "Live updates: Bitcoin continues lower as bond yields take center stage",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/24/live-updates-bitcoin-edges-lower-as-bond-yields-take-center-stage",
+      "pubDate": 1790248812000
+    },
+    {
+      "title": "Q-Day Could Arrive Before Quantum Computers Are Commercially Useful, EU Warns",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379167/q-day-could-arrive-before-quantum-computers-are-commercially-useful-eu-warns",
+      "pubDate": 1790247919000
+    },
+    {
+      "title": "Bitcoin slides to $83,300 as bond yields hit highest level since 2007",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-steadies-near-usd84-000-after-bond-yields-hit-a-2007-high",
+      "pubDate": 1790245828000
+    },
+    {
+      "title": "EU banking watchdog calls for crypto lending rules under MiCA",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790245800000
+    },
+    {
+      "title": "Bitcoin falls below $84K as 10-year Treasury yield hits 19-year high",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-fall-84k-treasury-yield-hits-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790244903000
+    },
+    {
+      "title": "Traders price in 4 Fed rate hikes by June 2027 as bitcoin slides below $83,000",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/24/traders-are-pricing-in-4-fed-rate-hikes-as-bitcoin-slides-below-usd83-000",
+      "pubDate": 1790244711000
+    },
+    {
+      "title": "The data proves it: Bitcoin doesn't care about rising bond yields over long-term",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/24/the-data-proves-it-bitcoin-doesn-t-care-about-rising-bond-yields-over-long-term",
+      "pubDate": 1790243289000
+    },
+    {
+      "title": "EU financial watchdogs warn quantum computing poses imminent threat to blockchain encryption",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/24/eu-financial-watchdogs-warn-quantum-computing-poses-imminent-threat-to-blockchain-encryption",
+      "pubDate": 1790242368000
+    },
+    {
+      "title": "Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790242364000
+    },
+    {
+      "title": "Institutions held crypto through 50% drawdown, Bitwise finds",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790241496000
+    },
+    {
+      "title": "Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379153/brooklyn-man-who-bragged-about-16m-coinbase-scam-gets-up-to-12-years",
+      "pubDate": 1790240446000
+    },
+    {
+      "title": "Australia says OpenAI agent hacked government site before Altman warning",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/australia-openai-agent-government-hack-altman-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790238551000
+    },
+    {
+      "title": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
+      "pubDate": 1790231603000
+    },
     {
       "title": "A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66",
       "source": "CoinDesk",
@@ -271,96 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790170200000
-    },
-    {
-      "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
-      "pubDate": 1790168563000
-    },
-    {
-      "title": "MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
-      "pubDate": 1790168400000
-    },
-    {
-      "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/moonpay-north-capital-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790168400000
-    },
-    {
-      "title": "Stablecoin cross-border flows surge 78%, defying crypto bear market",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/stablecoin-cross-border-flows-surge-78-defying-crypto-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790168400000
-    },
-    {
-      "title": "Morning Minute: Bitcoin Hits $86,000 as Oil Slides and ETFs Bid",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379033/morning-minute-bitcoin-hits-86000-as-oil-slides-and-etfs-bid",
-      "pubDate": 1790166367000
-    },
-    {
-      "title": "EU watchdogs warn quantum computers could pick crypto’s locks",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/eu-watchdogs-quantum-computers-crypto-locks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790166176000
-    },
-    {
-      "title": "North Korea's Fake Job Interviews Drained $11M From 7,000 Crypto Wallets",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379032/north-koreas-fake-job-interviews-drained-11m-from-7000-crypto-wallets",
-      "pubDate": 1790165718000
-    },
-    {
-      "title": "Live updates: Bitcoin pulls back to $84,000 as bond yields fly higher",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec",
-      "pubDate": 1790162970000
-    },
-    {
-      "title": "The S&P 500 has a 'breadth' problem. Crypto doesn’t.",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/23/the-s-and-p-500-has-a-breadth-problem-crypto-doesn-t",
-      "pubDate": 1790162930000
-    },
-    {
-      "title": "CFTC Staff Advisory Says Prediction Market 'Mention' Contracts Invite Manipulation",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379030/cftc-staff-advisory-says-prediction-market-mention-contracts-invite-manipulation",
-      "pubDate": 1790160226000
-    },
-    {
-      "title": "Bitcoin consolidates near $86,000 as rally narrows and Brent slips below $100",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-consolidates-near-usd86-000-as-rally-narrows-and-brent-slips-below-usd100",
-      "pubDate": 1790159291000
-    },
-    {
-      "title": "BitMEX shuts down: perpetuals pioneer officially closes it doors after 11 years",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/23/bitmex-shuts-down-trading-after-11-years-leaves-withdrawals-open",
-      "pubDate": 1790159084000
-    },
-    {
-      "title": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790158015000
-    },
-    {
-      "title": "Bitcoin bull market ‘confirmed’ but $90K presents profit-taking risk: Analysis",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-bull-market-confirmed-but-90k-presents-profit-taking-risk-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790157910000
-    },
-    {
-      "title": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows",
-      "pubDate": 1790157444000
     }
   ]
 }
