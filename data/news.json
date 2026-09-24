@@ -1,7 +1,121 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790279790114,
+  "generatedAt": 1790291362491,
   "articles": [
+    {
+      "title": "Nearly $352M Moved From Crypto Exchange Bitget Wallets in Suspected Hack",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitget-suffers-352-million-hack",
+      "pubDate": 1790290439000
+    },
+    {
+      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
+      "pubDate": 1790289704000
+    },
+    {
+      "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
+      "pubDate": 1790288929000
+    },
+    {
+      "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790287809000
+    },
+    {
+      "title": "New York Sues Polymarket, Calling Prediction Market an Illegal Gambling Operation",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/new-york-sues-polymarket",
+      "pubDate": 1790287742000
+    },
+    {
+      "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
+      "pubDate": 1790287172000
+    },
+    {
+      "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
+      "pubDate": 1790286963000
+    },
+    {
+      "title": "Bitget confirms $351M security breach, suspends withdrawals",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790286437000
+    },
+    {
+      "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790286171000
+    },
+    {
+      "title": "Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets",
+      "pubDate": 1790284538000
+    },
+    {
+      "title": "SEC Commissioner Hester ‘Crypto Mom’ Peirce Advocates Privacy-Preserving Tech",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/hester-peirce-advocates-privacy-tech",
+      "pubDate": 1790283515000
+    },
+    {
+      "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790281936000
+    },
+    {
+      "title": "Someone was trying to sell Ondo Finance after founder Nathan Allman's death",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death",
+      "pubDate": 1790280805000
+    },
+    {
+      "title": "Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks",
+      "pubDate": 1790280300000
+    },
+    {
+      "title": "U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc",
+      "pubDate": 1790280286000
+    },
+    {
+      "title": "DoubleZero brings dedicated fiber market data to Hyperliquid traders",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790280247000
+    },
+    {
+      "title": "The stock token debate, and the gap nobody can close alone",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/opinion/2026/09/24/the-stock-token-debate-and-the-gap-nobody-can-close-alone",
+      "pubDate": 1790280201000
+    },
+    {
+      "title": "Humans Are Reading Your ChatGPT Chats, New Lawsuit Claims",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379272/humans-reading-chatgpt-chats-lawsuit",
+      "pubDate": 1790280063000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790279439000
+    },
     {
       "title": "Jeff Booth: Why $1 Million BTC is Thinking too Small",
       "source": "Bitcoin Magazine",
@@ -141,12 +255,6 @@
       "pubDate": 1790260582000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790256590000
-    },
-    {
       "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -193,18 +301,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790254800000
-    },
-    {
-      "title": "Bloomberg’s James Seyffart: Why Trillions in Advisor Wealth Could Flow Into Bitcoin",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/bloombergs-james-seyffart-why-trillions-in-advisor-wealth-could-flow-into-bitcoin",
-      "pubDate": 1790254717000
-    },
-    {
-      "title": "Brent Johnson: BTC the Best “Pure Play” Asset for Rising Global Liquidity",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/brent-johnson-btc-best-asset-for-rising-global-liquidity",
-      "pubDate": 1790254323000
     },
     {
       "title": "Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case",
@@ -261,106 +357,10 @@
       "pubDate": 1790247919000
     },
     {
-      "title": "Bitcoin slides to $83,300 as bond yields hit highest level since 2007",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-steadies-near-usd84-000-after-bond-yields-hit-a-2007-high",
-      "pubDate": 1790245828000
-    },
-    {
       "title": "EU banking watchdog calls for crypto lending rules under MiCA",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790245800000
-    },
-    {
-      "title": "Bitcoin falls below $84K as 10-year Treasury yield hits 19-year high",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-fall-84k-treasury-yield-hits-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790244903000
-    },
-    {
-      "title": "Traders price in 4 Fed rate hikes by June 2027 as bitcoin slides below $83,000",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/24/traders-are-pricing-in-4-fed-rate-hikes-as-bitcoin-slides-below-usd83-000",
-      "pubDate": 1790244711000
-    },
-    {
-      "title": "The data proves it: Bitcoin doesn't care about rising bond yields over long-term",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/24/the-data-proves-it-bitcoin-doesn-t-care-about-rising-bond-yields-over-long-term",
-      "pubDate": 1790243289000
-    },
-    {
-      "title": "EU financial watchdogs warn quantum computing poses imminent threat to blockchain encryption",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/24/eu-financial-watchdogs-warn-quantum-computing-poses-imminent-threat-to-blockchain-encryption",
-      "pubDate": 1790242368000
-    },
-    {
-      "title": "Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790242364000
-    },
-    {
-      "title": "Institutions held crypto through 50% drawdown, Bitwise finds",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790241496000
-    },
-    {
-      "title": "Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379153/brooklyn-man-who-bragged-about-16m-coinbase-scam-gets-up-to-12-years",
-      "pubDate": 1790240446000
-    },
-    {
-      "title": "Australia says OpenAI agent hacked government site before Altman warning",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/australia-openai-agent-government-hack-altman-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790238551000
-    },
-    {
-      "title": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
-      "pubDate": 1790231603000
-    },
-    {
-      "title": "A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/24/a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-usd320-to-usd66",
-      "pubDate": 1790227496000
-    },
-    {
-      "title": "Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790225560000
-    },
-    {
-      "title": "US weighs overseas push for dollar-backed stablecoins: Bloomberg",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790225052000
-    },
-    {
-      "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
-      "pubDate": 1790223181000
-    },
-    {
-      "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790211189000
-    },
-    {
-      "title": "Anthropic Says Claude Found Something Big in DNA. It Just Doesn't Know What",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
-      "pubDate": 1790204163000
     }
   ]
 }
