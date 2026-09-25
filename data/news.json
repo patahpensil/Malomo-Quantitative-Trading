@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790291362491,
+  "generatedAt": 1790300971118,
   "articles": [
+    {
+      "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790296366000
+    },
+    {
+      "title": "Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790292437000
+    },
     {
       "title": "Nearly $352M Moved From Crypto Exchange Bitget Wallets in Suspected Hack",
       "source": "Bitcoin Magazine",
@@ -45,7 +57,7 @@
       "pubDate": 1790286963000
     },
     {
-      "title": "Bitget confirms $351M security breach, suspends withdrawals",
+      "title": "Bitget confirms $352M security breach, suspends withdrawals",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790286437000
@@ -349,18 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/09/24/live-updates-bitcoin-edges-lower-as-bond-yields-take-center-stage",
       "pubDate": 1790248812000
-    },
-    {
-      "title": "Q-Day Could Arrive Before Quantum Computers Are Commercially Useful, EU Warns",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379167/q-day-could-arrive-before-quantum-computers-are-commercially-useful-eu-warns",
-      "pubDate": 1790247919000
-    },
-    {
-      "title": "EU banking watchdog calls for crypto lending rules under MiCA",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790245800000
     }
   ]
 }
