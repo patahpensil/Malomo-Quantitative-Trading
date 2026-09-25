@@ -1,15 +1,99 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790321859570,
+  "generatedAt": 1790341028730,
   "articles": [
     {
-      "title": "Samourai Wallet co-founder faces new transfer after 30-day ordeal",
+      "title": "CoinMarketCap buys CoinGlass to expand crypto derivatives data",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/coinmarketcap-coinglass-expand-crypto-derivatives-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790340270000
+    },
+    {
+      "title": "SlowMist has yet to confirm crypto theft from iPhone Safari attack",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790338774000
+    },
+    {
+      "title": "Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379290/defense-secretary-pete-hegseth-holds-bitcoin-in-a-coinbase-wallet-filing-shows",
+      "pubDate": 1790337675000
+    },
+    {
+      "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
+      "pubDate": 1790337268000
+    },
+    {
+      "title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
+      "pubDate": 1790335744000
+    },
+    {
+      "title": "IBIT options price trading more calmly after Bitcoin rebound",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790334693000
+    },
+    {
+      "title": "KelpDAO Developer Sues LayerZero Over $292M Bridge Exploit",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379288/kelpdao-developer-sues-layerzero-over-292m-bridge-exploit",
+      "pubDate": 1790334592000
+    },
+    {
+      "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
+      "pubDate": 1790330385000
+    },
+    {
+      "title": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379280/researchers-publish-zcash-style-design-for-private-bitcoin-transfers",
+      "pubDate": 1790329801000
+    },
+    {
+      "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790329733000
+    },
+    {
+      "title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
+      "pubDate": 1790327581000
+    },
+    {
+      "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
+      "pubDate": 1790326683000
+    },
+    {
+      "title": "KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790326277000
+    },
+    {
+      "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790322096000
+    },
+    {
+      "title": "Samourai Wallet co-founder faces transfer after 30-day jail ordeal",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790321298000
     },
     {
-      "title": "Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses",
+      "title": "Live updates: Bitcoin steadies below $85,000 as bond selloff pauses",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
       "pubDate": 1790320151000
@@ -33,7 +117,7 @@
       "pubDate": 1790311266000
     },
     {
-      "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gray Chen says",
+      "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
       "pubDate": 1790310574000
@@ -135,7 +219,7 @@
       "pubDate": 1790280805000
     },
     {
-      "title": "Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks",
+      "title": "Bullish, Alpaca, Apex Fintech and DriveWealth form coalition to push issuer-backed tokenized stocks",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks",
       "pubDate": 1790280300000
@@ -249,22 +333,10 @@
       "pubDate": 1790265661000
     },
     {
-      "title": "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790265420000
-    },
-    {
       "title": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
       "pubDate": 1790264900000
-    },
-    {
-      "title": "New York sues Polymarket over alleged illegal gambling business",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790263649000
     },
     {
       "title": "Bitcoin’s bear markets are getting milder. Bull markets may be next",
@@ -289,78 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/coindesk-indices/2026/09/24/crypto-for-advisors-the-hidden-costs-of-holding-your-own-bitcoin",
       "pubDate": 1790261368000
-    },
-    {
-      "title": "European stablecoin issuer Qivalis sees transformation of global trade finance",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
-      "pubDate": 1790260865000
-    },
-    {
-      "title": "[[alloc] init] Releases Shielded Bitcoin Proposal For Private Bitcoin Transactions",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/technical/alloc-init-releases-shielded-bitcoin-proposal-for-private-bitcoin-transactions",
-      "pubDate": 1790260582000
-    },
-    {
-      "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790256546000
-    },
-    {
-      "title": "Former CFTC Commissioner Giancarlo: Why Rate Hikes Could Benefit Bitcoin",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/former-cftc-commissioner-giancarlo-why-rate-hikes-could-benefit-bitcoin",
-      "pubDate": 1790255160000
-    },
-    {
-      "title": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379179/solana-foundation-hires-binances-former-global-cmo-for-institutional-push",
-      "pubDate": 1790254983000
-    },
-    {
-      "title": "Decrypt Media and FOMO Hour’s Thought Leader Farokh Sarmad to Take Main Stage at NEXTPredict NY Conference",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379042/decrypt-media-and-fomo-hours-thought-leader-farokh-sarmad-to-take-main-stage-at-nextpredict-ny-conference",
-      "pubDate": 1790254876000
-    },
-    {
-      "title": "Elliptic Wants Every Cop to Read a Crypto Wallet in Seconds—With AI",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379113/elliptic-crypto-wallet-ai-pulse",
-      "pubDate": 1790254863000
-    },
-    {
-      "title": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes",
-      "pubDate": 1790254800000
-    },
-    {
-      "title": "Solana Foundation hires Binance, Polygon veterans as it ramps up tokenized finance push",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/24/solana-foundation-hires-binance-polygon-veterans-as-it-ramps-up-tokenized-finance-push",
-      "pubDate": 1790254800000
-    },
-    {
-      "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790254800000
-    },
-    {
-      "title": "Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/23/rockawayx-is-betting-usd150-million-on-yield-becoming-crypto-s-next-big-use-case",
-      "pubDate": 1790253113000
-    },
-    {
-      "title": "EU's financial regulator to make AI and tokenization a supervisory priority in 2027",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/24/eu-s-financial-regulator-to-make-ai-and-tokenization-a-supervisory-priority-in-2027",
-      "pubDate": 1790252803000
     }
   ]
 }
