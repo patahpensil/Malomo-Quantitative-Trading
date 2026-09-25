@@ -1,7 +1,121 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790341028730,
+  "generatedAt": 1790358807445,
   "articles": [
+    {
+      "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan",
+      "pubDate": 1790358365000
+    },
+    {
+      "title": "Bitget clarifies $388M in assets affected by security breach",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790356665000
+    },
+    {
+      "title": "Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
+      "pubDate": 1790356137000
+    },
+    {
+      "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790354056000
+    },
+    {
+      "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
+      "pubDate": 1790353039000
+    },
+    {
+      "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits—XRP and Solana Keep Climbing",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana",
+      "pubDate": 1790352383000
+    },
+    {
+      "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790351374000
+    },
+    {
+      "title": "Bitcoin Treasury Strategy Proposes Daily Dividends For Preferred Stocks",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/strategy-proposes-daily-dividends",
+      "pubDate": 1790350793000
+    },
+    {
+      "title": "Is US Defence Secretary Pete Hegseth a Bitcoiner? This Is What His Accounts Say",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/is-us-defence-secretary-pete-hegseth-a-bitcoiner-this-is-what-his-accounts-say",
+      "pubDate": 1790350530000
+    },
+    {
+      "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
+      "pubDate": 1790347313000
+    },
+    {
+      "title": "Tokenization is moving faster than Washington",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
+      "pubDate": 1790347052000
+    },
+    {
+      "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
+      "pubDate": 1790346768000
+    },
+    {
+      "title": "Strategy proposes daily dividends to bring STRC back toward $100",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/25/strategy-proposes-daily-dividends-to-bring-strc-back-toward-usd100",
+      "pubDate": 1790346127000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790343169000
+    },
+    {
+      "title": "Exchanges reporting crypto gains to IRS becomes tax nightmare",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790343000000
+    },
+    {
+      "title": "Strategy Wants Its Preferred Stock Dividends to Accrue 365 Days a Year",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379309/strategy-wants-its-preferred-stock-dividends-to-accrue-365-days-a-year",
+      "pubDate": 1790342520000
+    },
+    {
+      "title": "Mitchell Askew Explains What 15M Inactive BTC Means for Bitcoin’s Next Move",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/mitchell-askew-explains-what-15m-inactive-btc-means-for-bitcoins-next-move",
+      "pubDate": 1790342281000
+    },
+    {
+      "title": "Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379218/morgan-stanley-joins-nextpredict-as-prediction-markets-bet-on-more-institutional-play",
+      "pubDate": 1790342163000
+    },
+    {
+      "title": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
+      "pubDate": 1790341446000
+    },
     {
       "title": "CoinMarketCap buys CoinGlass to expand crypto derivatives data",
       "source": "Cointelegraph",
@@ -93,16 +207,10 @@
       "pubDate": 1790321298000
     },
     {
-      "title": "Live updates: Bitcoin steadies below $85,000 as bond selloff pauses",
+      "title": "Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
       "pubDate": 1790320151000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790314256000
     },
     {
       "title": "Australian PM warns of AI’s ‘furious pace’ after agent breached government site",
@@ -207,12 +315,6 @@
       "pubDate": 1790283515000
     },
     {
-      "title": "Bitcoin price steadies, ONDO rallies as US Treasury yields hit 2007 highs",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790281936000
-    },
-    {
       "title": "Someone was trying to sell Ondo Finance after founder Nathan Allman's death",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death",
@@ -229,12 +331,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc",
       "pubDate": 1790280286000
-    },
-    {
-      "title": "DoubleZero brings dedicated fiber market data to Hyperliquid traders",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790280247000
     },
     {
       "title": "The stock token debate, and the gap nobody can close alone",
@@ -265,102 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/379253/meta-ai-toy-muse-charm-keychain-watches-listens",
       "pubDate": 1790277363000
-    },
-    {
-      "title": "Brooklyn Man Sentenced to 12 Years for $16M Coinbase Phishing Scam",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/man-gets-12-years-for-coinbase-scam",
-      "pubDate": 1790277329000
-    },
-    {
-      "title": "Bitcoin just topped a key long-term moving average. Here's what it might mean",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-just-topped-a-key-long-term-moving-average-here-s-what-it-might-mean",
-      "pubDate": 1790275618000
-    },
-    {
-      "title": "AI Can Now Doxx Your Anonymous Accounts? Here's What’s Going On",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379228/ai-can-now-doxx-your-anonymous-accounts-heres-whats-going-on",
-      "pubDate": 1790274663000
-    },
-    {
-      "title": "Institutions Held Their Bitcoin Through Crash — and Some Bought More: Report",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/institutions-held-bitcoin-through-crash",
-      "pubDate": 1790273032000
-    },
-    {
-      "title": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379244/new-york-ban-polymarket-lawsuit",
-      "pubDate": 1790272291000
-    },
-    {
-      "title": "In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon'",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379217/sec-peirce-end-kyc-panopticon-zero-knowledge-proofs",
-      "pubDate": 1790271063000
-    },
-    {
-      "title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790270075000
-    },
-    {
-      "title": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790270018000
-    },
-    {
-      "title": "US Aims to Turn Stablecoins Into a Weapon for Dollar Dominance",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379219/us-stablecoins-weapon-dollar-dominance",
-      "pubDate": 1790268943000
-    },
-    {
-      "title": "Bitcoin Traders Brace for $15B Options Expiry as Bulls Eye $100,000",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-traders-await-15-billion-expiry",
-      "pubDate": 1790266597000
-    },
-    {
-      "title": "Bitcoin Breakout Cools as Fed Rate-Hike Bets Climb",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379189/bitcoins-breakout-cools-fed-rate-hike-bets-climb",
-      "pubDate": 1790265661000
-    },
-    {
-      "title": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
-      "pubDate": 1790264900000
-    },
-    {
-      "title": "Bitcoin’s bear markets are getting milder. Bull markets may be next",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
-      "pubDate": 1790263594000
-    },
-    {
-      "title": "£10K Reward Offered After UK Couple Attacked in Crypto Home Invasion",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379186/10k-reward-offered-after-uk-couple-attacked-in-crypto-home-invasion",
-      "pubDate": 1790262506000
-    },
-    {
-      "title": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
-      "pubDate": 1790262438000
-    },
-    {
-      "title": "Crypto for Advisors:The hidden costs of holding your own bitcoin",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/09/24/crypto-for-advisors-the-hidden-costs-of-holding-your-own-bitcoin",
-      "pubDate": 1790261368000
     }
   ]
 }
