@@ -1,7 +1,55 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790432381279,
+  "generatedAt": 1790445383858,
   "articles": [
+    {
+      "title": "Samourai Letter #7: Notes From The Inside",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/culture/samourai-letter-7-notes-from-the-inside",
+      "pubDate": 1790442407000
+    },
+    {
+      "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
+      "pubDate": 1790442063000
+    },
+    {
+      "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
+      "pubDate": 1790438763000
+    },
+    {
+      "title": "An Austrian Economist Explains Why AI Will Make Everyone an Entrepreneur w/ Per Bylund",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/an-austrian-economist-explains-why-ai-will-make-everyone-an-entrepreneur-w-per-bylund",
+      "pubDate": 1790437740000
+    },
+    {
+      "title": "TECHNICAL ANALYSIS: BTC to Cross Key Price Level Against Gold",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/technical-analysis-btc-to-cross-key-price-level-against-gold",
+      "pubDate": 1790437387000
+    },
+    {
+      "title": "Katie Stockton: $93K BTC is the Key Price Level for the Bull Market",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/katie-stockton-93k-btc-is-the-key-price-level-for-the-bull-market",
+      "pubDate": 1790437028000
+    },
+    {
+      "title": "Grant Cardone: Real Estate “Armageddon” Is Here – Why BITCOIN is the Hedge",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/grant-cardone-real-estate-armageddon-is-here-why-bitcoin-is-the-hedge",
+      "pubDate": 1790436206000
+    },
+    {
+      "title": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap",
+      "pubDate": 1790434865000
+    },
     {
       "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
       "source": "CoinDesk",
@@ -313,54 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790329733000
-    },
-    {
-      "title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
-      "pubDate": 1790327581000
-    },
-    {
-      "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
-      "pubDate": 1790326683000
-    },
-    {
-      "title": "KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790326277000
-    },
-    {
-      "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790322096000
-    },
-    {
-      "title": "Samourai Wallet co-founder faces transfer after 30-day jail ordeal",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790321298000
-    },
-    {
-      "title": "Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
-      "pubDate": 1790320151000
-    },
-    {
-      "title": "Australian PM warns of AI’s ‘furious pace’ after agent breached government site",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/australia-pm-warns-of-ais-furious-pace-after-agent-breached-government-site?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790312782000
-    },
-    {
-      "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
-      "pubDate": 1790310574000
     }
   ]
 }
