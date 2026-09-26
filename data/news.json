@@ -1,7 +1,25 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790398104183,
+  "generatedAt": 1790416084214,
   "articles": [
+    {
+      "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790413342000
+    },
+    {
+      "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790405969000
+    },
+    {
+      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+      "pubDate": 1790398800000
+    },
     {
       "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
       "source": "CoinDesk",
@@ -11,7 +29,7 @@
     {
       "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
       "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+      "link": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
       "pubDate": 1790395333000
     },
     {
@@ -321,18 +339,6 @@
       "pubDate": 1790310574000
     },
     {
-      "title": "Block brings Bitcoin Lightning payments to x402 for AI agents",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790301654000
-    },
-    {
-      "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790296366000
-    },
-    {
       "title": "Nearly $352M Moved From Crypto Exchange Bitget Wallets in Suspected Hack",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/bitget-suffers-352-million-hack",
@@ -355,12 +361,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/new-york-sues-polymarket",
       "pubDate": 1790287742000
-    },
-    {
-      "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
-      "pubDate": 1790287172000
     }
   ]
 }
