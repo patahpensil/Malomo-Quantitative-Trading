@@ -1,7 +1,49 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790416084214,
+  "generatedAt": 1790432381279,
   "articles": [
+    {
+      "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
+      "pubDate": 1790431200000
+    },
+    {
+      "title": "Kalshi loses appeal, setting up potential Supreme Court case",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790428872000
+    },
+    {
+      "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379353/google-free-1080p-ai-video-generation",
+      "pubDate": 1790427663000
+    },
+    {
+      "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
+      "pubDate": 1790427600000
+    },
+    {
+      "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
+      "pubDate": 1790427401000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790425020000
+    },
+    {
+      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+      "pubDate": 1790424000000
+    },
     {
       "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
       "source": "Cointelegraph",
@@ -25,12 +67,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
       "pubDate": 1790397000000
-    },
-    {
-      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
-      "pubDate": 1790395333000
     },
     {
       "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
@@ -97,12 +133,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790362613000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790361779000
     },
     {
       "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
@@ -327,40 +357,10 @@
       "pubDate": 1790312782000
     },
     {
-      "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790311266000
-    },
-    {
       "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
       "pubDate": 1790310574000
-    },
-    {
-      "title": "Nearly $352M Moved From Crypto Exchange Bitget Wallets in Suspected Hack",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitget-suffers-352-million-hack",
-      "pubDate": 1790290439000
-    },
-    {
-      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
-      "pubDate": 1790289704000
-    },
-    {
-      "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
-      "pubDate": 1790288929000
-    },
-    {
-      "title": "New York Sues Polymarket, Calling Prediction Market an Illegal Gambling Operation",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/new-york-sues-polymarket",
-      "pubDate": 1790287742000
     }
   ]
 }
