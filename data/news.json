@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790381152402,
+  "generatedAt": 1790398104183,
   "articles": [
+    {
+      "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
+      "pubDate": 1790397000000
+    },
+    {
+      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+      "pubDate": 1790395333000
+    },
     {
       "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
       "source": "CoinDesk",
@@ -349,18 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
       "pubDate": 1790287172000
-    },
-    {
-      "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
-      "pubDate": 1790286963000
-    },
-    {
-      "title": "Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets",
-      "pubDate": 1790284538000
     }
   ]
 }
