@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790371634775,
+  "generatedAt": 1790381152402,
   "articles": [
+    {
+      "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
+      "pubDate": 1790374658000
+    },
     {
       "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
       "source": "Decrypt",
@@ -355,12 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets",
       "pubDate": 1790284538000
-    },
-    {
-      "title": "SEC Commissioner Hester ‘Crypto Mom’ Peirce Advocates Privacy-Preserving Tech",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/hester-peirce-advocates-privacy-tech",
-      "pubDate": 1790283515000
     }
   ]
 }
