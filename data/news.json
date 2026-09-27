@@ -1,7 +1,25 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790516952315,
+  "generatedAt": 1790532918420,
   "articles": [
+    {
+      "title": "AI Agents Keep Escaping Their Creators' Control—Here's What We Know",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379402/ai-agents-keep-escaping-creators-control",
+      "pubDate": 1790524863000
+    },
+    {
+      "title": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it",
+      "pubDate": 1790521263000
+    },
+    {
+      "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+      "pubDate": 1790519353000
+    },
     {
       "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
       "source": "Decrypt",
@@ -343,24 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/no-confirmed-crypto-theft-iphone-safari-attack-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790338774000
-    },
-    {
-      "title": "Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379290/defense-secretary-pete-hegseth-holds-bitcoin-in-a-coinbase-wallet-filing-shows",
-      "pubDate": 1790337675000
-    },
-    {
-      "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
-      "pubDate": 1790337268000
-    },
-    {
-      "title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
-      "pubDate": 1790335744000
     }
   ]
 }
