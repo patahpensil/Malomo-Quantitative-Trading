@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790473313560,
+  "generatedAt": 1790495965805,
   "articles": [
+    {
+      "title": "Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790493522000
+    },
     {
       "title": "Samourai Letter #7: Notes From The Inside",
       "source": "Bitcoin Magazine",
@@ -355,12 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/379280/researchers-publish-zcash-style-design-for-private-bitcoin-transfers",
       "pubDate": 1790329801000
-    },
-    {
-      "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790329733000
     }
   ]
 }
