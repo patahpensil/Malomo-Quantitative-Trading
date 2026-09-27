@@ -1,7 +1,31 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790495965805,
+  "generatedAt": 1790516952315,
   "articles": [
+    {
+      "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
+      "pubDate": 1790514063000
+    },
+    {
+      "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790513188000
+    },
+    {
+      "title": "How months of work on the Clarity Act all fell apart",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
+      "pubDate": 1790510400000
+    },
+    {
+      "title": "Riot Platforms repays $200M credit facility, releases collateral",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790503039000
+    },
     {
       "title": "Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy",
       "source": "Cointelegraph",
@@ -337,30 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
       "pubDate": 1790335744000
-    },
-    {
-      "title": "IBIT options price trading more calmly after Bitcoin rebound",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790334693000
-    },
-    {
-      "title": "KelpDAO Developer Sues LayerZero Over $292M Bridge Exploit",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379288/kelpdao-developer-sues-layerzero-over-292m-bridge-exploit",
-      "pubDate": 1790334592000
-    },
-    {
-      "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
-      "pubDate": 1790330385000
-    },
-    {
-      "title": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379280/researchers-publish-zcash-style-design-for-private-bitcoin-transfers",
-      "pubDate": 1790329801000
     }
   ]
 }
