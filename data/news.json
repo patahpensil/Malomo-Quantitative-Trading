@@ -1,7 +1,163 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790596567221,
+  "generatedAt": 1790624091692,
   "articles": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790622165000
+    },
+    {
+      "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379468/nvidia-kill-switch-ai-agents",
+      "pubDate": 1790621163000
+    },
+    {
+      "title": "US SEC follows CFTC in staff guidance for crypto",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790620749000
+    },
+    {
+      "title": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc",
+      "pubDate": 1790619362000
+    },
+    {
+      "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790618574000
+    },
+    {
+      "title": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
+      "pubDate": 1790618400000
+    },
+    {
+      "title": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack",
+      "pubDate": 1790617874000
+    },
+    {
+      "title": "Crypto PAC spends $11M to oppose Sherrod Brown in Ohio",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/crypto-industry-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790614080000
+    },
+    {
+      "title": "Strategy and Strive Scoop Up More Than 2,700 Bitcoin in a Week",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/strategy-strive-buy-more-bitcoin",
+      "pubDate": 1790613234000
+    },
+    {
+      "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
+      "pubDate": 1790612982000
+    },
+    {
+      "title": "The restaking gold rush is over, and top protocols are barely making a profit",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
+      "pubDate": 1790612691000
+    },
+    {
+      "title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/28/tether-is-a-lifeline-for-iranian-regime-senate-dems-say-in-new-report",
+      "pubDate": 1790612200000
+    },
+    {
+      "title": "Bitcoin Falls Lower as Trump's Iran Snub Sends Oil, Yields Higher",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379438/bitcoin-price-falls-trump-iran-oil-yields",
+      "pubDate": 1790609188000
+    },
+    {
+      "title": "Dollars In, Bitcoin Out: Breez SDK Debuts New Stablecoin Feature",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/breez-debuts-stablecoin-feature",
+      "pubDate": 1790608514000
+    },
+    {
+      "title": "Bitget CEO says $388M hack exploited third-party security vulnerability",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitget-388m-hack-third-party-security-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790606781000
+    },
+    {
+      "title": "Trezor Safe 7 Review: The FOSS Self Custody Hardware Wallet",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/technical/trezor-safe-7-review-the-foss-self-custody-hardware-wallet",
+      "pubDate": 1790605920000
+    },
+    {
+      "title": "MiCA focus shifts from rulemaking to supervision, ESMA chair says",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/mica-shift-rulemaking-to-supervision-esma-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790604165000
+    },
+    {
+      "title": "Altseason is coming — and traders are more discerning this time",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/altseason-is-coming-and-traders-are-more-discerning-this-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790602200000
+    },
+    {
+      "title": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379418/tom-lees-bitmine-buys-another-47m-of-eth-taking-it-to-4-9-of-ethereum-supply",
+      "pubDate": 1790602060000
+    },
+    {
+      "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/28/ai-agents-could-drain-cheap-bank-deposits-apollo-s-torsten-slok-warns",
+      "pubDate": 1790600771000
+    },
+    {
+      "title": "Strategy Sets New BTC Holdings Record After $143M Bitcoin Purchase",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379415/strategy-sets-new-btc-holdings-record-after-143m-bitcoin-purchase",
+      "pubDate": 1790599541000
+    },
+    {
+      "title": "Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/strategy-1665-bitcoin-buy-holdings-847666-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790599081000
+    },
+    {
+      "title": "Chainlink launches new version of its crypto bridge tech 'CCIP' to give apps more control over their security",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/28/chainlink-updates-its-crypto-bridge-tech-months-after-a-usd292-million-hack-shook-the-industry",
+      "pubDate": 1790598600000
+    },
+    {
+      "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/btc-price-eyes-best-q3-in-nine-years-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790598110000
+    },
+    {
+      "title": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/28/thorchain-rejects-bitget-request-to-block-hacker-as-usd6-million-moves-to-bitcoin",
+      "pubDate": 1790597589000
+    },
+    {
+      "title": "Morning Minute: SEC Clears Token Buybacks for Crypto Networks",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379412/morning-minute-sec-clears-token-buybacks-for-crypto-networks",
+      "pubDate": 1790597001000
+    },
     {
       "title": "Traders aren't panicking yet despite cooling crypto sentiment",
       "source": "CoinDesk",
@@ -33,7 +189,7 @@
       "pubDate": 1790590504000
     },
     {
-      "title": "Live updates: Bitcoin sinks below $83,000 as Iran talks stall and oil climbs",
+      "title": "Live updates: Bitcoin pulls off worst levels as oil dips on Iran deal hopes",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs",
       "pubDate": 1790589757000
@@ -51,7 +207,7 @@
       "pubDate": 1790588755000
     },
     {
-      "title": "Bitcoin bears pay to bet on further declines as futures positions near yearly lows",
+      "title": "Caution builds in the bitcoin market even as prices stay well above summer lows",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-bears-pay-to-bet-on-further-declines-as-futures-positions-near-yearly-lows",
       "pubDate": 1790587774000
@@ -97,12 +253,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/south-korea-weighs-crypto-market-makers-after-jpyc-trades-at-4-times-peg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790574165000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790571420000
     },
     {
       "title": "Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork",
@@ -171,18 +321,6 @@
       "pubDate": 1790510400000
     },
     {
-      "title": "Riot Platforms repays $200M credit facility, releases collateral",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790503039000
-    },
-    {
-      "title": "Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790493522000
-    },
-    {
       "title": "Samourai Letter #7: Notes From The Inside",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/culture/samourai-letter-7-notes-from-the-inside",
@@ -223,144 +361,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/grant-cardone-real-estate-armageddon-is-here-why-bitcoin-is-the-hedge",
       "pubDate": 1790436206000
-    },
-    {
-      "title": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap",
-      "pubDate": 1790434865000
-    },
-    {
-      "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
-      "pubDate": 1790431200000
-    },
-    {
-      "title": "Kalshi loses appeal, setting up potential Supreme Court case",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790428872000
-    },
-    {
-      "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379353/google-free-1080p-ai-video-generation",
-      "pubDate": 1790427663000
-    },
-    {
-      "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
-      "pubDate": 1790427600000
-    },
-    {
-      "title": "Bitget hacker moves $83 million in stolen XRP beyond reach of freeze controls",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
-      "pubDate": 1790427401000
-    },
-    {
-      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
-      "pubDate": 1790424000000
-    },
-    {
-      "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790413342000
-    },
-    {
-      "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790405969000
-    },
-    {
-      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
-      "pubDate": 1790398800000
-    },
-    {
-      "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
-      "pubDate": 1790397000000
-    },
-    {
-      "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
-      "pubDate": 1790374658000
-    },
-    {
-      "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
-      "pubDate": 1790371535000
-    },
-    {
-      "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
-      "pubDate": 1790371050000
-    },
-    {
-      "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790368641000
-    },
-    {
-      "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790368000000
-    },
-    {
-      "title": "North Korean Hackers Linked to $388M Bitget Crypto Exchange Theft: CEO",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/north-korea-linked-to-bitget-hack",
-      "pubDate": 1790366921000
-    },
-    {
-      "title": "Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-etfs-bring-in-nearly-3-billion",
-      "pubDate": 1790366101000
-    },
-    {
-      "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
-      "pubDate": 1790365539000
-    },
-    {
-      "title": "Google Built an AI That Hunts Its Own Security Bugs",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
-      "pubDate": 1790363764000
-    },
-    {
-      "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790362613000
-    },
-    {
-      "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
-      "pubDate": 1790361771000
-    },
-    {
-      "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan",
-      "pubDate": 1790358365000
     }
   ]
 }
