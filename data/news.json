@@ -1,7 +1,67 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790624091692,
+  "generatedAt": 1790639639165,
   "articles": [
+    {
+      "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379508/openai-ai-agents-target-us-government-sites",
+      "pubDate": 1790631963000
+    },
+    {
+      "title": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
+      "pubDate": 1790630163000
+    },
+    {
+      "title": "Belarus Approves the Country’s First Crypto Banks: Report",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/belarus-approves-first-crypto-banks",
+      "pubDate": 1790628698000
+    },
+    {
+      "title": "UK Chancellor of the Exchequer Blasts Nigel Farage’s ‘Bitcoin Account’",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/uk-finance-ministe-nigel-farage-bitcoin",
+      "pubDate": 1790628224000
+    },
+    {
+      "title": "Canadian ‘crypto king’ set to represent himself at fraud trial",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790628104000
+    },
+    {
+      "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
+      "pubDate": 1790627763000
+    },
+    {
+      "title": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790627293000
+    },
+    {
+      "title": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379482/anthropic-claude-sonnet-5-5-release",
+      "pubDate": 1790625963000
+    },
+    {
+      "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack",
+      "pubDate": 1790624181000
+    },
+    {
+      "title": "Citi and Coinbase Working Together To Build Stablecoin Infrastructure for Businesses",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/citi-coinbases-stablecoin-project",
+      "pubDate": 1790624181000
+    },
     {
       "title": "Here’s what happened in crypto today",
       "source": "Cointelegraph",
@@ -189,7 +249,7 @@
       "pubDate": 1790590504000
     },
     {
-      "title": "Live updates: Bitcoin pulls off worst levels as oil dips on Iran deal hopes",
+      "title": "Live updates: Bitcoin remains under pressure as Iran denies report of peace progress",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs",
       "pubDate": 1790589757000
@@ -279,12 +339,6 @@
       "pubDate": 1790557762000
     },
     {
-      "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790552598000
-    },
-    {
       "title": "AI Agents Keep Escaping Their Creators' Control—Here's What We Know",
       "source": "Decrypt",
       "link": "https://decrypt.co/379402/ai-agents-keep-escaping-creators-control",
@@ -307,60 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
       "pubDate": 1790514063000
-    },
-    {
-      "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790513188000
-    },
-    {
-      "title": "How months of work on the Clarity Act all fell apart",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
-      "pubDate": 1790510400000
-    },
-    {
-      "title": "Samourai Letter #7: Notes From The Inside",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/culture/samourai-letter-7-notes-from-the-inside",
-      "pubDate": 1790442407000
-    },
-    {
-      "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
-      "pubDate": 1790442063000
-    },
-    {
-      "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
-      "pubDate": 1790438763000
-    },
-    {
-      "title": "An Austrian Economist Explains Why AI Will Make Everyone an Entrepreneur w/ Per Bylund",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/an-austrian-economist-explains-why-ai-will-make-everyone-an-entrepreneur-w-per-bylund",
-      "pubDate": 1790437740000
-    },
-    {
-      "title": "TECHNICAL ANALYSIS: BTC to Cross Key Price Level Against Gold",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/technical-analysis-btc-to-cross-key-price-level-against-gold",
-      "pubDate": 1790437387000
-    },
-    {
-      "title": "Katie Stockton: $93K BTC is the Key Price Level for the Bull Market",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/katie-stockton-93k-btc-is-the-key-price-level-for-the-bull-market",
-      "pubDate": 1790437028000
-    },
-    {
-      "title": "Grant Cardone: Real Estate “Armageddon” Is Here – Why BITCOIN is the Hedge",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/grant-cardone-real-estate-armageddon-is-here-why-bitcoin-is-the-hedge",
-      "pubDate": 1790436206000
     }
   ]
 }
