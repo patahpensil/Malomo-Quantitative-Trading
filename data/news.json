@@ -1,7 +1,103 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790572232095,
+  "generatedAt": 1790596567221,
   "articles": [
+    {
+      "title": "Traders aren't panicking yet despite cooling crypto sentiment",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/28/bitcoin-traders-aren-t-panicking-yet-despite-cooling-sentiment",
+      "pubDate": 1790595153000
+    },
+    {
+      "title": "Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790593524000
+    },
+    {
+      "title": "Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/28/crypto-friendly-institution-franklin-templeton-brings-its-tokenized-collateral-service-to-bybit",
+      "pubDate": 1790593200000
+    },
+    {
+      "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379404/california-bans-public-officials-from-issuing-meme-coins-under-new-newsom-law",
+      "pubDate": 1790590585000
+    },
+    {
+      "title": "Bitcoin falls to $83,000 while altcoins unwind Friday's rally",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-falls-to-usd83-000-while-altcoins-unwind-friday-s-rally",
+      "pubDate": 1790590504000
+    },
+    {
+      "title": "Live updates: Bitcoin sinks below $83,000 as Iran talks stall and oil climbs",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs",
+      "pubDate": 1790589757000
+    },
+    {
+      "title": "Hong Kong regulators expand financial reporting oversight to licensed crypto firms",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/hong-kong-sfc-afrc-crypto-financial-reporting-mou?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790589511000
+    },
+    {
+      "title": "Eyes on key U.S. employment data as crypto bulls take a breather: Crypto Week Ahead",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-rally-takes-a-breather-ahead-of-key-u-s-employment-data-crypto-week-ahead",
+      "pubDate": 1790588755000
+    },
+    {
+      "title": "Bitcoin bears pay to bet on further declines as futures positions near yearly lows",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-bears-pay-to-bet-on-further-declines-as-futures-positions-near-yearly-lows",
+      "pubDate": 1790587774000
+    },
+    {
+      "title": "Scammers steal $2M in ETH as fake GIWA network fools DYORSWAP",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790587190000
+    },
+    {
+      "title": "Bitcoin drops under $83K as liquidity hunting keeps bulls from targeting yearly open",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-drops-under-83k-as-liquidity-hunting-keeps-bulls-from-targeting-yearly-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790586200000
+    },
+    {
+      "title": "Bitcoin ETFs draw $2.4B in biggest inflow week since October 2025",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-billion-biggest-inflow-week-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790583880000
+    },
+    {
+      "title": "RedotPay completes financial audit as it presses ahead with U.S. IPO plans",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/28/redotpay-completes-financial-audit-as-it-presses-ahead-with-u-s-ipo-plans",
+      "pubDate": 1790581800000
+    },
+    {
+      "title": "California's Newsom signs memecoin ban and calls it 'The Opposite of Trump'",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/28/california-s-newsom-signs-memecoin-ban-and-calls-it-the-opposite-of-trump",
+      "pubDate": 1790576512000
+    },
+    {
+      "title": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows",
+      "pubDate": 1790576466000
+    },
+    {
+      "title": "South Korea weighs crypto market makers after JPYC trades at 4 times peg",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-weighs-crypto-market-makers-after-jpyc-trades-at-4-times-peg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790574165000
+    },
     {
       "title": "Here’s what happened in crypto today",
       "source": "Cointelegraph",
@@ -231,12 +327,6 @@
       "pubDate": 1790366921000
     },
     {
-      "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
-      "pubDate": 1790366465000
-    },
-    {
       "title": "Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/bitcoin-etfs-bring-in-nearly-3-billion",
@@ -267,100 +357,10 @@
       "pubDate": 1790361771000
     },
     {
-      "title": "Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790361229000
-    },
-    {
       "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
       "source": "Decrypt",
       "link": "https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan",
       "pubDate": 1790358365000
-    },
-    {
-      "title": "Bitget clarifies $388M in assets affected by security breach",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790356665000
-    },
-    {
-      "title": "Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
-      "pubDate": 1790356137000
-    },
-    {
-      "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790354056000
-    },
-    {
-      "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
-      "pubDate": 1790353039000
-    },
-    {
-      "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits—XRP and Solana Keep Climbing",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana",
-      "pubDate": 1790352383000
-    },
-    {
-      "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790351374000
-    },
-    {
-      "title": "Bitcoin Treasury Strategy Proposes Daily Dividends For Preferred Stocks",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/strategy-proposes-daily-dividends",
-      "pubDate": 1790350793000
-    },
-    {
-      "title": "Is US Defence Secretary Pete Hegseth a Bitcoiner? This Is What His Accounts Say",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/is-us-defence-secretary-pete-hegseth-a-bitcoiner-this-is-what-his-accounts-say",
-      "pubDate": 1790350530000
-    },
-    {
-      "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
-      "pubDate": 1790347313000
-    },
-    {
-      "title": "Tokenization is moving faster than Washington",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
-      "pubDate": 1790347052000
-    },
-    {
-      "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
-      "pubDate": 1790346768000
-    },
-    {
-      "title": "Strategy proposes daily dividends to bring STRC back toward $100",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/25/strategy-proposes-daily-dividends-to-bring-strc-back-toward-usd100",
-      "pubDate": 1790346127000
-    },
-    {
-      "title": "Exchanges reporting crypto gains to IRS becomes tax nightmare",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790343000000
-    },
-    {
-      "title": "Strategy Wants Its Preferred Stock Dividends to Accrue 365 Days a Year",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379309/strategy-wants-its-preferred-stock-dividends-to-accrue-365-days-a-year",
-      "pubDate": 1790342520000
     }
   ]
 }
