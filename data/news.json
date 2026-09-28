@@ -1,7 +1,37 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790553260133,
+  "generatedAt": 1790572232095,
   "articles": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790571420000
+    },
+    {
+      "title": "Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790570655000
+    },
+    {
+      "title": "Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-and-nasdaq-futures-decline-as-trump-won-t-rule-out-more-iran-strikes",
+      "pubDate": 1790567932000
+    },
+    {
+      "title": "Newsom signs California ban on public officials issuing memecoins",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790562222000
+    },
+    {
+      "title": "Zano rolls blockchain back a month after Gateway Address exploit",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790557762000
+    },
     {
       "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
       "source": "Cointelegraph",
@@ -129,16 +159,10 @@
       "pubDate": 1790427600000
     },
     {
-      "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+      "title": "Bitget hacker moves $83 million in stolen XRP beyond reach of freeze controls",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
       "pubDate": 1790427401000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790425020000
     },
     {
       "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
@@ -337,30 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/379309/strategy-wants-its-preferred-stock-dividends-to-accrue-365-days-a-year",
       "pubDate": 1790342520000
-    },
-    {
-      "title": "Mitchell Askew Explains What 15M Inactive BTC Means for Bitcoin’s Next Move",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/mitchell-askew-explains-what-15m-inactive-btc-means-for-bitcoins-next-move",
-      "pubDate": 1790342281000
-    },
-    {
-      "title": "Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379218/morgan-stanley-joins-nextpredict-as-prediction-markets-bet-on-more-institutional-play",
-      "pubDate": 1790342163000
-    },
-    {
-      "title": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
-      "pubDate": 1790341446000
-    },
-    {
-      "title": "CoinMarketCap buys CoinGlass to expand crypto derivatives data",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/coinmarketcap-coinglass-expand-crypto-derivatives-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790340270000
     }
   ]
 }
