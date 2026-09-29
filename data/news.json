@@ -1,7 +1,127 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790701126231,
+  "generatedAt": 1790716809537,
   "articles": [
+    {
+      "title": "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options",
+      "pubDate": 1790716564000
+    },
+    {
+      "title": "Bitget Customers Withdraw Over 4,000 Bitcoins in One Hour Following $388M Hack",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitget-customers-withdraw-4000-bitcoins",
+      "pubDate": 1790716485000
+    },
+    {
+      "title": "Bitwise Head of Research: Sovereigns Selling Gold for Bitcoin | Ryan Rasmussen",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/bitwise-head-of-research-sovereigns-selling-gold-for-bitcoin-ryan-rasmussen",
+      "pubDate": 1790715277000
+    },
+    {
+      "title": "Tracy Shuchart: BTC & the Commodities Supercycle",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/tracy-shuchart-btc-the-commodities-supercycle",
+      "pubDate": 1790714986000
+    },
+    {
+      "title": "Dan Tapiero: “We’ve Begun a Bull Phase” in Bitcoin",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/dan-tapiero-weve-begun-a-bull-phase-in-bitcoin",
+      "pubDate": 1790714578000
+    },
+    {
+      "title": "Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379612/bitwise-launches-first-spot-near-etf",
+      "pubDate": 1790714164000
+    },
+    {
+      "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379605/anthropic-lost-42-billion-last-year-wants-ipo-2-trillion",
+      "pubDate": 1790712363000
+    },
+    {
+      "title": "Crypto regulation at SEC, CFTC to come down to 3 commissioners following key resignation",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790711983000
+    },
+    {
+      "title": "OpenAI valuation could hit $1.4T in new funding round: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790711749000
+    },
+    {
+      "title": "Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790711393000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790710922000
+    },
+    {
+      "title": "Someone Finally Jailbroke the PS5—Just After Sony Said Players Don’t Own Their Games",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379583/sony-ps5-jailbreak-digital-games-ownership",
+      "pubDate": 1790710264000
+    },
+    {
+      "title": "HANetf Debuts Euro-Hedged Bitcoin Fund in World First",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/hanetf-debuts-bitcoin-euro-etf",
+      "pubDate": 1790708927000
+    },
+    {
+      "title": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced",
+      "pubDate": 1790708122000
+    },
+    {
+      "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal",
+      "pubDate": 1790706067000
+    },
+    {
+      "title": "Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379575/crypto-etfs-surge-bitcoin-adds-nearly-3-billion",
+      "pubDate": 1790705913000
+    },
+    {
+      "title": "Stretched Profits and Cooling Demand Put Bitcoin Rally on Pause — For Now: Report",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/stretched-profits-pause-bitcoin-rally",
+      "pubDate": 1790705147000
+    },
+    {
+      "title": "Alkanes Asian Market Drove 61% of Bitcoin Transactions for 90 Days, SUBFROST Data Shows",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/alkanes-drove-61-of-bitcoin-transactions-for-90-days-subfrost-data-shows",
+      "pubDate": 1790703637000
+    },
+    {
+      "title": "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379561/bbc-director-general-ai-generated-doctor-who-pretty-good",
+      "pubDate": 1790703064000
+    },
+    {
+      "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790702076000
+    },
     {
       "title": "Is the Red September Curse Over? Bitcoin Set for Best September on Record",
       "source": "Decrypt",
@@ -63,30 +183,6 @@
       "pubDate": 1790688478000
     },
     {
-      "title": "Hunter Biden on Bitcoin, Operation Chokepoint 2.0, and $LAPTOP",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/hunter-biden-on-bitcoin-operation-chokepoint-2-0-and-laptop",
-      "pubDate": 1790688088000
-    },
-    {
-      "title": "Gary Cardone: Wall Street Is Taking Over Bitcoin — For Good",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/gary-cardone-wall-street-is-taking-over-bitcoin-for-good",
-      "pubDate": 1790687774000
-    },
-    {
-      "title": "Dr. Pippa Malmgren: Investing in Bitcoin in the Age of Abundance",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/dr-pippa-malmgren-investing-in-bitcoin-in-the-age-of-abundance",
-      "pubDate": 1790687438000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790687284000
-    },
-    {
       "title": "Bitcoin ETF inflows leave institutional demand unclear: CoinShares",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -105,16 +201,10 @@
       "pubDate": 1790683245000
     },
     {
-      "title": "Bitcoin beats gold, surge to $100,000 in play",
+      "title": "Bitcoin surging to $100,000 may be in play, after outperforming gold",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
       "pubDate": 1790681695000
-    },
-    {
-      "title": "Now Accepting Bitcoin: Coljac Café Bitcoin Hub with 40+ Nearby Missouri Merchants",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/culture/coljac-cafe-bitcoin-missouri",
-      "pubDate": 1790681400000
     },
     {
       "title": "Zcash developers begin moving Tachyon code into faster private-payment software",
@@ -249,18 +339,6 @@
       "pubDate": 1790630163000
     },
     {
-      "title": "Belarus Approves the Country’s First Crypto Banks: Report",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/belarus-approves-first-crypto-banks",
-      "pubDate": 1790628698000
-    },
-    {
-      "title": "UK Chancellor of the Exchequer Blasts Nigel Farage’s ‘Bitcoin Account’",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/uk-finance-ministe-nigel-farage-bitcoin",
-      "pubDate": 1790628224000
-    },
-    {
       "title": "Canadian ‘crypto king’ set to represent himself at fraud trial",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -273,12 +351,6 @@
       "pubDate": 1790627763000
     },
     {
-      "title": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790627293000
-    },
-    {
       "title": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
       "source": "Decrypt",
       "link": "https://decrypt.co/379482/anthropic-claude-sonnet-5-5-release",
@@ -289,78 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack",
       "pubDate": 1790624181000
-    },
-    {
-      "title": "Citi and Coinbase Working Together To Build Stablecoin Infrastructure for Businesses",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/citi-coinbases-stablecoin-project",
-      "pubDate": 1790624181000
-    },
-    {
-      "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379468/nvidia-kill-switch-ai-agents",
-      "pubDate": 1790621163000
-    },
-    {
-      "title": "US SEC follows CFTC in staff guidance for crypto",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790620749000
-    },
-    {
-      "title": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc",
-      "pubDate": 1790619362000
-    },
-    {
-      "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790618574000
-    },
-    {
-      "title": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
-      "pubDate": 1790618400000
-    },
-    {
-      "title": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack",
-      "pubDate": 1790617874000
-    },
-    {
-      "title": "Crypto PAC spends $11M to oppose Sherrod Brown in Ohio",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/crypto-industry-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790614080000
-    },
-    {
-      "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
-      "pubDate": 1790612982000
-    },
-    {
-      "title": "The restaking gold rush is over, and top protocols are barely making a profit",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
-      "pubDate": 1790612691000
-    },
-    {
-      "title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/28/tether-is-a-lifeline-for-iranian-regime-senate-dems-say-in-new-report",
-      "pubDate": 1790612200000
-    },
-    {
-      "title": "Bitcoin Falls Lower as Trump's Iran Snub Sends Oil, Yields Higher",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379438/bitcoin-price-falls-trump-iran-oil-yields",
-      "pubDate": 1790609188000
     }
   ]
 }
