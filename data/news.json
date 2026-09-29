@@ -1,12 +1,126 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790681472930,
+  "generatedAt": 1790701126231,
   "articles": [
+    {
+      "title": "Is the Red September Curse Over? Bitcoin Set for Best September on Record",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379549/red-september-curse-over-bitcoin-best-returns-record",
+      "pubDate": 1790700646000
+    },
+    {
+      "title": "Bitcoin gives back gains as long-term holder supply keeps $85K out of reach",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790699171000
+    },
+    {
+      "title": "Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790698686000
+    },
+    {
+      "title": "Morgan Stanley Has ‘Digital Asset Lab’ To Test Crypto Products: Report",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/morgan-stanley-digital-asset-lab",
+      "pubDate": 1790697621000
+    },
+    {
+      "title": "Ethereum users get another way to pay privately as zk.money returns after three years",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
+      "pubDate": 1790697600000
+    },
+    {
+      "title": "Democrats killed the Clarity Act",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act",
+      "pubDate": 1790690898000
+    },
+    {
+      "title": "Bitcoin Hovers at $84K as Treasury Yields Hold Near Multi-Year Highs",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379541/bitcoin-hovers-at-84k-as-treasury-yields-hold-near-multi-year-highs",
+      "pubDate": 1790690864000
+    },
+    {
+      "title": "André Dragosch: Why Bitcoin’s Fair Value is $197,000",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/andre-dragosch-why-bitcoins-fair-value-is-197000",
+      "pubDate": 1790688752000
+    },
+    {
+      "title": "Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790688600000
+    },
+    {
+      "title": "Solari Capital Founder Scaramucci: Betting on Bitcoin & Exponential Technology",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/solari-capital-founder-scaramucci-betting-on-bitcoin-exponential-technology",
+      "pubDate": 1790688478000
+    },
+    {
+      "title": "Hunter Biden on Bitcoin, Operation Chokepoint 2.0, and $LAPTOP",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/hunter-biden-on-bitcoin-operation-chokepoint-2-0-and-laptop",
+      "pubDate": 1790688088000
+    },
+    {
+      "title": "Gary Cardone: Wall Street Is Taking Over Bitcoin — For Good",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/gary-cardone-wall-street-is-taking-over-bitcoin-for-good",
+      "pubDate": 1790687774000
+    },
+    {
+      "title": "Dr. Pippa Malmgren: Investing in Bitcoin in the Age of Abundance",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/dr-pippa-malmgren-investing-in-bitcoin-in-the-age-of-abundance",
+      "pubDate": 1790687438000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790687284000
+    },
+    {
+      "title": "Bitcoin ETF inflows leave institutional demand unclear: CoinShares",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790685612000
+    },
+    {
+      "title": "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379526/morning-minute-citi-and-coinbase-just-made-stablecoins-invisible",
+      "pubDate": 1790683518000
+    },
+    {
+      "title": "ECB puts AI agent payments on the digital euro drawing board",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ecb-private-firms-ai-agents-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790683245000
+    },
+    {
+      "title": "Bitcoin beats gold, surge to $100,000 in play",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
+      "pubDate": 1790681695000
+    },
     {
       "title": "Now Accepting Bitcoin: Coljac Café Bitcoin Hub with 40+ Nearby Missouri Merchants",
       "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/coljac-cafe-bitcoin-missouri",
+      "link": "https://bitcoinmagazine.com/culture/coljac-cafe-bitcoin-missouri",
       "pubDate": 1790681400000
+    },
+    {
+      "title": "Zcash developers begin moving Tachyon code into faster private-payment software",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan",
+      "pubDate": 1790680530000
     },
     {
       "title": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
@@ -33,7 +147,7 @@
       "pubDate": 1790676919000
     },
     {
-      "title": "Live updates: Bitcoin rebounds above $84,000 as ETFs draw in $30 million",
+      "title": "Live updates: Bitcoin turns lower as rates rise, consumer confidence plunges",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady",
       "pubDate": 1790676881000
@@ -85,12 +199,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test",
       "pubDate": 1790663027000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790660276000
     },
     {
       "title": "Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.",
@@ -231,12 +339,6 @@
       "pubDate": 1790614080000
     },
     {
-      "title": "Strategy and Strive Scoop Up More Than 2,700 Bitcoin in a Week",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/strategy-strive-buy-more-bitcoin",
-      "pubDate": 1790613234000
-    },
-    {
       "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
       "source": "Decrypt",
       "link": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
@@ -259,108 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/379438/bitcoin-price-falls-trump-iran-oil-yields",
       "pubDate": 1790609188000
-    },
-    {
-      "title": "Dollars In, Bitcoin Out: Breez SDK Debuts New Stablecoin Feature",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/breez-debuts-stablecoin-feature",
-      "pubDate": 1790608514000
-    },
-    {
-      "title": "Bitget CEO says $388M hack exploited third-party security vulnerability",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitget-388m-hack-third-party-security-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790606781000
-    },
-    {
-      "title": "Trezor Safe 7 Review: The FOSS Self Custody Hardware Wallet",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/technical/trezor-safe-7-review-the-foss-self-custody-hardware-wallet",
-      "pubDate": 1790605920000
-    },
-    {
-      "title": "MiCA focus shifts from rulemaking to supervision, ESMA chair says",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/mica-shift-rulemaking-to-supervision-esma-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790604165000
-    },
-    {
-      "title": "Altseason is coming — and traders are more discerning this time",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/altseason-is-coming-and-traders-are-more-discerning-this-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790602200000
-    },
-    {
-      "title": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379418/tom-lees-bitmine-buys-another-47m-of-eth-taking-it-to-4-9-of-ethereum-supply",
-      "pubDate": 1790602060000
-    },
-    {
-      "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/28/ai-agents-could-drain-cheap-bank-deposits-apollo-s-torsten-slok-warns",
-      "pubDate": 1790600771000
-    },
-    {
-      "title": "Strategy Sets New BTC Holdings Record After $143M Bitcoin Purchase",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379415/strategy-sets-new-btc-holdings-record-after-143m-bitcoin-purchase",
-      "pubDate": 1790599541000
-    },
-    {
-      "title": "Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/strategy-1665-bitcoin-buy-holdings-847666-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790599081000
-    },
-    {
-      "title": "Chainlink launches new version of its crypto bridge tech 'CCIP' to give apps more control over their security",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/28/chainlink-updates-its-crypto-bridge-tech-months-after-a-usd292-million-hack-shook-the-industry",
-      "pubDate": 1790598600000
-    },
-    {
-      "title": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/btc-price-eyes-best-q3-in-nine-years-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790598110000
-    },
-    {
-      "title": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/28/thorchain-rejects-bitget-request-to-block-hacker-as-usd6-million-moves-to-bitcoin",
-      "pubDate": 1790597589000
-    },
-    {
-      "title": "Morning Minute: SEC Clears Token Buybacks for Crypto Networks",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379412/morning-minute-sec-clears-token-buybacks-for-crypto-networks",
-      "pubDate": 1790597001000
-    },
-    {
-      "title": "Traders aren't panicking yet despite cooling crypto sentiment",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/28/bitcoin-traders-aren-t-panicking-yet-despite-cooling-sentiment",
-      "pubDate": 1790595153000
-    },
-    {
-      "title": "Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/28/crypto-friendly-institution-franklin-templeton-brings-its-tokenized-collateral-service-to-bybit",
-      "pubDate": 1790593200000
-    },
-    {
-      "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379404/california-bans-public-officials-from-issuing-meme-coins-under-new-newsom-law",
-      "pubDate": 1790590585000
-    },
-    {
-      "title": "Bitcoin falls to $83,000 while altcoins unwind Friday's rally",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-falls-to-usd83-000-while-altcoins-unwind-friday-s-rally",
-      "pubDate": 1790590504000
     }
   ]
 }
