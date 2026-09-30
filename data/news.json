@@ -1,7 +1,91 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790792543026,
+  "generatedAt": 1790807498808,
   "articles": [
+    {
+      "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379772/dogecoin-getting-apps-dogeos-public-testnet",
+      "pubDate": 1790804763000
+    },
+    {
+      "title": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379769/fbi-employees-assume-hackers-personal-data",
+      "pubDate": 1790802964000
+    },
+    {
+      "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790801852000
+    },
+    {
+      "title": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379767/coinbase-crypto-group-senate-midterm-endorsements-clarity-act",
+      "pubDate": 1790800264000
+    },
+    {
+      "title": "UK Brings Crypto Under Full FCA Oversight for the First Time",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/uk-brings-crypto-under-fca-oversight",
+      "pubDate": 1790799242000
+    },
+    {
+      "title": "Bitcoin Surges 40% in Its Best Quarter Since Late 2024",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-has-its-best-quarter-since-2024",
+      "pubDate": 1790799024000
+    },
+    {
+      "title": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain",
+      "pubDate": 1790797564000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790797033000
+    },
+    {
+      "title": "US Government's New AI Chatbot Has a Weird Minecraft Secret",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379739/america-gov-ai-chatbot-minecraft-end-poem",
+      "pubDate": 1790795762000
+    },
+    {
+      "title": "Crypto advocacy group announces picks for US Congress as midterms loom",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790795483000
+    },
+    {
+      "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790794800000
+    },
+    {
+      "title": "Bitcoin Is More Than Just an Asset, Says TD Cowen",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-is-more-than-an-asset-td-cowen",
+      "pubDate": 1790794741000
+    },
+    {
+      "title": "Bloomberg brings onchain stablecoin data to its Terminal",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790794146000
+    },
+    {
+      "title": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets",
+      "pubDate": 1790793561000
+    },
     {
       "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
       "source": "Decrypt",
@@ -87,16 +171,10 @@
       "pubDate": 1790777059000
     },
     {
-      "title": "Could THORChain face prosecution over stolen Bitget funds?",
+      "title": "Could THORChain face prosecution over stolen Bitget funds? Legal opinion",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790775000000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790774315000
     },
     {
       "title": "David Lawant: Bitcoin Entering New “Bullish Regime” According to Options Market",
@@ -189,7 +267,7 @@
       "pubDate": 1790764104000
     },
     {
-      "title": "Live updates: Bitcoin returns to $84,000, giving up early gains",
+      "title": "Live updates: Bitcoin closing out best quarter since 2024, ether its best since 2021",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
       "pubDate": 1790763514000
@@ -283,84 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790739642000
-    },
-    {
-      "title": "Binance Pay lets visitors spend crypto at PayPay merchants in Japan",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790735100000
-    },
-    {
-      "title": "Trump accord calls for tech firms to ‘self police’ their own frontier AI",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790728118000
-    },
-    {
-      "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
-      "pubDate": 1790718363000
-    },
-    {
-      "title": "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options",
-      "pubDate": 1790716564000
-    },
-    {
-      "title": "Bitget Customers Withdraw Over 4,000 Bitcoins in One Hour Following $388M Hack",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitget-customers-withdraw-4000-bitcoins",
-      "pubDate": 1790716485000
-    },
-    {
-      "title": "Bitwise Head of Research: Sovereigns Selling Gold for Bitcoin | Ryan Rasmussen",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/bitwise-head-of-research-sovereigns-selling-gold-for-bitcoin-ryan-rasmussen",
-      "pubDate": 1790715277000
-    },
-    {
-      "title": "Tracy Shuchart: BTC & the Commodities Supercycle",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/tracy-shuchart-btc-the-commodities-supercycle",
-      "pubDate": 1790714986000
-    },
-    {
-      "title": "Dan Tapiero: “We’ve Begun a Bull Phase” in Bitcoin",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/dan-tapiero-weve-begun-a-bull-phase-in-bitcoin",
-      "pubDate": 1790714578000
-    },
-    {
-      "title": "Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379612/bitwise-launches-first-spot-near-etf",
-      "pubDate": 1790714164000
-    },
-    {
-      "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379605/anthropic-lost-42-billion-last-year-wants-ipo-2-trillion",
-      "pubDate": 1790712363000
-    },
-    {
-      "title": "Crypto regulation at SEC, CFTC to come down to 3 commissioners following key resignation",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790711983000
-    },
-    {
-      "title": "OpenAI valuation could hit $1.4T in new funding round: Report",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790711749000
-    },
-    {
-      "title": "Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790711393000
     }
   ]
 }
