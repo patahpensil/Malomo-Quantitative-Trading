@@ -1,7 +1,25 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790716809537,
+  "generatedAt": 1790728981866,
   "articles": [
+    {
+      "title": "Trump accord calls for tech firms to ‘self police’ their own frontier AI",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790728118000
+    },
+    {
+      "title": "Robinhood adds AI agents, perps and weekend trading in push to win active traders",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders",
+      "pubDate": 1790722800000
+    },
+    {
+      "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
+      "pubDate": 1790718363000
+    },
     {
       "title": "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
       "source": "Decrypt",
@@ -339,28 +357,10 @@
       "pubDate": 1790630163000
     },
     {
-      "title": "Canadian ‘crypto king’ set to represent himself at fraud trial",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790628104000
-    },
-    {
       "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
       "source": "Decrypt",
       "link": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
       "pubDate": 1790627763000
-    },
-    {
-      "title": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379482/anthropic-claude-sonnet-5-5-release",
-      "pubDate": 1790625963000
-    },
-    {
-      "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack",
-      "pubDate": 1790624181000
     }
   ]
 }
