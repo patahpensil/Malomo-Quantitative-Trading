@@ -1,7 +1,55 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790728981866,
+  "generatedAt": 1790750056831,
   "articles": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790748000000
+    },
+    {
+      "title": "Robinhood announces AI agent for customers that trades around the clock, plus 10x crypto perps",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets",
+      "pubDate": 1790747971000
+    },
+    {
+      "title": "Kalshi in advanced talks to raise new funding at $40B valuation: Reuters",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/kalshi-in-advanced-talks-to-raise-new-funding-at-40b-valuation-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790747155000
+    },
+    {
+      "title": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/30/xrp-ledger-starts-carrying-fund-records-from-brazil-operator-overseeing-usd4-trillion",
+      "pubDate": 1790745771000
+    },
+    {
+      "title": "Bitcoin rally shows signs of cooling even as a 'bull score' gauge nears its perfect score",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-rally-shows-signs-of-cooling-even-as-a-bull-score-gauge-nears-its-perfect-score",
+      "pubDate": 1790743098000
+    },
+    {
+      "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790742568000
+    },
+    {
+      "title": "Crypto.com AI agent still in ‘stealth mode’ nearly 8 months after Super Bowl debut",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790739642000
+    },
+    {
+      "title": "Binance Pay lets visitors spend USDT at PayPay merchants in Japan",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790735100000
+    },
     {
       "title": "Trump accord calls for tech firms to ‘self police’ their own frontier AI",
       "source": "Cointelegraph",
@@ -79,12 +127,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790711393000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790710922000
     },
     {
       "title": "Someone Finally Jailbroke the PS5—Just After Sony Said Players Don’t Own Their Games",
@@ -315,52 +357,10 @@
       "pubDate": 1790659904000
     },
     {
-      "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790659768000
-    },
-    {
       "title": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again",
       "pubDate": 1790655440000
-    },
-    {
-      "title": "Coinbase gets CFTC approval for US derivatives clearinghouse",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790654549000
-    },
-    {
-      "title": "Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790649156000
-    },
-    {
-      "title": "NEAR Intents says it blocked $50M tied to Bitget hackers",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790644669000
-    },
-    {
-      "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379508/openai-ai-agents-target-us-government-sites",
-      "pubDate": 1790631963000
-    },
-    {
-      "title": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
-      "pubDate": 1790630163000
-    },
-    {
-      "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
-      "pubDate": 1790627763000
     }
   ]
 }
