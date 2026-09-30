@@ -1,7 +1,121 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790773001508,
+  "generatedAt": 1790792543026,
   "articles": [
+    {
+      "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally",
+      "pubDate": 1790789263000
+    },
+    {
+      "title": "Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790788674000
+    },
+    {
+      "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal",
+      "pubDate": 1790788591000
+    },
+    {
+      "title": "Bitcoin’s Price Jumps Above $85,000 on Lighter-Than-Expected Inflation Data",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-price-jumps-on-inflation-data",
+      "pubDate": 1790786957000
+    },
+    {
+      "title": "Introducing The Information Exchange on Solana, Powered by Decrypt and MYR",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr",
+      "pubDate": 1790786170000
+    },
+    {
+      "title": "Bitget ‘gradually back to usual’ as protection fund reaches $309M",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790785710000
+    },
+    {
+      "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379728/trump-unveils-morally-binding-ai-accord-signed-by-openai-google-and-nvidia",
+      "pubDate": 1790784363000
+    },
+    {
+      "title": "Tax on Bitcoin Gains? Dutch Government to Introduce Capital Gains Tax From 2028",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/dutch-government-introduce-capital-gains",
+      "pubDate": 1790784153000
+    },
+    {
+      "title": "Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379705/bitcoin-jumps-cool-pce-inflation-data",
+      "pubDate": 1790783425000
+    },
+    {
+      "title": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
+      "pubDate": 1790782490000
+    },
+    {
+      "title": "U.S. CFTC  seeks event contract definitions that may defy states' gambling claims",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims",
+      "pubDate": 1790781576000
+    },
+    {
+      "title": "Ex-NCA Officer Must Repay $2.4M for Bitcoin He Stole When It Was Worth $77K",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379702/ex-nca-officer-must-repay-2-4m-for-bitcoin-he-stole-when-it-was-worth-77k",
+      "pubDate": 1790781465000
+    },
+    {
+      "title": "Crypto Long & Short: What will the AI agents run on?",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
+      "pubDate": 1790780167000
+    },
+    {
+      "title": "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
+      "pubDate": 1790777059000
+    },
+    {
+      "title": "Could THORChain face prosecution over stolen Bitget funds?",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790775000000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790774315000
+    },
+    {
+      "title": "David Lawant: Bitcoin Entering New “Bullish Regime” According to Options Market",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/david-lawant-bitcoin-entering-new-bullish-regime-according-to-options-market",
+      "pubDate": 1790774296000
+    },
+    {
+      "title": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel",
+      "pubDate": 1790773200000
+    },
+    {
+      "title": "Singapore crypto activity grows 55% as broader region contracts",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/singapore-crypto-economy-284b-institutional-activity-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790773200000
+    },
     {
       "title": "FCA opens crypto authorization window ahead of 2027 UK regime",
       "source": "Cointelegraph",
@@ -57,7 +171,7 @@
       "pubDate": 1790766000000
     },
     {
-      "title": "OpenAI, Google and Meta pledge outside AI audits under voluntary White House deal",
+      "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal",
       "pubDate": 1790765023000
@@ -75,7 +189,7 @@
       "pubDate": 1790764104000
     },
     {
-      "title": "Live updates: Bitcoin gains as yields dip following better than hoped inflation numbers",
+      "title": "Live updates: Bitcoin returns to $84,000, giving up early gains",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
       "pubDate": 1790763514000
@@ -135,12 +249,6 @@
       "pubDate": 1790751600000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790748000000
-    },
-    {
       "title": "Robinhood unveils an AI that trades your money 24/7, and you carry all the risk",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets",
@@ -187,12 +295,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/trump-accord-calls-for-tech-firms-to-self-police-their-own-frontier-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790728118000
-    },
-    {
-      "title": "Robinhood adds AI agents, perps and weekend trading in push to win active traders",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders",
-      "pubDate": 1790722800000
     },
     {
       "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
@@ -259,108 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790711393000
-    },
-    {
-      "title": "Someone Finally Jailbroke the PS5—Just After Sony Said Players Don’t Own Their Games",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379583/sony-ps5-jailbreak-digital-games-ownership",
-      "pubDate": 1790710264000
-    },
-    {
-      "title": "HANetf Debuts Euro-Hedged Bitcoin Fund in World First",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/hanetf-debuts-bitcoin-euro-etf",
-      "pubDate": 1790708927000
-    },
-    {
-      "title": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced",
-      "pubDate": 1790708122000
-    },
-    {
-      "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal",
-      "pubDate": 1790706067000
-    },
-    {
-      "title": "Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379575/crypto-etfs-surge-bitcoin-adds-nearly-3-billion",
-      "pubDate": 1790705913000
-    },
-    {
-      "title": "Stretched Profits and Cooling Demand Put Bitcoin Rally on Pause — For Now: Report",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/stretched-profits-pause-bitcoin-rally",
-      "pubDate": 1790705147000
-    },
-    {
-      "title": "Alkanes Asian Market Drove 61% of Bitcoin Transactions for 90 Days, SUBFROST Data Shows",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/alkanes-drove-61-of-bitcoin-transactions-for-90-days-subfrost-data-shows",
-      "pubDate": 1790703637000
-    },
-    {
-      "title": "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379561/bbc-director-general-ai-generated-doctor-who-pretty-good",
-      "pubDate": 1790703064000
-    },
-    {
-      "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790702076000
-    },
-    {
-      "title": "Is the Red September Curse Over? Bitcoin Set for Best September on Record",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379549/red-september-curse-over-bitcoin-best-returns-record",
-      "pubDate": 1790700646000
-    },
-    {
-      "title": "Bitcoin gives back gains as long-term holder supply keeps $85K out of reach",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790699171000
-    },
-    {
-      "title": "Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790698686000
-    },
-    {
-      "title": "Morgan Stanley Has ‘Digital Asset Lab’ To Test Crypto Products: Report",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/morgan-stanley-digital-asset-lab",
-      "pubDate": 1790697621000
-    },
-    {
-      "title": "Ethereum users get another way to pay privately as zk.money returns after three years",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
-      "pubDate": 1790697600000
-    },
-    {
-      "title": "Democrats killed the Clarity Act",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act",
-      "pubDate": 1790690898000
-    },
-    {
-      "title": "Bitcoin Hovers at $84K as Treasury Yields Hold Near Multi-Year Highs",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379541/bitcoin-hovers-at-84k-as-treasury-yields-hold-near-multi-year-highs",
-      "pubDate": 1790690864000
-    },
-    {
-      "title": "André Dragosch: Why Bitcoin’s Fair Value is $197,000",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/andre-dragosch-why-bitcoins-fair-value-is-197000",
-      "pubDate": 1790688752000
     }
   ]
 }
