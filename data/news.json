@@ -1,7 +1,139 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790840446533,
+  "generatedAt": 1790868129844,
   "articles": [
+    {
+      "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
+      "pubDate": 1790866800000
+    },
+    {
+      "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
+      "pubDate": 1790864294000
+    },
+    {
+      "title": "The Quantum Issue: Quantum Isn’t Coming For Your Bitcoin",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/print/the-quantum-issue-quantum-isnt-coming-for-your-bitcoin",
+      "pubDate": 1790863670000
+    },
+    {
+      "title": "Bitget’s $388M hack pushes Q3 crypto security losses past $1B",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790861747000
+    },
+    {
+      "title": "LATAM stablecoin liquidity may depend on few providers, investor says",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/latam-stablecoin-liquidity-may-depend-on-few-providers-investor-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790861400000
+    },
+    {
+      "title": "Stablecoins can drain from banks and nations at lightning speed",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/stablecoins-can-drain-from-banks-and-nations-at-lightning-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790861400000
+    },
+    {
+      "title": "Minecraft, Candy Crush Among 11 Games in EU Virtual Currency Crackdown",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379813/minecraft-candy-crush-among-11-games-in-eu-virtual-currency-crackdown",
+      "pubDate": 1790860978000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790860136000
+    },
+    {
+      "title": "Morning Minute: Crypto Gives Up on Congress and Goes After Senators",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
+      "pubDate": 1790857740000
+    },
+    {
+      "title": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
+      "pubDate": 1790857395000
+    },
+    {
+      "title": "Live Updates: Bitcoin flat near $84,000 after closing out best quarter since 2024",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
+      "pubDate": 1790855957000
+    },
+    {
+      "title": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
+      "pubDate": 1790855880000
+    },
+    {
+      "title": "Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
+      "pubDate": 1790854238000
+    },
+    {
+      "title": "Synthetic tokenized stocks are bad for American investors",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors",
+      "pubDate": 1790852400000
+    },
+    {
+      "title": "Tokenized assets don’t always mirror traditional markets, Dune finds",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/tokenized-assets-traditional-markets-dune-rwa-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790851824000
+    },
+    {
+      "title": "Bitcoin kicks off new quarter in the old $82,000-$85,000 price range",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range",
+      "pubDate": 1790851084000
+    },
+    {
+      "title": "Bitcoin trapped below $86K as PCE changes cloud inflation reading",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790850618000
+    },
+    {
+      "title": "Binance’s EU services face scrutiny over licensing exemption: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/europe-binance-questions-esma-tighter-mica-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790849238000
+    },
+    {
+      "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
+      "pubDate": 1790848770000
+    },
+    {
+      "title": "MetaMask Exits Lido Validators Amid Infrastructure ‘Security Incident’",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident",
+      "pubDate": 1790847486000
+    },
+    {
+      "title": "Chainalysis beats most Celsius claims, but ‘audit’ lawsuit survives",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/celsius-chainalysis-lawsuit-audit-claim-survives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790845786000
+    },
+    {
+      "title": "EU Presses Binance Over ‘Reverse Solicitation’ Exemption for Users: Report",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379792/eu-presses-binance-over-reverse-solicitation-exemption-for-users-report",
+      "pubDate": 1790844962000
+    },
     {
       "title": "Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%",
       "source": "Cointelegraph",
@@ -19,12 +151,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/msci-strategy-metaplanet-index-rule-bpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790834751000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790834400000
     },
     {
       "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
@@ -235,132 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
       "pubDate": 1790780167000
-    },
-    {
-      "title": "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
-      "pubDate": 1790777059000
-    },
-    {
-      "title": "Could THORChain face prosecution over stolen Bitget funds? Legal opinion",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790775000000
-    },
-    {
-      "title": "David Lawant: Bitcoin Entering New “Bullish Regime” According to Options Market",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/david-lawant-bitcoin-entering-new-bullish-regime-according-to-options-market",
-      "pubDate": 1790774296000
-    },
-    {
-      "title": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel",
-      "pubDate": 1790773200000
-    },
-    {
-      "title": "Singapore crypto activity grows 55% as broader region contracts",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/singapore-crypto-economy-284b-institutional-activity-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790773200000
-    },
-    {
-      "title": "FCA opens crypto authorization window ahead of 2027 UK regime",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/fca-crypto-authorization-2027-uk-regime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790769964000
-    },
-    {
-      "title": "Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379645/morning-minute-robinhood-adds-perps-weekend-stocks-and-ai-traders",
-      "pubDate": 1790769262000
-    },
-    {
-      "title": "CFTC Investigating Adam Kinzinger Over Kalshi Bets on His Own Pardon: Report",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379639/cftc-investigating-adam-kinzinger-over-kalshi-bets-on-his-own-pardon-report",
-      "pubDate": 1790768776000
-    },
-    {
-      "title": "Altcoin exchange deposit count jumps 160% in 2 weeks",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/altcoin-exchange-deposits-spike-160-in-two-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790767436000
-    },
-    {
-      "title": "A stronger dollar is a weaker threat to bitcoin than traders think",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
-      "pubDate": 1790767209000
-    },
-    {
-      "title": "McDonald's AI ‘Pricing Engine’ Gauges What Customers Will Pay for a Big Mac: Report",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379632/mcdonalds-ai-pricing-engine-gauges-what-customers-will-pay-for-a-big-mac-report",
-      "pubDate": 1790766419000
-    },
-    {
-      "title": "Bitget hackers move $4 million into Zcash’s private pool, making funds harder to trace",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace",
-      "pubDate": 1790766249000
-    },
-    {
-      "title": "The SEC Is finally modernizing transfer-agent rules. Wall Street must not repeat the ‘paperwork crisis’",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis",
-      "pubDate": 1790766000000
-    },
-    {
-      "title": "A single market worth protecting: Getting the MiCA review right",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/opinion/a-single-market-worth-protecting-getting-the-mica-review-right?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790766000000
-    },
-    {
-      "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal",
-      "pubDate": 1790765023000
-    },
-    {
-      "title": "US Senator Blumenthal Calls Tether's USDT a 'Superhighway' for Iranian Sanctions Evasion",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379624/us-senator-blumenthal-calls-tethers-usdt-a-superhighway-for-iranian-sanctions-evasion",
-      "pubDate": 1790764321000
-    },
-    {
-      "title": "Metaplanet directors push back against shareholder fury over a controversial executive payout plan",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/30/metaplanet-directors-push-back-against-shareholder-fury-over-a-controversial-executive-payout-plan",
-      "pubDate": 1790764104000
-    },
-    {
-      "title": "Live updates: Bitcoin closing out best quarter since 2024, ether its best since 2021",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
-      "pubDate": 1790763514000
-    },
-    {
-      "title": "Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-streak-9-day-ether-zcash-flip-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790763148000
-    },
-    {
-      "title": "Bitcoin stalls near $83,000 while lighter drops 17% on Robinhood perps plan",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan",
-      "pubDate": 1790763096000
-    },
-    {
-      "title": "Crypto hardware wallets compared for 2026",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/crypto-hardware-wallets-compared-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790763072000
     }
   ]
 }
