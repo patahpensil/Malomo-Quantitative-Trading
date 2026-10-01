@@ -1,7 +1,49 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790818077965,
+  "generatedAt": 1790840446533,
   "articles": [
+    {
+      "title": "Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-6-3-billion-inflows-q3-btc-rise-43?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790839620000
+    },
+    {
+      "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
+      "pubDate": 1790838390000
+    },
+    {
+      "title": "Bitcoin think tank questions MSCI’s ‘invisible committee’ over Strategy, Metaplanet rule",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/msci-strategy-metaplanet-index-rule-bpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790834751000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790834400000
+    },
+    {
+      "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
+      "pubDate": 1790830732000
+    },
+    {
+      "title": "Crypto hacks top $768M in September, worst month of 2026",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790829873000
+    },
+    {
+      "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
+      "pubDate": 1790828120000
+    },
     {
       "title": "CFTC seeks to define event contracts as swaps amid prediction market fight",
       "source": "Cointelegraph",
@@ -79,12 +121,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain",
       "pubDate": 1790797564000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790797033000
     },
     {
       "title": "US Government's New AI Chatbot Has a Weird Minecraft Secret",
@@ -325,42 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/magazine/crypto-hardware-wallets-compared-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790763072000
-    },
-    {
-      "title": "SlowMist traces Bitget hack activity to Aug. 31 zero-day exploit",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitget-hack-zero-day-slowmist-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790762739000
-    },
-    {
-      "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/30/openai-targets-usd1-4-trillion-valuation-and-unveils-dots-ai-agent",
-      "pubDate": 1790758222000
-    },
-    {
-      "title": "Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/30/winklevoss-owned-gemini-switches-zcash-software-ahead-of-faster-25-second-blocks",
-      "pubDate": 1790756820000
-    },
-    {
-      "title": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk",
-      "pubDate": 1790756743000
-    },
-    {
-      "title": "Bitcoin bulls have one price level to defend",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-bulls-have-one-price-level-to-defend",
-      "pubDate": 1790751881000
-    },
-    {
-      "title": "European stablecoin issuer AllUnity launches USD stablecoin USDAU",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790751600000
     }
   ]
 }
