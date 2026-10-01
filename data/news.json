@@ -1,7 +1,43 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790807498808,
+  "generatedAt": 1790818077965,
   "articles": [
+    {
+      "title": "CFTC seeks to define event contracts as swaps amid prediction market fight",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790816866000
+    },
+    {
+      "title": "Bitcoin Privacy Breakthrough a Zcash Killer? | Misha Komorov, Alloc Innit",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/bitcoin-privacy-breakthrough-a-zcash-killer-misha-komorov-alloc-innit",
+      "pubDate": 1790816255000
+    },
+    {
+      "title": "Bitcoin’s Institutional Era Has Arrived | Robinhood VP of Crypto Institutions Nicola White",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/bitcoins-institutional-era-has-arrived-robinhood-vp-of-crypto-institutions-nicola-white",
+      "pubDate": 1790815923000
+    },
+    {
+      "title": "Mark Moss: The Bitcoin Endgame – BTC to $1 Million by 2030",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/mark-moss-the-bitcoin-endgame-btc-to-1-million-by-2030",
+      "pubDate": 1790815515000
+    },
+    {
+      "title": "MetaMask exits Ethereum validators amid undisclosed security incident",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790813755000
+    },
+    {
+      "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
+      "pubDate": 1790810459000
+    },
     {
       "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
       "source": "Decrypt",
@@ -325,42 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790751600000
-    },
-    {
-      "title": "Robinhood unveils an AI that trades your money 24/7, and you carry all the risk",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets",
-      "pubDate": 1790747971000
-    },
-    {
-      "title": "Kalshi in advanced talks to raise new funding at $40B valuation: Reuters",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/kalshi-in-advanced-talks-to-raise-new-funding-at-40b-valuation-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790747155000
-    },
-    {
-      "title": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/30/xrp-ledger-starts-carrying-fund-records-from-brazil-operator-overseeing-usd4-trillion",
-      "pubDate": 1790745771000
-    },
-    {
-      "title": "Bitcoin rally shows signs of cooling even as a 'bull score' gauge nears its perfect score",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-rally-shows-signs-of-cooling-even-as-a-bull-score-gauge-nears-its-perfect-score",
-      "pubDate": 1790743098000
-    },
-    {
-      "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790742568000
-    },
-    {
-      "title": "Crypto.com AI agent still in ‘stealth mode’ nearly 8 months after Super Bowl debut",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790739642000
     }
   ]
 }
