@@ -1,7 +1,121 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790868129844,
+  "generatedAt": 1790886446422,
   "articles": [
+    {
+      "title": "U.S. SEC maps out crypto custody in new proposal that furthers its digital assets agenda",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
+      "pubDate": 1790886004000
+    },
+    {
+      "title": "Jack Dorsey’s Block Launches Campaign To Get People Spending Bitcoin",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/block-launches-bitcoin-campaign",
+      "pubDate": 1790885736000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790885245000
+    },
+    {
+      "title": "Republican Senator Steve Daines Releases Text of Proposed Crypto Tax Plan",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/republican-releases-crypto-tax-plan",
+      "pubDate": 1790884992000
+    },
+    {
+      "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning",
+      "pubDate": 1790883963000
+    },
+    {
+      "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379868/meta-muse-ai-agent-read-messages-without-permission",
+      "pubDate": 1790882163000
+    },
+    {
+      "title": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
+      "pubDate": 1790880363000
+    },
+    {
+      "title": "Another Trump memecoin dinner advertised for token's top investors",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
+      "pubDate": 1790880329000
+    },
+    {
+      "title": "50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790880309000
+    },
+    {
+      "title": "OpenAI Fires Three Safety Researchers Over Alleged Leak to Outside Group",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group",
+      "pubDate": 1790878324000
+    },
+    {
+      "title": "Illinois will postpone implementation of crypto tax following lawsuit",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790877709000
+    },
+    {
+      "title": "Peter Todd Joins MARA to Lead Private Mempool Slipstream",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/peter-todd-joins-mara-to-lead-slipstream",
+      "pubDate": 1790877704000
+    },
+    {
+      "title": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it",
+      "pubDate": 1790874704000
+    },
+    {
+      "title": "21bitcoin Now Pays Interest on Idle Euros, Payable in BTC",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/21bitcoin-pays-interest-on-euros",
+      "pubDate": 1790871918000
+    },
+    {
+      "title": "Illinois Delays Controversial Crypto Tax Amid Industry Lawsuit",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379830/illinois-delays-controversial-crypto-tax",
+      "pubDate": 1790871363000
+    },
+    {
+      "title": "New York, Wyoming regulators sign pact to coordinate crypto oversight",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790871143000
+    },
+    {
+      "title": "Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790870119000
+    },
+    {
+      "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790869414000
+    },
+    {
+      "title": "Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacker",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker",
+      "pubDate": 1790869407000
+    },
     {
       "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
       "source": "CoinDesk",
@@ -45,12 +159,6 @@
       "pubDate": 1790860978000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790860136000
-    },
-    {
       "title": "Morning Minute: Crypto Gives Up on Congress and Goes After Senators",
       "source": "Decrypt",
       "link": "https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
@@ -63,7 +171,7 @@
       "pubDate": 1790857395000
     },
     {
-      "title": "Live Updates: Bitcoin flat near $84,000 after closing out best quarter since 2024",
+      "title": "Live updates: Bitcoin posts tentative gains as rates drop ahead of Friday's jobs report",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
       "pubDate": 1790855957000
@@ -253,114 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/379739/america-gov-ai-chatbot-minecraft-end-poem",
       "pubDate": 1790795762000
-    },
-    {
-      "title": "Crypto advocacy group announces picks for US Congress as midterms loom",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790795483000
-    },
-    {
-      "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790794800000
-    },
-    {
-      "title": "Bitcoin Is More Than Just an Asset, Says TD Cowen",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-is-more-than-an-asset-td-cowen",
-      "pubDate": 1790794741000
-    },
-    {
-      "title": "Bloomberg brings onchain stablecoin data to its Terminal",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790794146000
-    },
-    {
-      "title": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets",
-      "pubDate": 1790793561000
-    },
-    {
-      "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally",
-      "pubDate": 1790789263000
-    },
-    {
-      "title": "Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790788674000
-    },
-    {
-      "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal",
-      "pubDate": 1790788591000
-    },
-    {
-      "title": "Bitcoin’s Price Jumps Above $85,000 on Lighter-Than-Expected Inflation Data",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-price-jumps-on-inflation-data",
-      "pubDate": 1790786957000
-    },
-    {
-      "title": "Introducing The Information Exchange on Solana, Powered by Decrypt and MYR",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr",
-      "pubDate": 1790786170000
-    },
-    {
-      "title": "Bitget ‘gradually back to usual’ as protection fund reaches $309M",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790785710000
-    },
-    {
-      "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379728/trump-unveils-morally-binding-ai-accord-signed-by-openai-google-and-nvidia",
-      "pubDate": 1790784363000
-    },
-    {
-      "title": "Tax on Bitcoin Gains? Dutch Government to Introduce Capital Gains Tax From 2028",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/dutch-government-introduce-capital-gains",
-      "pubDate": 1790784153000
-    },
-    {
-      "title": "Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379705/bitcoin-jumps-cool-pce-inflation-data",
-      "pubDate": 1790783425000
-    },
-    {
-      "title": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
-      "pubDate": 1790782490000
-    },
-    {
-      "title": "U.S. CFTC  seeks event contract definitions that may defy states' gambling claims",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims",
-      "pubDate": 1790781576000
-    },
-    {
-      "title": "Ex-NCA Officer Must Repay $2.4M for Bitcoin He Stole When It Was Worth $77K",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379702/ex-nca-officer-must-repay-2-4m-for-bitcoin-he-stole-when-it-was-worth-77k",
-      "pubDate": 1790781465000
-    },
-    {
-      "title": "Crypto Long & Short: What will the AI agents run on?",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
-      "pubDate": 1790780167000
     }
   ]
 }
