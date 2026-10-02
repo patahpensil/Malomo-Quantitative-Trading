@@ -1,7 +1,43 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790899584768,
+  "generatedAt": 1790918790694,
   "articles": [
+    {
+      "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790917712000
+    },
+    {
+      "title": "Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790917343000
+    },
+    {
+      "title": "Core Lightning warns attackers are targeting unpatched Bitcoin nodes",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790914723000
+    },
+    {
+      "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790912065000
+    },
+    {
+      "title": "NEAR Intents says its identified the hacker, gives 48-hour ultimatum",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790906533000
+    },
+    {
+      "title": "SEC moves to clear custody hurdle for advisers offering crypto",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790903228000
+    },
     {
       "title": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express",
       "source": "Cointelegraph",
@@ -79,12 +115,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/block-launches-bitcoin-campaign",
       "pubDate": 1790885736000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790885245000
     },
     {
       "title": "Republican Senator Steve Daines Releases Text of Proposed Crypto Tax Plan",
@@ -297,22 +327,10 @@
       "pubDate": 1790847486000
     },
     {
-      "title": "Chainalysis beats most Celsius claims, but ‘audit’ lawsuit survives",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/celsius-chainalysis-lawsuit-audit-claim-survives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790845786000
-    },
-    {
       "title": "EU Presses Binance Over ‘Reverse Solicitation’ Exemption for Users: Report",
       "source": "Decrypt",
       "link": "https://decrypt.co/379792/eu-presses-binance-over-reverse-solicitation-exemption-for-users-report",
       "pubDate": 1790844962000
-    },
-    {
-      "title": "Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-6-3-billion-inflows-q3-btc-rise-43?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790839620000
     },
     {
       "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
@@ -321,34 +339,16 @@
       "pubDate": 1790838390000
     },
     {
-      "title": "Bitcoin think tank questions MSCI’s ‘invisible committee’ over Strategy, Metaplanet rule",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/msci-strategy-metaplanet-index-rule-bpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790834751000
-    },
-    {
       "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
       "pubDate": 1790830732000
     },
     {
-      "title": "Crypto hacks top $768M in September, worst month of 2026",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790829873000
-    },
-    {
       "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
       "pubDate": 1790828120000
-    },
-    {
-      "title": "CFTC seeks to define event contracts as swaps amid prediction market fight",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790816866000
     },
     {
       "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
