@@ -1,7 +1,91 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790959673020,
+  "generatedAt": 1790975738856,
   "articles": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790974018000
+    },
+    {
+      "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790973647000
+    },
+    {
+      "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
+      "pubDate": 1790972164000
+    },
+    {
+      "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
+      "pubDate": 1790970363000
+    },
+    {
+      "title": "When the Banks Don’t Work, Bitcoin Does: Cornell University’s Adoption Index",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/when-banks-dont-work-bitcoin-does-cornell",
+      "pubDate": 1790968558000
+    },
+    {
+      "title": "This AI Is Already Fooling People on Video Calls Into Thinking It's Human, Company Says",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379975/tavus-griffin-ai-fools-people-video-thinking-human",
+      "pubDate": 1790967935000
+    },
+    {
+      "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790966477000
+    },
+    {
+      "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1790965445000
+    },
+    {
+      "title": "South Africa’s Absa Becomes First Bank on the Continent to Custody Bitcoin: Report",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/absa-first-african-bank-to-custody-bitcoin",
+      "pubDate": 1790964748000
+    },
+    {
+      "title": "Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down",
+      "pubDate": 1790963226000
+    },
+    {
+      "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
+      "pubDate": 1790962480000
+    },
+    {
+      "title": "Nvidia Hits Record High as Market Value Reaches $5.7 Trillion",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379959/nvidia-hits-record-high-market-value-5-7-trillion",
+      "pubDate": 1790962240000
+    },
+    {
+      "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
+      "pubDate": 1790961335000
+    },
+    {
+      "title": "Trump’s potential AI czar, Jay Clayton, helped pioneer the SEC’s crypto crackdown",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
+      "pubDate": 1790961168000
+    },
     {
       "title": "Bitcoin Heads Higher on Macro Moves: Where Does BTC Go Next?",
       "source": "Decrypt",
@@ -55,12 +139,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/impacts-of-daily-dividends-on-digital-credit",
       "pubDate": 1790947241000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790946000000
     },
     {
       "title": "'Uptober' Off With a Bang as Bitcoin Surges to $86K",
@@ -195,24 +273,6 @@
       "pubDate": 1790917343000
     },
     {
-      "title": "Core Lightning warns attackers are targeting unpatched nodes",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790914723000
-    },
-    {
-      "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790912065000
-    },
-    {
-      "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790906533000
-    },
-    {
       "title": "Frank Holmes: They Will Print $100 Trillion – Why to Buy Bitcoin & Gold",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold",
@@ -273,12 +333,6 @@
       "pubDate": 1790885736000
     },
     {
-      "title": "Republican Senator Steve Daines Releases Text of Proposed Crypto Tax Plan",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/republican-releases-crypto-tax-plan",
-      "pubDate": 1790884992000
-    },
-    {
       "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
       "source": "Decrypt",
       "link": "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning",
@@ -307,60 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group",
       "pubDate": 1790878324000
-    },
-    {
-      "title": "Peter Todd Joins MARA to Lead Private Mempool Slipstream",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/peter-todd-joins-mara-to-lead-slipstream",
-      "pubDate": 1790877704000
-    },
-    {
-      "title": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it",
-      "pubDate": 1790874704000
-    },
-    {
-      "title": "Illinois Delays Controversial Crypto Tax Amid Industry Lawsuit",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379830/illinois-delays-controversial-crypto-tax",
-      "pubDate": 1790871363000
-    },
-    {
-      "title": "Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacker",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker",
-      "pubDate": 1790869407000
-    },
-    {
-      "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
-      "pubDate": 1790866800000
-    },
-    {
-      "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
-      "pubDate": 1790864294000
-    },
-    {
-      "title": "Minecraft, Candy Crush Among 11 Games in EU Virtual Currency Crackdown",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379813/minecraft-candy-crush-among-11-games-in-eu-virtual-currency-crackdown",
-      "pubDate": 1790860978000
-    },
-    {
-      "title": "Morning Minute: Crypto Gives Up on Congress and Goes After Senators",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
-      "pubDate": 1790857740000
-    },
-    {
-      "title": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
-      "pubDate": 1790857395000
     }
   ]
 }
