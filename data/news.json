@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791043660979,
+  "generatedAt": 1791055353106,
   "articles": [
+    {
+      "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
+      "pubDate": 1791046863000
+    },
     {
       "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
       "source": "Decrypt",
@@ -355,12 +361,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/videos/nico-lechuga-bitcoin-will-revolutionize-the-4t-private-equity-industry",
       "pubDate": 1790889895000
-    },
-    {
-      "title": "Darius Dale: Will Global Liquidity Send Bitcoin Higher in 2027?",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/darius-dale-will-global-liquidity-send-bitcoin-higher-in-2027",
-      "pubDate": 1790889501000
     }
   ]
 }
