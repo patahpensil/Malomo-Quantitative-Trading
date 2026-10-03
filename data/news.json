@@ -1,7 +1,67 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791028604672,
+  "generatedAt": 1791043660979,
   "articles": [
+    {
+      "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
+      "pubDate": 1791043263000
+    },
+    {
+      "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+      "pubDate": 1791043200000
+    },
+    {
+      "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
+      "pubDate": 1791043200000
+    },
+    {
+      "title": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
+      "pubDate": 1791039663000
+    },
+    {
+      "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
+      "pubDate": 1791039600000
+    },
+    {
+      "title": "The Pope Has Thoughts on AI Art—And They're Not Flattering",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
+      "pubDate": 1791032464000
+    },
+    {
+      "title": "Crypto's Sisyphean struggle",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
+      "pubDate": 1791032400000
+    },
+    {
+      "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
+      "pubDate": 1791032400000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791030000000
+    },
+    {
+      "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791028750000
+    },
     {
       "title": "Community banks sue OCC over trust bank charters of crypto firms",
       "source": "Cointelegraph",
@@ -31,12 +91,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
       "pubDate": 1790975764000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790974018000
     },
     {
       "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
@@ -285,12 +339,6 @@
       "pubDate": 1790928714000
     },
     {
-      "title": "South Korea crypto exchange profits fall 78% in H1 amid trading slump",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790920407000
-    },
-    {
       "title": "Frank Holmes: They Will Print $100 Trillion – Why to Buy Bitcoin & Gold",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold",
@@ -313,54 +361,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/videos/darius-dale-will-global-liquidity-send-bitcoin-higher-in-2027",
       "pubDate": 1790889501000
-    },
-    {
-      "title": "SEC Proposes New Rules On Crypto Custody",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/sec-proposes-crypto-custody-rules",
-      "pubDate": 1790888993000
-    },
-    {
-      "title": "Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/press-releases/sazmining-launches-the-wild-sats-club-a-loyalty-program-that-discounts-mining-management-fees-as-customer-hashrate-grows",
-      "pubDate": 1790888732000
-    },
-    {
-      "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
-      "pubDate": 1790887563000
-    },
-    {
-      "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379892/reddit-killing-rss-feeds-public-api-access-ai-scrapers",
-      "pubDate": 1790886663000
-    },
-    {
-      "title": "SEC proposes new crypto custody rules for investment advisers and funds",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
-      "pubDate": 1790886004000
-    },
-    {
-      "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning",
-      "pubDate": 1790883963000
-    },
-    {
-      "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379868/meta-muse-ai-agent-read-messages-without-permission",
-      "pubDate": 1790882163000
-    },
-    {
-      "title": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
-      "pubDate": 1790880363000
     }
   ]
 }
