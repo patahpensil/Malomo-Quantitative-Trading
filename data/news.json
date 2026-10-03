@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791008413675,
+  "generatedAt": 1791028604672,
   "articles": [
+    {
+      "title": "Community banks sue OCC over trust bank charters of crypto firms",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791019501000
+    },
+    {
+      "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791011168000
+    },
     {
       "title": "IMF Praises El Salvador — But Still Tries To Scale Back Its Bitcoin Project",
       "source": "Bitcoin Magazine",
@@ -277,18 +289,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1790920407000
-    },
-    {
-      "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790917712000
-    },
-    {
-      "title": "Zano exploiter minted more than a quadrillion fUSD before blockchain rollback",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790917343000
     },
     {
       "title": "Frank Holmes: They Will Print $100 Trillion – Why to Buy Bitcoin & Gold",
