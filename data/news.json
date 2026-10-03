@@ -1,7 +1,25 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1790975738856,
+  "generatedAt": 1790988050712,
   "articles": [
+    {
+      "title": "IMF Praises El Salvador — But Still Tries To Scale Back Its Bitcoin Project",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/imf-praises-el-salvador-but-blasts-bitcoin",
+      "pubDate": 1790978478000
+    },
+    {
+      "title": "Bank group sues U.S. regulator over granting crypto trust charters",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
+      "pubDate": 1790976200000
+    },
+    {
+      "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
+      "pubDate": 1790975764000
+    },
     {
       "title": "Here’s what happened in crypto today",
       "source": "Cointelegraph",
@@ -327,12 +345,6 @@
       "pubDate": 1790886004000
     },
     {
-      "title": "Jack Dorsey’s Block Launches Campaign To Get People Spending Bitcoin",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/block-launches-bitcoin-campaign",
-      "pubDate": 1790885736000
-    },
-    {
       "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
       "source": "Decrypt",
       "link": "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning",
@@ -349,18 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
       "pubDate": 1790880363000
-    },
-    {
-      "title": "Another Trump memecoin dinner advertised for token's top investors",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
-      "pubDate": 1790880329000
-    },
-    {
-      "title": "OpenAI Fires Three Safety Researchers Over Alleged Leak to Outside Group",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group",
-      "pubDate": 1790878324000
     }
   ]
 }
