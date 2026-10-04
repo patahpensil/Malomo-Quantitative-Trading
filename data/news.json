@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791078996615,
+  "generatedAt": 1791101913772,
   "articles": [
+    {
+      "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791098213000
+    },
     {
       "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
       "source": "Decrypt",
@@ -331,12 +337,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
       "pubDate": 1790929699000
-    },
-    {
-      "title": "Bitcoin ETFs kick off ‘Uptober’ with $103M inflow",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790929208000
     },
     {
       "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
