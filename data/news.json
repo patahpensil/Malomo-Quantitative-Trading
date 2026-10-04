@@ -1,7 +1,25 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791123543845,
+  "generatedAt": 1791137932166,
   "articles": [
+    {
+      "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
+      "pubDate": 1791133263000
+    },
+    {
+      "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
+      "pubDate": 1791129663000
+    },
+    {
+      "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
+      "pubDate": 1791126063000
+    },
     {
       "title": "Crypto poured years into new products. The next challenge is keeping users",
       "source": "CoinDesk",
@@ -343,24 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
       "pubDate": 1790932461000
-    },
-    {
-      "title": "Spanish Police Arrest 16-Year-Old Accused of Running KillSec Ransomware Group",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379913/spanish-police-arrest-16-year-old-accused-of-running-killsec-ransomware-group",
-      "pubDate": 1790932374000
-    },
-    {
-      "title": "Tether's USDT is 'coming home' to Bitcoin after more than a decade",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
-      "pubDate": 1790929699000
-    },
-    {
-      "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
-      "pubDate": 1790928714000
     }
   ]
 }
