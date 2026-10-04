@@ -1,12 +1,48 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791101913772,
+  "generatedAt": 1791123543845,
   "articles": [
+    {
+      "title": "Crypto poured years into new products. The next challenge is keeping users",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
+      "pubDate": 1791122400000
+    },
+    {
+      "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791121728000
+    },
+    {
+      "title": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
+      "pubDate": 1791118863000
+    },
+    {
+      "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
+      "pubDate": 1791118800000
+    },
+    {
+      "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791117720000
+    },
+    {
+      "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791106800000
+    },
     {
       "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791098213000
+      "pubDate": 1791098280000
     },
     {
       "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
@@ -78,13 +114,13 @@
       "title": "Community banks sue OCC over trust bank charters of crypto firms",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791019501000
+      "pubDate": 1791019680000
     },
     {
-      "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
+      "title": "Trump expected to appoint Jay Clayton as new AI czar: Reports",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791011168000
+      "pubDate": 1791011340000
     },
     {
       "title": "IMF Praises El Salvador — But Still Tries To Scale Back Its Bitcoin Project",
@@ -303,24 +339,6 @@
       "pubDate": 1790936975000
     },
     {
-      "title": "Bitcoin reaches for $87K as short liquidations top $120M",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790933826000
-    },
-    {
-      "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790933449000
-    },
-    {
-      "title": "Porsche’s ‘long haul’ Web3 project ends in less than four years",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790932732000
-    },
-    {
       "title": "Bitcoin open interest jumps $2.3 billion as traders pay more for bullish positions",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
@@ -343,24 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
       "pubDate": 1790928714000
-    },
-    {
-      "title": "Frank Holmes: They Will Print $100 Trillion – Why to Buy Bitcoin & Gold",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold",
-      "pubDate": 1790890440000
-    },
-    {
-      "title": "Zcash Drops 21% From Recent High—Here’s Why the Rally May Not Be Over",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
-      "pubDate": 1790890263000
-    },
-    {
-      "title": "Nico Lechuga: Bitcoin Will Revolutionize the $4T Private Equity Industry",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/nico-lechuga-bitcoin-will-revolutionize-the-4t-private-equity-industry",
-      "pubDate": 1790889895000
     }
   ]
 }
