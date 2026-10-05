@@ -1,7 +1,61 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791160954149,
+  "generatedAt": 1791183018857,
   "articles": [
+    {
+      "title": "Ethereum has a 25-day wait to start staking, with nearly 1.5 million ETH in line",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
+      "pubDate": 1791182429000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791176400000
+    },
+    {
+      "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+      "pubDate": 1791175503000
+    },
+    {
+      "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
+      "pubDate": 1791175295000
+    },
+    {
+      "title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
+      "pubDate": 1791174205000
+    },
+    {
+      "title": "Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
+      "pubDate": 1791172229000
+    },
+    {
+      "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791172039000
+    },
+    {
+      "title": "OKX, NYSE parent file to launch tokenized US stock platform",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791171849000
+    },
+    {
+      "title": "Safe investor asks Swiss watchdog to intervene in governance dispute",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791169941000
+    },
     {
       "title": "Zcash gets a Washington lobbyist to push crypto policy",
       "source": "Cointelegraph",
@@ -13,12 +67,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1791153072000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791139910000
     },
     {
       "title": "There's an election next month: State of Crypto",
@@ -285,12 +333,6 @@
       "pubDate": 1790950368000
     },
     {
-      "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790947800000
-    },
-    {
       "title": "America at a crossroads: Commissioner Peirce’s parting challenge",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
@@ -315,52 +357,10 @@
       "pubDate": 1790944313000
     },
     {
-      "title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790943956000
-    },
-    {
       "title": "Morning Minute: NEAR Intents Hacked for $3.8M - Was It A Bullish Hack?",
       "source": "Decrypt",
       "link": "https://decrypt.co/379929/morning-minute-near-intents-hacked-for-3-8m-was-it-a-bullish-hack",
       "pubDate": 1790943540000
-    },
-    {
-      "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790941221000
-    },
-    {
-      "title": "Cboe wants to turn VIX into a never-ending trade",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
-      "pubDate": 1790940600000
-    },
-    {
-      "title": "US Designates Russia's A7 Network as Transnational Criminal Organization",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379921/us-designates-russias-a7-network-as-transnational-criminal-organization",
-      "pubDate": 1790940521000
-    },
-    {
-      "title": "Live updates: Bitcoin reverses big early gains following soft U.S. jobs data",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
-      "pubDate": 1790940160000
-    },
-    {
-      "title": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
-      "pubDate": 1790937076000
-    },
-    {
-      "title": "Bitcoin open interest jumps $2.3 billion as traders pay more for bullish positions",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
-      "pubDate": 1790932461000
     }
   ]
 }
