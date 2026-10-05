@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791150699872,
+  "generatedAt": 1791160954149,
   "articles": [
+    {
+      "title": "Zcash gets a Washington lobbyist to push crypto policy",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791160534000
+    },
+    {
+      "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791153072000
+    },
     {
       "title": "Here’s what happened in crypto today",
       "source": "Cointelegraph",
@@ -183,12 +195,6 @@
       "pubDate": 1790970363000
     },
     {
-      "title": "When the Banks Don’t Work, Bitcoin Does: Cornell University’s Adoption Index",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/when-banks-dont-work-bitcoin-does-cornell",
-      "pubDate": 1790968558000
-    },
-    {
       "title": "This AI Is Already Fooling People on Video Calls Into Thinking It's Human, Company Says",
       "source": "Decrypt",
       "link": "https://decrypt.co/379975/tavus-griffin-ai-fools-people-video-thinking-human",
@@ -345,22 +351,16 @@
       "pubDate": 1790940160000
     },
     {
-      "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790938473000
-    },
-    {
       "title": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
       "pubDate": 1790937076000
     },
     {
-      "title": "CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1790936975000
+      "title": "Bitcoin open interest jumps $2.3 billion as traders pay more for bullish positions",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
+      "pubDate": 1790932461000
     }
   ]
 }
