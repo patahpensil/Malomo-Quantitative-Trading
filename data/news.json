@@ -1,7 +1,25 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791239440510,
+  "generatedAt": 1791253626290,
   "articles": [
+    {
+      "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
+      "pubDate": 1791252063000
+    },
+    {
+      "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791251244000
+    },
+    {
+      "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months",
+      "pubDate": 1791239420000
+    },
     {
       "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
       "source": "Decrypt",
@@ -343,24 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
       "pubDate": 1791182429000
-    },
-    {
-      "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
-      "pubDate": 1791175503000
-    },
-    {
-      "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
-      "pubDate": 1791175295000
-    },
-    {
-      "title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
-      "pubDate": 1791174205000
     }
   ]
 }
