@@ -1,7 +1,85 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791253626290,
+  "generatedAt": 1791278346258,
   "articles": [
+    {
+      "title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
+      "pubDate": 1791277321000
+    },
+    {
+      "title": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
+      "pubDate": 1791275263000
+    },
+    {
+      "title": "Bitcoin ETFs shed $90M as BTC sits 32% below year-old ATH",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791274457000
+    },
+    {
+      "title": "EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791270573000
+    },
+    {
+      "title": "Bringin Opens Euro Business Accounts for Bitcoin Companies Across 30 European Countries",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/business/bringin-opens-euro-business-accounts-for-bitcoin-companies-across-30-european-countries",
+      "pubDate": 1791270060000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791266400000
+    },
+    {
+      "title": "Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791265430000
+    },
+    {
+      "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
+      "pubDate": 1791262536000
+    },
+    {
+      "title": "Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
+      "pubDate": 1791262145000
+    },
+    {
+      "title": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
+      "pubDate": 1791261670000
+    },
+    {
+      "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
+      "pubDate": 1791260625000
+    },
+    {
+      "title": "Rain seeks US trust bank charter days after OCC sued over crypto charters",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791258340000
+    },
+    {
+      "title": "OKX eyes emerging markets with yield-offering stablecoin savings and payments app",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791258000000
+    },
     {
       "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
       "source": "Decrypt",
@@ -105,12 +183,6 @@
       "pubDate": 1791232407000
     },
     {
-      "title": "Coinbase Asset Management President: Bitcoin to $300k by 2030 | Anthony Bassili",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/coinbase-asset-management-president-bitcoin-to-300k-by-2030-anthony-bassili",
-      "pubDate": 1791232085000
-    },
-    {
       "title": "Treasury Kills Crypto 'Unhosted Wallet' and Mixer Surveillance Rules",
       "source": "Decrypt",
       "link": "https://decrypt.co/380120/treasury-kills-crypto-unhosted-wallet-mixer-surveillance-rules",
@@ -121,12 +193,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1791230032000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791228300000
     },
     {
       "title": "Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on",
@@ -295,72 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000",
       "pubDate": 1791197095000
-    },
-    {
-      "title": "Live updates: Bitcoin under pressure as rates continue to rise",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
-      "pubDate": 1791196797000
-    },
-    {
-      "title": "Cardano's ADA leads gains in narrow range-bound market",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
-      "pubDate": 1791196650000
-    },
-    {
-      "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption",
-      "pubDate": 1791195747000
-    },
-    {
-      "title": "Vivek Ramaswamy’s gubernatorial run lacks the crypto rhetoric of his presidential bid",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791195086000
-    },
-    {
-      "title": "Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
-      "pubDate": 1791193033000
-    },
-    {
-      "title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
-      "pubDate": 1791192384000
-    },
-    {
-      "title": "BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791191289000
-    },
-    {
-      "title": "Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791190570000
-    },
-    {
-      "title": "Bitcoin ETFs notch third inflow week as Ether ETFs shed $138M",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791187249000
-    },
-    {
-      "title": "Bitcoin is about to get a major bullish signal it hasn't had in over a year",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year",
-      "pubDate": 1791183460000
-    },
-    {
-      "title": "Ethereum investors are stuck in a two-week staking exit line. Here's why.",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
-      "pubDate": 1791182429000
     }
   ]
 }
