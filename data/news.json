@@ -1,9 +1,177 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791278346258,
+  "generatedAt": 1791303157788,
   "articles": [
     {
-      "title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
+      "title": "BlackRock Says AI Agents Could Be the Next Big Driver of Crypto Demand",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/blackrock-says-ai-to-drive-crypto-demand",
+      "pubDate": 1791303010000
+    },
+    {
+      "title": "Treasury Drops Crypto Surveillance Proposals",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/treasury-drops-crypto-surveillance",
+      "pubDate": 1791302235000
+    },
+    {
+      "title": "Ecash Ecosystem Rises to Challenge in the Defense of Decentralized Custody",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/featured/ecash-ecosystem-rises-to-challenge-in-the-defense-of-decentralized-custody",
+      "pubDate": 1791302106000
+    },
+    {
+      "title": "Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024: Study",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380166/flash-loan-attacks-drained-1-2b-from-defi-between-2020-and-2024-study",
+      "pubDate": 1791300401000
+    },
+    {
+      "title": "Ripple expands Brevan Howard deal with prime brokerage services",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791300291000
+    },
+    {
+      "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
+      "pubDate": 1791300030000
+    },
+    {
+      "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791295200000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791294093000
+    },
+    {
+      "title": "OKX exchange raises fresh capital at $25B valuation",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791293552000
+    },
+    {
+      "title": "Capital starting to rotate back to crypto from AI: Raoul Pal",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/features/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791293400000
+    },
+    {
+      "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
+      "pubDate": 1791291753000
+    },
+    {
+      "title": "US crypto rules need to survive the next election",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/opinion/us-crypto-rules-need-to-survive-the-next-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791291600000
+    },
+    {
+      "title": "Paxos’ $3B USDG stablecoin launches on Arbitrum",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/paxos-3b-usdg-stablecoin-launches-arbitrum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791291600000
+    },
+    {
+      "title": "Polymarket overhauls smart contracts with new Protocol V2 rollout",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791291255000
+    },
+    {
+      "title": "Circle, Ripple and Standard Chartered Back OKX at Flat $25B Valuation",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380157/circle-ripple-and-standard-chartered-back-okx-at-flat-25b-valuation",
+      "pubDate": 1791291184000
+    },
+    {
+      "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case",
+      "pubDate": 1791289911000
+    },
+    {
+      "title": "Morning Minute: The CFTC Reveals Plan to Regulate Crypto Exchanges",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380146/morning-minute-the-cftc-reveals-plan-to-regulate-crypto-exchanges",
+      "pubDate": 1791289631000
+    },
+    {
+      "title": "Don Davis Bill Would Fine Candidates $10K for Trading on Their Own Elections",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380147/don-davis-bill-would-fine-candidates-10k-for-trading-on-their-own-elections",
+      "pubDate": 1791288710000
+    },
+    {
+      "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
+      "pubDate": 1791286200000
+    },
+    {
+      "title": "Now Accepting Bitcoin: Buy Coffee and Bacon Across 200 Indiana Bitcoin Merchants",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/culture/indiana-bitcoin-200-merchants",
+      "pubDate": 1791286200000
+    },
+    {
+      "title": "Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380138/crypto-godfather-gets-six-years-for-hiring-sheriffs-deputies-37m-meta-fraud",
+      "pubDate": 1791283017000
+    },
+    {
+      "title": "Live updates: Bitcoin remains locked in range as stocks notch another new record high",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
+      "pubDate": 1791282949000
+    },
+    {
+      "title": "Smaller altcoins shine as bitcoin stills trades around $85,000",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000",
+      "pubDate": 1791282600000
+    },
+    {
+      "title": "Hong Kong officials double down on end-2026 deadline for crypto licensing bill",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791281815000
+    },
+    {
+      "title": "Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/binance-btc-outflows-hit-highest-since-mid-2023-as-whales-deposit-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791280752000
+    },
+    {
+      "title": "U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos",
+      "pubDate": 1791278736000
+    },
+    {
+      "title": "Ondo opens private markets with tokenized pre-IPO AI exposure",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ondo-private-markets-tokenized-pre-ipo-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791278498000
+    },
+    {
+      "title": "Solana Foundation targets settlement in seconds with DvP launch",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/solana-foundation-settlement-seconds-dvp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791277886000
+    },
+    {
+      "title": "OKX looks to abstract blockchain mechanics to bring stablecoin balances to everyday consumers",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
       "pubDate": 1791277321000
@@ -31,12 +199,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/business/bringin-opens-euro-business-accounts-for-bitcoin-companies-across-30-european-countries",
       "pubDate": 1791270060000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791266400000
     },
     {
       "title": "Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto",
@@ -147,12 +309,6 @@
       "pubDate": 1791233681000
     },
     {
-      "title": "$1.3B iTrust Capital CEO: 50% of Clients are Buying Bitcoin | Kevin Maloney",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/1-3b-itrust-capital-ceo-50-of-clients-are-buying-bitcoin-kevin-maloney",
-      "pubDate": 1791233372000
-    },
-    {
       "title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -165,46 +321,16 @@
       "pubDate": 1791233163000
     },
     {
-      "title": "VanEck’s Matthew Sigel: Path to $500k BTC Runs Through Gold",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/vanecks-matthew-sigel-path-to-500k-btc-runs-through-gold",
-      "pubDate": 1791233058000
-    },
-    {
-      "title": "CryptoQuant: BTC “Bull Run Has Started” – 3x to 5x Cycle Outlook | Ki Young Ju",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/cryptoquant-btc-bull-run-has-started-3x-to-5x-cycle-outlook-ki-young-ju",
-      "pubDate": 1791232767000
-    },
-    {
-      "title": "Jim Rickards: Stabelcoins “Dangerous” for Bond Market – $10,000 Gold Outlook",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/jim-rickards-stabelcoins-dangerous-for-bond-market-10000-gold-outlook",
-      "pubDate": 1791232407000
-    },
-    {
       "title": "Treasury Kills Crypto 'Unhosted Wallet' and Mixer Surveillance Rules",
       "source": "Decrypt",
       "link": "https://decrypt.co/380120/treasury-kills-crypto-unhosted-wallet-mixer-surveillance-rules",
       "pubDate": 1791231578000
     },
     {
-      "title": "Modern Treasury seeks US trust bank charter for digital asset custody",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791230032000
-    },
-    {
       "title": "Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on",
       "pubDate": 1791228066000
-    },
-    {
-      "title": "Advocacy group pushes back on banks’ lawsuit against OCC over charters",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791227722000
     },
     {
       "title": "Crypto Sleuth ZachXBT Fronted $350K to Pose as a Client of Lazarus' Chinese Launderers",
@@ -219,28 +345,10 @@
       "pubDate": 1791223948000
     },
     {
-      "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791223138000
-    },
-    {
-      "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791222023000
-    },
-    {
       "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
       "pubDate": 1791220694000
-    },
-    {
-      "title": "Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791219188000
     },
     {
       "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
@@ -253,114 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/380067/bitcoin-price-golden-cross-fed-rate",
       "pubDate": 1791216600000
-    },
-    {
-      "title": "NEXTPredict Founder: 'Nobody Was Serving' Prediction Markets' Enormous Audience",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/379935/nextpredict-founder-nobody-was-serving-prediction-markets-enormous-audience",
-      "pubDate": 1791216183000
-    },
-    {
-      "title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
-      "pubDate": 1791215663000
-    },
-    {
-      "title": "Bitcoin price fails to break higher after best weekly close in eight months",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-fails-to-break-higher-after-best-weekly-close-in-eight-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791212997000
-    },
-    {
-      "title": "Bitmine Buys $41M More Ethereum, Reaching 99% of Its 'Alchemy of 5%' Target",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380059/bitmine-41m-more-ethereum-alchemy-of-5-target",
-      "pubDate": 1791212057000
-    },
-    {
-      "title": "Metaplanet reveals net income strategy to fuel Bitcoin accumulation",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791208037000
-    },
-    {
-      "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
-      "pubDate": 1791207991000
-    },
-    {
-      "title": "Strategy opts for bigger spending on STRC buybacks over BTC purchases",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791206536000
-    },
-    {
-      "title": "China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/china-stablecoin-p2p-wallets-crypto-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791205200000
-    },
-    {
-      "title": "Strategy Posts $21B Q3 Gain, Buys $29M in BTC, Repurchases $176M in STRC",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc",
-      "pubDate": 1791204702000
-    },
-    {
-      "title": "Too big to pause: Could an AI slowdown crash the economy?",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/too-big-to-pause-the-economic-stakes-of-an-ai-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791203400000
-    },
-    {
-      "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
-      "pubDate": 1791203315000
-    },
-    {
-      "title": "Metaplanet Sold 10,000 Bitcoin and Bought Back 11,000 to Prove a Point",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point",
-      "pubDate": 1791201841000
-    },
-    {
-      "title": "Morning Minute: Uptober Off to a Green Start",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380050/morning-minute-uptober-off-to-a-green-start",
-      "pubDate": 1791200348000
-    },
-    {
-      "title": "Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380040/greek-soldiers-among-alleged-leaders-of-8m-crypto-pyramid-scheme",
-      "pubDate": 1791199081000
-    },
-    {
-      "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
-      "pubDate": 1791198875000
-    },
-    {
-      "title": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network",
-      "pubDate": 1791198483000
-    },
-    {
-      "title": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
-      "pubDate": 1791197883000
-    },
-    {
-      "title": "Bitcoin resilience tested as U.S. dollar climbs to 18-month high",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000",
-      "pubDate": 1791197095000
     }
   ]
 }
