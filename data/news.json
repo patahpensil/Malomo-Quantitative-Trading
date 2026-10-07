@@ -1,7 +1,49 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791334704374,
+  "generatedAt": 1791356770803,
   "articles": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791352800000
+    },
+    {
+      "title": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
+      "pubDate": 1791352705000
+    },
+    {
+      "title": "Kalshi’s 15-min gold markets overtake Ether just weeks after launch",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791349074000
+    },
+    {
+      "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
+      "pubDate": 1791347474000
+    },
+    {
+      "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
+      "pubDate": 1791346293000
+    },
+    {
+      "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
+      "pubDate": 1791345651000
+    },
+    {
+      "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791337733000
+    },
     {
       "title": "Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses",
       "source": "Cointelegraph",
@@ -73,12 +115,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1791319999000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791319692000
     },
     {
       "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
@@ -303,18 +339,6 @@
       "pubDate": 1791282600000
     },
     {
-      "title": "Hong Kong officials double down on end-2026 deadline for crypto licensing bill",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791281815000
-    },
-    {
-      "title": "Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/binance-btc-outflows-hit-highest-since-mid-2023-as-whales-deposit-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791280752000
-    },
-    {
       "title": "U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos",
@@ -337,30 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
       "pubDate": 1791262536000
-    },
-    {
-      "title": "Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
-      "pubDate": 1791262145000
-    },
-    {
-      "title": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
-      "pubDate": 1791261670000
-    },
-    {
-      "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
-      "pubDate": 1791260625000
-    },
-    {
-      "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
-      "pubDate": 1791252063000
     }
   ]
 }
