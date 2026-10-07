@@ -1,12 +1,72 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791321012134,
+  "generatedAt": 1791334704374,
   "articles": [
+    {
+      "title": "Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791331300000
+    },
+    {
+      "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
+      "pubDate": 1791326763000
+    },
+    {
+      "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
+      "pubDate": 1791324963000
+    },
+    {
+      "title": "Someone Scraped 5.6 Billion TikTok Videos and Put the Data on Hugging Face for Free",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face",
+      "pubDate": 1791324019000
+    },
+    {
+      "title": "Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/crypto-card-payments-hit-record-12-billion",
+      "pubDate": 1791323329000
+    },
+    {
+      "title": "$350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/350m-st-cloud-ceo-the-first-credit-union-to-put-bitcoin-on-core-ledger-jed-meyer",
+      "pubDate": 1791322472000
+    },
+    {
+      "title": "Housingwire’s Logan Mohtashami: Real Estate vs Bitcoin & Bond Market Outlook",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/housingwires-logan-mohtashami-real-estate-vs-bitcoin-bond-market-outlook",
+      "pubDate": 1791322134000
+    },
+    {
+      "title": "Leon Wankum: BTC Taking on Real Estate’s $300T Monetary Premium",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/leon-wankum-btc-taking-on-real-estates-300t-monetary-premium",
+      "pubDate": 1791321703000
+    },
+    {
+      "title": "StoneX’s Mark Palmer: $435 MSTR Price Target Explained – DAT Consolidation Outlook",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/stonexs-mark-palmer-435-mstr-price-target-explained-dat-consolidation-outlook",
+      "pubDate": 1791321365000
+    },
     {
       "title": "Bitcoin Privacy Legend Amir Taaki Deported From Singapore",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/amir-taaki-deported-from-singapore",
       "pubDate": 1791320843000
+    },
+    {
+      "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791320444000
     },
     {
       "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
@@ -135,12 +195,6 @@
       "pubDate": 1791302235000
     },
     {
-      "title": "Ecash Ecosystem Rises to Challenge in the Defense of Decentralized Custody",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/featured/ecash-ecosystem-rises-to-challenge-in-the-defense-of-decentralized-custody",
-      "pubDate": 1791302106000
-    },
-    {
       "title": "Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024: Study",
       "source": "Decrypt",
       "link": "https://decrypt.co/380166/flash-loan-attacks-drained-1-2b-from-defi-between-2020-and-2024-study",
@@ -173,7 +227,7 @@
     {
       "title": "Capital starting to rotate back to crypto from AI: Raoul Pal",
       "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/features/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1791293400000
     },
     {
@@ -231,12 +285,6 @@
       "pubDate": 1791286200000
     },
     {
-      "title": "Now Accepting Bitcoin: Buy Coffee and Bacon Across 200 Indiana Bitcoin Merchants",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/culture/indiana-bitcoin-200-merchants",
-      "pubDate": 1791286200000
-    },
-    {
       "title": "Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud",
       "source": "Decrypt",
       "link": "https://decrypt.co/380138/crypto-godfather-gets-six-years-for-hiring-sheriffs-deputies-37m-meta-fraud",
@@ -273,18 +321,6 @@
       "pubDate": 1791278736000
     },
     {
-      "title": "Ondo opens private markets with tokenized pre-IPO AI exposure",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ondo-private-markets-tokenized-pre-ipo-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791278498000
-    },
-    {
-      "title": "Solana Foundation targets settlement in seconds with DvP launch",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/solana-foundation-settlement-seconds-dvp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791277886000
-    },
-    {
       "title": "OKX looks to abstract blockchain mechanics to bring stablecoin balances to everyday consumers",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
@@ -295,12 +331,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
       "pubDate": 1791275263000
-    },
-    {
-      "title": "Bringin Opens Euro Business Accounts for Bitcoin Companies Across 30 European Countries",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/business/bringin-opens-euro-business-accounts-for-bitcoin-companies-across-30-european-countries",
-      "pubDate": 1791270060000
     },
     {
       "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
@@ -331,36 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
       "pubDate": 1791252063000
-    },
-    {
-      "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months",
-      "pubDate": 1791239420000
-    },
-    {
-      "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
-      "pubDate": 1791236883000
-    },
-    {
-      "title": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380119/florida-woman-claude-diary-anthropic-reported-police",
-      "pubDate": 1791234963000
-    },
-    {
-      "title": "Coinbase’s Ryan VanGrack: CFTC Approval “Opens Many Doors” for Bitcoin",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/coinbases-ryan-vangrack-cftc-approval-opens-many-doors-for-bitcoin",
-      "pubDate": 1791234841000
-    },
-    {
-      "title": "Coinbase Business Chief: Big Banks Increasing BTC Exposure | Shan Aggarwal",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/coinbase-business-chief-big-banks-increasing-btc-exposure-shan-aggarwal",
-      "pubDate": 1791234520000
     }
   ]
 }
