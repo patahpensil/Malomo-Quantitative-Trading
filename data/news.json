@@ -1,12 +1,174 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791356770803,
+  "generatedAt": 1791383183886,
   "articles": [
+    {
+      "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
+      "pubDate": 1791379254000
+    },
     {
       "title": "Here’s what happened in crypto today",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791352800000
+      "pubDate": 1791378460000
+    },
+    {
+      "title": "Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
+      "pubDate": 1791376831000
+    },
+    {
+      "title": "Engineer Gets 32 Months for Bitcoin Extortion Plot Against His Own Employer",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380284/engineer-gets-32-months-for-bitcoin-extortion-plot-against-his-own-employer",
+      "pubDate": 1791376749000
+    },
+    {
+      "title": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+      "pubDate": 1791376453000
+    },
+    {
+      "title": "Chasing 100x tokens is game of ‘irrational exuberance,’ says Polymarket CEO",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791376179000
+    },
+    {
+      "title": "Morning Minute: OKX Raises at $25B From Circle, Ripple, and StanChart",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart",
+      "pubDate": 1791375523000
+    },
+    {
+      "title": "Robinhood Adds Bitcoin to Its Balance Sheet: A Strategic Signal from a $100B Fintech",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/robinhood-adds-bitcoin-to-its-balance-sheet-a-strategic-signal-from-a-100b-fintech",
+      "pubDate": 1791375418000
+    },
+    {
+      "title": "Swift blockchain ledger requires key internal layers, Taurus co-founder warns",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns",
+      "pubDate": 1791374364000
+    },
+    {
+      "title": "Crypto card access doesn’t match global demand, Tangem says",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/crypto-card-access-doesnt-match-global-demand-tangem-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791373068000
+    },
+    {
+      "title": "Here’s what bitcoin needs to break above $87,000",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000",
+      "pubDate": 1791372600000
+    },
+    {
+      "title": "Live updates: Bitcoin falls 4%, tumbling below $83,000 as interest rates surge",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
+      "pubDate": 1791371390000
+    },
+    {
+      "title": "Europol Warns Crypto Wallets Are 'Primary Risk' for Quantum Attacks",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks",
+      "pubDate": 1791370156000
+    },
+    {
+      "title": "Bitcoin’s recovery stalls just short of rescuing its last underwater cohort",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-s-recovery-stalls-just-short-of-rescuing-its-last-underwater-cohort",
+      "pubDate": 1791369503000
+    },
+    {
+      "title": "Liquidations jump to $547 million as oil rally hits crypto market",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000",
+      "pubDate": 1791369309000
+    },
+    {
+      "title": "Trump-backed WLFI plans USD1 payments for online businesses",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791368815000
+    },
+    {
+      "title": "Wall Street wealth creation model is unsustainable for most participants: Hyperliquid CEO",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/wall-street-wealth-creation-unsustainable-hyperliquid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791368367000
+    },
+    {
+      "title": "Prosecutors Cite Bitcoin Fog Ruling Against Roman Storm's Venue Challenge",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380260/prosecutors-cite-bitcoin-fog-ruling-against-roman-storms-venue-challenge",
+      "pubDate": 1791367086000
+    },
+    {
+      "title": "‘Old money’ has stronger Bitcoin ‘diamond hands,’ says BingX exec",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bingx-old-money-bitcoin-diamond-hands-token2049?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791367039000
+    },
+    {
+      "title": "Crypto liquidations hit $550M as Bitcoin price dips below $84K",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/crypto-liquidations-hit-550m-as-bitcoin-price-dips-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791366335000
+    },
+    {
+      "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback",
+      "pubDate": 1791364146000
+    },
+    {
+      "title": "Bitcoin ETFs rebound with $119M inflow as Ether extends losses",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791363818000
+    },
+    {
+      "title": "Ledger Launches Bitcoin Loans, Letting Holders Borrow Without Selling",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380224/ledger-bitcoin-loans-holders-borrow-without-selling",
+      "pubDate": 1791363663000
+    },
+    {
+      "title": "Robinhood adds $25 million of bitcoin to its balance sheet",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
+      "pubDate": 1791363207000
+    },
+    {
+      "title": "Bitmine sets 5% Ether supply ‘hard cap’ as accumulation target nears",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791363002000
+    },
+    {
+      "title": "Russia clears first crypto exchanges, custodians under new law",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/russia-first-crypto-platforms-register-new-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791360395000
+    },
+    {
+      "title": "Down but not out. Bitcoin's stair-step bullish trajectory is still intact",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/07/down-but-not-out-bitcoin-s-stair-step-bullish-trajectory-is-still-intact",
+      "pubDate": 1791359542000
+    },
+    {
+      "title": "DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791357059000
     },
     {
       "title": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
@@ -183,18 +345,6 @@
       "pubDate": 1791307374000
     },
     {
-      "title": "Bitcoin grinds toward $87K as US equities hit new record highs",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791307198000
-    },
-    {
-      "title": "Securitize stock jumps 8% amid South Korea tokenization push",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/securitize-lg-cns-south-korea-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791306281000
-    },
-    {
       "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
@@ -211,156 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/380172/bitcoin-asleep-privacy-coins-zcash-monero-waking-up",
       "pubDate": 1791304695000
-    },
-    {
-      "title": "ECB policymaker warns of fragmentation without digital euro",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791304377000
-    },
-    {
-      "title": "BlackRock Says AI Agents Could Be the Next Big Driver of Crypto Demand",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/blackrock-says-ai-to-drive-crypto-demand",
-      "pubDate": 1791303010000
-    },
-    {
-      "title": "Treasury Drops Crypto Surveillance Proposals",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/treasury-drops-crypto-surveillance",
-      "pubDate": 1791302235000
-    },
-    {
-      "title": "Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024: Study",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380166/flash-loan-attacks-drained-1-2b-from-defi-between-2020-and-2024-study",
-      "pubDate": 1791300401000
-    },
-    {
-      "title": "Ripple expands Brevan Howard deal with prime brokerage services",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791300291000
-    },
-    {
-      "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
-      "pubDate": 1791300030000
-    },
-    {
-      "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791295200000
-    },
-    {
-      "title": "OKX exchange raises fresh capital at $25B valuation",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791293552000
-    },
-    {
-      "title": "Capital starting to rotate back to crypto from AI: Raoul Pal",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791293400000
-    },
-    {
-      "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
-      "pubDate": 1791291753000
-    },
-    {
-      "title": "US crypto rules need to survive the next election",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/opinion/us-crypto-rules-need-to-survive-the-next-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791291600000
-    },
-    {
-      "title": "Paxos’ $3B USDG stablecoin launches on Arbitrum",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/paxos-3b-usdg-stablecoin-launches-arbitrum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791291600000
-    },
-    {
-      "title": "Polymarket overhauls smart contracts with new Protocol V2 rollout",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791291255000
-    },
-    {
-      "title": "Circle, Ripple and Standard Chartered Back OKX at Flat $25B Valuation",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380157/circle-ripple-and-standard-chartered-back-okx-at-flat-25b-valuation",
-      "pubDate": 1791291184000
-    },
-    {
-      "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case",
-      "pubDate": 1791289911000
-    },
-    {
-      "title": "Morning Minute: The CFTC Reveals Plan to Regulate Crypto Exchanges",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380146/morning-minute-the-cftc-reveals-plan-to-regulate-crypto-exchanges",
-      "pubDate": 1791289631000
-    },
-    {
-      "title": "Don Davis Bill Would Fine Candidates $10K for Trading on Their Own Elections",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380147/don-davis-bill-would-fine-candidates-10k-for-trading-on-their-own-elections",
-      "pubDate": 1791288710000
-    },
-    {
-      "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
-      "pubDate": 1791286200000
-    },
-    {
-      "title": "Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380138/crypto-godfather-gets-six-years-for-hiring-sheriffs-deputies-37m-meta-fraud",
-      "pubDate": 1791283017000
-    },
-    {
-      "title": "Live updates: Bitcoin remains locked in range as stocks notch another new record high",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
-      "pubDate": 1791282949000
-    },
-    {
-      "title": "Smaller altcoins shine as bitcoin stills trades around $85,000",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000",
-      "pubDate": 1791282600000
-    },
-    {
-      "title": "U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos",
-      "pubDate": 1791278736000
-    },
-    {
-      "title": "OKX looks to abstract blockchain mechanics to bring stablecoin balances to everyday consumers",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
-      "pubDate": 1791277321000
-    },
-    {
-      "title": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
-      "pubDate": 1791275263000
-    },
-    {
-      "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
-      "pubDate": 1791262536000
     }
   ]
 }
