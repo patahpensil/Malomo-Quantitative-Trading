@@ -1,7 +1,61 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791418106949,
+  "generatedAt": 1791441203203,
   "articles": [
+    {
+      "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
+      "pubDate": 1791440233000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791439200000
+    },
+    {
+      "title": "Bitcoin loans are paying for tuition and working capital, not just trades, lenders say",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
+      "pubDate": 1791438041000
+    },
+    {
+      "title": "Crypto’s heavy backing of Republicans alienated Democrats: Cuomo",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791436011000
+    },
+    {
+      "title": "Crypto must cement adoption to withstand US policy shifts: Canton CEO",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791433707000
+    },
+    {
+      "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
+      "pubDate": 1791433403000
+    },
+    {
+      "title": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report",
+      "pubDate": 1791432007000
+    },
+    {
+      "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+      "pubDate": 1791419724000
+    },
+    {
+      "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791417872000
+    },
     {
       "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
       "source": "Decrypt",
@@ -61,12 +115,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
       "pubDate": 1791399572000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791399336000
     },
     {
       "title": "Google Lets You Build a Video Game by Typing a Description",
@@ -313,54 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
       "pubDate": 1791363207000
-    },
-    {
-      "title": "Bitmine sets 5% Ether supply ‘hard cap’ as accumulation target nears",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791363002000
-    },
-    {
-      "title": "Russia clears first crypto exchanges, custodians under new law",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/russia-first-crypto-platforms-register-new-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791360395000
-    },
-    {
-      "title": "Down but not out. Bitcoin's stair-step bullish trajectory is still intact",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/07/down-but-not-out-bitcoin-s-stair-step-bullish-trajectory-is-still-intact",
-      "pubDate": 1791359542000
-    },
-    {
-      "title": "DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791357059000
-    },
-    {
-      "title": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
-      "pubDate": 1791352705000
-    },
-    {
-      "title": "Kalshi’s 15-min gold markets overtake Ether just weeks after launch",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791349074000
-    },
-    {
-      "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
-      "pubDate": 1791347474000
-    },
-    {
-      "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
-      "pubDate": 1791346293000
     }
   ]
 }
