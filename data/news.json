@@ -1,7 +1,43 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791403587899,
+  "generatedAt": 1791418106949,
   "articles": [
+    {
+      "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
+      "pubDate": 1791409563000
+    },
+    {
+      "title": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
+      "pubDate": 1791407763000
+    },
+    {
+      "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791406114000
+    },
+    {
+      "title": "Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380351/anthropic-launches-haiku-5-5-cheapest-fastest-claude-model",
+      "pubDate": 1791405963000
+    },
+    {
+      "title": "CFTC Chair Says New Crypto Rulemaking Will Prevent Another FTX-Style Collapse",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/cftc-boss-says-rules-will-stop-another-ftx",
+      "pubDate": 1791404482000
+    },
+    {
+      "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill",
+      "pubDate": 1791404164000
+    },
     {
       "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
       "source": "Decrypt",
@@ -325,42 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
       "pubDate": 1791346293000
-    },
-    {
-      "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
-      "pubDate": 1791345651000
-    },
-    {
-      "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791337733000
-    },
-    {
-      "title": "Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791331300000
-    },
-    {
-      "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
-      "pubDate": 1791326763000
-    },
-    {
-      "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
-      "pubDate": 1791324963000
-    },
-    {
-      "title": "Someone Scraped 5.6 Billion TikTok Videos and Put the Data on Hugging Face for Free",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face",
-      "pubDate": 1791324019000
     }
   ]
 }
