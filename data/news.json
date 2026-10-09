@@ -1,7 +1,43 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791573931958,
+  "generatedAt": 1791588353940,
   "articles": [
+    {
+      "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
+      "pubDate": 1791580914000
+    },
+    {
+      "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791578357000
+    },
+    {
+      "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791576842000
+    },
+    {
+      "title": "‘We Know Where It Is’: Treasury Secretary Threatens To Freeze $1B of Iran’s Crypto",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/treasury-to-seize-one-billion-of-iran-crypto",
+      "pubDate": 1791576614000
+    },
+    {
+      "title": "Here’s How Not To Screw up Your Bitcoin Privacy",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/seth-for-privacy-bitcoin-tips",
+      "pubDate": 1791576159000
+    },
+    {
+      "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
+      "pubDate": 1791575221000
+    },
     {
       "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
       "source": "Cointelegraph",
@@ -325,42 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1791506787000
-    },
-    {
-      "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791498900000
-    },
-    {
-      "title": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
-      "pubDate": 1791495963000
-    },
-    {
-      "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
-      "pubDate": 1791494578000
-    },
-    {
-      "title": "Google Wants Gemini to Be Your Next Coworker—Complete With Its Own Email Address",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380545/google-gemini-coworker-own-email-address",
-      "pubDate": 1791494163000
-    },
-    {
-      "title": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
-      "pubDate": 1791490563000
-    },
-    {
-      "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
-      "pubDate": 1791488775000
     }
   ]
 }
