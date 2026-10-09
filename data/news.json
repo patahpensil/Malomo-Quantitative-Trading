@@ -1,7 +1,37 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791488860280,
+  "generatedAt": 1791504875161,
   "articles": [
+    {
+      "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791498900000
+    },
+    {
+      "title": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
+      "pubDate": 1791495963000
+    },
+    {
+      "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
+      "pubDate": 1791494578000
+    },
+    {
+      "title": "Google Wants Gemini to Be Your Next Coworker—Complete With Its Own Email Address",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380545/google-gemini-coworker-own-email-address",
+      "pubDate": 1791494163000
+    },
+    {
+      "title": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
+      "pubDate": 1791490563000
+    },
     {
       "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
       "source": "CoinDesk",
@@ -297,7 +327,7 @@
       "pubDate": 1791456311000
     },
     {
-      "title": "Live updates: Bitcoin adds to declines, testing $80,000 level",
+      "title": "Live updates: Bitcoin pulls off worst levels late in Thursday session",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
       "pubDate": 1791456287000
@@ -331,36 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
       "pubDate": 1791451933000
-    },
-    {
-      "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
-      "pubDate": 1791451038000
-    },
-    {
-      "title": "Samsung Wallet Taps Solana for USDC Transfers on 82M US Galaxy Devices",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices",
-      "pubDate": 1791450350000
-    },
-    {
-      "title": "Samsung integrates USDC to overhaul cross-border remittances for 82 million Galaxy users",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
-      "pubDate": 1791448763000
-    },
-    {
-      "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791447864000
-    },
-    {
-      "title": "NEAR enters crypto’s top 20 after 140% surge in 30 days",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/near-enters-crypto-top-20-token-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791447434000
     }
   ]
 }
