@@ -1,7 +1,157 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791527685144,
+  "generatedAt": 1791553246769,
   "articles": [
+    {
+      "title": "Bitcoin Core developer responds to AI & Quantum Risk",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk",
+      "pubDate": 1791553118000
+    },
+    {
+      "title": "Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury",
+      "pubDate": 1791552789000
+    },
+    {
+      "title": "France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791552600000
+    },
+    {
+      "title": "Calamos Investments CEO John Koudounis: Bitcoin Will Hit $1M by 2030",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/calamos-investments-ceo-john-koudounis-bitcoin-will-hit-1m-by-2030",
+      "pubDate": 1791552490000
+    },
+    {
+      "title": "Bitcoin Bleeds in Uptober—How Low Can It Go? Experts Weigh In",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380574/bitcoin-bleeds-in-uptober-how-low-can-it-go-experts-weigh-in",
+      "pubDate": 1791552012000
+    },
+    {
+      "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+      "pubDate": 1791548634000
+    },
+    {
+      "title": "UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
+      "pubDate": 1791547447000
+    },
+    {
+      "title": "Morning Minute: Uptober Turns Sour as Crypto Majors Slide",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380569/morning-minute-uptober-turns-sour-as-crypto-majors-slide",
+      "pubDate": 1791546075000
+    },
+    {
+      "title": "Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
+      "pubDate": 1791545945000
+    },
+    {
+      "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
+      "pubDate": 1791544144000
+    },
+    {
+      "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791542964000
+    },
+    {
+      "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
+      "pubDate": 1791542662000
+    },
+    {
+      "title": "UK sanctions three crypto exchanges tied to Russian illicit funds",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791542077000
+    },
+    {
+      "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+      "pubDate": 1791541015000
+    },
+    {
+      "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791541008000
+    },
+    {
+      "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
+      "pubDate": 1791540899000
+    },
+    {
+      "title": "Empire Market Co-Creator Sentenced to 40 Years Over $430M Dark Web Bazaar",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
+      "pubDate": 1791540711000
+    },
+    {
+      "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791539401000
+    },
+    {
+      "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
+      "pubDate": 1791537616000
+    },
+    {
+      "title": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
+      "pubDate": 1791536889000
+    },
+    {
+      "title": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
+      "pubDate": 1791536760000
+    },
+    {
+      "title": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
+      "pubDate": 1791536371000
+    },
+    {
+      "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791531284000
+    },
+    {
+      "title": "Live updates: Bitcoin climbs back above $83,000; XRP ETFs only crypto funds with inflows Thursday",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
+      "pubDate": 1791528692000
+    },
+    {
+      "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
+      "pubDate": 1791528054000
+    },
     {
       "title": "Here’s what happened in crypto today",
       "source": "Cointelegraph",
@@ -19,6 +169,12 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1791523527000
+    },
+    {
+      "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
+      "pubDate": 1791522052000
     },
     {
       "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
@@ -205,162 +361,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/standard-chartered-singapore-custody-plans",
       "pubDate": 1791474365000
-    },
-    {
-      "title": "U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
-      "pubDate": 1791474184000
-    },
-    {
-      "title": "Decrypt Money Accounts on Solana to Power The Information Exchange",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
-      "pubDate": 1791474136000
-    },
-    {
-      "title": "US government moves $1B in seized Bitcoin after $770M transfers",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791473056000
-    },
-    {
-      "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
-      "pubDate": 1791473006000
-    },
-    {
-      "title": "Understanding Digital Money and Digital Yield",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/digital-money-digital-yield",
-      "pubDate": 1791472949000
-    },
-    {
-      "title": "Crypto for Advisors: Digital assets outran stocks and gold in Q3",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
-      "pubDate": 1791472275000
-    },
-    {
-      "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
-      "pubDate": 1791472249000
-    },
-    {
-      "title": "‘Bunker mode’ is a far greater challenge for institutions than individual crypto holders",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders",
-      "pubDate": 1791470388000
-    },
-    {
-      "title": "Cardano Foundation spins out Veridian, tokenizes its shares on new standard",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
-      "pubDate": 1791469464000
-    },
-    {
-      "title": "Over 6 million bitcoin sit behind exposed public keys as AI warnings mount",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount",
-      "pubDate": 1791468200000
-    },
-    {
-      "title": "Why Bitcoin’s Liquidity Advantage Matters as Institutions Move In",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/why-bitcoins-liquidity-advantage-matters-as-institutions-move-in",
-      "pubDate": 1791467379000
-    },
-    {
-      "title": "Shawn Owen: Bitcoin’s First Institutional Cycle Has Arrived",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/shawn-owen-bitcoins-first-institutional-cycle-has-arrived",
-      "pubDate": 1791467219000
-    },
-    {
-      "title": "‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791466947000
-    },
-    {
-      "title": "Josh Young: “Massive” Currency Debasement to Come From Oil’s Run Higher",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/josh-young-massive-currency-debasement-to-come-from-oils-run-higher",
-      "pubDate": 1791466775000
-    },
-    {
-      "title": "Crypto lending rises again… but have they solved the risks?",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791466200000
-    },
-    {
-      "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
-      "pubDate": 1791464784000
-    },
-    {
-      "title": "EU lawmakers push crypto onto anti-corruption agenda",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791464061000
-    },
-    {
-      "title": "AI Video Game Mod Mashups Are Taking Off—Here Are the Wackiest Examples",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380407/ai-video-game-mod-mashups-are-taking-off-here-are-the-wackiest-examples",
-      "pubDate": 1791461751000
-    },
-    {
-      "title": "Sui’s Hashi to launch with $500M in Bitcoin finance commitments",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791461008000
-    },
-    {
-      "title": "Morning Minute: AI Could Break Crypto Encryption Before Quantum, Says Ethereum Researcher",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380402/morning-minute-ethereum-researcher-says-ai-may-break-crypto-encryption-before-quantum",
-      "pubDate": 1791460093000
-    },
-    {
-      "title": "Bitcoin and ether holders urged to enter ‘bunker mode’ against possible AI attacks",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
-      "pubDate": 1791460036000
-    },
-    {
-      "title": "Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380401/uranium-finance-hacker-who-bought-pokemon-and-magic-cards-convicted-over-50m-theft",
-      "pubDate": 1791459437000
-    },
-    {
-      "title": "NUVA brings U.S. residential mortgage credit to offshore investors",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
-      "pubDate": 1791459385000
-    },
-    {
-      "title": "Bitcoin mined for pennies in 2010 moves after 16 years, now worth $8.5 million",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/08/bitcoin-mined-for-pennies-in-2010-moves-after-16-years-now-worth-usd8-5-million",
-      "pubDate": 1791459019000
-    },
-    {
-      "title": "Bitcoin ETF investors head for the exit, and it's the biggest rush in months",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months",
-      "pubDate": 1791458100000
-    },
-    {
-      "title": "US government moves $770M of seized Bitcoin to Coinbase Prime",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/us-government-moves-770m-seized-bitcoin-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791457416000
     }
   ]
 }
