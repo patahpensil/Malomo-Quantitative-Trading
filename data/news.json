@@ -1,7 +1,133 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791553246769,
+  "generatedAt": 1791573931958,
   "articles": [
+    {
+      "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791572643000
+    },
+    {
+      "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
+      "pubDate": 1791571563000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791570611000
+    },
+    {
+      "title": "Robinhood Chain considers technology that gives paying traders priority",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
+      "pubDate": 1791569460000
+    },
+    {
+      "title": "Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives",
+      "pubDate": 1791569163000
+    },
+    {
+      "title": "Bitcoin Rebounds After Rough Week, But Traders Are Pricing In More Downside",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380599/bitcoin-rebounds-traders-predict-more-downside",
+      "pubDate": 1791567386000
+    },
+    {
+      "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791566467000
+    },
+    {
+      "title": "Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-etfs-shed-729-million-in-two-days",
+      "pubDate": 1791565876000
+    },
+    {
+      "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791565367000
+    },
+    {
+      "title": "Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/ledger-warns-users-after-losses-reported",
+      "pubDate": 1791564225000
+    },
+    {
+      "title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
+      "pubDate": 1791563763000
+    },
+    {
+      "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791562965000
+    },
+    {
+      "title": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
+      "pubDate": 1791562103000
+    },
+    {
+      "title": "New York AG Secures Up to $35M and Industry Ban From Ex-Celsius CEO Alex Mashinsky",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
+      "pubDate": 1791562027000
+    },
+    {
+      "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791561113000
+    },
+    {
+      "title": "Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller",
+      "pubDate": 1791559836000
+    },
+    {
+      "title": "Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791559236000
+    },
+    {
+      "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
+      "pubDate": 1791557723000
+    },
+    {
+      "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
+      "pubDate": 1791557247000
+    },
+    {
+      "title": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791553762000
+    },
+    {
+      "title": "UTXO’s Loren Asmus: The $300T Bond Market Is Bitcoin’s Next Frontier",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/utxos-loren-asmus-the-300t-bond-market-is-bitcoins-next-frontier",
+      "pubDate": 1791553489000
+    },
     {
       "title": "Bitcoin Core developer responds to AI & Quantum Risk",
       "source": "Bitcoin Magazine",
@@ -141,7 +267,7 @@
       "pubDate": 1791531284000
     },
     {
-      "title": "Live updates: Bitcoin climbs back above $83,000; XRP ETFs only crypto funds with inflows Thursday",
+      "title": "Live updates: Bitcoin slips from day's highs, set to close week with a loss",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
       "pubDate": 1791528692000
@@ -151,12 +277,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
       "pubDate": 1791528054000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791524283000
     },
     {
       "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
@@ -241,126 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
       "pubDate": 1791488775000
-    },
-    {
-      "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791487898000
-    },
-    {
-      "title": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
-      "pubDate": 1791487863000
-    },
-    {
-      "title": "NFL backs New Jersey authorities in SCOTUS petition over Kalshi",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791487038000
-    },
-    {
-      "title": "AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/ai-coding-agents-drive-bitcoin-integration",
-      "pubDate": 1791487032000
-    },
-    {
-      "title": "WhiteBIT Integrates Lightning Network for Fast and Cheap Bitcoin Transactions",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/whitebit-integrates-lightning-network",
-      "pubDate": 1791486607000
-    },
-    {
-      "title": "Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380514/satoshi-era-bitcoin-mined-2010-moves-16-years",
-      "pubDate": 1791485164000
-    },
-    {
-      "title": "Greece Plans Crypto Capital Gains Tax: Report",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/greece-plans-crypto-capital-gains",
-      "pubDate": 1791484779000
-    },
-    {
-      "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791483455000
-    },
-    {
-      "title": "Solana DeFi Firms Orca and Loopscale Merge Under New Formation Brand",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand",
-      "pubDate": 1791483365000
-    },
-    {
-      "title": "Crypto crumbles as anniversary of flash crash nears",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
-      "pubDate": 1791483279000
-    },
-    {
-      "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
-      "pubDate": 1791482801000
-    },
-    {
-      "title": "Bitcoin ETFs Suffer Worst Loss Since June as Uptober Turns Red",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red",
-      "pubDate": 1791481565000
-    },
-    {
-      "title": "Bitcoin Falls Below $81,000 as Oil Spikes, Fed Talks Tough",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-slide-continues-below-81000",
-      "pubDate": 1791479698000
-    },
-    {
-      "title": "Will AI Break Crypto Encryption? Ethereum’s Vitalik Buterin Weighs In on 'Bunker Mode' Shift",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode",
-      "pubDate": 1791479268000
-    },
-    {
-      "title": "EDX Markets and VerifiedX Partner to Bring Verified Bitcoin (vBTC) to Institutional Markets",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/business/edx-markets-and-verifiedx-partner-to-bring-verified-bitcoin-vbtc-to-institutional-markets",
-      "pubDate": 1791478432000
-    },
-    {
-      "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
-      "pubDate": 1791477860000
-    },
-    {
-      "title": "IMF warns tokenized markets could amplify financial risks",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791476706000
-    },
-    {
-      "title": "From Uptober to Spooky Szn? Bitcoin Cuts September Gains in Half",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380462/uptober-spooky-szn-bitcoin-cuts-september-gains",
-      "pubDate": 1791476086000
-    },
-    {
-      "title": "Bitcoin nears 3-week low as oil heads higher on Iran strike woes",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791474955000
-    },
-    {
-      "title": "Standard Chartered to Offer Digital Asset Custody in Singapore",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/standard-chartered-singapore-custody-plans",
-      "pubDate": 1791474365000
     }
   ]
 }
