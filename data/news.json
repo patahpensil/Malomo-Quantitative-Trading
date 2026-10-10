@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791588353940,
+  "generatedAt": 1791599891775,
   "articles": [
+    {
+      "title": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million",
+      "pubDate": 1791593589000
+    },
     {
       "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
       "source": "CoinDesk",
@@ -355,12 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1791515331000
-    },
-    {
-      "title": "Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791506787000
     }
   ]
 }
