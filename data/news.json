@@ -1,7 +1,49 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791625316861,
+  "generatedAt": 1791647376408,
   "articles": [
+    {
+      "title": "Here’s a Way to Predict When AI Chatbots Will Turn Bad",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad",
+      "pubDate": 1791644463000
+    },
+    {
+      "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+      "pubDate": 1791637263000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791635400000
+    },
+    {
+      "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+      "pubDate": 1791633600000
+    },
+    {
+      "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+      "pubDate": 1791633600000
+    },
+    {
+      "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791633134000
+    },
+    {
+      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+      "pubDate": 1791630000000
+    },
     {
       "title": "Tech chief says EU can fend off rogue AI risk: Report",
       "source": "Cointelegraph",
@@ -91,12 +133,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
       "pubDate": 1791571563000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791570611000
     },
     {
       "title": "Robinhood Chain considers technology that gives paying traders priority",
@@ -325,42 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
       "pubDate": 1791536889000
-    },
-    {
-      "title": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
-      "pubDate": 1791536760000
-    },
-    {
-      "title": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
-      "pubDate": 1791536371000
-    },
-    {
-      "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791531284000
-    },
-    {
-      "title": "Live updates: Bitcoin slips from day's highs, set to close week with a loss",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
-      "pubDate": 1791528692000
-    },
-    {
-      "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
-      "pubDate": 1791528054000
-    },
-    {
-      "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791524073000
     }
   ]
 }
