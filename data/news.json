@@ -1,7 +1,43 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791732753753,
+  "generatedAt": 1791747602580,
   "articles": [
+    {
+      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+      "pubDate": 1791743400000
+    },
+    {
+      "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
+      "pubDate": 1791738663000
+    },
+    {
+      "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791738660000
+    },
+    {
+      "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
+      "pubDate": 1791734463000
+    },
+    {
+      "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+      "pubDate": 1791734400000
+    },
+    {
+      "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
+      "pubDate": 1791733247000
+    },
     {
       "title": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
       "source": "Decrypt",
@@ -18,13 +54,13 @@
       "title": "Here’s what happened in crypto today",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791722700000
+      "pubDate": 1791723540000
     },
     {
       "title": "Coldcard says it’s investigating how phishing link appeared on its X account",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791714164000
+      "pubDate": 1791715200000
     },
     {
       "title": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
@@ -325,42 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
       "pubDate": 1791547447000
-    },
-    {
-      "title": "Morning Minute: Uptober Turns Sour as Crypto Majors Slide",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380569/morning-minute-uptober-turns-sour-as-crypto-majors-slide",
-      "pubDate": 1791546075000
-    },
-    {
-      "title": "Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
-      "pubDate": 1791545945000
-    },
-    {
-      "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
-      "pubDate": 1791544144000
-    },
-    {
-      "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791542964000
-    },
-    {
-      "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
-      "pubDate": 1791542662000
-    },
-    {
-      "title": "UK sanctions three crypto exchanges tied to Russian illicit funds",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791542077000
     }
   ]
 }
