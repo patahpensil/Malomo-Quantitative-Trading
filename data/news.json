@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791747602580,
+  "generatedAt": 1791761652343,
   "articles": [
+    {
+      "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791759473000
+    },
     {
       "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
       "source": "CoinDesk",
@@ -201,7 +207,7 @@
       "pubDate": 1791575221000
     },
     {
-      "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
+      "title": "THORChain dev accuses Tether of temporarily freezing USDT vaults",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1791572643000
@@ -355,12 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
       "pubDate": 1791548634000
-    },
-    {
-      "title": "UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
-      "pubDate": 1791547447000
     }
   ]
 }
