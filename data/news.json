@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791684397720,
+  "generatedAt": 1791708146764,
   "articles": [
+    {
+      "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791704691000
+    },
     {
       "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
       "source": "Decrypt",
@@ -355,12 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
       "pubDate": 1791540711000
-    },
-    {
-      "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791539401000
     }
   ]
 }
