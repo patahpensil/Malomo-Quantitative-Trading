@@ -1,12 +1,42 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791708146764,
+  "generatedAt": 1791732753753,
   "articles": [
+    {
+      "title": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
+      "pubDate": 1791723603000
+    },
+    {
+      "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+      "pubDate": 1791723600000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791722700000
+    },
+    {
+      "title": "Coldcard says it’s investigating how phishing link appeared on its X account",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791714164000
+    },
+    {
+      "title": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791709500000
+    },
     {
       "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791704691000
+      "pubDate": 1791705000000
     },
     {
       "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
@@ -31,12 +61,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
       "pubDate": 1791637263000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791635400000
     },
     {
       "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
@@ -66,7 +90,7 @@
       "title": "Tech chief says EU can fend off rogue AI risk: Report",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791621666000
+      "pubDate": 1791621900000
     },
     {
       "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
@@ -337,30 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1791542077000
-    },
-    {
-      "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-      "pubDate": 1791541015000
-    },
-    {
-      "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791541008000
-    },
-    {
-      "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
-      "pubDate": 1791540899000
-    },
-    {
-      "title": "Empire Market Co-Creator Sentenced to 40 Years Over $430M Dark Web Bazaar",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
-      "pubDate": 1791540711000
     }
   ]
 }
