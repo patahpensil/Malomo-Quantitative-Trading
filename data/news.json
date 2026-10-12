@@ -1,7 +1,67 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791772615334,
+  "generatedAt": 1791798153511,
   "articles": [
+    {
+      "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791797457000
+    },
+    {
+      "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
+      "pubDate": 1791795504000
+    },
+    {
+      "title": "South Korean bank launches Bitcoin-backed business loans: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791794758000
+    },
+    {
+      "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
+      "pubDate": 1791793937000
+    },
+    {
+      "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
+      "pubDate": 1791791380000
+    },
+    {
+      "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791786621000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791784500000
+    },
+    {
+      "title": "DATA Network to migrate to Sui, retire own chain",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791782143000
+    },
+    {
+      "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+      "pubDate": 1791780570000
+    },
+    {
+      "title": "French lawmakers back reporting rule for crypto wallets over $112K",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791780315000
+    },
     {
       "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
       "source": "Cointelegraph",
@@ -61,12 +121,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
       "pubDate": 1791723600000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791723540000
     },
     {
       "title": "Coldcard says it’s investigating how phishing link appeared on its X account",
@@ -273,12 +327,6 @@
       "pubDate": 1791563763000
     },
     {
-      "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791562965000
-    },
-    {
       "title": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
       "source": "Decrypt",
       "link": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
@@ -291,22 +339,10 @@
       "pubDate": 1791562027000
     },
     {
-      "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791561113000
-    },
-    {
       "title": "Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller",
       "source": "Decrypt",
       "link": "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller",
       "pubDate": 1791559836000
-    },
-    {
-      "title": "Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791559236000
     },
     {
       "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
@@ -321,46 +357,10 @@
       "pubDate": 1791557247000
     },
     {
-      "title": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791553762000
-    },
-    {
       "title": "UTXO’s Loren Asmus: The $300T Bond Market Is Bitcoin’s Next Frontier",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/videos/utxos-loren-asmus-the-300t-bond-market-is-bitcoins-next-frontier",
       "pubDate": 1791553489000
-    },
-    {
-      "title": "Bitcoin Core developer responds to AI & Quantum Risk",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk",
-      "pubDate": 1791553118000
-    },
-    {
-      "title": "Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury",
-      "pubDate": 1791552789000
-    },
-    {
-      "title": "France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791552600000
-    },
-    {
-      "title": "Calamos Investments CEO John Koudounis: Bitcoin Will Hit $1M by 2030",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/calamos-investments-ceo-john-koudounis-bitcoin-will-hit-1m-by-2030",
-      "pubDate": 1791552490000
-    },
-    {
-      "title": "Bitcoin Bleeds in Uptober—How Low Can It Go? Experts Weigh In",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380574/bitcoin-bleeds-in-uptober-how-low-can-it-go-experts-weigh-in",
-      "pubDate": 1791552012000
     }
   ]
 }
