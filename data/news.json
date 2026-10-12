@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791761652343,
+  "generatedAt": 1791772615334,
   "articles": [
+    {
+      "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791768089000
+    },
     {
       "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
       "source": "Cointelegraph",
@@ -355,12 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/380574/bitcoin-bleeds-in-uptober-how-low-can-it-go-experts-weigh-in",
       "pubDate": 1791552012000
-    },
-    {
-      "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
-      "pubDate": 1791548634000
     }
   ]
 }
