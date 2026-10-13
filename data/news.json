@@ -1,7 +1,55 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791834303080,
+  "generatedAt": 1791856655839,
   "articles": [
+    {
+      "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791852772000
+    },
+    {
+      "title": "Moscow Exchange to Launch Bitcoin Trading, Testing Underway",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/moscow-exchange-to-debut-bitcoin-trading",
+      "pubDate": 1791843039000
+    },
+    {
+      "title": "South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/south-korea-bank-offers-bitcoin-loans",
+      "pubDate": 1791842796000
+    },
+    {
+      "title": "AI Will Hit 40% of Jobs, IMF Warns. Young People Are First in Line",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380789/ai-hit-40-percent-jobs-imf-warns-young-people-first",
+      "pubDate": 1791841563000
+    },
+    {
+      "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
+      "pubDate": 1791839763000
+    },
+    {
+      "title": "FTX’s crypto mining venture is now used to advance AI",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791839486000
+    },
+    {
+      "title": "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380768/meta-muse-wonder-zuckerberg-frontier-ai-race",
+      "pubDate": 1791837964000
+    },
+    {
+      "title": "From GTA V on iPhone to Free Photoshop: This AI Tool Is Upending Software",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380741/gta-v-iphone-free-photoshop-ai-tool-rea-upending-software",
+      "pubDate": 1791834363000
+    },
     {
       "title": "Bitcoin Extends Slide — Can ‘Uptober’ 2026 Beat Last Year’s?",
       "source": "Bitcoin Magazine",
@@ -81,7 +129,7 @@
       "pubDate": 1791820864000
     },
     {
-      "title": "Strategy Smash Buys $21.5M in Bitcoin as It Continues BTC Accumulation",
+      "title": "Strategy Smash Buys $21.5M in BTC as It Continues Bitcoin Accumulation",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/strategy-smash-buys-21-5m-in-bitcoin",
       "pubDate": 1791820619000
@@ -303,12 +351,6 @@
       "pubDate": 1791738663000
     },
     {
-      "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791738660000
-    },
-    {
       "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
       "source": "Decrypt",
       "link": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
@@ -319,48 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
       "pubDate": 1791734400000
-    },
-    {
-      "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
-      "pubDate": 1791733247000
-    },
-    {
-      "title": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
-      "pubDate": 1791723603000
-    },
-    {
-      "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
-      "pubDate": 1791723600000
-    },
-    {
-      "title": "Coldcard says it’s investigating how phishing link appeared on its X account",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791715200000
-    },
-    {
-      "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
-      "pubDate": 1791651663000
-    },
-    {
-      "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
-      "pubDate": 1791648064000
-    },
-    {
-      "title": "Here’s a Way to Predict When AI Chatbots Will Turn Bad",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad",
-      "pubDate": 1791644463000
     }
   ]
 }
