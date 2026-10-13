@@ -1,7 +1,79 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791856655839,
+  "generatedAt": 1791882993463,
   "articles": [
+    {
+      "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380802/nft-marketplace-blur-to-shut-down-website-stop-new-blend-loans-next-month",
+      "pubDate": 1791882765000
+    },
+    {
+      "title": "Chinese fraud victims lose key court battle over 61,000 Bitcoin",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791882186000
+    },
+    {
+      "title": "Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791881110000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791870691000
+    },
+    {
+      "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
+      "pubDate": 1791870310000
+    },
+    {
+      "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791869917000
+    },
+    {
+      "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
+      "pubDate": 1791869237000
+    },
+    {
+      "title": "Binance to shut down crypto mining pool services in November",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791869006000
+    },
+    {
+      "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
+      "pubDate": 1791866598000
+    },
+    {
+      "title": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
+      "pubDate": 1791865100000
+    },
+    {
+      "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791859290000
+    },
+    {
+      "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791856471000
+    },
     {
       "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
       "source": "Cointelegraph",
@@ -55,12 +127,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/markets/bitcoin-slides-how-will-uptober-2026-fare",
       "pubDate": 1791834198000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791833173000
     },
     {
       "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
@@ -285,12 +351,6 @@
       "pubDate": 1791795504000
     },
     {
-      "title": "South Korean bank launches Bitcoin-backed business loans: Report",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791794758000
-    },
-    {
       "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
@@ -301,66 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
       "pubDate": 1791791380000
-    },
-    {
-      "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791786621000
-    },
-    {
-      "title": "DATA Network to migrate to Sui, retire own chain",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791782143000
-    },
-    {
-      "title": "Bitcoin pulls back from $84,000 as oil recovers, ETFs bleed over $600 million",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
-      "pubDate": 1791780570000
-    },
-    {
-      "title": "French lawmakers back reporting rule for crypto wallets over $112K",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791780315000
-    },
-    {
-      "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791768089000
-    },
-    {
-      "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791759473000
-    },
-    {
-      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
-      "pubDate": 1791743400000
-    },
-    {
-      "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
-      "pubDate": 1791738663000
-    },
-    {
-      "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
-      "pubDate": 1791734463000
-    },
-    {
-      "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
-      "pubDate": 1791734400000
     }
   ]
 }
