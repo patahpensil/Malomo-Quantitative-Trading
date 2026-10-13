@@ -1,7 +1,217 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791882993463,
+  "generatedAt": 1791911129581,
   "articles": [
+    {
+      "title": "How the SEC’s lack of leadership could facilitate crypto rulemaking",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791910285000
+    },
+    {
+      "title": "Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380842/bitcoin-shakes-off-spooky-season-jitters",
+      "pubDate": 1791909965000
+    },
+    {
+      "title": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
+      "pubDate": 1791908090000
+    },
+    {
+      "title": "Trezor Reduces Number of Resellers Following Ledger Drainage Incident",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/trezor-reduces-resellers-after-ledger-mess",
+      "pubDate": 1791907263000
+    },
+    {
+      "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791907075000
+    },
+    {
+      "title": "Crypto exchange MNX takes on OKX, BitGet offering pre-IPO futures for AI giants",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
+      "pubDate": 1791906729000
+    },
+    {
+      "title": "Strive Buys More Bitcoin, Crosses 30,000 BTC Mark",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/strive-buys-more-bitcoin-to-hit-30000-btc",
+      "pubDate": 1791906494000
+    },
+    {
+      "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791905252000
+    },
+    {
+      "title": "UK crypto trader says almost $800,000 lost in knife attack as wrench attacks proliferate",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
+      "pubDate": 1791905092000
+    },
+    {
+      "title": "AI Powered PlayStation Crack Could Let You Play GTA 6 on PC at Launch",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380833/ai-powered-playstation-crack-could-let-you-play-gta-6-on-pc-at-launch",
+      "pubDate": 1791903088000
+    },
+    {
+      "title": "Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791899709000
+    },
+    {
+      "title": "Is Bitcoin kidding itself about the Lightning Network?",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791898200000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791898002000
+    },
+    {
+      "title": "Alex Gladstein: How The Bitcoin-AI Convergence Impacts the Fight for Freedom",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/alex-gladstein-how-the-bitcoin-ai-convergence-impacts-the-fight-for-freedom",
+      "pubDate": 1791897883000
+    },
+    {
+      "title": "Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bis-digital-cash-privacy-bank-data-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791897437000
+    },
+    {
+      "title": "Matt Dines: Why a Rising Dollar is Bullish for Bitcoin",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/matt-dines-why-a-rising-dollar-is-bullish-for-bitcoin",
+      "pubDate": 1791897423000
+    },
+    {
+      "title": "Russia clears Sberbank for crypto trading ahead of December launch",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791894144000
+    },
+    {
+      "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
+      "pubDate": 1791892684000
+    },
+    {
+      "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+      "pubDate": 1791892564000
+    },
+    {
+      "title": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
+      "pubDate": 1791892395000
+    },
+    {
+      "title": "Morning Minute: Bitcoin Gets Spooked as ‘Uptober’ Lets Down",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380828/morning-minute-bitcoin-gets-spooked-as-uptober-lets-down",
+      "pubDate": 1791891651000
+    },
+    {
+      "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
+      "pubDate": 1791890805000
+    },
+    {
+      "title": "ENS seeks DAO approval to activate upgraded Ethereum naming system",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791889887000
+    },
+    {
+      "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
+      "pubDate": 1791889599000
+    },
+    {
+      "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
+      "pubDate": 1791889367000
+    },
+    {
+      "title": "Now Accepting Bitcoin: Moonflower Coffee and 300+ Colorado Bitcoin Merchants",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/culture/moonflower-colorado-bitcoin-merchants",
+      "pubDate": 1791889200000
+    },
+    {
+      "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling",
+      "pubDate": 1791888693000
+    },
+    {
+      "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
+      "pubDate": 1791888417000
+    },
+    {
+      "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
+      "pubDate": 1791887931000
+    },
+    {
+      "title": "‘Leave’: Crypto Backlash Over French Proposal to Report Wallets Over $112K",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k",
+      "pubDate": 1791887437000
+    },
+    {
+      "title": "Metaplanet to issue $329M convertible bonds to pay debt, fund share buybacks",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791886987000
+    },
+    {
+      "title": "MediaMarktSaturn pulls Ledger products amid tampering reports",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791886141000
+    },
+    {
+      "title": "Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791884520000
+    },
+    {
+      "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
+      "pubDate": 1791883667000
+    },
+    {
+      "title": "UK court ruling boosts government’s chances of keeping $5 billion in seized bitcoin",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
+      "pubDate": 1791883503000
+    },
     {
       "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
       "source": "Decrypt",
@@ -19,12 +229,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1791881110000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791870691000
     },
     {
       "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
@@ -57,7 +261,7 @@
       "pubDate": 1791866598000
     },
     {
-      "title": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
+      "title": "Bitcoin rebounds above $83,000, decoupling from tumbling Korean stocks",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
       "pubDate": 1791865100000
@@ -135,18 +339,6 @@
       "pubDate": 1791832050000
     },
     {
-      "title": "Crypto PACs report $2.7M spending blitz on House races as midterms loom",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791831349000
-    },
-    {
-      "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791830294000
-    },
-    {
       "title": "Ripple-Backed Evernorth Hits Nasdaq Holding 473 Million XRP Worth Far Less Than It Paid",
       "source": "Decrypt",
       "link": "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp",
@@ -159,12 +351,6 @@
       "pubDate": 1791825573000
     },
     {
-      "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791823865000
-    },
-    {
       "title": "Bitcoin Spooked? Crypto Fear and Greed Index Drops to Pre-Rally August Lows",
       "source": "Decrypt",
       "link": "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops",
@@ -175,192 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
       "pubDate": 1791822737000
-    },
-    {
-      "title": "Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791822621000
-    },
-    {
-      "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet",
-      "pubDate": 1791821883000
-    },
-    {
-      "title": "NEXTPredict Paid $12,000 to Hedge Its Conference on a Prediction Market",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380484/nextpredict-paid-12000-to-hedge-its-conference-on-a-prediction-market",
-      "pubDate": 1791820864000
-    },
-    {
-      "title": "Strategy Smash Buys $21.5M in BTC as It Continues Bitcoin Accumulation",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/strategy-smash-buys-21-5m-in-bitcoin",
-      "pubDate": 1791820619000
-    },
-    {
-      "title": "XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding",
-      "pubDate": 1791820595000
-    },
-    {
-      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
-      "pubDate": 1791818829000
-    },
-    {
-      "title": "Congressman Warren Davidson: The Future of Money Will Decide Western Civilization",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/congressman-warren-davidson-the-future-of-money-will-decide-western-civilization",
-      "pubDate": 1791818742000
-    },
-    {
-      "title": "Ark Invest’s Lorenzo Valente: Bitcoin’s 5-Year Forecast – Stablecoin & Gold Impacts",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/ark-invests-lorenzo-valente-bitcoins-5-year-forecast-stablecoin-gold-impacts",
-      "pubDate": 1791817873000
-    },
-    {
-      "title": "Willem Middelkoop: Bitcoin is the Fastest Horse – Why the Debasement Trade Takes it to $1M",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/willem-middelkoop-bitcoin-is-the-fastest-horse-why-the-debasement-trade-takes-it-to-1m",
-      "pubDate": 1791817228000
-    },
-    {
-      "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
-      "pubDate": 1791817200000
-    },
-    {
-      "title": "XRP treasury Evernorth’s shares rise 5% at Nasdaq opening print",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/xrp-treasury-evernorth-rise-nasdaq-opening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791814729000
-    },
-    {
-      "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791814020000
-    },
-    {
-      "title": "Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking'",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380685/bitmine-adds-32m-in-ethereum-as-tom-lee-says-firm-is-nearly-done-stacking",
-      "pubDate": 1791812008000
-    },
-    {
-      "title": "Strategy Scoops Up $21.5M in Bitcoin, Buys Back $192M in STRC",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380677/strategy-scoops-up-21-5m-in-bitcoin-buys-back-192m-in-strc",
-      "pubDate": 1791808775000
-    },
-    {
-      "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791808311000
-    },
-    {
-      "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
-      "pubDate": 1791806949000
-    },
-    {
-      "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
-      "pubDate": 1791806513000
-    },
-    {
-      "title": "Australia proposes leverage caps for crypto-settled derivatives",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791805318000
-    },
-    {
-      "title": "Bitcoin Ranges Near $83K as Traders Look to US Inflation Data",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380669/bitcoin-ranges-near-83k-as-traders-look-to-us-inflation-data",
-      "pubDate": 1791805310000
-    },
-    {
-      "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
-      "pubDate": 1791804071000
-    },
-    {
-      "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791803650000
-    },
-    {
-      "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
-      "pubDate": 1791802958000
-    },
-    {
-      "title": "South Korea just got its first traditional bank loans backed by bitcoin",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
-      "pubDate": 1791802657000
-    },
-    {
-      "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
-      "pubDate": 1791800820000
-    },
-    {
-      "title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
-      "pubDate": 1791800454000
-    },
-    {
-      "title": "UK Freezes $12M London Penthouse of Alleged Prince Group Finance Chief",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380661/uk-freezes-12m-london-penthouse-of-alleged-prince-group-finance-chief",
-      "pubDate": 1791799968000
-    },
-    {
-      "title": "Kraken parent clears Dubai’s final hurdle for dirham trading rollout",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791798077000
-    },
-    {
-      "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791797457000
-    },
-    {
-      "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
-      "pubDate": 1791795504000
-    },
-    {
-      "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
-      "pubDate": 1791793937000
-    },
-    {
-      "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
-      "pubDate": 1791791380000
     }
   ]
 }
