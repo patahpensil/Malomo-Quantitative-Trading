@@ -1,7 +1,67 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791911129581,
+  "generatedAt": 1791928079423,
   "articles": [
+    {
+      "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
+      "pubDate": 1791927964000
+    },
+    {
+      "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380894/character-ai-bankruptcy-disney-users-grief-resources",
+      "pubDate": 1791926164000
+    },
+    {
+      "title": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
+      "pubDate": 1791922563000
+    },
+    {
+      "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791920886000
+    },
+    {
+      "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
+      "pubDate": 1791920292000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791920037000
+    },
+    {
+      "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791918424000
+    },
+    {
+      "title": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
+      "pubDate": 1791915305000
+    },
+    {
+      "title": "AI Researchers Are Smoking Cigarettes to Prove AI Will Cure Cancer, Says Palantir Exec",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380857/ai-researchers-smoking-cigarettes-prove-ai-cure-cancer",
+      "pubDate": 1791913066000
+    },
+    {
+      "title": "The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent?",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/amount-of-bitcoin-exchanges-is-shrinking",
+      "pubDate": 1791911139000
+    },
     {
       "title": "How the SEC’s lack of leadership could facilitate crypto rulemaking",
       "source": "Cointelegraph",
@@ -33,7 +93,7 @@
       "pubDate": 1791907075000
     },
     {
-      "title": "Crypto exchange MNX takes on OKX, BitGet offering pre-IPO futures for AI giants",
+      "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
       "pubDate": 1791906729000
@@ -51,7 +111,7 @@
       "pubDate": 1791905252000
     },
     {
-      "title": "UK crypto trader says almost $800,000 lost in knife attack as wrench attacks proliferate",
+      "title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
       "pubDate": 1791905092000
@@ -73,12 +133,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1791898200000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791898002000
     },
     {
       "title": "Alex Gladstein: How The Bitcoin-AI Convergence Impacts the Fight for Freedom",
@@ -279,12 +333,6 @@
       "pubDate": 1791856471000
     },
     {
-      "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791852772000
-    },
-    {
       "title": "Moscow Exchange to Launch Bitcoin Trading, Testing Underway",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/moscow-exchange-to-debut-bitcoin-trading",
@@ -309,58 +357,10 @@
       "pubDate": 1791839763000
     },
     {
-      "title": "FTX’s crypto mining venture is now used to advance AI",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791839486000
-    },
-    {
       "title": "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
       "source": "Decrypt",
       "link": "https://decrypt.co/380768/meta-muse-wonder-zuckerberg-frontier-ai-race",
       "pubDate": 1791837964000
-    },
-    {
-      "title": "From GTA V on iPhone to Free Photoshop: This AI Tool Is Upending Software",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380741/gta-v-iphone-free-photoshop-ai-tool-rea-upending-software",
-      "pubDate": 1791834363000
-    },
-    {
-      "title": "Bitcoin Extends Slide — Can ‘Uptober’ 2026 Beat Last Year’s?",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-slides-how-will-uptober-2026-fare",
-      "pubDate": 1791834198000
-    },
-    {
-      "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380752/solana-treasury-firm-defi-development-keeps-buying-sol",
-      "pubDate": 1791832050000
-    },
-    {
-      "title": "Ripple-Backed Evernorth Hits Nasdaq Holding 473 Million XRP Worth Far Less Than It Paid",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp",
-      "pubDate": 1791828555000
-    },
-    {
-      "title": "Ledger Investigates Fund Losses Tied to Southeast Asian Reseller After Implant Found in Device",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/ledger-investigates-fund-losses",
-      "pubDate": 1791825573000
-    },
-    {
-      "title": "Bitcoin Spooked? Crypto Fear and Greed Index Drops to Pre-Rally August Lows",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops",
-      "pubDate": 1791823294000
-    },
-    {
-      "title": "Ledger Says All Confirmed Cases in Suspected $87M Drain Tied to Reseller CryptoBilis",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
-      "pubDate": 1791822737000
     }
   ]
 }
