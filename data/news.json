@@ -1,7 +1,55 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791939877273,
+  "generatedAt": 1791957732576,
   "articles": [
+    {
+      "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+      "pubDate": 1791956691000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791956152000
+    },
+    {
+      "title": "Starknet introduces wallet privacy feature for DeFi activity",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791955934000
+    },
+    {
+      "title": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791955810000
+    },
+    {
+      "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
+      "pubDate": 1791955452000
+    },
+    {
+      "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+      "pubDate": 1791951076000
+    },
+    {
+      "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+      "pubDate": 1791949854000
+    },
+    {
+      "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791944396000
+    },
     {
       "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
       "source": "CoinDesk",
@@ -67,12 +115,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
       "pubDate": 1791920292000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791920037000
     },
     {
       "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
@@ -319,48 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1791881110000
-    },
-    {
-      "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
-      "pubDate": 1791870310000
-    },
-    {
-      "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791869917000
-    },
-    {
-      "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
-      "pubDate": 1791869237000
-    },
-    {
-      "title": "Binance to shut down crypto mining pool services in November",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791869006000
-    },
-    {
-      "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
-      "pubDate": 1791866598000
-    },
-    {
-      "title": "Bitcoin rebounds above $83,000, decoupling from tumbling Korean stocks",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
-      "pubDate": 1791865100000
-    },
-    {
-      "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791859290000
     }
   ]
 }
