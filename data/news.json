@@ -1,7 +1,55 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791997263798,
+  "generatedAt": 1792010006475,
   "articles": [
+    {
+      "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
+      "pubDate": 1792008965000
+    },
+    {
+      "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+      "pubDate": 1792007163000
+    },
+    {
+      "title": "Solana Sets a Date for Its Next Major Upgrade",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380974/solana-alpenglow-upgrade-date",
+      "pubDate": 1792005364000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792005204000
+    },
+    {
+      "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792004632000
+    },
+    {
+      "title": "US authorities dismantle crypto scam network that stole tens of millions",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792000605000
+    },
+    {
+      "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
+      "pubDate": 1791999965000
+    },
+    {
+      "title": "OCC report finds debanking efforts tied to crypto activities",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/occ-trump-debanking-crypto-activities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791997400000
+    },
     {
       "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
       "source": "CoinDesk",
@@ -123,12 +171,6 @@
       "pubDate": 1791985281000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791985016000
-    },
-    {
       "title": "‘Bunker mode’ won’t protect your crypto, critics say",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/magazine/bunker-mode-wont-protect-your-crypto-critics-say?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -243,7 +285,7 @@
       "pubDate": 1791971692000
     },
     {
-      "title": "Live updates: Bitcoin tumbles more than 1% after disappointing inflation report",
+      "title": "Live updates: Bitcoin falls back to $82,000 after inflation rises more than forecast",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
       "pubDate": 1791971153000
@@ -319,48 +361,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/quantum-defense-for-bitcoins-lightning",
       "pubDate": 1791931747000
-    },
-    {
-      "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
-      "pubDate": 1791927964000
-    },
-    {
-      "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380894/character-ai-bankruptcy-disney-users-grief-resources",
-      "pubDate": 1791926164000
-    },
-    {
-      "title": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
-      "pubDate": 1791922563000
-    },
-    {
-      "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791920886000
-    },
-    {
-      "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
-      "pubDate": 1791920292000
-    },
-    {
-      "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791918424000
-    },
-    {
-      "title": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
-      "pubDate": 1791915305000
     }
   ]
 }
