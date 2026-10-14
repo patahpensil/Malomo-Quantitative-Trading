@@ -1,7 +1,43 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1791928079423,
+  "generatedAt": 1791939877273,
   "articles": [
+    {
+      "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+      "pubDate": 1791939600000
+    },
+    {
+      "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1791934099000
+    },
+    {
+      "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+      "pubDate": 1791933785000
+    },
+    {
+      "title": "Kraken Parent Payward Wins Full Dubai License, Plans UAE Launch",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/kraken-parent-payward-wins-full-dubai-license-plans-uae-launch",
+      "pubDate": 1791931930000
+    },
+    {
+      "title": "Researchers Build First Working Post-Quantum Defense for Bitcoin’s Lightning Network",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/quantum-defense-for-bitcoins-lightning",
+      "pubDate": 1791931747000
+    },
+    {
+      "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+      "pubDate": 1791928320000
+    },
     {
       "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
       "source": "Decrypt",
@@ -325,42 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1791859290000
-    },
-    {
-      "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791856471000
-    },
-    {
-      "title": "Moscow Exchange to Launch Bitcoin Trading, Testing Underway",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/moscow-exchange-to-debut-bitcoin-trading",
-      "pubDate": 1791843039000
-    },
-    {
-      "title": "South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/south-korea-bank-offers-bitcoin-loans",
-      "pubDate": 1791842796000
-    },
-    {
-      "title": "AI Will Hit 40% of Jobs, IMF Warns. Young People Are First in Line",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380789/ai-hit-40-percent-jobs-imf-warns-young-people-first",
-      "pubDate": 1791841563000
-    },
-    {
-      "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
-      "pubDate": 1791839763000
-    },
-    {
-      "title": "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380768/meta-muse-wonder-zuckerberg-frontier-ai-race",
-      "pubDate": 1791837964000
     }
   ]
 }
