@@ -1,7 +1,31 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792010006475,
+  "generatedAt": 1792020210422,
   "articles": [
+    {
+      "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
+      "pubDate": 1792014364000
+    },
+    {
+      "title": "Russia’s Central Bank Authorizes Sberbank to Exchange Cryptocurrencies",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/russia-central-bank-gives-sberbank-license",
+      "pubDate": 1792013414000
+    },
+    {
+      "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
+      "pubDate": 1792012563000
+    },
+    {
+      "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792011382000
+    },
     {
       "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
       "source": "Decrypt",
@@ -337,30 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
       "pubDate": 1791949854000
-    },
-    {
-      "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791944396000
-    },
-    {
-      "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791934099000
-    },
-    {
-      "title": "Kraken Parent Payward Wins Full Dubai License, Plans UAE Launch",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/kraken-parent-payward-wins-full-dubai-license-plans-uae-launch",
-      "pubDate": 1791931930000
-    },
-    {
-      "title": "Researchers Build First Working Post-Quantum Defense for Bitcoin’s Lightning Network",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/quantum-defense-for-bitcoins-lightning",
-      "pubDate": 1791931747000
     }
   ]
 }
