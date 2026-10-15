@@ -1,7 +1,37 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792098934969,
+  "generatedAt": 1792108000539,
   "articles": [
+    {
+      "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792107259000
+    },
+    {
+      "title": "Brooklyn DA Pulls the Plug on Crypto Scam Network",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/brooklyn-da-pulls-plug-on-crypto-scam",
+      "pubDate": 1792105407000
+    },
+    {
+      "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792104178000
+    },
+    {
+      "title": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba",
+      "pubDate": 1792102563000
+    },
+    {
+      "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks",
+      "pubDate": 1792100764000
+    },
     {
       "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
       "source": "Decrypt",
@@ -297,18 +327,6 @@
       "pubDate": 1792045078000
     },
     {
-      "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792043541000
-    },
-    {
-      "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792040440000
-    },
-    {
       "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
@@ -343,24 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
       "pubDate": 1792012563000
-    },
-    {
-      "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
-      "pubDate": 1792008965000
-    },
-    {
-      "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
-      "pubDate": 1792007163000
-    },
-    {
-      "title": "Solana Sets a Date for Its Next Major Upgrade",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380974/solana-alpenglow-upgrade-date",
-      "pubDate": 1792005364000
     }
   ]
 }
