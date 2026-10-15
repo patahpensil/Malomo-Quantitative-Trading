@@ -1,7 +1,55 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792086181874,
+  "generatedAt": 1792098934969,
   "articles": [
+    {
+      "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
+      "pubDate": 1792096264000
+    },
+    {
+      "title": "Bitcoin’s Volatility Has Fallen Within S&P 500 Ranks, Study Shows",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitcoins-volatility-has-fallen-study-shows",
+      "pubDate": 1792096246000
+    },
+    {
+      "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792095671000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792093047000
+    },
+    {
+      "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
+      "pubDate": 1792091764000
+    },
+    {
+      "title": "At the White House, crypto policy vacancy looms large",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
+      "pubDate": 1792090082000
+    },
+    {
+      "title": "US Hoovers up Bitcoin While the World Runs on Its Digital Dollars: Report",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/us-keeps-buying-bitcoin-chainalysis",
+      "pubDate": 1792088914000
+    },
+    {
+      "title": "BlackRock’s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession",
+      "pubDate": 1792088164000
+    },
     {
       "title": "Google Says AI Isn't Building Itself Yet—Even Though It Writes 75% of the Code",
       "source": "Decrypt",
@@ -117,12 +165,6 @@
       "pubDate": 1792070289000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792070265000
-    },
-    {
       "title": "Zcash Tanks Double Digits After 'Meteoric Rise' Sees Leverage Build Up",
       "source": "Decrypt",
       "link": "https://decrypt.co/381015/zcash-tanks-double-digits-after-meteoric-rise-sees-leverage-build-up",
@@ -189,7 +231,7 @@
       "pubDate": 1792059720000
     },
     {
-      "title": "Live updates: Bitcoin bounces after first fall below $80,000 in one month",
+      "title": "Live updates: Bitcoin bounces back to $82,000 after first fall below $80,000 in one month",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
       "pubDate": 1792059375000
@@ -285,12 +327,6 @@
       "pubDate": 1792036665000
     },
     {
-      "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792034962000
-    },
-    {
       "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
       "source": "Decrypt",
       "link": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
@@ -325,42 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/380974/solana-alpenglow-upgrade-date",
       "pubDate": 1792005364000
-    },
-    {
-      "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
-      "pubDate": 1791999965000
-    },
-    {
-      "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out",
-      "pubDate": 1791995693000
-    },
-    {
-      "title": "Kraken Parent Company Payward to Buy Saldo Bank in European Banking Push",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/kraken-parent-company-to-buy-saldo-bank",
-      "pubDate": 1791995401000
-    },
-    {
-      "title": "Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/standard-chartered-debuts-bitcoin-trading-2",
-      "pubDate": 1791994935000
-    },
-    {
-      "title": "'It Can Take Years': Coinbase Presses for Bitcoin Quantum Migration to Start Now",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380963/coinbase-bitcoin-quantum-migration-start-now",
-      "pubDate": 1791994519000
-    },
-    {
-      "title": "The Undercurrent: Three European Artists on Making Money Visible",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/culture/the-undercurrent-three-european-artists-on-making-money-visible",
-      "pubDate": 1791993751000
     }
   ]
 }
