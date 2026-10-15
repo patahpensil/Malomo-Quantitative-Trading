@@ -1,7 +1,55 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792028649481,
+  "generatedAt": 1792048646364,
   "articles": [
+    {
+      "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai",
+      "pubDate": 1792045078000
+    },
+    {
+      "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792043541000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792043357000
+    },
+    {
+      "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792040440000
+    },
+    {
+      "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+      "pubDate": 1792038315000
+    },
+    {
+      "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
+      "pubDate": 1792037636000
+    },
+    {
+      "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
+      "pubDate": 1792036665000
+    },
+    {
+      "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792034962000
+    },
     {
       "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
       "source": "Cointelegraph",
@@ -55,12 +103,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/380974/solana-alpenglow-upgrade-date",
       "pubDate": 1792005364000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792005204000
     },
     {
       "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
@@ -297,22 +339,10 @@
       "pubDate": 1791973787000
     },
     {
-      "title": "Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791973553000
-    },
-    {
       "title": "Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push",
       "source": "Decrypt",
       "link": "https://decrypt.co/380912/kraken-owner-payward-to-buy-lithuanias-saldo-bank-in-eu-push",
       "pubDate": 1791973294000
-    },
-    {
-      "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791972423000
     },
     {
       "title": "BitMEX Sued in UK for Return of $27M in Bitcoin Over Unlicensed Derivatives",
@@ -331,36 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
       "pubDate": 1791967691000
-    },
-    {
-      "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
-      "pubDate": 1791965407000
-    },
-    {
-      "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
-      "pubDate": 1791956691000
-    },
-    {
-      "title": "Starknet introduces wallet privacy feature for DeFi activity",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791955934000
-    },
-    {
-      "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
-      "pubDate": 1791955452000
-    },
-    {
-      "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
-      "pubDate": 1791951076000
     }
   ]
 }
