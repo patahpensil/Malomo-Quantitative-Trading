@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792020210422,
+  "generatedAt": 1792028649481,
   "articles": [
+    {
+      "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792027312000
+    },
+    {
+      "title": "Polygon gains US payments licenses after closing Coinme deal",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792025721000
+    },
     {
       "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
       "source": "Decrypt",
@@ -339,12 +351,6 @@
       "pubDate": 1791955934000
     },
     {
-      "title": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791955810000
-    },
-    {
       "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
@@ -355,12 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
       "pubDate": 1791951076000
-    },
-    {
-      "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
-      "pubDate": 1791949854000
     }
   ]
 }
