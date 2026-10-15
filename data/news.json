@@ -1,7 +1,127 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792068507059,
+  "generatedAt": 1792086181874,
   "articles": [
+    {
+      "title": "Google Says AI Isn't Building Itself Yet—Even Though It Writes 75% of the Code",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381061/google-deepmind-ai-isnt-building-itself-writes-most-code",
+      "pubDate": 1792085765000
+    },
+    {
+      "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792084485000
+    },
+    {
+      "title": "Sweden revisits digital krona as ECB advances digital euro plans",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792082999000
+    },
+    {
+      "title": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
+      "pubDate": 1792081730000
+    },
+    {
+      "title": "Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/ledger-says-crime-group-spent-millions",
+      "pubDate": 1792079888000
+    },
+    {
+      "title": "Bitcoin Briefly Slides Below $80,000 On More Hot Inflation Data",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-briefly-dips-below-80000",
+      "pubDate": 1792079592000
+    },
+    {
+      "title": "Mastercard brings stablecoin balances into traditional banking and card payments",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792079165000
+    },
+    {
+      "title": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion",
+      "pubDate": 1792077641000
+    },
+    {
+      "title": "Bitcoin slips under $80K after US PPI gains most in four years",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792077044000
+    },
+    {
+      "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
+      "pubDate": 1792076400000
+    },
+    {
+      "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
+      "pubDate": 1792074438000
+    },
+    {
+      "title": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792074163000
+    },
+    {
+      "title": "Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792073815000
+    },
+    {
+      "title": "Latin America’s MSTR: How OranjeBTC is Running the Saylor Playbook in Brazil | Gui Gomes",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/latin-americas-mstr-how-oranjebtc-is-running-the-saylor-playbook-in-brazil-gui-gomes",
+      "pubDate": 1792071258000
+    },
+    {
+      "title": "Ledger Announces Atom Touchscreen Android Device",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381023/ledger-announces-atom-touchscreen-android-device",
+      "pubDate": 1792071141000
+    },
+    {
+      "title": "Can the SEC and CFTC’s pro-crypto rules be overturned? Legal opinion",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792071000000
+    },
+    {
+      "title": "Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/charles-edwards-why-quantum-risk-could-be-massive-btc-upside-catalyst",
+      "pubDate": 1792070928000
+    },
+    {
+      "title": "Wellington-Altus’ James Thorne: Bitcoin “Supercycle” has Begun",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/wellington-altus-james-thorne-bitcoin-supercycle-has-begun",
+      "pubDate": 1792070615000
+    },
+    {
+      "title": "Troy Cross: Number Go Up – The Solution to Bitcoin’s Marketing Problem?",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/troy-cross-number-go-up-the-solution-to-bitcoins-marketing-problem",
+      "pubDate": 1792070289000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792070265000
+    },
     {
       "title": "Zcash Tanks Double Digits After 'Meteoric Rise' Sees Leverage Build Up",
       "source": "Decrypt",
@@ -27,7 +147,7 @@
       "pubDate": 1792066028000
     },
     {
-      "title": "Under pressure Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
+      "title": "Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
       "pubDate": 1792065600000
@@ -51,7 +171,7 @@
       "pubDate": 1792062900000
     },
     {
-      "title": "Bitcoin holds above $80,000 as Asian stock rout drags altcoins lower",
+      "title": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
       "pubDate": 1792061531000
@@ -69,7 +189,7 @@
       "pubDate": 1792059720000
     },
     {
-      "title": "Live updates: Bitcoin trades near $81,000 as South Korea's chip-heavy Kospi continues to plunge",
+      "title": "Live updates: Bitcoin bounces after first fall below $80,000 in one month",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
       "pubDate": 1792059375000
@@ -141,12 +261,6 @@
       "pubDate": 1792043541000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792043357000
-    },
-    {
       "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -177,18 +291,6 @@
       "pubDate": 1792034962000
     },
     {
-      "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792027312000
-    },
-    {
-      "title": "Polygon gains US payments licenses after closing Coinme deal",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792025721000
-    },
-    {
       "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
       "source": "Decrypt",
       "link": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
@@ -205,12 +307,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
       "pubDate": 1792012563000
-    },
-    {
-      "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792011382000
     },
     {
       "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
@@ -231,28 +327,10 @@
       "pubDate": 1792005364000
     },
     {
-      "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792004632000
-    },
-    {
-      "title": "US authorities dismantle crypto scam network that stole tens of millions",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792000605000
-    },
-    {
       "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
       "source": "Decrypt",
       "link": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
       "pubDate": 1791999965000
-    },
-    {
-      "title": "OCC report finds debanking efforts tied to crypto activities",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/occ-trump-debanking-crypto-activities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791997400000
     },
     {
       "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
@@ -265,12 +343,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/kraken-parent-company-to-buy-saldo-bank",
       "pubDate": 1791995401000
-    },
-    {
-      "title": "Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1791995191000
     },
     {
       "title": "Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients",
@@ -289,78 +361,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/culture/the-undercurrent-three-european-artists-on-making-money-visible",
       "pubDate": 1791993751000
-    },
-    {
-      "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
-      "pubDate": 1791992136000
-    },
-    {
-      "title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio",
-      "pubDate": 1791990315000
-    },
-    {
-      "title": "Bitcoin Falls as Hot Inflation Puts a Fed Hike Back on the Table",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380950/bitcoin-falls-hot-inflation-fed-hike-odds",
-      "pubDate": 1791989504000
-    },
-    {
-      "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
-      "pubDate": 1791989372000
-    },
-    {
-      "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
-      "pubDate": 1791988274000
-    },
-    {
-      "title": "Bitcoin Slips Below $83,000 After Hotter-Than-Expected US Inflation Data",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-on-cpi-inflation-data",
-      "pubDate": 1791988222000
-    },
-    {
-      "title": "Capitalism is Broken and Bitcoin is the Great Equalizer | Natalie Brunell",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/capitalism-is-broken-and-bitcoin-is-the-great-equalizer-natalie-brunell",
-      "pubDate": 1791987777000
-    },
-    {
-      "title": "Blue Coin Capital CIO: MSTR’S BTC Buying Engine is About to IGNITE | Mike Treidl",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/blue-coin-capital-cio-mstrs-btc-buying-engine-is-about-to-ignite-mike-treidl",
-      "pubDate": 1791987299000
-    },
-    {
-      "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
-      "pubDate": 1791986923000
-    },
-    {
-      "title": "Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380948/hex-founder-richard-heart-detained-in-istanbul-on-interpol-red-notice-report",
-      "pubDate": 1791986600000
-    },
-    {
-      "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/opinion/2026/10/14/the-battle-over-the-ratepayer-protection-act-is-just-getting-started",
-      "pubDate": 1791985872000
-    },
-    {
-      "title": "Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
-      "pubDate": 1791985664000
     }
   ]
 }
