@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792108000539,
+  "generatedAt": 1792124291798,
   "articles": [
+    {
+      "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
+      "pubDate": 1792124062000
+    },
+    {
+      "title": "MSCI adopts index exclusion rules that could oust Strategy",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792111700000
+    },
     {
       "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
       "source": "Cointelegraph",
@@ -315,12 +327,6 @@
       "pubDate": 1792055668000
     },
     {
-      "title": "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-outflow-btc-below-82k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792049023000
-    },
-    {
       "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai",
@@ -355,12 +361,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/russia-central-bank-gives-sberbank-license",
       "pubDate": 1792013414000
-    },
-    {
-      "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
-      "pubDate": 1792012563000
     }
   ]
 }
