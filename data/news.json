@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792186582933,
+  "generatedAt": 1792194620919,
   "articles": [
+    {
+      "title": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/scammer-lost-bitcoin-to-ledger-thieves",
+      "pubDate": 1792188756000
+    },
     {
       "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can’t Have",
       "source": "Decrypt",
@@ -313,12 +319,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1792107259000
-    },
-    {
-      "title": "Brooklyn DA Pulls the Plug on Crypto Scam Network",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/brooklyn-da-pulls-plug-on-crypto-scam",
-      "pubDate": 1792105407000
     },
     {
       "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
