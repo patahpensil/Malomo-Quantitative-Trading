@@ -1,7 +1,85 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792159782164,
+  "generatedAt": 1792174637549,
   "articles": [
+    {
+      "title": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules",
+      "pubDate": 1792174564000
+    },
+    {
+      "title": "India's Cyber Agency Says AI Agents Read Confidential Business Records Without Authorization",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records",
+      "pubDate": 1792172886000
+    },
+    {
+      "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792171809000
+    },
+    {
+      "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792171305000
+    },
+    {
+      "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no",
+      "pubDate": 1792168564000
+    },
+    {
+      "title": "Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/deutsche-bank-will-debut-bitcoin-custody",
+      "pubDate": 1792168555000
+    },
+    {
+      "title": "MSCI To Move Forward With Proposal That Could Exclude Strategy From Index",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/msci-could-exclude-strategy-from-index",
+      "pubDate": 1792168361000
+    },
+    {
+      "title": "Bitcoin Bounces, But Where Does It Go Next? Here’s What the Charts Say",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381150/bitcoin-price-rebounds-where-next-charts",
+      "pubDate": 1792166765000
+    },
+    {
+      "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792165948000
+    },
+    {
+      "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792165543000
+    },
+    {
+      "title": "Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381148/three-canadian-armed-forces-members-charged-in-kidnapping-of-crypto-exchange-owner",
+      "pubDate": 1792165438000
+    },
+    {
+      "title": "Big Tech's AI auditors will only see what they're shown",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
+      "pubDate": 1792162702000
+    },
+    {
+      "title": "Strategy conditionally declares daily dividends as STRC hovers below $100",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/strategy-daily-dividends-strc-hovers-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792159863000
+    },
     {
       "title": "Here’s what happened in crypto today",
       "source": "Cointelegraph",
@@ -117,7 +195,7 @@
       "pubDate": 1792145766000
     },
     {
-      "title": "Live updates: Bitcoin steady near $82,000 after Fed Chair Warsh's comments",
+      "title": "Live updates: Crypto gives up some ground as AI selloff picks up steam",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
       "pubDate": 1792144094000
@@ -279,88 +357,10 @@
       "pubDate": 1792084485000
     },
     {
-      "title": "Sweden revisits digital krona as ECB advances digital euro plans",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792082999000
-    },
-    {
       "title": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
       "source": "Decrypt",
       "link": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
       "pubDate": 1792081730000
-    },
-    {
-      "title": "Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/ledger-says-crime-group-spent-millions",
-      "pubDate": 1792079888000
-    },
-    {
-      "title": "Bitcoin Briefly Slides Below $80,000 On More Hot Inflation Data",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-briefly-dips-below-80000",
-      "pubDate": 1792079592000
-    },
-    {
-      "title": "Mastercard brings stablecoin balances into traditional banking and card payments",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792079165000
-    },
-    {
-      "title": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion",
-      "pubDate": 1792077641000
-    },
-    {
-      "title": "Bitcoin slips under $80K after US PPI gains most in four years",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792077044000
-    },
-    {
-      "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
-      "pubDate": 1792076400000
-    },
-    {
-      "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
-      "pubDate": 1792074438000
-    },
-    {
-      "title": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792074163000
-    },
-    {
-      "title": "Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792073815000
-    },
-    {
-      "title": "Latin America’s MSTR: How OranjeBTC is Running the Saylor Playbook in Brazil | Gui Gomes",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/latin-americas-mstr-how-oranjebtc-is-running-the-saylor-playbook-in-brazil-gui-gomes",
-      "pubDate": 1792071258000
-    },
-    {
-      "title": "Ledger Announces Atom Touchscreen Android Device",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381023/ledger-announces-atom-touchscreen-android-device",
-      "pubDate": 1792071141000
-    },
-    {
-      "title": "Zcash Tanks Double Digits After 'Meteoric Rise' Sees Leverage Build Up",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381015/zcash-tanks-double-digits-after-meteoric-rise-sees-leverage-build-up",
-      "pubDate": 1792068150000
     }
   ]
 }
