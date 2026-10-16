@@ -1,7 +1,139 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792142020203,
+  "generatedAt": 1792159782164,
   "articles": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792158975000
+    },
+    {
+      "title": "Ledger’s early implant warnings deserved more action, Karpelès says",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792158695000
+    },
+    {
+      "title": "Crypto Analyst Lark Davis: The Bitcoin Bull Run has Begun",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/crypto-analyst-lark-davis-the-bitcoin-bull-run-has-begun",
+      "pubDate": 1792158498000
+    },
+    {
+      "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792157620000
+    },
+    {
+      "title": "Math Professor Warns of Threat to Bitcoin from AI Pivot",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/math-professor-warns-of-threat-to-bitcoin-from-ai-pivot",
+      "pubDate": 1792157144000
+    },
+    {
+      "title": "Morgan Stanley’s Amy Oldenburg: The Digital Gold Investment Case for Bitcoin",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/morgan-stanleys-amy-oldenburg-the-digital-gold-investment-case-for-bitcoin",
+      "pubDate": 1792156836000
+    },
+    {
+      "title": "Sazmining Brings Proto’s Immersion Hashboards to Individual Owners, With 0% Financing From $1,397 Down",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/press-releases/sazmining-brings-protos-immersion-hashboards-to-individual-owners-with-0-financing-from-1397-down",
+      "pubDate": 1792154542000
+    },
+    {
+      "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis",
+      "pubDate": 1792153338000
+    },
+    {
+      "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381138/morning-minute-google-clears-a-major-quantum-hurdle-bitcoin-still-safe",
+      "pubDate": 1792151214000
+    },
+    {
+      "title": "Solana’s Liu says Shanghai event postponed over registration surge",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792149767000
+    },
+    {
+      "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
+      "pubDate": 1792149300000
+    },
+    {
+      "title": "Circle targets 40 new markets as stablecoin demand grows globally",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
+      "pubDate": 1792148075000
+    },
+    {
+      "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
+      "pubDate": 1792147946000
+    },
+    {
+      "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
+      "pubDate": 1792147729000
+    },
+    {
+      "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
+      "pubDate": 1792147263000
+    },
+    {
+      "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
+      "pubDate": 1792147148000
+    },
+    {
+      "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792146438000
+    },
+    {
+      "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
+      "pubDate": 1792146270000
+    },
+    {
+      "title": "GTA 6 Trailer Features Meme Coin—And Solana Copycat Soars 2,900%",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381122/gta-6-trailer-features-meme-coin-and-solana-copycat-soars-2900",
+      "pubDate": 1792145766000
+    },
+    {
+      "title": "Live updates: Bitcoin steady near $82,000 after Fed Chair Warsh's comments",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
+      "pubDate": 1792144094000
+    },
+    {
+      "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
+      "pubDate": 1792143381000
+    },
+    {
+      "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792142533000
+    },
     {
       "title": "What Is a Hardware Wallet? Crypto Cold Storage Explained",
       "source": "Decrypt",
@@ -25,12 +157,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1792136609000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792131690000
     },
     {
       "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
@@ -231,136 +357,10 @@
       "pubDate": 1792071141000
     },
     {
-      "title": "Can the SEC and CFTC’s pro-crypto rules be overturned? Legal opinion",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792071000000
-    },
-    {
-      "title": "Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/charles-edwards-why-quantum-risk-could-be-massive-btc-upside-catalyst",
-      "pubDate": 1792070928000
-    },
-    {
-      "title": "Wellington-Altus’ James Thorne: Bitcoin “Supercycle” has Begun",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/wellington-altus-james-thorne-bitcoin-supercycle-has-begun",
-      "pubDate": 1792070615000
-    },
-    {
-      "title": "Troy Cross: Number Go Up – The Solution to Bitcoin’s Marketing Problem?",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/troy-cross-number-go-up-the-solution-to-bitcoins-marketing-problem",
-      "pubDate": 1792070289000
-    },
-    {
       "title": "Zcash Tanks Double Digits After 'Meteoric Rise' Sees Leverage Build Up",
       "source": "Decrypt",
       "link": "https://decrypt.co/381015/zcash-tanks-double-digits-after-meteoric-rise-sees-leverage-build-up",
       "pubDate": 1792068150000
-    },
-    {
-      "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
-      "pubDate": 1792067724000
-    },
-    {
-      "title": "HEX token sellers erase $160M following reports of founder Richard Schueler arrest",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/hex-token-erases-160m-reports-founder-schuelers-arrest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792066377000
-    },
-    {
-      "title": "Morning Minute: Solana Is About To Get Faster",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381018/morning-minute-solana-is-about-to-get-faster",
-      "pubDate": 1792066028000
-    },
-    {
-      "title": "Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
-      "pubDate": 1792065600000
-    },
-    {
-      "title": "Ledger’s answer to wallet tampering costs $849 and ships next year",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792065600000
-    },
-    {
-      "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381008/bitcoin-tests-81000-as-rate-hike-fears-linger-after-hot-inflation-data",
-      "pubDate": 1792064922000
-    },
-    {
-      "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
-      "pubDate": 1792062900000
-    },
-    {
-      "title": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
-      "pubDate": 1792061531000
-    },
-    {
-      "title": "White House crypto council chief Patrick Witt steps down",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/white-house-crypto-council-director-steps-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792060869000
-    },
-    {
-      "title": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792059720000
-    },
-    {
-      "title": "Live updates: Bitcoin bounces back to $82,000 after first fall below $80,000 in one month",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
-      "pubDate": 1792059375000
-    },
-    {
-      "title": "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers",
-      "pubDate": 1792058481000
-    },
-    {
-      "title": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
-      "pubDate": 1792058456000
-    },
-    {
-      "title": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
-      "pubDate": 1792058017000
-    },
-    {
-      "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
-      "pubDate": 1792056057000
-    },
-    {
-      "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai",
-      "pubDate": 1792045078000
-    },
-    {
-      "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
-      "pubDate": 1792038315000
     }
   ]
 }
