@@ -1,7 +1,49 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792174637549,
+  "generatedAt": 1792186582933,
   "articles": [
+    {
+      "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can’t Have",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
+      "pubDate": 1792181764000
+    },
+    {
+      "title": "BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/press-releases/bffs26-denver-joseph-kelly-on-bitcoin-custody-and-credit-alan-lane-on-banking-lessons",
+      "pubDate": 1792179869000
+    },
+    {
+      "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
+      "pubDate": 1792179364000
+    },
+    {
+      "title": "Sazmining Now Sells Jack Dorsey’s Proto Immersion Hashboards",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/sazmining-now-sells-proto-hashboards",
+      "pubDate": 1792178380000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792178224000
+    },
+    {
+      "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
+      "pubDate": 1792176937000
+    },
+    {
+      "title": "Hot Inflation Data Puts Bitcoin Under Pressure, but ‘Difficult’ Isn’t ‘Bearish’: CoinShares",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-under-pressure-says-coinshares",
+      "pubDate": 1792175457000
+    },
     {
       "title": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
       "source": "Decrypt",
@@ -79,12 +121,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/strategy-daily-dividends-strc-hovers-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1792159863000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792158975000
     },
     {
       "title": "Ledger’s early implant warnings deserved more action, Karpelès says",
@@ -195,7 +231,7 @@
       "pubDate": 1792145766000
     },
     {
-      "title": "Live updates: Crypto gives up some ground as AI selloff picks up steam",
+      "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
       "pubDate": 1792144094000
@@ -309,12 +345,6 @@
       "pubDate": 1792096264000
     },
     {
-      "title": "Bitcoin’s Volatility Has Fallen Within S&P 500 Ranks, Study Shows",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitcoins-volatility-has-fallen-study-shows",
-      "pubDate": 1792096246000
-    },
-    {
       "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -331,36 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
       "pubDate": 1792090082000
-    },
-    {
-      "title": "US Hoovers up Bitcoin While the World Runs on Its Digital Dollars: Report",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/us-keeps-buying-bitcoin-chainalysis",
-      "pubDate": 1792088914000
-    },
-    {
-      "title": "BlackRock’s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession",
-      "pubDate": 1792088164000
-    },
-    {
-      "title": "Google Says AI Isn't Building Itself Yet—Even Though It Writes 75% of the Code",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381061/google-deepmind-ai-isnt-building-itself-writes-most-code",
-      "pubDate": 1792085765000
-    },
-    {
-      "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792084485000
-    },
-    {
-      "title": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
-      "pubDate": 1792081730000
     }
   ]
 }
