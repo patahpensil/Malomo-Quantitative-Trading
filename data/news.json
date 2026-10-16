@@ -1,7 +1,61 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792124291798,
+  "generatedAt": 1792142020203,
   "articles": [
+    {
+      "title": "What Is a Hardware Wallet? Crypto Cold Storage Explained",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained",
+      "pubDate": 1792141848000
+    },
+    {
+      "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
+      "pubDate": 1792139688000
+    },
+    {
+      "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792137586000
+    },
+    {
+      "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792136609000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792131690000
+    },
+    {
+      "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792131082000
+    },
+    {
+      "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
+      "pubDate": 1792130038000
+    },
+    {
+      "title": "Balaji’s ‘Singapore of social media’ begins with a wave of bans",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/balajis-singapore-of-social-media-begins-with-a-wave-of-bans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792127771000
+    },
+    {
+      "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
+      "pubDate": 1792124959000
+    },
     {
       "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
       "source": "CoinDesk",
@@ -61,12 +115,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1792095671000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792093047000
     },
     {
       "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
@@ -291,40 +339,16 @@
       "pubDate": 1792058456000
     },
     {
-      "title": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792058400000
-    },
-    {
       "title": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
       "pubDate": 1792058017000
     },
     {
-      "title": "Bitcoin dips to $80.1K as KOSPI closes at its lowest since April",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-dips-korea-kospi-lowest-close-since-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792057687000
-    },
-    {
-      "title": "Thailand crypto ETFs may see slow start despite new rules: CoinShares",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792056980000
-    },
-    {
       "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
       "pubDate": 1792056057000
-    },
-    {
-      "title": "Babylon advances native Bitcoin lending proposal on Aave V4",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792055668000
     },
     {
       "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
@@ -337,30 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
       "pubDate": 1792038315000
-    },
-    {
-      "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
-      "pubDate": 1792037636000
-    },
-    {
-      "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
-      "pubDate": 1792036665000
-    },
-    {
-      "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
-      "pubDate": 1792014364000
-    },
-    {
-      "title": "Russia’s Central Bank Authorizes Sberbank to Exchange Cryptocurrencies",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/russia-central-bank-gives-sberbank-license",
-      "pubDate": 1792013414000
     }
   ]
 }
