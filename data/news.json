@@ -1,7 +1,49 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792241600995,
+  "generatedAt": 1792253859982,
   "articles": [
+    {
+      "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
+      "pubDate": 1792252863000
+    },
+    {
+      "title": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent",
+      "pubDate": 1792249263000
+    },
+    {
+      "title": "Citrini sees a tokenization boom. The harder question is who profits",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
+      "pubDate": 1792249200000
+    },
+    {
+      "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
+      "pubDate": 1792245600000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792243740000
+    },
+    {
+      "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
+      "pubDate": 1792242064000
+    },
+    {
+      "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792241883000
+    },
     {
       "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
       "source": "CoinDesk",
@@ -67,12 +109,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/sazmining-now-sells-proto-hashboards",
       "pubDate": 1792178380000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792178224000
     },
     {
       "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
@@ -325,42 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
       "pubDate": 1792130038000
-    },
-    {
-      "title": "Balaji’s ‘Singapore of social media’ begins with a wave of bans",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/balajis-singapore-of-social-media-begins-with-a-wave-of-bans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792127771000
-    },
-    {
-      "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
-      "pubDate": 1792124959000
-    },
-    {
-      "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
-      "pubDate": 1792124062000
-    },
-    {
-      "title": "MSCI adopts index exclusion rules that could oust Strategy",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792111700000
-    },
-    {
-      "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792107259000
-    },
-    {
-      "title": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba",
-      "pubDate": 1792102563000
     }
   ]
 }
