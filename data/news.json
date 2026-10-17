@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792226702839,
+  "generatedAt": 1792241600995,
   "articles": [
+    {
+      "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+      "pubDate": 1792238400000
+    },
+    {
+      "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792231207000
+    },
     {
       "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
       "source": "Cointelegraph",
@@ -345,22 +357,10 @@
       "pubDate": 1792107259000
     },
     {
-      "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792104178000
-    },
-    {
       "title": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
       "source": "Decrypt",
       "link": "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba",
       "pubDate": 1792102563000
-    },
-    {
-      "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks",
-      "pubDate": 1792100764000
     }
   ]
 }
