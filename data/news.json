@@ -1,7 +1,25 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792210139270,
+  "generatedAt": 1792226702839,
   "articles": [
+    {
+      "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792225931000
+    },
+    {
+      "title": "Bitget to discontinue services for some users in one-off exercise",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792222017000
+    },
+    {
+      "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+      "pubDate": 1792219188000
+    },
     {
       "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
       "source": "CoinDesk",
@@ -343,24 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks",
       "pubDate": 1792100764000
-    },
-    {
-      "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
-      "pubDate": 1792096264000
-    },
-    {
-      "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792095671000
-    },
-    {
-      "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
-      "pubDate": 1792091764000
     }
   ]
 }
