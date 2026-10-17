@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792194620919,
+  "generatedAt": 1792210139270,
   "articles": [
+    {
+      "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+      "pubDate": 1792204200000
+    },
     {
       "title": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
       "source": "Bitcoin Magazine",
@@ -355,12 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
       "pubDate": 1792091764000
-    },
-    {
-      "title": "At the White House, crypto policy vacancy looms large",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
-      "pubDate": 1792090082000
     }
   ]
 }
