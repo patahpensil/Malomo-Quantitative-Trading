@@ -1,12 +1,54 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792323388104,
+  "generatedAt": 1792334795130,
   "articles": [
+    {
+      "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+      "pubDate": 1792332000000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792331640000
+    },
+    {
+      "title": "Most Americans polled oppose betting on elections: Reuters",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792331280000
+    },
+    {
+      "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
+      "pubDate": 1792328464000
+    },
+    {
+      "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+      "pubDate": 1792328400000
+    },
+    {
+      "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+      "pubDate": 1792328400000
+    },
+    {
+      "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+      "pubDate": 1792324800000
+    },
     {
       "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792320192000
+      "pubDate": 1792320360000
     },
     {
       "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
@@ -24,7 +66,7 @@
       "title": "Tether backs AIsa as strategic investor, completing seed extension round",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792304813000
+      "pubDate": 1792304940000
     },
     {
       "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
@@ -67,12 +109,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
       "pubDate": 1792245600000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792243740000
     },
     {
       "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
@@ -325,42 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
       "pubDate": 1792147263000
-    },
-    {
-      "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
-      "pubDate": 1792147148000
-    },
-    {
-      "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792146438000
-    },
-    {
-      "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
-      "pubDate": 1792146270000
-    },
-    {
-      "title": "GTA 6 Trailer Features Meme Coin—And Solana Copycat Soars 2,900%",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381122/gta-6-trailer-features-meme-coin-and-solana-copycat-soars-2900",
-      "pubDate": 1792145766000
-    },
-    {
-      "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
-      "pubDate": 1792144094000
-    },
-    {
-      "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
-      "pubDate": 1792143381000
     }
   ]
 }
