@@ -1,7 +1,31 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792305025103,
+  "generatedAt": 1792323388104,
   "articles": [
+    {
+      "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792320192000
+    },
+    {
+      "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792314866000
+    },
+    {
+      "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
+      "pubDate": 1792307612000
+    },
+    {
+      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792304813000
+    },
     {
       "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
       "source": "CoinDesk",
@@ -60,7 +84,7 @@
       "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792241883000
+      "pubDate": 1792242060000
     },
     {
       "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
@@ -72,19 +96,19 @@
       "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792231207000
+      "pubDate": 1792231380000
     },
     {
-      "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
+      "title": "Lagarde says euro-area economy is resilient, digital euro under development",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792225931000
+      "pubDate": 1792226700000
     },
     {
       "title": "Bitget to discontinue services for some users in one-off exercise",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792222017000
+      "pubDate": 1792222080000
     },
     {
       "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
@@ -337,30 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
       "pubDate": 1792143381000
-    },
-    {
-      "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792142533000
-    },
-    {
-      "title": "What Is a Hardware Wallet? Crypto Cold Storage Explained",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained",
-      "pubDate": 1792141848000
-    },
-    {
-      "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
-      "pubDate": 1792139688000
-    },
-    {
-      "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792137586000
     }
   ]
 }
