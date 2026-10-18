@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792279221436,
+  "generatedAt": 1792286829630,
   "articles": [
+    {
+      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+      "pubDate": 1792285595000
+    },
     {
       "title": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
       "source": "Decrypt",
@@ -355,12 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1792137586000
-    },
-    {
-      "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792136609000
     }
   ]
 }
