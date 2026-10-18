@@ -1,7 +1,31 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792334795130,
+  "generatedAt": 1792346378079,
   "articles": [
+    {
+      "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+      "pubDate": 1792341180000
+    },
+    {
+      "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
+      "pubDate": 1792341063000
+    },
+    {
+      "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+      "pubDate": 1792339200000
+    },
+    {
+      "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
+      "pubDate": 1792335664000
+    },
     {
       "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
       "source": "CoinDesk",
@@ -337,30 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
       "pubDate": 1792149300000
-    },
-    {
-      "title": "Circle targets 40 new markets as stablecoin demand grows globally",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
-      "pubDate": 1792148075000
-    },
-    {
-      "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
-      "pubDate": 1792147946000
-    },
-    {
-      "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
-      "pubDate": 1792147729000
-    },
-    {
-      "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
-      "pubDate": 1792147263000
     }
   ]
 }
