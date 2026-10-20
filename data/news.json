@@ -1,7 +1,61 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792527945976,
+  "generatedAt": 1792538380864,
   "articles": [
+    {
+      "title": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381456/vibe-coding-ads-out-smart-tvs-heres-how",
+      "pubDate": 1792534564000
+    },
+    {
+      "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
+      "pubDate": 1792532764000
+    },
+    {
+      "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792531155000
+    },
+    {
+      "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
+      "pubDate": 1792530964000
+    },
+    {
+      "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
+      "pubDate": 1792530741000
+    },
+    {
+      "title": "Liquid Network Announces Final Stages of Recovery Following Massive Hack",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/liquid-network-announces-recovery",
+      "pubDate": 1792530658000
+    },
+    {
+      "title": "Swiss Financial Regulator Gives Green Light to Country’s First Bitcoin ETF",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/swiss-regulator-green-lights-bitcoin-etf",
+      "pubDate": 1792529612000
+    },
+    {
+      "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+      "pubDate": 1792529164000
+    },
+    {
+      "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792528680000
+    },
     {
       "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
       "source": "Decrypt",
@@ -285,18 +339,6 @@
       "pubDate": 1792484641000
     },
     {
-      "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792483977000
-    },
-    {
-      "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792474760000
-    },
-    {
       "title": "Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/culture/pita-cafe-arizona-bitcoin",
@@ -319,48 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/381371/anthropic-gives-public-musk-answers-spacex-shares",
       "pubDate": 1792444504000
-    },
-    {
-      "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
-      "pubDate": 1792442765000
-    },
-    {
-      "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
-      "pubDate": 1792441273000
-    },
-    {
-      "title": "Hackers Are Running Apple's iOS on Android Phones for the First Time",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381351/hackers-running-apple-ios-android-phones",
-      "pubDate": 1792439164000
-    },
-    {
-      "title": "The Architecture of Money: Mapping Financial Power in the Age of Bitcoin",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/culture/the-architecture-of-money-mapping-financial-power-in-the-age-of-bitcoin",
-      "pubDate": 1792439044000
-    },
-    {
-      "title": "Super League Stockholders Approve Metaplanet’s 2,100 BTC Investment, Paving Way for ‘Superplanet’",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/metaplanet-super-league-deal-approved",
-      "pubDate": 1792438337000
-    },
-    {
-      "title": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments",
-      "pubDate": 1792437364000
-    },
-    {
-      "title": "Why Some of America’s Biggest Companies Are Objecting to Tokenized Shares",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381349/why-some-america-biggest-companies-objecting-tokenized-shares",
-      "pubDate": 1792435565000
     }
   ]
 }
