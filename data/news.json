@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792448127096,
+  "generatedAt": 1792458719129,
   "articles": [
+    {
+      "title": "AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/anchorwatch-debuts-nevada-trust-company",
+      "pubDate": 1792448897000
+    },
     {
       "title": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
       "source": "Decrypt",
@@ -223,12 +229,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/strategy-btc-22-million-buy-strc-buyback-193-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1792413000000
-    },
-    {
-      "title": "Fundstrat Analyst Sean Farrell: Bitcoin to $100k by Year End + MSTR MSCI Exclusion",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/fundstrat-analyst-sean-farrell-bitcoin-to-100k-by-year-end-mstr-msci-exclusion",
-      "pubDate": 1792412561000
     },
     {
       "title": "Morning Minute: Crypto Rebounds as 'Black Monday' Looms",
