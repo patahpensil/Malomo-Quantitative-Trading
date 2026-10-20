@@ -1,7 +1,103 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792477779776,
+  "generatedAt": 1792497572753,
   "articles": [
+    {
+      "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
+      "pubDate": 1792495500000
+    },
+    {
+      "title": "Netflix FTX trailer was ‘enough to upset me’ in first 30 seconds: former FTX COO",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/netflix-ftx-trailer-upset-first-30-seconds-ftx-coo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792495380000
+    },
+    {
+      "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month",
+      "pubDate": 1792494861000
+    },
+    {
+      "title": "Kazakhstan court orders curbs on Coinbase, BingX and four others",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/kazakhstan-court-limits-coinbase-bingx-four?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792494741000
+    },
+    {
+      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
+      "pubDate": 1792494640000
+    },
+    {
+      "title": "Mt. Gox Pushes Repayment Deadline to 2027 With $2.8B in Bitcoin Still to Distribute",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381392/mt-gox-pushes-repayment-deadline-to-2027-with-2-8b-in-bitcoin-still-to-distribute",
+      "pubDate": 1792493748000
+    },
+    {
+      "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
+      "pubDate": 1792491775000
+    },
+    {
+      "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792491658000
+    },
+    {
+      "title": "Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792491613000
+    },
+    {
+      "title": "Live updates: Market nervousness persists as the AI selloff deepens",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
+      "pubDate": 1792491259000
+    },
+    {
+      "title": "Bitget plans Thai crypto exchange acquisition weeks after $388M hack",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitget-plans-thai-crypto-exchange-acquisition-weeks-after-388m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792490400000
+    },
+    {
+      "title": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111",
+      "pubDate": 1792488744000
+    },
+    {
+      "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381385/blackrock-files-for-buffer-bitcoin-etf-as-ibit-draws-665m-in-a-day",
+      "pubDate": 1792487610000
+    },
+    {
+      "title": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792486467000
+    },
+    {
+      "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
+      "pubDate": 1792484641000
+    },
+    {
+      "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792483977000
+    },
     {
       "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
       "source": "Cointelegraph",
@@ -189,12 +285,6 @@
       "pubDate": 1792426375000
     },
     {
-      "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792425957000
-    },
-    {
       "title": "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets",
       "source": "Decrypt",
       "link": "https://decrypt.co/381319/bitcoin-price-key-support-oil-ai-fears-squeeze-markets",
@@ -211,18 +301,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
       "pubDate": 1792421920000
-    },
-    {
-      "title": "Made an ‘honest’ mistake with crypto taxes? New bill offers way out",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792416600000
-    },
-    {
-      "title": "Public companies object to OKX-ICE’s tokenized stock plan",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/public-companies-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792415633000
     },
     {
       "title": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
@@ -249,12 +327,6 @@
       "pubDate": 1792413337000
     },
     {
-      "title": "Strategy buys $22M in Bitcoin, repurchases $193M in STRC",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/strategy-btc-22-million-buy-strc-buyback-193-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792413000000
-    },
-    {
       "title": "Morning Minute: Crypto Rebounds as 'Black Monday' Looms",
       "source": "Decrypt",
       "link": "https://decrypt.co/381297/morning-minute-crypto-rebounds-as-black-monday-looms",
@@ -273,22 +345,10 @@
       "pubDate": 1792411666000
     },
     {
-      "title": "World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792411078000
-    },
-    {
       "title": "Sam Altman's World Takes Proof-of-Human IDs to Banks, Citing $40B AI Fraud Risk",
       "source": "Decrypt",
       "link": "https://decrypt.co/381288/sam-altmans-world-takes-proof-of-human-ids-to-banks-citing-40b-ai-fraud-risk",
       "pubDate": 1792410040000
-    },
-    {
-      "title": "BingX, YouHodler added to ESMA MiCA register in latest update",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bingx-youhodler-esma-mica-register-friday-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792409520000
     },
     {
       "title": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
@@ -301,66 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
       "pubDate": 1792407954000
-    },
-    {
-      "title": "UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381281/uk-trio-jailed-over-home-invasion-in-failed-crypto-theft-attempt",
-      "pubDate": 1792405869000
-    },
-    {
-      "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
-      "pubDate": 1792405593000
-    },
-    {
-      "title": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792405350000
-    },
-    {
-      "title": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps",
-      "pubDate": 1792404681000
-    },
-    {
-      "title": "JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
-      "pubDate": 1792404227000
-    },
-    {
-      "title": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
-      "pubDate": 1792402358000
-    },
-    {
-      "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s",
-      "pubDate": 1792401300000
-    },
-    {
-      "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
-      "pubDate": 1792401159000
-    },
-    {
-      "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
-      "pubDate": 1792390996000
-    },
-    {
-      "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
-      "pubDate": 1792387382000
     }
   ]
 }
