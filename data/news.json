@@ -1,7 +1,37 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792458719129,
+  "generatedAt": 1792477779776,
   "articles": [
+    {
+      "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792474760000
+    },
+    {
+      "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792473251000
+    },
+    {
+      "title": "US bans DeepSeek from civilian agency IT systems",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792469278000
+    },
+    {
+      "title": "Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/culture/pita-cafe-arizona-bitcoin",
+      "pubDate": 1792468455000
+    },
+    {
+      "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792460100000
+    },
     {
       "title": "AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month",
       "source": "Bitcoin Magazine",
@@ -219,12 +249,6 @@
       "pubDate": 1792413337000
     },
     {
-      "title": "Jeff Park: What The AI Pain Trade Means For Bitcoin",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/jeff-park-what-the-ai-pain-trade-means-for-bitcoin",
-      "pubDate": 1792413046000
-    },
-    {
       "title": "Strategy buys $22M in Bitcoin, repurchases $193M in STRC",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/strategy-btc-22-million-buy-strc-buyback-193-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -297,12 +321,6 @@
       "pubDate": 1792405350000
     },
     {
-      "title": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792405200000
-    },
-    {
       "title": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
       "source": "Decrypt",
       "link": "https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps",
@@ -333,28 +351,10 @@
       "pubDate": 1792401159000
     },
     {
-      "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792400325000
-    },
-    {
-      "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792396453000
-    },
-    {
       "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
       "pubDate": 1792390996000
-    },
-    {
-      "title": "Zoom adds ‘proof of human’ badges to show you’re not a deepfake",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792389344000
     },
     {
       "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
