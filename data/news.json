@@ -1,7 +1,49 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792547731743,
+  "generatedAt": 1792567569830,
   "articles": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792562400000
+    },
+    {
+      "title": "Malaysia central bank launches DLT platform for tokenized bonds",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792562189000
+    },
+    {
+      "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
+      "pubDate": 1792560357000
+    },
+    {
+      "title": "Tech giants rush to block 8 eMudhra certs that could enable fake sites",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792559700000
+    },
+    {
+      "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
+      "pubDate": 1792557352000
+    },
+    {
+      "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
+      "pubDate": 1792555918000
+    },
+    {
+      "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
+      "pubDate": 1792555627000
+    },
     {
       "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
       "source": "Cointelegraph",
@@ -91,12 +133,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly",
       "pubDate": 1792524664000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792523860000
     },
     {
       "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
@@ -303,18 +339,6 @@
       "pubDate": 1792491775000
     },
     {
-      "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792491658000
-    },
-    {
-      "title": "Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792491613000
-    },
-    {
       "title": "Live updates: Bitcoin cuts losses as stocks edge higher",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
@@ -337,30 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
       "pubDate": 1792484641000
-    },
-    {
-      "title": "Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/culture/pita-cafe-arizona-bitcoin",
-      "pubDate": 1792468455000
-    },
-    {
-      "title": "AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/anchorwatch-debuts-nevada-trust-company",
-      "pubDate": 1792448897000
-    },
-    {
-      "title": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381382/strive-buys-335-million-bitcoin",
-      "pubDate": 1792446365000
-    },
-    {
-      "title": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381371/anthropic-gives-public-musk-answers-spacex-shares",
-      "pubDate": 1792444504000
     }
   ]
 }
