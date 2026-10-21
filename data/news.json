@@ -1,7 +1,55 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792606380152,
+  "generatedAt": 1792619768822,
   "articles": [
+    {
+      "title": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble—And Compares GPUs to Airline Seats",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats",
+      "pubDate": 1792618262000
+    },
+    {
+      "title": "Three Companies Have Notified the SEC of Intention To Start Tokenized Stocks Trading",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/companies-apply-to-list-tokenized-stocks",
+      "pubDate": 1792616123000
+    },
+    {
+      "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792614367000
+    },
+    {
+      "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792613979000
+    },
+    {
+      "title": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint",
+      "pubDate": 1792613762000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792613447000
+    },
+    {
+      "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt",
+      "pubDate": 1792608368000
+    },
+    {
+      "title": "How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381543/elon-musk-spacex-tesla-merger-ai-empire",
+      "pubDate": 1792606563000
+    },
     {
       "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
       "source": "Cointelegraph",
@@ -153,18 +201,6 @@
       "pubDate": 1792590231000
     },
     {
-      "title": "Jeff Walton: Where the Next Trillion Dollars for Bitcoin Comes from, $SATS IPO Update",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/jeff-walton-where-the-next-trillion-dollars-for-bitcoin-comes-from-sats-ipo-update",
-      "pubDate": 1792589973000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792589694000
-    },
-    {
       "title": "Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -267,7 +303,7 @@
       "pubDate": 1792578877000
     },
     {
-      "title": "Live updates: Bitcoin rises to $84,000 as SpaceX leads markets higher",
+      "title": "Live updates: Bitcoin holds above $84,000 as Middle East worries resurface",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
       "pubDate": 1792578640000
@@ -325,42 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed",
       "pubDate": 1792570212000
-    },
-    {
-      "title": "Malaysia central bank launches DLT platform for tokenized bonds",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792562189000
-    },
-    {
-      "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
-      "pubDate": 1792560357000
-    },
-    {
-      "title": "Tech giants rush to block 8 eMudhra certs that could enable fake sites",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792559700000
-    },
-    {
-      "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
-      "pubDate": 1792557352000
-    },
-    {
-      "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
-      "pubDate": 1792555918000
-    },
-    {
-      "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
-      "pubDate": 1792555627000
     }
   ]
 }
