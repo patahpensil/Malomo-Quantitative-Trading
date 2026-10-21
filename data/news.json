@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792538380864,
+  "generatedAt": 1792547731743,
   "articles": [
+    {
+      "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792545554000
+    },
+    {
+      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792538762000
+    },
     {
       "title": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
       "source": "Decrypt",
@@ -309,12 +321,6 @@
       "pubDate": 1792491259000
     },
     {
-      "title": "Bitget plans Thai crypto exchange acquisition weeks after $388M hack",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitget-plans-thai-crypto-exchange-acquisition-weeks-after-388m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792490400000
-    },
-    {
       "title": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111",
@@ -325,12 +331,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/381385/blackrock-files-for-buffer-bitcoin-etf-as-ibit-draws-665m-in-a-day",
       "pubDate": 1792487610000
-    },
-    {
-      "title": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792486467000
     },
     {
       "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
