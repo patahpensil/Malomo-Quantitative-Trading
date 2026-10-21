@@ -1,7 +1,187 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792588095110,
+  "generatedAt": 1792606380152,
   "articles": [
+    {
+      "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792605459000
+    },
+    {
+      "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
+      "pubDate": 1792603863000
+    },
+    {
+      "title": "Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia Custody",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian",
+      "pubDate": 1792603714000
+    },
+    {
+      "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792603500000
+    },
+    {
+      "title": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792602654000
+    },
+    {
+      "title": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
+      "pubDate": 1792601164000
+    },
+    {
+      "title": "Beyond HODLing: How Bitcoin-Backed Loans Can Unlock New Financial Opportunities",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/beyond-hodling-how-bitcoin-backed-loans-can-unlock-new-financial-opportunities",
+      "pubDate": 1792599847000
+    },
+    {
+      "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
+      "pubDate": 1792599824000
+    },
+    {
+      "title": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
+      "pubDate": 1792599365000
+    },
+    {
+      "title": "Kalshi Pushes Deeper Into Crypto Derivatives With Bitcoin-Backed Margin Loans",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/kalshi-pushes-deeper-bitcoin-derivatives",
+      "pubDate": 1792599112000
+    },
+    {
+      "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792598966000
+    },
+    {
+      "title": "Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-price-nears-85000-spacex-earnings",
+      "pubDate": 1792597574000
+    },
+    {
+      "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
+      "pubDate": 1792597412000
+    },
+    {
+      "title": "PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out",
+      "pubDate": 1792596916000
+    },
+    {
+      "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
+      "pubDate": 1792596166000
+    },
+    {
+      "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792595597000
+    },
+    {
+      "title": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
+      "pubDate": 1792595362000
+    },
+    {
+      "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
+      "pubDate": 1792594853000
+    },
+    {
+      "title": "President Trump to Highlight Crackdown on Overseas Crypto Scams",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/president-trump-to-highlight-crackdown",
+      "pubDate": 1792594326000
+    },
+    {
+      "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
+      "pubDate": 1792592665000
+    },
+    {
+      "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792591034000
+    },
+    {
+      "title": "J.P. Morgan Reveals First-Ever Bitcoin Price Forecast in Long-Term Capital Market Report",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/j-p-morgan-reveals-first-ever-bitcoin-price-forecast-in-long-term-capital-market-report",
+      "pubDate": 1792590987000
+    },
+    {
+      "title": "Strive’s SATS: How 15% Yield Becomes A Bitcoin Accretion Machine",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/strives-sats-bitcoin-accretion",
+      "pubDate": 1792590771000
+    },
+    {
+      "title": "Blockchain.com CEO: “Crypto Spring” has Arrived – Institutions Driving the Market",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/blockchain-com-ceo-crypto-spring-has-arrived-institutions-driving-the-market",
+      "pubDate": 1792590482000
+    },
+    {
+      "title": "“Massively Undervalued” – Samson Mow on MSTR & Bitcoin Treasuries",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/massively-undervalued-samson-mow-on-mstr-bitcoin-treasuries",
+      "pubDate": 1792590231000
+    },
+    {
+      "title": "Jeff Walton: Where the Next Trillion Dollars for Bitcoin Comes from, $SATS IPO Update",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/jeff-walton-where-the-next-trillion-dollars-for-bitcoin-comes-from-sats-ipo-update",
+      "pubDate": 1792589973000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792589694000
+    },
+    {
+      "title": "Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792589499000
+    },
+    {
+      "title": "5 alternatives to Ledger to store your Bitcoin",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792589400000
+    },
+    {
+      "title": "GTA 6 Trailer Features 'Dacity' Meme Coin—Here's What Traders Think It'll Do",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381511/gta-6-trailer-features-dacity-meme-coin-heres-what-traders-think-itll-do",
+      "pubDate": 1792588564000
+    },
     {
       "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
       "source": "Cointelegraph",
@@ -87,7 +267,7 @@
       "pubDate": 1792578877000
     },
     {
-      "title": "Live updates: Bitcoin rises above $83,000 as SpaceX results, possible Tesla merger, lift markets",
+      "title": "Live updates: Bitcoin rises to $84,000 as SpaceX leads markets higher",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
       "pubDate": 1792578640000
@@ -147,12 +327,6 @@
       "pubDate": 1792570212000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792562400000
-    },
-    {
       "title": "Malaysia central bank launches DLT platform for tokenized bonds",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -187,180 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
       "pubDate": 1792555627000
-    },
-    {
-      "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792545554000
-    },
-    {
-      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792538762000
-    },
-    {
-      "title": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381456/vibe-coding-ads-out-smart-tvs-heres-how",
-      "pubDate": 1792534564000
-    },
-    {
-      "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
-      "pubDate": 1792532764000
-    },
-    {
-      "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792531155000
-    },
-    {
-      "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
-      "pubDate": 1792530964000
-    },
-    {
-      "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
-      "pubDate": 1792530741000
-    },
-    {
-      "title": "Liquid Network Announces Final Stages of Recovery Following Massive Hack",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/liquid-network-announces-recovery",
-      "pubDate": 1792530658000
-    },
-    {
-      "title": "Swiss Financial Regulator Gives Green Light to Country’s First Bitcoin ETF",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/swiss-regulator-green-lights-bitcoin-etf",
-      "pubDate": 1792529612000
-    },
-    {
-      "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
-      "pubDate": 1792529164000
-    },
-    {
-      "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792528680000
-    },
-    {
-      "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks",
-      "pubDate": 1792527364000
-    },
-    {
-      "title": "Bitcoin Treasury Strive Debuts New Preferred Stock With 15% Dividend",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/strive-debuts-new-preferred-stock",
-      "pubDate": 1792527199000
-    },
-    {
-      "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792526379000
-    },
-    {
-      "title": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly",
-      "pubDate": 1792524664000
-    },
-    {
-      "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying",
-      "pubDate": 1792521064000
-    },
-    {
-      "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
-      "pubDate": 1792520789000
-    },
-    {
-      "title": "Bitcoin's Next Move: Here's What to Watch",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381435/bitcoins-next-move-heres-what-to-watch",
-      "pubDate": 1792518304000
-    },
-    {
-      "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792518000000
-    },
-    {
-      "title": "Bitcoin Could Outperform Most Assets, JPMorgan Says — But the Bank Still Won’t Recommend It",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/jpmorgan-says-bitcoin-could-outperform",
-      "pubDate": 1792517234000
-    },
-    {
-      "title": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims",
-      "pubDate": 1792515806000
-    },
-    {
-      "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
-      "pubDate": 1792515751000
-    },
-    {
-      "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792514868000
-    },
-    {
-      "title": "Stablecoin transfers quadruple to $891B as US banks expand adoption: Report",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792514293000
-    },
-    {
-      "title": "The Midterms Are the First Real Test of Whether Markets Beat Pollsters",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/380966/the-midterms-are-the-first-real-test-of-whether-markets-beat-pollsters",
-      "pubDate": 1792513618000
-    },
-    {
-      "title": "BlackRock Files for Bitcoin ETF With Downside Buffer and Capped Upside",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/blackrock-files-for-new-bitcoin-etf",
-      "pubDate": 1792513589000
-    },
-    {
-      "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
-      "pubDate": 1792513022000
-    },
-    {
-      "title": "Mastercard Opens Up AI Agent Payments With Early Access and Live Demo",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381373/mastercard-opens-up-ai-agent-payments-with-early-access-and-live-demo",
-      "pubDate": 1792512064000
-    },
-    {
-      "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
-      "pubDate": 1792506519000
     }
   ]
 }
