@@ -1,7 +1,73 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792646184305,
+  "generatedAt": 1792665099050,
   "articles": [
+    {
+      "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
+      "pubDate": 1792664308000
+    },
+    {
+      "title": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
+      "pubDate": 1792663782000
+    },
+    {
+      "title": "Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
+      "pubDate": 1792662866000
+    },
+    {
+      "title": "Starknet voters back research into life beyond Ethereum",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792661874000
+    },
+    {
+      "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792659962000
+    },
+    {
+      "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
+      "pubDate": 1792658948000
+    },
+    {
+      "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792654652000
+    },
+    {
+      "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
+      "pubDate": 1792650250000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792648578000
+    },
+    {
+      "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792647338000
+    },
+    {
+      "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
+      "pubDate": 1792646698000
+    },
     {
       "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
       "source": "CoinDesk",
@@ -61,12 +127,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint",
       "pubDate": 1792613762000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792613447000
     },
     {
       "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
@@ -301,66 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
       "pubDate": 1792581300000
-    },
-    {
-      "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
-      "pubDate": 1792580400000
-    },
-    {
-      "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792579852000
-    },
-    {
-      "title": "France proposes liability for crypto exchanges offering DeFi access",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792579560000
-    },
-    {
-      "title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792579153000
-    },
-    {
-      "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date",
-      "pubDate": 1792578877000
-    },
-    {
-      "title": "Live updates: Bitcoin holds above $84,000 as Middle East worries resurface",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
-      "pubDate": 1792578640000
-    },
-    {
-      "title": "UK Banks Hit With 10,000 Complaints Over Blocked Crypto Transfers in 90 Days: Report",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381475/uk-banks-hit-with-10000-complaints-over-blocked-crypto-transfers-in-90-days-report",
-      "pubDate": 1792578581000
-    },
-    {
-      "title": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792578164000
-    },
-    {
-      "title": "Zcash rallies 12% as developers finalize NU7 activation height",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792577700000
-    },
-    {
-      "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
-      "pubDate": 1792574580000
     }
   ]
 }
