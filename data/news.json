@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792619768822,
+  "generatedAt": 1792629248109,
   "articles": [
+    {
+      "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792619628000
+    },
     {
       "title": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble—And Compares GPUs to Airline Seats",
       "source": "Decrypt",
@@ -349,12 +355,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
       "pubDate": 1792572431000
-    },
-    {
-      "title": "Ether ETF outflows continue, pass $1B in October so far",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792570310000
     },
     {
       "title": "Zcash developers confirm November date for upgrade that triples payment speed",
