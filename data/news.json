@@ -1,7 +1,163 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792665099050,
+  "generatedAt": 1792683114907,
   "articles": [
+    {
+      "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
+      "pubDate": 1792682658000
+    },
+    {
+      "title": "Crypto for Advisors: Stablecoins are ready for prime time",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
+      "pubDate": 1792681111000
+    },
+    {
+      "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792680060000
+    },
+    {
+      "title": "Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover",
+      "pubDate": 1792679905000
+    },
+    {
+      "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
+      "pubDate": 1792679832000
+    },
+    {
+      "title": "Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381593/trade-where-you-read-decrypt-brings-jupiter-powered-trading-to-the-information-exchange",
+      "pubDate": 1792677888000
+    },
+    {
+      "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792676554000
+    },
+    {
+      "title": "Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to “Unknown” Wallet",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/arkham-ceo-on-1-billion-of-u-s-government-bitcoin-moved-to-unknown-wallet",
+      "pubDate": 1792676290000
+    },
+    {
+      "title": "SpaceX-Tesla Merger: Passive Flows ‘Hack’, Could Bring More BTC Exposure to S&P 500",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/spacex-tesla-merger-passive-flows-hack-could-bring-more-btc-exposure-to-sp-500",
+      "pubDate": 1792676004000
+    },
+    {
+      "title": "Retail Money is “Dead” – Wall Street is how Bitcoin Actually Wins",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/retail-money-is-dead-wall-street-is-how-bitcoin-actually-wins",
+      "pubDate": 1792675749000
+    },
+    {
+      "title": "Matt Crosby: Bitcoin Is “Primed for a Big Move Higher”",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/matt-crosby-bitcoin-is-primed-for-a-big-move-higher",
+      "pubDate": 1792675466000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792675377000
+    },
+    {
+      "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/thailand-sec-crypto-etf-applications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792675257000
+    },
+    {
+      "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792674825000
+    },
+    {
+      "title": "Central Bank of Ireland Fines Coinbase Unit €3.25 Million Over Customer Fund Safeguarding Failures",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/central-bank-of-ireland-fines-coinbase",
+      "pubDate": 1792674722000
+    },
+    {
+      "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
+      "pubDate": 1792674000000
+    },
+    {
+      "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792674000000
+    },
+    {
+      "title": "Square Tech and GOAT Network Sign MOU to Advance AI Agent-Powered Stablecoin Payments in South Korea",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/press-releases/square-tech-and-goat-network-sign-mou-to-advance-ai-agent-powered-stablecoin-payments-in-south-korea",
+      "pubDate": 1792674000000
+    },
+    {
+      "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
+      "pubDate": 1792671269000
+    },
+    {
+      "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
+      "pubDate": 1792670463000
+    },
+    {
+      "title": "The UK needs a workable route to regulated DeFi access",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792670400000
+    },
+    {
+      "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
+      "pubDate": 1792668004000
+    },
+    {
+      "title": "CoinDCX admits ‘operational losses’ after $16M wallet transfers draw scrutiny",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792666390000
+    },
+    {
+      "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
+      "pubDate": 1792666204000
+    },
+    {
+      "title": "Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m",
+      "pubDate": 1792665913000
+    },
+    {
+      "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792665531000
+    },
     {
       "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
       "source": "CoinDesk",
@@ -15,7 +171,7 @@
       "pubDate": 1792663782000
     },
     {
-      "title": "Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides",
+      "title": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
       "pubDate": 1792662866000
@@ -49,12 +205,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
       "pubDate": 1792650250000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792648578000
     },
     {
       "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
@@ -195,24 +345,6 @@
       "pubDate": 1792599365000
     },
     {
-      "title": "Kalshi Pushes Deeper Into Crypto Derivatives With Bitcoin-Backed Margin Loans",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/kalshi-pushes-deeper-bitcoin-derivatives",
-      "pubDate": 1792599112000
-    },
-    {
-      "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792598966000
-    },
-    {
-      "title": "Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-price-nears-85000-spacex-earnings",
-      "pubDate": 1792597574000
-    },
-    {
       "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
       "source": "Decrypt",
       "link": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
@@ -229,138 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
       "pubDate": 1792596166000
-    },
-    {
-      "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792595597000
-    },
-    {
-      "title": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
-      "pubDate": 1792595362000
-    },
-    {
-      "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
-      "pubDate": 1792594853000
-    },
-    {
-      "title": "President Trump to Highlight Crackdown on Overseas Crypto Scams",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/president-trump-to-highlight-crackdown",
-      "pubDate": 1792594326000
-    },
-    {
-      "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
-      "pubDate": 1792592665000
-    },
-    {
-      "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792591034000
-    },
-    {
-      "title": "J.P. Morgan Reveals First-Ever Bitcoin Price Forecast in Long-Term Capital Market Report",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/j-p-morgan-reveals-first-ever-bitcoin-price-forecast-in-long-term-capital-market-report",
-      "pubDate": 1792590987000
-    },
-    {
-      "title": "Strive’s SATS: How 15% Yield Becomes A Bitcoin Accretion Machine",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/strives-sats-bitcoin-accretion",
-      "pubDate": 1792590771000
-    },
-    {
-      "title": "Blockchain.com CEO: “Crypto Spring” has Arrived – Institutions Driving the Market",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/blockchain-com-ceo-crypto-spring-has-arrived-institutions-driving-the-market",
-      "pubDate": 1792590482000
-    },
-    {
-      "title": "“Massively Undervalued” – Samson Mow on MSTR & Bitcoin Treasuries",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/massively-undervalued-samson-mow-on-mstr-bitcoin-treasuries",
-      "pubDate": 1792590231000
-    },
-    {
-      "title": "Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792589499000
-    },
-    {
-      "title": "5 alternatives to Ledger to store your Bitcoin",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792589400000
-    },
-    {
-      "title": "GTA 6 Trailer Features 'Dacity' Meme Coin—Here's What Traders Think It'll Do",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381511/gta-6-trailer-features-dacity-meme-coin-heres-what-traders-think-itll-do",
-      "pubDate": 1792588564000
-    },
-    {
-      "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792585618000
-    },
-    {
-      "title": "Morning Minute: Bitcoin Tops JPMorgan’s Ten-Year Forecast for All Assets",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381510/morning-minute-bitcoin-tops-jpmorgans-ten-year-forecast-for-all-assets",
-      "pubDate": 1792584998000
-    },
-    {
-      "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
-      "pubDate": 1792584756000
-    },
-    {
-      "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
-      "pubDate": 1792584639000
-    },
-    {
-      "title": "Standard Chartered signs definitive deal to acquire Zodia Custody",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792584383000
-    },
-    {
-      "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
-      "pubDate": 1792584000000
-    },
-    {
-      "title": "OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
-      "pubDate": 1792583543000
-    },
-    {
-      "title": "'Mentality Issue': PlayStation Founder Waves Away Disc Ownership Anger",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381483/mentality-issue-playstation-founder-waves-away-disc-ownership-anger",
-      "pubDate": 1792581574000
-    },
-    {
-      "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
-      "pubDate": 1792581300000
     }
   ]
 }
