@@ -1,7 +1,31 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792629248109,
+  "generatedAt": 1792646184305,
   "articles": [
+    {
+      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+      "pubDate": 1792644119000
+    },
+    {
+      "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
+      "pubDate": 1792643780000
+    },
+    {
+      "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
+      "pubDate": 1792641094000
+    },
+    {
+      "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792629840000
+    },
     {
       "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
       "source": "Cointelegraph",
@@ -333,34 +357,10 @@
       "pubDate": 1792577700000
     },
     {
-      "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792577632000
-    },
-    {
       "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
       "pubDate": 1792574580000
-    },
-    {
-      "title": "Monero futures are again heating with leverage, raising volatility risks",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/21/monero-futures-are-again-heating-with-leverage-raising-volatility-risks",
-      "pubDate": 1792573049000
-    },
-    {
-      "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
-      "pubDate": 1792572431000
-    },
-    {
-      "title": "Zcash developers confirm November date for upgrade that triples payment speed",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed",
-      "pubDate": 1792570212000
     }
   ]
 }
