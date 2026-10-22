@@ -1,7 +1,61 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792696987010,
+  "generatedAt": 1792708788455,
   "articles": [
+    {
+      "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know",
+      "pubDate": 1792707706000
+    },
+    {
+      "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792705158000
+    },
+    {
+      "title": "Circle Shareholder Sues Trump, Alleging Unconstitutional Profits From $2B UAE Crypto Deals",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/trump-sued-for-alleged-crypto-corruption",
+      "pubDate": 1792704238000
+    },
+    {
+      "title": "ChatGPT Teaches Messi Chess—On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381644/chatgpt-messi-chess-board-wrong-loses-in-four-moves",
+      "pubDate": 1792701558000
+    },
+    {
+      "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792701360000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792699799000
+    },
+    {
+      "title": "Blockchain Association Presses Congress on Crypto Taxes as Clarity Act Stalls",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/blockchain-association-presses-congress",
+      "pubDate": 1792698671000
+    },
+    {
+      "title": "a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381642/a16z-drops-crypto-widens-bets-ai-frontier-tech",
+      "pubDate": 1792698362000
+    },
+    {
+      "title": "Winklevoss PAC moves into Texas Senate race with $81K ad buy",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792697393000
+    },
     {
       "title": "Meta Creates Non-Voting Stock to Fund AI Buildout, Keeping Zuckerberg in Control",
       "source": "Decrypt",
@@ -159,18 +213,6 @@
       "pubDate": 1792675749000
     },
     {
-      "title": "Matt Crosby: Bitcoin Is “Primed for a Big Move Higher”",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/matt-crosby-bitcoin-is-primed-for-a-big-move-higher",
-      "pubDate": 1792675466000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792675377000
-    },
-    {
       "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/thailand-sec-crypto-etf-applications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -181,12 +223,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1792674825000
-    },
-    {
-      "title": "Central Bank of Ireland Fines Coinbase Unit €3.25 Million Over Customer Fund Safeguarding Failures",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/central-bank-of-ireland-fines-coinbase",
-      "pubDate": 1792674722000
     },
     {
       "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
@@ -325,42 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
       "pubDate": 1792641094000
-    },
-    {
-      "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792629840000
-    },
-    {
-      "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792619628000
-    },
-    {
-      "title": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble—And Compares GPUs to Airline Seats",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats",
-      "pubDate": 1792618262000
-    },
-    {
-      "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792614367000
-    },
-    {
-      "title": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint",
-      "pubDate": 1792613762000
-    },
-    {
-      "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt",
-      "pubDate": 1792608368000
     }
   ]
 }
