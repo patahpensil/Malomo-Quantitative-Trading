@@ -1,7 +1,37 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792786653765,
+  "generatedAt": 1792797815223,
   "articles": [
+    {
+      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792791136000
+    },
+    {
+      "title": "NY Seeks $1.37 Billion Judgment Against Operators of NovaTech Crypto Ponzi Scheme",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/ny-seeks-1-37-b-judgement-novatech",
+      "pubDate": 1792790506000
+    },
+    {
+      "title": "Blockstream Launches Institutional Consulting Services, Opens Lugano Office",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/blockstream-launches-institutional-service",
+      "pubDate": 1792790439000
+    },
+    {
+      "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
+      "pubDate": 1792790163000
+    },
+    {
+      "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792788857000
+    },
     {
       "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
       "source": "Decrypt",
@@ -309,18 +339,6 @@
       "pubDate": 1792713042000
     },
     {
-      "title": "The Sleeper Has Awakened: Pepenardo’s Sleeping Knights Return",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/culture/the-sleeper-has-awakened-pepenardos-sleeping-knights-return",
-      "pubDate": 1792710408000
-    },
-    {
-      "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792709422000
-    },
-    {
       "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
@@ -333,18 +351,6 @@
       "pubDate": 1792707706000
     },
     {
-      "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792705158000
-    },
-    {
-      "title": "Circle Shareholder Sues Trump, Alleging Unconstitutional Profits From $2B UAE Crypto Deals",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/trump-sued-for-alleged-crypto-corruption",
-      "pubDate": 1792704238000
-    },
-    {
       "title": "ChatGPT Teaches Messi Chess—On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
       "source": "Decrypt",
       "link": "https://decrypt.co/381644/chatgpt-messi-chess-board-wrong-loses-in-four-moves",
@@ -355,12 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/381642/a16z-drops-crypto-widens-bets-ai-frontier-tech",
       "pubDate": 1792698362000
-    },
-    {
-      "title": "Meta Creates Non-Voting Stock to Fund AI Buildout, Keeping Zuckerberg in Control",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381640/meta-non-voting-stock-fund-ai-buildout-zuckerberg-control",
-      "pubDate": 1792695962000
     }
   ]
 }
