@@ -1,12 +1,132 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792756683416,
+  "generatedAt": 1792774528245,
   "articles": [
+    {
+      "title": "Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-etfs-lose-over-635-million",
+      "pubDate": 1792773996000
+    },
+    {
+      "title": "Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381708/crypto-scammers-prayer-groups-lure-victims-must-pay-1-3-billion-new-york",
+      "pubDate": 1792773063000
+    },
+    {
+      "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792771720000
+    },
+    {
+      "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
+      "pubDate": 1792770641000
+    },
+    {
+      "title": "Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/franklin-templeton-clears-final-hurdle",
+      "pubDate": 1792770005000
+    },
+    {
+      "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792769957000
+    },
+    {
+      "title": "Bank of Korea Wants Stablecoins Written Into Forex Law as Crypto Bill and Tax Fight Come to a Head",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bank-of-korea-crypto-bill-and-tax",
+      "pubDate": 1792764101000
+    },
+    {
+      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
+      "pubDate": 1792763936000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792762733000
+    },
+    {
+      "title": "Stand With Crypto Director: The Crypto Vote Will Decide the Midterms | Mason Lynaugh",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/stand-with-crypto-director-the-crypto-vote-will-decide-the-midterms-mason-lynaugh",
+      "pubDate": 1792762412000
+    },
+    {
+      "title": "Morning Minute: a16z Drops 'Crypto' From Its Fund",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381691/morning-minute-a16z-drops-crypto-from-its-fund",
+      "pubDate": 1792762161000
+    },
+    {
+      "title": "Parker Lewis: Bitcoin Will Settle 100% of Global Payments",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/parker-lewis-bitcoin-will-settle-100-of-global-payments",
+      "pubDate": 1792762096000
+    },
+    {
+      "title": "Block Releases THE Bitcoin National Ad Campaign",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/block-releases-the-bitcoin-national-ad-campaign",
+      "pubDate": 1792761712000
+    },
+    {
+      "title": "China targets 2030 for its national blockchain network buildout",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/china-2030-national-blockchain-network-buildout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792761667000
+    },
+    {
+      "title": "Interpol Recovers $105M in African Cybercrime Sweep That Shut Illegal Crypto Mines",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381690/interpol-recovers-105m-in-african-cybercrime-sweep-that-shut-illegal-crypto-mines",
+      "pubDate": 1792761498000
+    },
+    {
+      "title": "Bloomberg’s Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/bloombergs-mike-mcglone-ai-risk-could-force-bitcoin-drawdown-to-10000",
+      "pubDate": 1792761484000
+    },
+    {
+      "title": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792758817000
+    },
+    {
+      "title": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792758238000
+    },
+    {
+      "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
+      "pubDate": 1792757033000
+    },
     {
       "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
       "source": "Decrypt",
       "link": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
       "pubDate": 1792756177000
+    },
+    {
+      "title": "Was crypto self-custody ever designed for beginners?",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792756067000
     },
     {
       "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
@@ -15,7 +135,7 @@
       "pubDate": 1792754553000
     },
     {
-      "title": "Live updates: Bitcoin holds above $81,000 as the AI rout fades and oil climbs",
+      "title": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
       "pubDate": 1792753981000
@@ -91,12 +211,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1792739379000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792732514000
     },
     {
       "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
@@ -225,12 +339,6 @@
       "pubDate": 1792694163000
     },
     {
-      "title": "China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/china-to-confiscate-billions-in-bitcoin",
-      "pubDate": 1792693922000
-    },
-    {
       "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
@@ -249,118 +357,10 @@
       "pubDate": 1792690418000
     },
     {
-      "title": "Underdog taps zerohash to bring crypto deposits to prediction markets",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792689889000
-    },
-    {
-      "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792687851000
-    },
-    {
-      "title": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792687680000
-    },
-    {
       "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
       "source": "Decrypt",
       "link": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
       "pubDate": 1792686667000
-    },
-    {
-      "title": "Utexo Opens Utexo Mint Early Access for USDT on Bitcoin Ahead of November 28 Launch",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/utexo-opens-early-access-to-usdt-on-bitcoin-through-utexo-mint",
-      "pubDate": 1792686412000
-    },
-    {
-      "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792686035000
-    },
-    {
-      "title": "Bitcoin Slides Towards $81,000 as Oil Above $110 Revives Rate-Hike Bets",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-slides-towards-81000",
-      "pubDate": 1792685066000
-    },
-    {
-      "title": "What Is a Neocloud? The GPU Clouds Powering the AI Boom",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom",
-      "pubDate": 1792683907000
-    },
-    {
-      "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
-      "pubDate": 1792683625000
-    },
-    {
-      "title": "Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
-      "pubDate": 1792683301000
-    },
-    {
-      "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
-      "pubDate": 1792682658000
-    },
-    {
-      "title": "Crypto for Advisors: Stablecoins are ready for prime time",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
-      "pubDate": 1792681111000
-    },
-    {
-      "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792680060000
-    },
-    {
-      "title": "Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover",
-      "pubDate": 1792679905000
-    },
-    {
-      "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
-      "pubDate": 1792679832000
-    },
-    {
-      "title": "Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381593/trade-where-you-read-decrypt-brings-jupiter-powered-trading-to-the-information-exchange",
-      "pubDate": 1792677888000
-    },
-    {
-      "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792676554000
-    },
-    {
-      "title": "Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to “Unknown” Wallet",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/arkham-ceo-on-1-billion-of-u-s-government-bitcoin-moved-to-unknown-wallet",
-      "pubDate": 1792676290000
-    },
-    {
-      "title": "SpaceX-Tesla Merger: Passive Flows ‘Hack’, Could Bring More BTC Exposure to S&P 500",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/spacex-tesla-merger-passive-flows-hack-could-bring-more-btc-exposure-to-sp-500",
-      "pubDate": 1792676004000
     }
   ]
 }
