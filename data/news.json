@@ -1,7 +1,55 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792774528245,
+  "generatedAt": 1792786653765,
   "articles": [
+    {
+      "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+      "pubDate": 1792786562000
+    },
+    {
+      "title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381753/spacex-filing-elon-musk-final-word-tesla-merger",
+      "pubDate": 1792784162000
+    },
+    {
+      "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+      "pubDate": 1792781695000
+    },
+    {
+      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792780742000
+    },
+    {
+      "title": "How I Vibe Coded My Smart TV—And Claude Killed It",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381717/how-vibe-coded-my-smart-tv-claude-killed-it",
+      "pubDate": 1792778009000
+    },
+    {
+      "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792777332000
+    },
+    {
+      "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
+      "pubDate": 1792775763000
+    },
+    {
+      "title": "Bitcoin Core Ends Long Embargoes for Bugs AI Can Rediscover",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-core-ends-long-embargoes",
+      "pubDate": 1792775192000
+    },
     {
       "title": "Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike",
       "source": "Bitcoin Magazine",
@@ -303,64 +351,16 @@
       "pubDate": 1792701558000
     },
     {
-      "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792701360000
-    },
-    {
-      "title": "Blockchain Association Presses Congress on Crypto Taxes as Clarity Act Stalls",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/blockchain-association-presses-congress",
-      "pubDate": 1792698671000
-    },
-    {
       "title": "a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech",
       "source": "Decrypt",
       "link": "https://decrypt.co/381642/a16z-drops-crypto-widens-bets-ai-frontier-tech",
       "pubDate": 1792698362000
     },
     {
-      "title": "Winklevoss PAC moves into Texas Senate race with $81K ad buy",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792697393000
-    },
-    {
       "title": "Meta Creates Non-Voting Stock to Fund AI Buildout, Keeping Zuckerberg in Control",
       "source": "Decrypt",
       "link": "https://decrypt.co/381640/meta-non-voting-stock-fund-ai-buildout-zuckerberg-control",
       "pubDate": 1792695962000
-    },
-    {
-      "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381638/coinbase-fined-again-ireland-3-6m-fund-safeguarding",
-      "pubDate": 1792694163000
-    },
-    {
-      "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
-      "pubDate": 1792693857000
-    },
-    {
-      "title": "Tesla's Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381624/teslas-profit-drops-musk-robots-driverless-cabs",
-      "pubDate": 1792692362000
-    },
-    {
-      "title": "Oil Climbs Above $111 as AI Stocks Slide, Dragging the S&P 500 and Global Markets With Them",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381613/oil-climbs-above-111-as-ai-stocks-slide-dragging-the-sp-500-and-global-markets-with-them",
-      "pubDate": 1792690418000
-    },
-    {
-      "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
-      "pubDate": 1792686667000
     }
   ]
 }
