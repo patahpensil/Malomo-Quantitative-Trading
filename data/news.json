@@ -1,7 +1,37 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792708788455,
+  "generatedAt": 1792718576429,
   "articles": [
+    {
+      "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792717175000
+    },
+    {
+      "title": "Pentagon bans US forces from using military info to bet in prediction markets",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792713042000
+    },
+    {
+      "title": "The Sleeper Has Awakened: Pepenardo’s Sleeping Knights Return",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/culture/the-sleeper-has-awakened-pepenardos-sleeping-knights-return",
+      "pubDate": 1792710408000
+    },
+    {
+      "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792709422000
+    },
+    {
+      "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+      "pubDate": 1792709016000
+    },
     {
       "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
       "source": "Decrypt",
@@ -207,12 +237,6 @@
       "pubDate": 1792676004000
     },
     {
-      "title": "Retail Money is “Dead” – Wall Street is how Bitcoin Actually Wins",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/retail-money-is-dead-wall-street-is-how-bitcoin-actually-wins",
-      "pubDate": 1792675749000
-    },
-    {
       "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/thailand-sec-crypto-etf-applications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -309,34 +333,16 @@
       "pubDate": 1792661874000
     },
     {
-      "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792659962000
-    },
-    {
       "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
       "pubDate": 1792658948000
     },
     {
-      "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792654652000
-    },
-    {
       "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
       "pubDate": 1792650250000
-    },
-    {
-      "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792647338000
     },
     {
       "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
@@ -355,12 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
       "pubDate": 1792643780000
-    },
-    {
-      "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
-      "pubDate": 1792641094000
     }
   ]
 }
