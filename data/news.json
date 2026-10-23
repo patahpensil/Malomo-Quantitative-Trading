@@ -1,9 +1,51 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792718576429,
+  "generatedAt": 1792736745909,
   "articles": [
     {
-      "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792732514000
+    },
+    {
+      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792732181000
+    },
+    {
+      "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
+      "pubDate": 1792731679000
+    },
+    {
+      "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+      "pubDate": 1792731574000
+    },
+    {
+      "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
+      "pubDate": 1792730211000
+    },
+    {
+      "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792730054000
+    },
+    {
+      "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+      "pubDate": 1792725181000
+    },
+    {
+      "title": "Switzerland’s first retail spot Bitcoin ETF targets November launch",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1792717175000
@@ -61,12 +103,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1792701360000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792699799000
     },
     {
       "title": "Blockchain Association Presses Congress on Crypto Taxes as Clarity Act Stalls",
@@ -303,12 +339,6 @@
       "pubDate": 1792665913000
     },
     {
-      "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792665531000
-    },
-    {
       "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
@@ -327,40 +357,10 @@
       "pubDate": 1792662866000
     },
     {
-      "title": "Starknet voters back research into life beyond Ethereum",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792661874000
-    },
-    {
       "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
       "pubDate": 1792658948000
-    },
-    {
-      "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
-      "pubDate": 1792650250000
-    },
-    {
-      "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
-      "pubDate": 1792646698000
-    },
-    {
-      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
-      "pubDate": 1792644119000
-    },
-    {
-      "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
-      "pubDate": 1792643780000
     }
   ]
 }
