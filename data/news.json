@@ -1,7 +1,67 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792843853863,
+  "generatedAt": 1792858284831,
   "articles": [
+    {
+      "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude",
+      "pubDate": 1792857663000
+    },
+    {
+      "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+      "pubDate": 1792857600000
+    },
+    {
+      "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+      "pubDate": 1792855266000
+    },
+    {
+      "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+      "pubDate": 1792854684000
+    },
+    {
+      "title": "Game Publishers Have Pushed to Cut Discs Since 2007, Infinity Ward Veteran Says",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381674/game-publishers-have-pushed-to-cut-discs-since-2007-infinity-ward-veteran-says",
+      "pubDate": 1792854062000
+    },
+    {
+      "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
+      "pubDate": 1792854000000
+    },
+    {
+      "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
+      "pubDate": 1792852727000
+    },
+    {
+      "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
+      "pubDate": 1792850784000
+    },
+    {
+      "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/",
+      "pubDate": 1792850400000
+    },
+    {
+      "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
+      "pubDate": 1792846862000
+    },
     {
       "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
       "source": "CoinDesk",
@@ -301,66 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1792739379000
-    },
-    {
-      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792732181000
-    },
-    {
-      "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
-      "pubDate": 1792731679000
-    },
-    {
-      "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
-      "pubDate": 1792731574000
-    },
-    {
-      "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
-      "pubDate": 1792730211000
-    },
-    {
-      "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792730054000
-    },
-    {
-      "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
-      "pubDate": 1792725181000
-    },
-    {
-      "title": "Switzerland’s first retail spot Bitcoin ETF targets November launch",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792717175000
-    },
-    {
-      "title": "Pentagon bans US forces from using military info to bet in prediction markets",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792713042000
-    },
-    {
-      "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
-      "pubDate": 1792709016000
-    },
-    {
-      "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know",
-      "pubDate": 1792707706000
     }
   ]
 }
