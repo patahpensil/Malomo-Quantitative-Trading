@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792858284831,
+  "generatedAt": 1792868186992,
   "articles": [
+    {
+      "title": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381775/google-quietly-updates-privacy-policy-gmail-photos-ads",
+      "pubDate": 1792861262000
+    },
     {
       "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
       "source": "Decrypt",
@@ -53,7 +59,7 @@
     {
       "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
       "source": "CoinDesk",
-      "link": "https://www.coindesk.com/",
+      "link": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
       "pubDate": 1792850400000
     },
     {
@@ -355,12 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1792739753000
-    },
-    {
-      "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792739379000
     }
   ]
 }
