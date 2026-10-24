@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792806829758,
+  "generatedAt": 1792825760707,
   "articles": [
+    {
+      "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+      "pubDate": 1792817143000
+    },
     {
       "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
       "source": "Cointelegraph",
@@ -355,12 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/381644/chatgpt-messi-chess-board-wrong-loses-in-four-moves",
       "pubDate": 1792701558000
-    },
-    {
-      "title": "a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381642/a16z-drops-crypto-widens-bets-ai-frontier-tech",
-      "pubDate": 1792698362000
     }
   ]
 }
