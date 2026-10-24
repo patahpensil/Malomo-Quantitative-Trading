@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792825760707,
+  "generatedAt": 1792843853863,
   "articles": [
+    {
+      "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
+      "pubDate": 1792843200000
+    },
     {
       "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
       "source": "CoinDesk",
@@ -355,12 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know",
       "pubDate": 1792707706000
-    },
-    {
-      "title": "ChatGPT Teaches Messi Chess—On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381644/chatgpt-messi-chess-board-wrong-loses-in-four-moves",
-      "pubDate": 1792701558000
     }
   ]
 }
