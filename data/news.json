@@ -1,7 +1,37 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792931327574,
+  "generatedAt": 1792946601793,
   "articles": [
+    {
+      "title": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks",
+      "pubDate": 1792944063000
+    },
+    {
+      "title": "ECB official sees digital euro as key to protecting EU ‘sovereignty’",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792941060000
+    },
+    {
+      "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus",
+      "pubDate": 1792940400000
+    },
+    {
+      "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
+      "pubDate": 1792936863000
+    },
+    {
+      "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
+      "pubDate": 1792933200000
+    },
     {
       "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
       "source": "Cointelegraph",
@@ -331,36 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1792750386000
-    },
-    {
-      "title": "Bybit secures first full Dubai license for spot trading services",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792749004000
-    },
-    {
-      "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
-      "pubDate": 1792745854000
-    },
-    {
-      "title": "Bitcoin in 'Wait and See Mode'—And That Might Be a Good Thing",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381666/bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing",
-      "pubDate": 1792745735000
-    },
-    {
-      "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792745254000
-    },
-    {
-      "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
-      "pubDate": 1792742555000
     }
   ]
 }
