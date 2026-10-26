@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1792965588207,
+  "generatedAt": 1792973072913,
   "articles": [
+    {
+      "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1792968520000
+    },
     {
       "title": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",
       "source": "Decrypt",
@@ -355,12 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
       "pubDate": 1792750976000
-    },
-    {
-      "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792750386000
     }
   ]
 }
