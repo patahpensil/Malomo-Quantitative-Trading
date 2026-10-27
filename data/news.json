@@ -1,7 +1,25 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793061796144,
+  "generatedAt": 1793081354810,
   "articles": [
+    {
+      "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
+      "pubDate": 1793075329000
+    },
+    {
+      "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793075211000
+    },
+    {
+      "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793066103000
+    },
     {
       "title": "Ripple wins final US approval for national trust bank",
       "source": "Cointelegraph",
@@ -343,24 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying",
       "pubDate": 1792999104000
-    },
-    {
-      "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
-      "pubDate": 1792993157000
-    },
-    {
-      "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
-      "pubDate": 1792991720000
-    },
-    {
-      "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792991613000
     }
   ]
 }
