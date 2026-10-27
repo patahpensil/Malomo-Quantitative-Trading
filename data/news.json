@@ -1,7 +1,37 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793050346824,
+  "generatedAt": 1793061796144,
   "articles": [
+    {
+      "title": "Ripple wins final US approval for national trust bank",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793059601000
+    },
+    {
+      "title": "Cold Storage Goes South: bitcoin++ Announces Antarctica Edition",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/cold-storage-bitcoin-antarctica",
+      "pubDate": 1793059204000
+    },
+    {
+      "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
+      "pubDate": 1793052963000
+    },
+    {
+      "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price",
+      "pubDate": 1793051162000
+    },
+    {
+      "title": "US OCC calls on community banks to become payment stablecoin issuers",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793050710000
+    },
     {
       "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
       "source": "Cointelegraph",
@@ -225,12 +255,6 @@
       "pubDate": 1793020929000
     },
     {
-      "title": "PHP Hack: How Bitcoin Will Respond to the “Cyber Pandemic”",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/php-hack-how-bitcoin-will-respond-to-the-cyber-pandemic",
-      "pubDate": 1793020919000
-    },
-    {
       "title": "HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -337,30 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1792991613000
-    },
-    {
-      "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
-      "pubDate": 1792989422000
-    },
-    {
-      "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792984886000
-    },
-    {
-      "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
-      "pubDate": 1792984299000
-    },
-    {
-      "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1792981444000
     }
   ]
 }
