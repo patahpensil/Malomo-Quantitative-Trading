@@ -1,7 +1,139 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793124793906,
+  "generatedAt": 1793140371876,
   "articles": [
+    {
+      "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793136502000
+    },
+    {
+      "title": "Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793136401000
+    },
+    {
+      "title": "China's Stock Market Has Lost $2.4 Trillion as Investors Doubt Its AI Boom Will Ever Pay Off",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381992/china-stock-market-lost-2-4-trillion-investors-doubt-ai-boom",
+      "pubDate": 1793135762000
+    },
+    {
+      "title": "Robinhood Misses Q3 Earnings as Crypto Revenue Rises and Prediction Market Bets Grow",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382004/robinhood-misses-q3-earnings-crypto-prediction-markets",
+      "pubDate": 1793133731000
+    },
+    {
+      "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
+      "pubDate": 1793133693000
+    },
+    {
+      "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793133199000
+    },
+    {
+      "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales",
+      "pubDate": 1793133141000
+    },
+    {
+      "title": "Robinhood Taps Ripple's Stablecoin, Treasury Software and Trading Loans",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382002/robinhood-taps-ripple-stablecoin-treasury-software-trading-loans",
+      "pubDate": 1793132162000
+    },
+    {
+      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793130845000
+    },
+    {
+      "title": "Bitcoin Price Rests Near $80,500 as Midterms, Fed Decision Loom",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-rests-near-80500-midterms",
+      "pubDate": 1793130528000
+    },
+    {
+      "title": "Anchorage Positions Itself as Custody Backbone of US-Mexico Stablecoin Corridor",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381988/anchorage-custody-backbone-us-mexico-stablecoin-corridor",
+      "pubDate": 1793130362000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793129773000
+    },
+    {
+      "title": "CFTC sues Utah to block action against prediction markets",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793128919000
+    },
+    {
+      "title": "VanEck Launches All-in-One Wealth Builder ETF With Bitcoin Exposure",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/vaneck-builder-etf-with-bitcoin-exposure",
+      "pubDate": 1793128686000
+    },
+    {
+      "title": "AI Agents Are Creating a New Layer of Cybersecurity Spending",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381987/ai-agents-creating-new-layer-cybersecurity-spending",
+      "pubDate": 1793128563000
+    },
+    {
+      "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
+      "pubDate": 1793128079000
+    },
+    {
+      "title": "27-Year-Old Missouri Man Admits Role in Failed Bitcoin Kidnapping Plot",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/man-admits-role-in-failed-bitcoin-plot",
+      "pubDate": 1793127189000
+    },
+    {
+      "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381998/intel-oracle-ibm-join-objections-okx-ice-tokenized-stock-total-26",
+      "pubDate": 1793126762000
+    },
+    {
+      "title": "CFTC Again Probes Polymarket Over Whether It Let Americans Trade",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/cftc-reopens-questions-about-polymarkets",
+      "pubDate": 1793125756000
+    },
+    {
+      "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381983/bitcoin-wallet-keystone-devices-destroyed-stolen-key",
+      "pubDate": 1793124962000
+    },
+    {
+      "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
+      "pubDate": 1793124782000
+    },
+    {
+      "title": "Majority of Americans want candidates who support US-based financial technology: Poll",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793124480000
+    },
     {
       "title": "Next Week’s Midterms Could Stall the CLARITY Act and Test Crypto’s Political Clout: TD Cowen",
       "source": "Bitcoin Magazine",
@@ -111,28 +243,10 @@
       "pubDate": 1793107325000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793107044000
-    },
-    {
-      "title": "Bitcoin Security Expert Jameson Lopp: Cyberattacks on “Exponential” Path",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/bitcoin-security-expert-jameson-lopp-cyberattacks-on-exponential-path",
-      "pubDate": 1793107016000
-    },
-    {
       "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
       "pubDate": 1793106830000
-    },
-    {
-      "title": "UTXO’s Duke Waldrop: Bank of Japan “Liquidity Shock” Could Impact Bitcoin",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/utxos-duke-waldrop-bank-of-japan-liquidity-shock-could-impact-bitcoin",
-      "pubDate": 1793106765000
     },
     {
       "title": "Hayes details FLOP’s AI compute derivatives vision after selling his altcoins",
@@ -177,7 +291,7 @@
       "pubDate": 1793101611000
     },
     {
-      "title": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital",
+      "title": "Live updates: Bitcoin edges higher as Nasdaq surges 1.2%",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
       "pubDate": 1793101250000
@@ -205,12 +319,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
       "pubDate": 1793098671000
-    },
-    {
-      "title": "Now Accepting Bitcoin: 425 Los Angeles Bitcoin Merchants featuring Café de Leche",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/los-angeles-bitcoin-425",
-      "pubDate": 1793097840000
     },
     {
       "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
@@ -253,114 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
       "pubDate": 1793087044000
-    },
-    {
-      "title": "Bitcoin ETFs claw back $110M after $774M exit",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793086537000
-    },
-    {
-      "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
-      "pubDate": 1793084996000
-    },
-    {
-      "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
-      "pubDate": 1793081681000
-    },
-    {
-      "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
-      "pubDate": 1793075329000
-    },
-    {
-      "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793075211000
-    },
-    {
-      "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793066103000
-    },
-    {
-      "title": "Ripple wins final US approval for national trust bank",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793059601000
-    },
-    {
-      "title": "Cold Storage Goes South: bitcoin++ Announces Antarctica Edition",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/cold-storage-bitcoin-antarctica",
-      "pubDate": 1793059204000
-    },
-    {
-      "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
-      "pubDate": 1793052963000
-    },
-    {
-      "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price",
-      "pubDate": 1793051162000
-    },
-    {
-      "title": "US OCC calls on community banks to become payment stablecoin issuers",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793050710000
-    },
-    {
-      "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793049812000
-    },
-    {
-      "title": "Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381871/unitree-stock-jumps-investors-bet-chatbot-ai-robots-brain",
-      "pubDate": 1793049363000
-    },
-    {
-      "title": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
-      "pubDate": 1793046963000
-    },
-    {
-      "title": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381862/south-korea-arrests-seven-first-big-ai-hacking-case",
-      "pubDate": 1793045162000
-    },
-    {
-      "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793044060000
-    },
-    {
-      "title": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381860/ai-agents-hack-anthropic-business-systems-12-hours",
-      "pubDate": 1793043062000
-    },
-    {
-      "title": "Why Prediction Markets Got the Brazilian Election So Wrong",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381858/why-prediction-markets-got-brazilian-election-wrong",
-      "pubDate": 1793040363000
     }
   ]
 }
