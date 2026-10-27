@@ -1,7 +1,163 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793104576711,
+  "generatedAt": 1793124793906,
   "articles": [
+    {
+      "title": "Next Week’s Midterms Could Stall the CLARITY Act and Test Crypto’s Political Clout: TD Cowen",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/politics/next-weeks-midterm-elections-crypto",
+      "pubDate": 1793123298000
+    },
+    {
+      "title": "Circle Pushes Deeper Into Latin America With USDC Settlement in Colombia",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381982/circle-pushes-deeper-latin-america-usdc-settlement-colombia",
+      "pubDate": 1793123118000
+    },
+    {
+      "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
+      "pubDate": 1793120347000
+    },
+    {
+      "title": "A $3M Hedge, a Midterm Test and Retail's Rise: Prediction Markets at NEXTPredict",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381955/a-3m-hedge-a-midterm-test-and-retails-rise-prediction-markets-at-nextpredict",
+      "pubDate": 1793120024000
+    },
+    {
+      "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions",
+      "pubDate": 1793119993000
+    },
+    {
+      "title": "Ten Decrees: Old Masters, New Money",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/culture/ten-decrees-old-masters-new-money",
+      "pubDate": 1793119343000
+    },
+    {
+      "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793119035000
+    },
+    {
+      "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
+      "pubDate": 1793118929000
+    },
+    {
+      "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793116798000
+    },
+    {
+      "title": "SoFi Stock (SOFI) Soars 15% on Record Quarter, Crypto Reaches 503,000 Products",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/sofi-stock-sofi-soars-15-on-record-quarter",
+      "pubDate": 1793116617000
+    },
+    {
+      "title": "Crypto Midterm Election Spending Reaches $176 Million as Industry Builds for the Next Congress",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/crypto-midterm-spending-176-million",
+      "pubDate": 1793111687000
+    },
+    {
+      "title": "McDonald's McRib Doesn't Actually Boost Bitcoin's Price, Sorry Everyone",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381909/mcdonalds-mcrib-doesnt-actually-boost-bitcoins-price-sorry-everyone",
+      "pubDate": 1793111462000
+    },
+    {
+      "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
+      "pubDate": 1793110870000
+    },
+    {
+      "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
+      "pubDate": 1793109600000
+    },
+    {
+      "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale AI Compute Trading and Hardware",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-mining-firm-luxor-16-million",
+      "pubDate": 1793109212000
+    },
+    {
+      "title": "Polymarket Has Investigated 'Dozens' of Midterm Election Bets: Report",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381936/polymarket-has-investigated-dozens-of-midterm-election-bets-report",
+      "pubDate": 1793109178000
+    },
+    {
+      "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793107800000
+    },
+    {
+      "title": "Deloitte’s Rob Massey: What Bitcoin Investors Need to Know About The Changing IRS Tax Guidance",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/deloittes-rob-massey-what-bitcoin-investors-need-to-know-about-the-changing-irs-tax-guidance",
+      "pubDate": 1793107325000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793107044000
+    },
+    {
+      "title": "Bitcoin Security Expert Jameson Lopp: Cyberattacks on “Exponential” Path",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/bitcoin-security-expert-jameson-lopp-cyberattacks-on-exponential-path",
+      "pubDate": 1793107016000
+    },
+    {
+      "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
+      "pubDate": 1793106830000
+    },
+    {
+      "title": "UTXO’s Duke Waldrop: Bank of Japan “Liquidity Shock” Could Impact Bitcoin",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/utxos-duke-waldrop-bank-of-japan-liquidity-shock-could-impact-bitcoin",
+      "pubDate": 1793106765000
+    },
+    {
+      "title": "Hayes details FLOP’s AI compute derivatives vision after selling his altcoins",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/hayes-flop-ai-compute-vision-selling-altcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793106070000
+    },
+    {
+      "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute",
+      "pubDate": 1793106068000
+    },
+    {
+      "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793106060000
+    },
+    {
+      "title": "Morning Minute: Tokenized Stock Battle Looms Over Robinhood’s Earnings Call",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/381907/morning-minute-tokenized-stock-battle-looms-over-robinhoods-earnings-call",
+      "pubDate": 1793105998000
+    },
     {
       "title": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant",
       "source": "Cointelegraph",
@@ -21,7 +177,7 @@
       "pubDate": 1793101611000
     },
     {
-      "title": "Live updates: Bitcoin holds below $80,000 as AI buildout draws investor attention and capital",
+      "title": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
       "pubDate": 1793101250000
@@ -117,12 +273,6 @@
       "pubDate": 1793081681000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793081308000
-    },
-    {
       "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
@@ -183,12 +333,6 @@
       "pubDate": 1793049363000
     },
     {
-      "title": "Blink Wallet Adds Inactivity Fee to Custodial Accounts, Accelerating Migration to Self Custody",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/business/blink-wallet-adds-inactivity-fee-to-custodial-accounts-accelerating-migration-to-self-custody",
-      "pubDate": 1793049263000
-    },
-    {
       "title": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
       "source": "Decrypt",
       "link": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
@@ -213,154 +357,10 @@
       "pubDate": 1793043062000
     },
     {
-      "title": "Coinbase Institutional Co-CEO: Bitcoin’s “Second Wave” of Institutional Capital has Arrived",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/coinbase-institutional-co-ceo-bitcoins-second-wave-of-institutional-capital-has-arrived",
-      "pubDate": 1793042648000
-    },
-    {
       "title": "Why Prediction Markets Got the Brazilian Election So Wrong",
       "source": "Decrypt",
       "link": "https://decrypt.co/381858/why-prediction-markets-got-brazilian-election-wrong",
       "pubDate": 1793040363000
-    },
-    {
-      "title": "AI company Anthropic announces IPO, expected as early as November",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793040161000
-    },
-    {
-      "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381848/spacex-40-billion-ai-chips-elon-musk-warns-most-neoclouds-will-die",
-      "pubDate": 1793038562000
-    },
-    {
-      "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793036769000
-    },
-    {
-      "title": "Bitcoin Price Hovers Near $80,000 as Traders Await Fed Decision",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-hovers-around-80000",
-      "pubDate": 1793036598000
-    },
-    {
-      "title": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
-      "pubDate": 1793036481000
-    },
-    {
-      "title": "India’s CoinDCX Confirms $16 Million Loss Days After CEO Called It a ‘False Alarm’",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381834/india-coindcx-confirms-16-million-loss-ceo-called-false-alarm",
-      "pubDate": 1793032563000
-    },
-    {
-      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793031489000
-    },
-    {
-      "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
-      "pubDate": 1793030712000
-    },
-    {
-      "title": "Brazil’s Stock Market Crashes After Lula’s Upset Victory",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381828/brazil-stock-market-crashes-lula-upset-victory",
-      "pubDate": 1793030691000
-    },
-    {
-      "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
-      "pubDate": 1793030395000
-    },
-    {
-      "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793030055000
-    },
-    {
-      "title": "OCC calls on community banks to enter the stablecoin payments market",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-      "pubDate": 1793029551000
-    },
-    {
-      "title": "Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/strategy-mstr-pauses-bitcoin-buying-205",
-      "pubDate": 1793029193000
-    },
-    {
-      "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
-      "pubDate": 1793028963000
-    },
-    {
-      "title": "'Privacy Horror’: Researcher Uncovers Extent of Samsung Smart TV User Tracking",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381801/privacy-horror-researcher-uncovers-extent-of-samsung-smart-tv-user-tracking",
-      "pubDate": 1793026802000
-    },
-    {
-      "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
-      "pubDate": 1793026267000
-    },
-    {
-      "title": "Bitcoin’s Bear Market Is Over, Galaxy Says",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/bitcoins-bear-market-is-over-galaxy-says",
-      "pubDate": 1793025880000
-    },
-    {
-      "title": "PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793024722000
-    },
-    {
-      "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
-      "pubDate": 1793024621000
-    },
-    {
-      "title": "South Korea Weighs Fourth Delay of Crypto Tax, With 2029 Start Tied to U.S. Data Sharing",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/south-korea-weighs-fourth-delay-crypto-tax",
-      "pubDate": 1793023587000
-    },
-    {
-      "title": "Anthropic Makes IPO Filing Public, Plans Nasdaq Listing Under ‘ANT’",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381818/anthropic-makes-ipo-filing-public-plans-nasdaq-listing-under-ant",
-      "pubDate": 1793022622000
-    },
-    {
-      "title": "Leon Wankum: The Insane Math Behind Bitcoin Demonetizing Real Estate",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/leon-wankum-the-insane-math-behind-bitcoin-demonetizing-real-estate",
-      "pubDate": 1793021848000
-    },
-    {
-      "title": "Blockstream Executive Peter Bain: Institutional Clients Say Bitcoin “Poised for a Big Bull Run”",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/blockstream-executive-peter-bain-institutional-clients-say-bitcoin-poised-for-a-big-bull-run",
-      "pubDate": 1793021467000
     }
   ]
 }
