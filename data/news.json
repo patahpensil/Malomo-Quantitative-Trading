@@ -1,12 +1,210 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793172005129,
+  "generatedAt": 1793197379616,
   "articles": [
+    {
+      "title": "U.S. Treasury Says U.S. ‘Will Win in the Digital Asset Stack’ as Clarity Act Stalls",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/treasury-says-win-in-the-digital-asset",
+      "pubDate": 1793196876000
+    },
+    {
+      "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793195271000
+    },
+    {
+      "title": "Brazilian Banking Giant Itaú Formalizes Crypto Role as Brazil Closes Its Licensing Window",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/brazilian-banking-giant-itau-crypto",
+      "pubDate": 1793195201000
+    },
+    {
+      "title": "Luxor Announces $16M Funding Round to Scale AI Compute, Derivatives",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/luxor-announces-16m-funding-round-to-scale-ai-compute-derivatives",
+      "pubDate": 1793194938000
+    },
+    {
+      "title": "House Oversight Chair Comer Probes Delaware Plan for AI-Run Companies",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382035/house-oversight-chair-comer-probes-delaware-plan-for-ai-run-companies",
+      "pubDate": 1793194688000
+    },
     {
       "title": "Here’s what happened in crypto today",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793167200000
+      "pubDate": 1793194544000
+    },
+    {
+      "title": "Galaxy Asset Management: “Now Is The Time” to Buy Bitcoin",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/galaxy-asset-management-now-is-the-time-to-buy-bitcoin",
+      "pubDate": 1793194526000
+    },
+    {
+      "title": "Samara Asset Group CEO: Bitcoin Treasury Companies a “Disservice to Shareholders”",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/samara-asset-group-ceo-bitcoin-treasury-companies-a-disservice-to-shareholders",
+      "pubDate": 1793194212000
+    },
+    {
+      "title": "Cybersecurity’s Black October: How to protect yourself",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793194200000
+    },
+    {
+      "title": "Bitcoin Price “Climbing the Wall of Worry” – Early Signs of Bull Market | Michael Sullivan",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/bitcoin-price-climbing-the-wall-of-worry-early-signs-of-bull-market-michael-sullivan",
+      "pubDate": 1793193897000
+    },
+    {
+      "title": "BTC Hash Ribbon Signal Flipped: Bitcoin Miners Show the Bottom Might Be In",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/btc-hash-ribbon-signal-flipped-bitcoin-miners-show-the-bottom-might-be-in",
+      "pubDate": 1793193624000
+    },
+    {
+      "title": "DTCC unit launches tokenization services",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/dtcc-subsidiary-launches-tokenization-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793193540000
+    },
+    {
+      "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+      "pubDate": 1793193277000
+    },
+    {
+      "title": "Goldman, BlackRock Alumni Raise $4 Million to Put Farm and Apartment Loans Onchain",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382007/goldman-blackrock-alumni-raise-4-million-loans-onchain",
+      "pubDate": 1793192462000
+    },
+    {
+      "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized tock trading plan",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
+      "pubDate": 1793192376000
+    },
+    {
+      "title": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval",
+      "pubDate": 1793189790000
+    },
+    {
+      "title": "Morning Minute: Robinhood Misses, But Crypto Beats and Robinhood Chain Soars",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382029/morning-minute-robinhood-misses-but-crypto-beats-and-robinhood-chain-soars",
+      "pubDate": 1793189096000
+    },
+    {
+      "title": "Dissent and more: 3 things to watch for at the Fed meeting",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting",
+      "pubDate": 1793188646000
+    },
+    {
+      "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
+      "pubDate": 1793188334000
+    },
+    {
+      "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+      "pubDate": 1793187151000
+    },
+    {
+      "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793186647000
+    },
+    {
+      "title": "Live updates: Bitcoin sheds early gains, with Fed decision looming",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
+      "pubDate": 1793186614000
+    },
+    {
+      "title": "Mirae Asset Securities issues tokenized notes on Solana",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793185533000
+    },
+    {
+      "title": "Google to preview crypto custody security system as AI threats grow",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
+      "pubDate": 1793185200000
+    },
+    {
+      "title": "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data",
+      "pubDate": 1793185049000
+    },
+    {
+      "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
+      "pubDate": 1793184111000
+    },
+    {
+      "title": "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds ‘Not Impacted’",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
+      "pubDate": 1793182231000
+    },
+    {
+      "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
+      "pubDate": 1793182074000
+    },
+    {
+      "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound",
+      "pubDate": 1793181565000
+    },
+    {
+      "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793181360000
+    },
+    {
+      "title": "Here's how much bitcoin and the S&P 500 could rally after midterms",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
+      "pubDate": 1793178922000
+    },
+    {
+      "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
+      "pubDate": 1793178000000
+    },
+    {
+      "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793174238000
+    },
+    {
+      "title": "Coinbase denies systems breach, says vendor exposed customer data",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793173375000
     },
     {
       "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
@@ -153,12 +351,6 @@
       "pubDate": 1793126762000
     },
     {
-      "title": "CFTC Again Probes Polymarket Over Whether It Let Americans Trade",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/cftc-reopens-questions-about-polymarkets",
-      "pubDate": 1793125756000
-    },
-    {
       "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
       "source": "Decrypt",
       "link": "https://decrypt.co/381983/bitcoin-wallet-keystone-devices-destroyed-stolen-key",
@@ -169,198 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
       "pubDate": 1793124782000
-    },
-    {
-      "title": "Majority of Americans want candidates who support US-based financial technology: Poll",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793124480000
-    },
-    {
-      "title": "Next Week’s Midterms Could Stall the CLARITY Act and Test Crypto’s Political Clout: TD Cowen",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/politics/next-weeks-midterm-elections-crypto",
-      "pubDate": 1793123298000
-    },
-    {
-      "title": "Circle Pushes Deeper Into Latin America With USDC Settlement in Colombia",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381982/circle-pushes-deeper-latin-america-usdc-settlement-colombia",
-      "pubDate": 1793123118000
-    },
-    {
-      "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
-      "pubDate": 1793120347000
-    },
-    {
-      "title": "A $3M Hedge, a Midterm Test and Retail's Rise: Prediction Markets at NEXTPredict",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381955/a-3m-hedge-a-midterm-test-and-retails-rise-prediction-markets-at-nextpredict",
-      "pubDate": 1793120024000
-    },
-    {
-      "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions",
-      "pubDate": 1793119993000
-    },
-    {
-      "title": "Ten Decrees: Old Masters, New Money",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/culture/ten-decrees-old-masters-new-money",
-      "pubDate": 1793119343000
-    },
-    {
-      "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793119035000
-    },
-    {
-      "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
-      "pubDate": 1793118929000
-    },
-    {
-      "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793116798000
-    },
-    {
-      "title": "SoFi Stock (SOFI) Soars 15% on Record Quarter, Crypto Reaches 503,000 Products",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/sofi-stock-sofi-soars-15-on-record-quarter",
-      "pubDate": 1793116617000
-    },
-    {
-      "title": "Crypto Midterm Election Spending Reaches $176 Million as Industry Builds for the Next Congress",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/crypto-midterm-spending-176-million",
-      "pubDate": 1793111687000
-    },
-    {
-      "title": "McDonald's McRib Doesn't Actually Boost Bitcoin's Price, Sorry Everyone",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381909/mcdonalds-mcrib-doesnt-actually-boost-bitcoins-price-sorry-everyone",
-      "pubDate": 1793111462000
-    },
-    {
-      "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
-      "pubDate": 1793110870000
-    },
-    {
-      "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
-      "pubDate": 1793109600000
-    },
-    {
-      "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale AI Compute Trading and Hardware",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-mining-firm-luxor-16-million",
-      "pubDate": 1793109212000
-    },
-    {
-      "title": "Polymarket Has Investigated 'Dozens' of Midterm Election Bets: Report",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381936/polymarket-has-investigated-dozens-of-midterm-election-bets-report",
-      "pubDate": 1793109178000
-    },
-    {
-      "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793107800000
-    },
-    {
-      "title": "Deloitte’s Rob Massey: What Bitcoin Investors Need to Know About The Changing IRS Tax Guidance",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/deloittes-rob-massey-what-bitcoin-investors-need-to-know-about-the-changing-irs-tax-guidance",
-      "pubDate": 1793107325000
-    },
-    {
-      "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
-      "pubDate": 1793106830000
-    },
-    {
-      "title": "Hayes details FLOP’s AI compute derivatives vision after selling his altcoins",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/hayes-flop-ai-compute-vision-selling-altcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793106070000
-    },
-    {
-      "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute",
-      "pubDate": 1793106068000
-    },
-    {
-      "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793106060000
-    },
-    {
-      "title": "Morning Minute: Tokenized Stock Battle Looms Over Robinhood’s Earnings Call",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381907/morning-minute-tokenized-stock-battle-looms-over-robinhoods-earnings-call",
-      "pubDate": 1793105998000
-    },
-    {
-      "title": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793103504000
-    },
-    {
-      "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
-      "pubDate": 1793102439000
-    },
-    {
-      "title": "Why This Team of Ninjas Is Tripling Down on Mining Bitcoin",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381906/why-this-team-of-ninjas-is-tripling-down-on-mining-bitcoin",
-      "pubDate": 1793101611000
-    },
-    {
-      "title": "Live updates: Bitcoin edges higher as Nasdaq surges 1.2%",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
-      "pubDate": 1793101250000
-    },
-    {
-      "title": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
-      "pubDate": 1793101072000
-    },
-    {
-      "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
-      "pubDate": 1793100765000
-    },
-    {
-      "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
-      "pubDate": 1793099634000
-    },
-    {
-      "title": "Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
-      "pubDate": 1793098671000
     }
   ]
 }
