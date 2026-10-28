@@ -1,7 +1,49 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793216854895,
+  "generatedAt": 1793231880652,
   "articles": [
+    {
+      "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
+      "pubDate": 1793223962000
+    },
+    {
+      "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793223352000
+    },
+    {
+      "title": "Chip Maker SK Hynix Posts Record Quarter as AI Memory Demand Overwhelms Supply",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382114/sk-hynix-record-quarter-ai-memory-demand",
+      "pubDate": 1793222163000
+    },
+    {
+      "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
+      "pubDate": 1793222024000
+    },
+    {
+      "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
+      "pubDate": 1793218563000
+    },
+    {
+      "title": "Bitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-81500-fed",
+      "pubDate": 1793217788000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793216805000
+    },
     {
       "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
       "source": "Decrypt",
@@ -171,12 +213,6 @@
       "pubDate": 1793194688000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793194544000
-    },
-    {
       "title": "Galaxy Asset Management: “Now Is The Time” to Buy Bitcoin",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/videos/galaxy-asset-management-now-is-the-time-to-buy-bitcoin",
@@ -193,12 +229,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1793194200000
-    },
-    {
-      "title": "Bitcoin Price “Climbing the Wall of Worry” – Early Signs of Bull Market | Michael Sullivan",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/bitcoin-price-climbing-the-wall-of-worry-early-signs-of-bull-market-michael-sullivan",
-      "pubDate": 1793193897000
     },
     {
       "title": "DTCC unit launches tokenization services",
@@ -261,7 +291,7 @@
       "pubDate": 1793186647000
     },
     {
-      "title": "Live updates: Bitcoin trading just above $80,000 as Fed delivers hold on rates",
+      "title": "Live updates: Bitcoin trading just above $81,000 as Fed delivers hold on rates",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
       "pubDate": 1793186614000
@@ -331,36 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1793174238000
-    },
-    {
-      "title": "Coinbase denies systems breach, says vendor exposed customer data",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793173375000
-    },
-    {
-      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
-      "pubDate": 1793165293000
-    },
-    {
-      "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
-      "pubDate": 1793164236000
-    },
-    {
-      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
-      "pubDate": 1793160920000
-    },
-    {
-      "title": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793159757000
     }
   ]
 }
