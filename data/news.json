@@ -1,7 +1,49 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793151377467,
+  "generatedAt": 1793172005129,
   "articles": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793167200000
+    },
+    {
+      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
+      "pubDate": 1793165293000
+    },
+    {
+      "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
+      "pubDate": 1793164236000
+    },
+    {
+      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
+      "pubDate": 1793160920000
+    },
+    {
+      "title": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793159757000
+    },
+    {
+      "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+      "pubDate": 1793157074000
+    },
+    {
+      "title": "Bithumb discloses data leak after internal system breach: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793153927000
+    },
     {
       "title": "Discord is making public chats searchable on Google: How to opt out",
       "source": "Cointelegraph",
@@ -73,12 +115,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/381988/anchorage-custody-backbone-us-mexico-stablecoin-corridor",
       "pubDate": 1793130362000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793129773000
     },
     {
       "title": "CFTC sues Utah to block action against prediction markets",
@@ -325,42 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
       "pubDate": 1793098671000
-    },
-    {
-      "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin",
-      "pubDate": 1793096206000
-    },
-    {
-      "title": "Zcash co-founder calls to stop funding ‘over $125M’ grants program",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793095231000
-    },
-    {
-      "title": "Now is the time to accumulate bitcoin, Galaxy says",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
-      "pubDate": 1793094166000
-    },
-    {
-      "title": "Bloom bot hackers loot $953K faster than you can microwave popcorn",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793092057000
-    },
-    {
-      "title": "An AI label alone no longer wins lenders, JPMorgan says",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says",
-      "pubDate": 1793089479000
-    },
-    {
-      "title": "Binance files for Brazil crypto license ahead of Friday deadline",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793088261000
     }
   ]
 }
