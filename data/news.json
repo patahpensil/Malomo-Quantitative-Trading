@@ -1,7 +1,49 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793231880652,
+  "generatedAt": 1793251964017,
   "articles": [
+    {
+      "title": "Ethereum clients patch flaw that could let attackers redirect ETH rewards",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
+      "pubDate": 1793251834000
+    },
+    {
+      "title": "Utah charges predictions platform Kalshi with illegal gambling",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling",
+      "pubDate": 1793250157000
+    },
+    {
+      "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793248789000
+    },
+    {
+      "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
+      "pubDate": 1793244763000
+    },
+    {
+      "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
+      "pubDate": 1793244084000
+    },
+    {
+      "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793243792000
+    },
+    {
+      "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793236321000
+    },
     {
       "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
       "source": "Decrypt",
@@ -37,12 +79,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-81500-fed",
       "pubDate": 1793217788000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793216805000
     },
     {
       "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
@@ -325,42 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
       "pubDate": 1793182231000
-    },
-    {
-      "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
-      "pubDate": 1793182074000
-    },
-    {
-      "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound",
-      "pubDate": 1793181565000
-    },
-    {
-      "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793181360000
-    },
-    {
-      "title": "Here's how much bitcoin and the S&P 500 could rally after midterms",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
-      "pubDate": 1793178922000
-    },
-    {
-      "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
-      "pubDate": 1793178000000
-    },
-    {
-      "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793174238000
     }
   ]
 }
