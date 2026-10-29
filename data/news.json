@@ -1,7 +1,79 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793298188077,
+  "generatedAt": 1793314518995,
   "articles": [
+    {
+      "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793313067000
+    },
+    {
+      "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
+      "pubDate": 1793309784000
+    },
+    {
+      "title": "Binance hit by $5.8B hack as Tether and Circle freeze billions",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793309076000
+    },
+    {
+      "title": "Binance loses $5.7 billion in largest crypto hack to date",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+      "pubDate": 1793308365000
+    },
+    {
+      "title": "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains",
+      "pubDate": 1793306803000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793303937000
+    },
+    {
+      "title": "Public companies double share of blockchain revenue since 2022: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793303594000
+    },
+    {
+      "title": "Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382183/chrome-pull-details-from-your-gmail-web-forms",
+      "pubDate": 1793303162000
+    },
+    {
+      "title": "Polymarket suspended trading amid reports of user funds being drained",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793301783000
+    },
+    {
+      "title": "Polymarket suspends trading after third-party breach leads to user losses",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
+      "pubDate": 1793300135000
+    },
+    {
+      "title": "Polymarket Pauses Trading as Prediction Market Investigates Security Incident",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382185/polymarket-pauses-trading-prediction-market-security-incident",
+      "pubDate": 1793300024000
+    },
+    {
+      "title": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382181/hackers-publish-work-details-homeland-security-employees",
+      "pubDate": 1793299562000
+    },
     {
       "title": "FutureBit Apollo Solo Miner Finds Bitcoin Block 973262, Earning 3.154 BTC",
       "source": "Bitcoin Magazine",
@@ -159,12 +231,6 @@
       "pubDate": 1793282142000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793281866000
-    },
-    {
       "title": "Crypto Exchange HTX Agrees to Leave UK in Settlement With FCA",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/crypto-exchange-htx-agrees-to-leave-uk",
@@ -279,18 +345,6 @@
       "pubDate": 1793275200000
     },
     {
-      "title": "Coinbase seeks Brazil crypto license, expects no service disruption",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/coinbase-brazil-license-no-service-disruption-expected?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793275200000
-    },
-    {
-      "title": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793275200000
-    },
-    {
       "title": "Treasury Sanctions 11 Over North Korean IT Worker Scheme That Moved Millions in Crypto",
       "source": "Decrypt",
       "link": "https://decrypt.co/382132/treasury-sanctions-11-over-north-korean-it-worker-scheme-that-moved-millions-in-crypto",
@@ -307,60 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s",
       "pubDate": 1793272285000
-    },
-    {
-      "title": "Utah Files Felony Charges Against Kalshi, Co-Founders Over Sports Bets",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382124/utah-files-felony-charges-against-kalshi-co-founders-over-sports-bets",
-      "pubDate": 1793272000000
-    },
-    {
-      "title": "Cathie Wood’s ARK buys the dip on Robinhood in its largest purchase in 6 months after 23% slump",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/29/cathie-wood-s-ark-buys-the-dip-on-robinhood-in-its-largest-purchase-in-6-months-after-23-slump",
-      "pubDate": 1793271070000
-    },
-    {
-      "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793270803000
-    },
-    {
-      "title": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline",
-      "pubDate": 1793270688000
-    },
-    {
-      "title": "Live updates: Bitcoin gives up gains as Nasdaq slides to session low",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
-      "pubDate": 1793270499000
-    },
-    {
-      "title": "ECB President Christine Lagarde to step down in February 2027",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ecb-president-lagarde-step-down-february-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793269980000
-    },
-    {
-      "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
-      "pubDate": 1793268276000
-    },
-    {
-      "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
-      "pubDate": 1793223962000
-    },
-    {
-      "title": "Chip Maker SK Hynix Posts Record Quarter as AI Memory Demand Overwhelms Supply",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382114/sk-hynix-record-quarter-ai-memory-demand",
-      "pubDate": 1793222163000
     }
   ]
 }
