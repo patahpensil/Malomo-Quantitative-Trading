@@ -1,7 +1,97 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793327418985,
+  "generatedAt": 1793350549656,
   "articles": [
+    {
+      "title": "Live News: Binance hack rattles crypto as Intel plunges and AI spending fears hit tech",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
+      "pubDate": 1793349412000
+    },
+    {
+      "title": "Live updates: Binance $6.3B hack linked to North Korea’s TraderTraitor",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793347239000
+    },
+    {
+      "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
+      "pubDate": 1793346847000
+    },
+    {
+      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
+      "pubDate": 1793341320000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793340000000
+    },
+    {
+      "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793339587000
+    },
+    {
+      "title": "North Korea’s TraderTraitor linked to $6.3B Binance hack",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793339501000
+    },
+    {
+      "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
+      "pubDate": 1793339127000
+    },
+    {
+      "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
+      "pubDate": 1793338987000
+    },
+    {
+      "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
+      "pubDate": 1793335842000
+    },
+    {
+      "title": "Bitcoin Price Briefly Slides to $76,300 as Binance Confirms Hack Estimated at $6.3 Billion",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-price-slides-near-76000-binance",
+      "pubDate": 1793333140000
+    },
+    {
+      "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
+      "pubDate": 1793332843000
+    },
+    {
+      "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
+      "pubDate": 1793332600000
+    },
+    {
+      "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793332021000
+    },
+    {
+      "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
+      "pubDate": 1793331371000
+    },
     {
       "title": "Binance hack drained wallets backing customer assets, reserve data shows",
       "source": "CoinDesk",
@@ -9,7 +99,7 @@
       "pubDate": 1793319430000
     },
     {
-      "title": "Binance hack drained billions through private key ‘misuse’: Blockaid CEO",
+      "title": "Binance points to engineer’s hacked laptop in $6.3B breach",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1793319086000
@@ -51,13 +141,13 @@
       "pubDate": 1793309784000
     },
     {
-      "title": "Live updates: Binance says $3B in crypto frozen in connection to hack",
+      "title": "Binance investigates multibillion-dollar security breach",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1793309076000
     },
     {
-      "title": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
+      "title": "Binance loses over $6 billion in 'biggest crypto hack in history'",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
       "pubDate": 1793308365000
@@ -67,12 +157,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains",
       "pubDate": 1793306803000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793303937000
     },
     {
       "title": "Public companies double share of blockchain revenue since 2022: Report",
@@ -261,22 +345,10 @@
       "pubDate": 1793282400000
     },
     {
-      "title": "New quantum model slashes hardware needed to break bitcoin keys by 17 times",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times",
-      "pubDate": 1793282142000
-    },
-    {
       "title": "Crypto Exchange HTX Agrees to Leave UK in Settlement With FCA",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/crypto-exchange-htx-agrees-to-leave-uk",
       "pubDate": 1793281743000
-    },
-    {
-      "title": "Walmart, Eli Lilly join growing pushback against OKX–ICE tokenized stock plans",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/29/walmart-eli-lilly-join-growing-pushback-against-okx-ice-tokenized-stock-plans",
-      "pubDate": 1793281158000
     },
     {
       "title": "Understanding the Various Bitcoin Per Share Metrics",
@@ -289,78 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1793280600000
-    },
-    {
-      "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793280600000
-    },
-    {
-      "title": "Polygon Extends Its Stablecoin Payments Infrastructure to Solana",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/381850/polygon-stablecoin-payments-open-money-stack-solana",
-      "pubDate": 1793278862000
-    },
-    {
-      "title": "Polygon expands Open Money Stack to Solana, after Tron rollout",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793278800000
-    },
-    {
-      "title": "Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382138/justin-suns-htx-agrees-to-leave-uk-in-settlement-with-financial-watchdog",
-      "pubDate": 1793278708000
-    },
-    {
-      "title": "A new framework for tokenized asset tracking",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/opinion/2026/10/28/a-new-framework-for-tokenized-asset-tracking",
-      "pubDate": 1793278671000
-    },
-    {
-      "title": "Mosaic: The Art Hidden in Bitcoin",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/culture/mosaic-the-art-hidden-in-bitcoin",
-      "pubDate": 1793278412000
-    },
-    {
-      "title": "Tokenized stock venue on Canton could beat OKX–ICE to first trade under SEC framework",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/29/tokenized-stock-venue-on-canton-could-beat-okx-ice-to-first-trade-under-sec-framework",
-      "pubDate": 1793278308000
-    },
-    {
-      "title": "Senator Bill Hagerty: Expanding the U.S. Strategic Bitcoin Reserve, & the Future of Dollar Hegemony",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/senator-bill-hagerty-expanding-the-u-s-strategic-bitcoin-reserve-the-future-of-dollar-hegemony",
-      "pubDate": 1793277960000
-    },
-    {
-      "title": "Chainalysis traces North Korean crypto cash-outs through Garantex",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/chainalysis-dprk-crypto-cash-out-network-ofac-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793277483000
-    },
-    {
-      "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382135/morning-minute-hedge-funds-left-the-btc-etf-trade-and-sovereign-wealth-stepped-in",
-      "pubDate": 1793277038000
-    },
-    {
-      "title": "Unlimit founder backs Phase blockchain with $45M as mainnet launches",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/unlimit-founder-phase-blockchain-mainnet-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793277000000
-    },
-    {
-      "title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/29/u-s-sanctions-russian-crypto-middlemen-tied-to-north-korean-it-worker-fraud",
-      "pubDate": 1793276300000
     }
   ]
 }
