@@ -1,7 +1,43 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793314518995,
+  "generatedAt": 1793327418985,
   "articles": [
+    {
+      "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+      "pubDate": 1793319430000
+    },
+    {
+      "title": "Binance hack drained billions through private key ‘misuse’: Blockaid CEO",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793319086000
+    },
+    {
+      "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793316261000
+    },
+    {
+      "title": "Strategy (MSTR) Posts Record Operating Income as Bitcoin Rebounds in Q3 2026",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/strategy-posts-record-operating-income",
+      "pubDate": 1793315907000
+    },
+    {
+      "title": "Bitcoin Price Slides Below $79,000 as Binance Loses $5.8 Billion in Massive Hack",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-price-slides-binance",
+      "pubDate": 1793315197000
+    },
+    {
+      "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
+      "pubDate": 1793314668000
+    },
     {
       "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
       "source": "Cointelegraph",
@@ -15,13 +51,13 @@
       "pubDate": 1793309784000
     },
     {
-      "title": "Binance hit by $5.8B hack as Tether and Circle freeze billions",
+      "title": "Live updates: Binance says $3B in crypto frozen in connection to hack",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1793309076000
     },
     {
-      "title": "Binance loses $5.7 billion in largest crypto hack to date",
+      "title": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
       "pubDate": 1793308365000
@@ -321,46 +357,10 @@
       "pubDate": 1793277000000
     },
     {
-      "title": "HTX agrees to halt unlawful UK crypto promotions after FCA case",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/htx-halt-unlawful-uk-crypto-promotions-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793276427000
-    },
-    {
       "title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/29/u-s-sanctions-russian-crypto-middlemen-tied-to-north-korean-it-worker-fraud",
       "pubDate": 1793276300000
-    },
-    {
-      "title": "As $10 billion in bitcoin options near expiry, the tell is in the pricing",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing",
-      "pubDate": 1793275490000
-    },
-    {
-      "title": "EU investors rank crypto above retirement plans for lasting wealth creation: OKX survey",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/eu-investors-crypto-above-retirement-lasting-wealth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793275200000
-    },
-    {
-      "title": "Treasury Sanctions 11 Over North Korean IT Worker Scheme That Moved Millions in Crypto",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382132/treasury-sanctions-11-over-north-korean-it-worker-scheme-that-moved-millions-in-crypto",
-      "pubDate": 1793273571000
-    },
-    {
-      "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
-      "pubDate": 1793272308000
-    },
-    {
-      "title": "NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s",
-      "pubDate": 1793272285000
     }
   ]
 }
