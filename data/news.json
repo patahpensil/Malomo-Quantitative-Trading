@@ -1,7 +1,79 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793453552307,
+  "generatedAt": 1793469175620,
   "articles": [
+    {
+      "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
+      "pubDate": 1793462970000
+    },
+    {
+      "title": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
+      "pubDate": 1793462400000
+    },
+    {
+      "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793460961000
+    },
+    {
+      "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793460406000
+    },
+    {
+      "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
+      "pubDate": 1793460250000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793459395000
+    },
+    {
+      "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+      "pubDate": 1793458862000
+    },
+    {
+      "title": "Institutions embrace crypto staking despite shrinking yields",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
+      "pubDate": 1793458800000
+    },
+    {
+      "title": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
+      "pubDate": 1793457629000
+    },
+    {
+      "title": "Bitcoin turns 18: Has the original rebel grown up?",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793456872000
+    },
+    {
+      "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
+      "pubDate": 1793455200000
+    },
+    {
+      "title": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793453869000
+    },
     {
       "title": "Why AI Models Cheat: Reward Hacking, Explained",
       "source": "Decrypt",
@@ -207,12 +279,6 @@
       "pubDate": 1793369595000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793369262000
-    },
-    {
       "title": "Tyler Evans: Bitcoin ETF Flows Flipped From “Highly Negative” to “Strong Accumulation”",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/videos/tyler-evans-bitcoin-etf-flows-flipped-from-highly-negative-to-strong-accumulation",
@@ -295,72 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
       "pubDate": 1793360116000
-    },
-    {
-      "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793359763000
-    },
-    {
-      "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
-      "pubDate": 1793358564000
-    },
-    {
-      "title": "EIP-7702 didn’t cause Binance hack, but may have amplified losses",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793358010000
-    },
-    {
-      "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793357670000
-    },
-    {
-      "title": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
-      "pubDate": 1793354849000
-    },
-    {
-      "title": "THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/rune-token-surges-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793353949000
-    },
-    {
-      "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
-      "pubDate": 1793353267000
-    },
-    {
-      "title": "Binance Finds 'Additional Points of Breach' in $6.3B Hack",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382203/binance-finds-additional-points-of-breach-in-6-3b-hack",
-      "pubDate": 1793352719000
-    },
-    {
-      "title": "Trezor warns CryptoBilis buyers to move funds over suspected implant",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/trezor-cryptobilis-wallet-implant-funds-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793352405000
-    },
-    {
-      "title": "Live updates: Bitcoin falls below $77,000 as Binance exploit combines with tech woes",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
-      "pubDate": 1793349412000
-    },
-    {
-      "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
-      "pubDate": 1793346847000
     }
   ]
 }
