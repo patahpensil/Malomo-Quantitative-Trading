@@ -1,7 +1,43 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793429561187,
+  "generatedAt": 1793453552307,
   "articles": [
+    {
+      "title": "Why AI Models Cheat: Reward Hacking, Explained",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382274/why-ai-models-cheat-reward-hacking-explained",
+      "pubDate": 1793451663000
+    },
+    {
+      "title": "18 years in, what has Bitcoin truly done?",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
+      "pubDate": 1793451600000
+    },
+    {
+      "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
+      "pubDate": 1793450987000
+    },
+    {
+      "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion",
+      "pubDate": 1793448000000
+    },
+    {
+      "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793445769000
+    },
+    {
+      "title": "Binance $6.3B record hack sparks pre-election political clashes",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793440730000
+    },
     {
       "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
       "source": "CoinDesk",
@@ -325,42 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
       "pubDate": 1793346847000
-    },
-    {
-      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
-      "pubDate": 1793341320000
-    },
-    {
-      "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793339587000
-    },
-    {
-      "title": "North Korea’s TraderTraitor linked to $6.3B Binance hack",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793339501000
-    },
-    {
-      "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
-      "pubDate": 1793339127000
-    },
-    {
-      "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
-      "pubDate": 1793338987000
-    },
-    {
-      "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
-      "pubDate": 1793335842000
     }
   ]
 }
