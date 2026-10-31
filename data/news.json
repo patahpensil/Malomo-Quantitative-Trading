@@ -1,7 +1,37 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793407096668,
+  "generatedAt": 1793429561187,
   "articles": [
+    {
+      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+      "pubDate": 1793422892000
+    },
+    {
+      "title": "MSTR Q3 2026 Earnings Call: Analyst Q&A",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/mstr-q3-2026-earnings-call-analyst-qa",
+      "pubDate": 1793408911000
+    },
+    {
+      "title": "Mike Flaum: MSTR Performance “Massively” to the Upside During Next BTC Bull Run",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/mike-flaum-mstr-performance-massively-to-the-upside-during-next-btc-bull-run",
+      "pubDate": 1793408524000
+    },
+    {
+      "title": "What to Know About the $6.3 Billion Binance Hack",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack",
+      "pubDate": 1793408246000
+    },
+    {
+      "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
+      "pubDate": 1793407736000
+    },
     {
       "title": "Binance hackers raced to move billions before it could be frozen",
       "source": "Cointelegraph",
@@ -331,36 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
       "pubDate": 1793335842000
-    },
-    {
-      "title": "Bitcoin Price Briefly Slides to $76,300 as Binance Confirms Hack Estimated at $6.3 Billion",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-price-slides-near-76000-binance",
-      "pubDate": 1793333140000
-    },
-    {
-      "title": "Standard Chartered sees more pain after $6 billion Binance hack sends bitcoin lower",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
-      "pubDate": 1793332843000
-    },
-    {
-      "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
-      "pubDate": 1793332600000
-    },
-    {
-      "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793332021000
-    },
-    {
-      "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
-      "pubDate": 1793331371000
     }
   ]
 }
