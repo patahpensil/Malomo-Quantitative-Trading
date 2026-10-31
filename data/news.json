@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793469175620,
+  "generatedAt": 1793481744679,
   "articles": [
+    {
+      "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
+      "pubDate": 1793469600000
+    },
     {
       "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
       "source": "CoinDesk",
@@ -355,12 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/zcash-grants-46m-proposal-governance-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1793360183000
-    },
-    {
-      "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
-      "pubDate": 1793360116000
     }
   ]
 }
