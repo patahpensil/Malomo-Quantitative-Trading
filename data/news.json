@@ -1,7 +1,37 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793542374636,
+  "generatedAt": 1793559953404,
   "articles": [
+    {
+      "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
+      "pubDate": 1793552400000
+    },
+    {
+      "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+      "pubDate": 1793548862000
+    },
+    {
+      "title": "The key races to watch for the 2026 election",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election",
+      "pubDate": 1793545200000
+    },
+    {
+      "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards",
+      "pubDate": 1793545200000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793542620000
+    },
     {
       "title": "How to Run an AI Model Locally—And Why You Might Want To",
       "source": "Decrypt",
@@ -85,12 +115,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
       "pubDate": 1793460250000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793459395000
     },
     {
       "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
@@ -291,12 +315,6 @@
       "pubDate": 1793378061000
     },
     {
-      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
-      "pubDate": 1793377877000
-    },
-    {
       "title": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
       "source": "Decrypt",
       "link": "https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack",
@@ -321,12 +339,6 @@
       "pubDate": 1793369854000
     },
     {
-      "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack",
-      "pubDate": 1793369614000
-    },
-    {
       "title": "Blockchain Firms Link North Korea to $6.3 Billion Binance Hack",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/north-korea-6-3-billion-binance-hack",
@@ -349,18 +361,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/videos/doomberg-us-treasury-sanctions-are-wildly-bullish-for-bitcoin-gold",
       "pubDate": 1793366803000
-    },
-    {
-      "title": "Alex Thorn: 50-Week Signal Says Bitcoin’s Bottom is In",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/alex-thorn-50-week-signal-says-bitcoins-bottom-is-in",
-      "pubDate": 1793366541000
-    },
-    {
-      "title": "Alexandre Laizet on The French Debt Crisis: “Europe is in Need of Bitcoin”",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/alexandre-laizet-on-the-french-debt-crisis-europe-is-in-need-of-bitcoin",
-      "pubDate": 1793366231000
     }
   ]
 }
