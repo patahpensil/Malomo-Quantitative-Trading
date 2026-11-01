@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793559953404,
+  "generatedAt": 1793572996170,
   "articles": [
+    {
+      "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+      "pubDate": 1793561400000
+    },
     {
       "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
       "source": "CoinDesk",
@@ -241,12 +247,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
       "pubDate": 1793390763000
-    },
-    {
-      "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
-      "pubDate": 1793390100000
     },
     {
       "title": "Reddit Stock Plunges 30% as Google's AI Search Hits Traffic and User Growth",
