@@ -1,7 +1,25 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793572996170,
+  "generatedAt": 1793585890695,
   "articles": [
+    {
+      "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793584308000
+    },
+    {
+      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793577567000
+    },
+    {
+      "title": "Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793574553000
+    },
     {
       "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
       "source": "CoinDesk",
@@ -343,24 +361,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/north-korea-6-3-billion-binance-hack",
       "pubDate": 1793369595000
-    },
-    {
-      "title": "Tyler Evans: Bitcoin ETF Flows Flipped From “Highly Negative” to “Strong Accumulation”",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/tyler-evans-bitcoin-etf-flows-flipped-from-highly-negative-to-strong-accumulation",
-      "pubDate": 1793367075000
-    },
-    {
-      "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793367000000
-    },
-    {
-      "title": "Doomberg: US Treasury Sanctions are “Wildly Bullish” for Bitcoin & Gold",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/doomberg-us-treasury-sanctions-are-wildly-bullish-for-bitcoin-gold",
-      "pubDate": 1793366803000
     }
   ]
 }
