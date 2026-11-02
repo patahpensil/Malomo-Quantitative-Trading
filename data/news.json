@@ -1,7 +1,85 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793585890695,
+  "generatedAt": 1793613175954,
   "articles": [
+    {
+      "title": "Metals.io issues tokens backed by 25 tonnes of physical copper stored in Germany",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany",
+      "pubDate": 1793612000000
+    },
+    {
+      "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead",
+      "pubDate": 1793610289000
+    },
+    {
+      "title": "OKX draws $445M in net inflows as Binance outflows exceed $7B",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793609763000
+    },
+    {
+      "title": "Live updates: Binance records $6 billion outflows after starting withdrawals, less then 4% of total holdings",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
+      "pubDate": 1793609370000
+    },
+    {
+      "title": "China’s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain",
+      "pubDate": 1793608888000
+    },
+    {
+      "title": "Why stealing billions from a crypto exchange can be harder to stop than a bank theft",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks",
+      "pubDate": 1793608321000
+    },
+    {
+      "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793605836000
+    },
+    {
+      "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
+      "pubDate": 1793602001000
+    },
+    {
+      "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793597642000
+    },
+    {
+      "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
+      "pubDate": 1793596692000
+    },
+    {
+      "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+      "pubDate": 1793594542000
+    },
+    {
+      "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
+      "pubDate": 1793594476000
+    },
+    {
+      "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793591750000
+    },
     {
       "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
       "source": "Cointelegraph",
@@ -15,7 +93,7 @@
       "pubDate": 1793577567000
     },
     {
-      "title": "Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest",
+      "title": "THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1793574553000
@@ -135,40 +213,16 @@
       "pubDate": 1793460406000
     },
     {
-      "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
-      "pubDate": 1793460250000
-    },
-    {
       "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
       "source": "Decrypt",
       "link": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
       "pubDate": 1793458862000
     },
     {
-      "title": "Institutions embrace crypto staking despite shrinking yields",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
-      "pubDate": 1793458800000
-    },
-    {
-      "title": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
-      "pubDate": 1793457629000
-    },
-    {
       "title": "Bitcoin turns 18: Has the original rebel grown up?",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1793456872000
-    },
-    {
-      "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
-      "pubDate": 1793455200000
     },
     {
       "title": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping",
@@ -183,24 +237,6 @@
       "pubDate": 1793451663000
     },
     {
-      "title": "18 years in, what has Bitcoin truly done?",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
-      "pubDate": 1793451600000
-    },
-    {
-      "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
-      "pubDate": 1793450987000
-    },
-    {
-      "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion",
-      "pubDate": 1793448000000
-    },
-    {
       "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -211,12 +247,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1793440730000
-    },
-    {
-      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
-      "pubDate": 1793422892000
     },
     {
       "title": "MSTR Q3 2026 Earnings Call: Analyst Q&A",
@@ -235,12 +265,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack",
       "pubDate": 1793408246000
-    },
-    {
-      "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
-      "pubDate": 1793407736000
     },
     {
       "title": "Binance hackers raced to move billions before it could be frozen",
@@ -309,24 +333,6 @@
       "pubDate": 1793382507000
     },
     {
-      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793380171000
-    },
-    {
-      "title": "Recap: How Binance’s record $6.3B hack unfolded",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793379226000
-    },
-    {
-      "title": "As it happened: Binance’s record $6.3B crypto hack",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793378990000
-    },
-    {
       "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
       "source": "Decrypt",
       "link": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
@@ -337,12 +343,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack",
       "pubDate": 1793377506000
-    },
-    {
-      "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793376388000
     },
     {
       "title": "SEC Charges Two Companies in $130 Million Crypto Trading Scheme",
