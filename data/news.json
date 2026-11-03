@@ -1,7 +1,79 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793650339613,
+  "generatedAt": 1793673283155,
   "articles": [
+    {
+      "title": "South Korea urges exchanges to boost cold storage after Binance hack",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793669559000
+    },
+    {
+      "title": "Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382390/claude-mythos-fable-5-5-gpt-6-2-astra-leaks",
+      "pubDate": 1793661025000
+    },
+    {
+      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793660827000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793658969000
+    },
+    {
+      "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793658150000
+    },
+    {
+      "title": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy",
+      "pubDate": 1793657762000
+    },
+    {
+      "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793656481000
+    },
+    {
+      "title": "Big crypto wants the one thing it can’t buy: your vote",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote",
+      "pubDate": 1793655533000
+    },
+    {
+      "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793654184000
+    },
+    {
+      "title": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack",
+      "pubDate": 1793654163000
+    },
+    {
+      "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
+      "pubDate": 1793651763000
+    },
+    {
+      "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793650943000
+    },
     {
       "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
       "source": "Decrypt",
@@ -15,7 +87,7 @@
       "pubDate": 1793647678000
     },
     {
-      "title": "Mercado Bitcoin wallets keep moving funds after $46M hack",
+      "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1793646335000
@@ -183,12 +255,6 @@
       "pubDate": 1793626200000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793626169000
-    },
-    {
       "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -291,76 +357,10 @@
       "pubDate": 1793609763000
     },
     {
-      "title": "Live updates: Bitcoin bounce fades as Binance records $6 billion outflows after starting withdrawals",
+      "title": "Live updates: Bitcoin bounce fades as Binance exploit, AI unwind continue to weigh",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
       "pubDate": 1793609370000
-    },
-    {
-      "title": "China’s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain",
-      "pubDate": 1793608888000
-    },
-    {
-      "title": "Why stealing billions from a crypto exchange can be harder to stop than a bank theft",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks",
-      "pubDate": 1793608321000
-    },
-    {
-      "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793605836000
-    },
-    {
-      "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
-      "pubDate": 1793602001000
-    },
-    {
-      "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793597642000
-    },
-    {
-      "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793591750000
-    },
-    {
-      "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793584308000
-    },
-    {
-      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793577567000
-    },
-    {
-      "title": "THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793574553000
-    },
-    {
-      "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
-      "pubDate": 1793548862000
-    },
-    {
-      "title": "How to Run an AI Model Locally—And Why You Might Want To",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382295/how-to-run-ai-model-locally-why-you-might-want",
-      "pubDate": 1793541662000
     }
   ]
 }
