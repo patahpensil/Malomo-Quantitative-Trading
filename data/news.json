@@ -1,9 +1,243 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793699865693,
+  "generatedAt": 1793727680818,
   "articles": [
     {
-      "title": "Live news: Bitcoin faces fifth weekly loss as midterm elections weigh on markets",
+      "title": "TD Cowen: Democratic Congress Would Sink CLARITY Act for Two Years",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/td-cowen-democratic-congress-clarity-act",
+      "pubDate": 1793727574000
+    },
+    {
+      "title": "Five Ways North Korea Breaks Into Crypto Firms—and How Binance Was Hacked",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382420/five-ways-north-korea-breaks-into-crypto-firms-and-how-binance-was-hacked",
+      "pubDate": 1793727054000
+    },
+    {
+      "title": "Epidemic of Hacked Freezers Spreads Across Europe",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382423/epidemic-hacked-freezers-spreads-europe",
+      "pubDate": 1793725486000
+    },
+    {
+      "title": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
+      "pubDate": 1793724910000
+    },
+    {
+      "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
+      "pubDate": 1793724596000
+    },
+    {
+      "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793724421000
+    },
+    {
+      "title": "Binance Says $6.34 Billion Hack Began With Fake Job Interview",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/binance-says-6-34-billion-hack-job",
+      "pubDate": 1793724260000
+    },
+    {
+      "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793724246000
+    },
+    {
+      "title": "Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline looms",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms",
+      "pubDate": 1793722671000
+    },
+    {
+      "title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool",
+      "pubDate": 1793722355000
+    },
+    {
+      "title": "UK Says AI-Powered Ransomware Attack on Critical Infrastructure 'Highly Likely' by 2028",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382411/uk-says-ai-powered-ransomware-attack-on-critical-infrastructure-highly-likely-by-2028",
+      "pubDate": 1793722159000
+    },
+    {
+      "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793720682000
+    },
+    {
+      "title": "Andrew Hohns: Why Bitcoin Can Fix America’s Debt Spiral",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/andrew-hohns-why-bitcoin-can-fix-americas-debt-spiral",
+      "pubDate": 1793719031000
+    },
+    {
+      "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
+      "pubDate": 1793718133000
+    },
+    {
+      "title": "Binance's $6.3 billion hack began with a fake job interview, and a campaign 'built over many months'",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says",
+      "pubDate": 1793717599000
+    },
+    {
+      "title": "CFTC Opens U.S. Stock Market to Equity Perpetual Futures",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/cftc-opens-equity-perpetual-futures",
+      "pubDate": 1793717458000
+    },
+    {
+      "title": "South Korea asks its biggest banks how a major crypto hack would hit them",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them",
+      "pubDate": 1793716950000
+    },
+    {
+      "title": "New Jersey Drops Coinbase Staking Order After Three Years",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/new-jersey-drops-coinbase-staking-order",
+      "pubDate": 1793715973000
+    },
+    {
+      "title": "CZ warns of more AI-driven hacks following Binance’s historic $6.3 billion heist",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist",
+      "pubDate": 1793715729000
+    },
+    {
+      "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
+      "pubDate": 1793714462000
+    },
+    {
+      "title": "LO:TECH raises $12 million to expand crypto trading into U.S. and Asia",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/03/lo-tech-raises-usd12-million-to-expand-crypto-trading-into-u-s-and-asia",
+      "pubDate": 1793714400000
+    },
+    {
+      "title": "What’s at stake for crypto as the US votes in the 2026 midterms?",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793713987000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793713851000
+    },
+    {
+      "title": "Bitcoin Price Trades Near $77,500 as Midterm Voting Begins",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-77500-midterm",
+      "pubDate": 1793713599000
+    },
+    {
+      "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793711747000
+    },
+    {
+      "title": "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
+      "pubDate": 1793711507000
+    },
+    {
+      "title": "Binance net outflows reach $5.3 billion after record hack. CEO says recovery underway",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery",
+      "pubDate": 1793710648000
+    },
+    {
+      "title": "NEAR token sinks 7% as proposal to cut annual token issuance passes",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/near-sinks-7-proposal-cut-annual-token-issuance-passes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793709013000
+    },
+    {
+      "title": "Bitcoin is breaking a midterm election pattern going back to 2014",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014",
+      "pubDate": 1793709009000
+    },
+    {
+      "title": "Binance Misses Monthly Luna Classic Burn for First Time Since 2023",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382401/binance-misses-monthly-luna-classic-burn-for-first-time-since-2023",
+      "pubDate": 1793708129000
+    },
+    {
+      "title": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
+      "pubDate": 1793707265000
+    },
+    {
+      "title": "Binance’s net inflows turn positive at $2.3B as withdrawals expand",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binances-daily-inflows-positive-18b-withdrawals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793705522000
+    },
+    {
+      "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
+      "pubDate": 1793705280000
+    },
+    {
+      "title": "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit",
+      "pubDate": 1793704930000
+    },
+    {
+      "title": "Liquid’s bitcoin IOUs are fully backed again after a $320 million exploit",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
+      "pubDate": 1793704332000
+    },
+    {
+      "title": "France postpones 2027 budget vote, crypto exit-tax proposals scrapped",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793702966000
+    },
+    {
+      "title": "North Korea Denies $6.3B Binance Hack, Calls FBI Finding a 'Political Provocation'",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation",
+      "pubDate": 1793701128000
+    },
+    {
+      "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
+      "pubDate": 1793700953000
+    },
+    {
+      "title": "Bitcoin price threatens $77.7K support loss with recent buyers underwater",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793700245000
+    },
+    {
+      "title": "Live updates: Bitcoin faces fifth weekly loss as midterm elections weigh on markets",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
       "pubDate": 1793699416000
@@ -33,7 +267,7 @@
       "pubDate": 1793694913000
     },
     {
-      "title": "Suspected EU crypto theft estimate rises to $133M: ZachXBT",
+      "title": "Kraken restricts accounts amid suspected $133M EU crypto theft",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1793693902000
@@ -45,40 +279,16 @@
       "pubDate": 1793692191000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793685600000
-    },
-    {
       "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
       "pubDate": 1793684216000
     },
     {
-      "title": "Bitcoin miner Cipher posts $31 million profit as AI pivot begins",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-miner-cipher-posts-usd31-million-profit-as-ai-pivot-begins",
-      "pubDate": 1793683788000
-    },
-    {
-      "title": "Arbitrum’s council moved $30 million of Binance hack funds without the hacker’s key",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key",
-      "pubDate": 1793683512000
-    },
-    {
       "title": "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1793682619000
-    },
-    {
-      "title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
-      "pubDate": 1793681297000
     },
     {
       "title": "Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation",
@@ -129,24 +339,6 @@
       "pubDate": 1793657762000
     },
     {
-      "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793656481000
-    },
-    {
-      "title": "Big crypto wants the one thing it can’t buy: your vote",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote",
-      "pubDate": 1793655533000
-    },
-    {
-      "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793654184000
-    },
-    {
       "title": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
       "source": "Decrypt",
       "link": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack",
@@ -159,208 +351,16 @@
       "pubDate": 1793651763000
     },
     {
-      "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793650943000
-    },
-    {
       "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
       "source": "Decrypt",
       "link": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto",
       "pubDate": 1793648762000
     },
     {
-      "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793647678000
-    },
-    {
-      "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793646335000
-    },
-    {
       "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
       "source": "Decrypt",
       "link": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
       "pubDate": 1793645163000
-    },
-    {
-      "title": "Nvidia, Nike Join 50 Companies Blocking OKX–ICE Stock Token Push",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/50-companies-blocks-okx-ice-token",
-      "pubDate": 1793644200000
-    },
-    {
-      "title": "Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Push",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382353/proton-users-revolt-ceo-calls-security-caution-loser-thinking-ai",
-      "pubDate": 1793643362000
-    },
-    {
-      "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
-      "pubDate": 1793643237000
-    },
-    {
-      "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793642416000
-    },
-    {
-      "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections",
-      "pubDate": 1793640963000
-    },
-    {
-      "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says",
-      "pubDate": 1793640064000
-    },
-    {
-      "title": "Elon Musk Mocks Sam Altman Over Claim Home PCs Are Wasting RAM",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382345/elon-musk-mocks-sam-altman-over-claim-home-pcs-are-wasting-ram",
-      "pubDate": 1793639248000
-    },
-    {
-      "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
-      "pubDate": 1793637963000
-    },
-    {
-      "title": "NYSE tokenized stock plans take shape as four more transfer agents join",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails",
-      "pubDate": 1793637706000
-    },
-    {
-      "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
-      "pubDate": 1793636604000
-    },
-    {
-      "title": "Brazil’s Mercado Bitcoin Freezes Deposits and Withdrawals Due to Ongoing Security Incident, Losses Estimated Near $40 Million",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/brazils-mercado-bitcoin-freezes-40-million",
-      "pubDate": 1793635745000
-    },
-    {
-      "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
-      "pubDate": 1793634809000
-    },
-    {
-      "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans",
-      "pubDate": 1793633203000
-    },
-    {
-      "title": "Anthropic swings to third quarter operating loss as compute costs surge ahead of IPO",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/02/anthropic-swings-to-third-quarter-operating-loss-as-compute-costs-surge-ahead-of-ipo",
-      "pubDate": 1793632735000
-    },
-    {
-      "title": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients",
-      "pubDate": 1793631924000
-    },
-    {
-      "title": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
-      "pubDate": 1793631663000
-    },
-    {
-      "title": "Crypto's Washington playbook is working. Don't abandon it now.",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/opinion/2026/11/02/crypto-s-washington-playbook-is-working-don-t-abandon-it-now",
-      "pubDate": 1793631609000
-    },
-    {
-      "title": "Binance Reopens Withdrawals as Hack Recovery Enters Second Week",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack",
-      "pubDate": 1793631454000
-    },
-    {
-      "title": "Bitwise’s André Dragosch: Bitcoin’s “Fair Value” of $197,000",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/bitwises-andre-dragosch-bitcoins-fair-value-of-197000",
-      "pubDate": 1793630175000
-    },
-    {
-      "title": "Adam Back: Pension Funds Are Bitcoin’s “Third Wave” of Adoption",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/adam-back-pension-funds-are-bitcoins-third-wave-of-adoption",
-      "pubDate": 1793629788000
-    },
-    {
-      "title": "Coinbase downgraded at Morgan Stanley; price target slashed 53% on weak earnings outlook",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/02/morgan-stanley-downgrades-coinbase-slashes-price-target-53-on-weak-earnings-outlook",
-      "pubDate": 1793629773000
-    },
-    {
-      "title": "Tokenization firm tZERO plans to go public in $350 million SPAC deal",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/01/tokenization-firm-tzero-plans-to-go-public-in-usd350-million-spac-deal",
-      "pubDate": 1793628000000
-    },
-    {
-      "title": "Strategy (MSTR) Adds 811 Bitcoin, Strive (ASST) Follows Suit With 124 as Both Keep Stacking",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/strategy-mstr-adds-811-bitcoin-strive-too",
-      "pubDate": 1793627453000
-    },
-    {
-      "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793627308000
-    },
-    {
-      "title": "Morning Minute: Binance Hack Leads to Mass Outflows While FBI Opens Probe",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382332/morning-minute-the-binance-hack-leads-to-mass-outflows-while-fbi-opens-probe",
-      "pubDate": 1793626442000
-    },
-    {
-      "title": "AI agent disputes head to ‘Internet Court’ — and a jury of AI agents",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/ai-agent-disputes-sent-to-internet-court-and-a-jury-of-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793626200000
-    },
-    {
-      "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793625707000
-    },
-    {
-      "title": "Strategy Resumes Bitcoin Buys With $66M Purchase",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382333/strategy-resumes-bitcoin-buys-with-66m-purchase",
-      "pubDate": 1793625576000
-    },
-    {
-      "title": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
-      "pubDate": 1793623044000
     }
   ]
 }
