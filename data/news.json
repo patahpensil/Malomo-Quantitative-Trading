@@ -1,7 +1,103 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793673283155,
+  "generatedAt": 1793699865693,
   "articles": [
+    {
+      "title": "Live news: Bitcoin faces fifth weekly loss as midterm elections weigh on markets",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
+      "pubDate": 1793699416000
+    },
+    {
+      "title": "North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
+      "pubDate": 1793698832000
+    },
+    {
+      "title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
+      "pubDate": 1793696208000
+    },
+    {
+      "title": "Bitcoin’s latest chart signal looks a lot like the ones before its big crashes",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
+      "pubDate": 1793695856000
+    },
+    {
+      "title": "ARK buys $17M in Coinbase, Circle shares while trimming Bullish",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ark-buys-coinbase-circle-trims-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793694913000
+    },
+    {
+      "title": "Suspected EU crypto theft estimate rises to $133M: ZachXBT",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793693902000
+    },
+    {
+      "title": "BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793692191000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793685600000
+    },
+    {
+      "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
+      "pubDate": 1793684216000
+    },
+    {
+      "title": "Bitcoin miner Cipher posts $31 million profit as AI pivot begins",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-miner-cipher-posts-usd31-million-profit-as-ai-pivot-begins",
+      "pubDate": 1793683788000
+    },
+    {
+      "title": "Arbitrum’s council moved $30 million of Binance hack funds without the hacker’s key",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key",
+      "pubDate": 1793683512000
+    },
+    {
+      "title": "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793682619000
+    },
+    {
+      "title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
+      "pubDate": 1793681297000
+    },
+    {
+      "title": "Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/australia-lifts-rates-as-ai-boom-energy-costs-fuel-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793679272000
+    },
+    {
+      "title": "UK warns AI ransomware attack on infrastructure ‘highly likely’ by 2028",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/uk-warns-ai-ransomware-attack-on-infrastructure-highly-likely-by-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793678325000
+    },
+    {
+      "title": "Binance begins second withdrawal phase, exchange outflows slow",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793675024000
+    },
     {
       "title": "South Korea urges exchanges to boost cold storage after Binance hack",
       "source": "Cointelegraph",
@@ -19,12 +115,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1793660827000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793658969000
     },
     {
       "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
@@ -267,100 +357,10 @@
       "pubDate": 1793625576000
     },
     {
-      "title": "FATF targets crypto hubs in review of money laundering controls",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793624167000
-    },
-    {
-      "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793623245000
-    },
-    {
       "title": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
       "pubDate": 1793623044000
-    },
-    {
-      "title": "Bitcoin's 'volatility curve' has a midterm bump",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump",
-      "pubDate": 1793622617000
-    },
-    {
-      "title": "BTCPay Tells Merchants to Switch Off Servers Amid Hot Wallet Attack Reports",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports",
-      "pubDate": 1793622258000
-    },
-    {
-      "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
-      "pubDate": 1793620665000
-    },
-    {
-      "title": "Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
-      "pubDate": 1793619000000
-    },
-    {
-      "title": "From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793618358000
-    },
-    {
-      "title": "Trezor lifts password ceiling after Coldcard’s $100M wallet thefts",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793616419000
-    },
-    {
-      "title": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
-      "pubDate": 1793615779000
-    },
-    {
-      "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793614495000
-    },
-    {
-      "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793612496000
-    },
-    {
-      "title": "Metals.io issues tokens backed by 25 tonnes of physical copper stored in Germany",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany",
-      "pubDate": 1793612000000
-    },
-    {
-      "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead",
-      "pubDate": 1793610289000
-    },
-    {
-      "title": "OKX draws $445M in net inflows as Binance outflows exceed $7B",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793609763000
-    },
-    {
-      "title": "Live updates: Bitcoin bounce fades as Binance exploit, AI unwind continue to weigh",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
-      "pubDate": 1793609370000
     }
   ]
 }
