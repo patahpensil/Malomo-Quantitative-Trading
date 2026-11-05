@@ -1,7 +1,127 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793818085066,
+  "generatedAt": 1793837856315,
   "articles": [
+    {
+      "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793834417000
+    },
+    {
+      "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
+      "pubDate": 1793832900000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793832863000
+    },
+    {
+      "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
+      "pubDate": 1793832702000
+    },
+    {
+      "title": "Why Bitcoin's Next Soft Fork Could Feel Like a Practice Run",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run",
+      "pubDate": 1793832363000
+    },
+    {
+      "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793831518000
+    },
+    {
+      "title": "Crypto PACs eye 2028 ‘new map’ as Democrats take Congress",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793830653000
+    },
+    {
+      "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382574/chatgpt-gif-maker-openai-unannounced-images-2-6-model",
+      "pubDate": 1793830565000
+    },
+    {
+      "title": "Judge Lets Stock Perpetual Futures Keep Trading but Says CFTC Likely Overstepped Its Authority",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/judge-lets-stock-perps-keep-trading-cftc",
+      "pubDate": 1793829600000
+    },
+    {
+      "title": "How Aussie Bitcoiners can avoid 2027’s shock CGT hike: Part 1",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793827800000
+    },
+    {
+      "title": "Google Tells Schools They Can Reject AI—But They'll Lose Search, Too",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382572/google-schools-reject-ai-but-lose-search",
+      "pubDate": 1793826963000
+    },
+    {
+      "title": "Huizenga Loses House Seat Despite $1 Million From Crypto PAC Fairshake",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/huizenga-loses-despite-fairshake",
+      "pubDate": 1793826544000
+    },
+    {
+      "title": "French Bank Credit Mutuel Arkea Confirms Cyberattack as ZachXBT Puts Losses Above $133 Million",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/credit-mutuel-arkea-hack-133-million",
+      "pubDate": 1793825821000
+    },
+    {
+      "title": "House Democrats Eye Their Own Crypto Market Structure Bill With a Bigger SEC Role After Sweep",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/house-democrats-crypto-market-structure",
+      "pubDate": 1793825574000
+    },
+    {
+      "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
+      "pubDate": 1793825163000
+    },
+    {
+      "title": "Bitcoin Price Holds Near $80,000 as Democratic Sweep Sparks Short Squeeze",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-80000-short",
+      "pubDate": 1793824371000
+    },
+    {
+      "title": "Crypto's powerhouse super PAC suffers costly setback as Democrats sweep Congress",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
+      "pubDate": 1793824152000
+    },
+    {
+      "title": "US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents",
+      "pubDate": 1793822238000
+    },
+    {
+      "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793819739000
+    },
+    {
+      "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793818076000
+    },
     {
       "title": "US Voters Back AI Data Center Restrictions in At Least 29 Communities",
       "source": "Decrypt",
@@ -87,12 +207,6 @@
       "pubDate": 1793808494000
     },
     {
-      "title": "TD Cowen: Democratic Sweep Makes a Crypto-Backed CLARITY Act ‘Impossible’",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/td-cowen-democratic-sweep-clarity",
-      "pubDate": 1793807508000
-    },
-    {
       "title": "Crédit Mutuel Arkéa Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft",
       "source": "Decrypt",
       "link": "https://decrypt.co/382486/zachxbt-names-french-bank-credit-mutuel-arkea-as-alleged-victim-of-133m-crypto-theft",
@@ -111,40 +225,16 @@
       "pubDate": 1793806040000
     },
     {
-      "title": "Riot (RIOT) and Hut 8 (HUT) Sell Thousands of Bitcoin to Fund AI Ventures, Share Buybacks",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/riot-and-hut-8-sell-thousands-of-bitcoin",
-      "pubDate": 1793805449000
-    },
-    {
-      "title": "Circle (CRCL) Cuts About 5% of Workforce as Q3 Revenue Hits $865M",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/circle-crcl-cuts-about-5-of-workforce",
-      "pubDate": 1793803196000
-    },
-    {
       "title": "The election changes Washington. The work on crypto continues",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
       "pubDate": 1793802312000
     },
     {
-      "title": "Bitcoin Price Soars Above $79,000 After Democratic Sweep of Congress",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-trades-above-78000-after-dem-sweep",
-      "pubDate": 1793802095000
-    },
-    {
-      "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
+      "title": "Live updates: Bitcoin rises above $80,000 as stocks gain following Blue Wave",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
       "pubDate": 1793800853000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793800063000
     },
     {
       "title": "France backs reporting for self-custodied crypto worth 100K euros or more",
@@ -271,96 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards",
       "pubDate": 1793779444000
-    },
-    {
-      "title": "Democrats win US House to secure control of Congress in midterms",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/democrats-win-us-house-congress-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793778627000
-    },
-    {
-      "title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793777147000
-    },
-    {
-      "title": "Bitcoin rises to $78,300 in V-shaped comeback as midterm election uncertainty fades",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
-      "pubDate": 1793773000000
-    },
-    {
-      "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
-      "pubDate": 1793772364000
-    },
-    {
-      "title": "Ethereum dev targets 2028 for quantum resistance, a year early",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793771193000
-    },
-    {
-      "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
-      "pubDate": 1793769252000
-    },
-    {
-      "title": "South Korea's ruling party wants to delay its crypto tax again",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
-      "pubDate": 1793768980000
-    },
-    {
-      "title": "Democrats surge toward Senate, House majorities, with crypto braced for new direction",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction",
-      "pubDate": 1793768111000
-    },
-    {
-      "title": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
-      "pubDate": 1793767696000
-    },
-    {
-      "title": "Democrats claim control of the US Senate",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793767244000
-    },
-    {
-      "title": "ZachXBT identifies French bank as alleged victim of $133M crypto theft",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793763330000
-    },
-    {
-      "title": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793753116000
-    },
-    {
-      "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793750169000
-    },
-    {
-      "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid",
-      "pubDate": 1793749712000
-    },
-    {
-      "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
-      "pubDate": 1793745962000
     }
   ]
 }
