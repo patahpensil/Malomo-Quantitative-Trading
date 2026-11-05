@@ -1,7 +1,67 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793837856315,
+  "generatedAt": 1793862969691,
   "articles": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793859672000
+    },
+    {
+      "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793858549000
+    },
+    {
+      "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
+      "pubDate": 1793857621000
+    },
+    {
+      "title": "The pile of lawsuits against Kalshi just grew by one",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one",
+      "pubDate": 1793856532000
+    },
+    {
+      "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
+      "pubDate": 1793856306000
+    },
+    {
+      "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
+      "pubDate": 1793855625000
+    },
+    {
+      "title": "‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793854369000
+    },
+    {
+      "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
+      "pubDate": 1793851893000
+    },
+    {
+      "title": "India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793843481000
+    },
+    {
+      "title": "American Bitcoin (ABTC) Posts $126 Million Profit as Holdings Gain $197 Million",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/american-bitcoin-126m-q3-profit",
+      "pubDate": 1793843089000
+    },
     {
       "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
       "source": "Cointelegraph",
@@ -13,12 +73,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
       "pubDate": 1793832900000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793832863000
     },
     {
       "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
@@ -57,7 +111,7 @@
       "pubDate": 1793829600000
     },
     {
-      "title": "How Aussie Bitcoiners can avoid 2027’s shock CGT hike: Part 1",
+      "title": "How Aussie Bitcoiners can avoid 2027’s shock CGT hike",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1793827800000
@@ -169,12 +223,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto",
       "pubDate": 1793815149000
-    },
-    {
-      "title": "Democrats to Target Trump’s Crypto Ventures After Taking Congress",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/democrats-to-target-trumps-crypto-venture",
-      "pubDate": 1793814990000
     },
     {
       "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
@@ -313,54 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/382484/judge-orders-bitcoin-wallet-returned-to-family-of-convicted-canadian-killer",
       "pubDate": 1793788501000
-    },
-    {
-      "title": "Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793788242000
-    },
-    {
-      "title": "ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
-      "pubDate": 1793787530000
-    },
-    {
-      "title": "Elon Musk floats space data centers as Democratic sweep puts pressure on AI trade",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/04/elon-musk-floats-space-data-centers-as-democratic-sweep-puts-pressure-on-ai-trade",
-      "pubDate": 1793786613000
-    },
-    {
-      "title": "Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793785087000
-    },
-    {
-      "title": "US midterm elections 2026 as it happened: Democrats win control of Congress",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793784454000
-    },
-    {
-      "title": "Morgan Stanley says it is among the first banks to tokenize real world assets",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain",
-      "pubDate": 1793784178000
-    },
-    {
-      "title": "Binance hackers move 81% of stolen Solana, route funds via THORChain",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793783755000
-    },
-    {
-      "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards",
-      "pubDate": 1793779444000
     }
   ]
 }
