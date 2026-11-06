@@ -1,7 +1,67 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793931164447,
+  "generatedAt": 1793958317170,
   "articles": [
+    {
+      "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793955636000
+    },
+    {
+      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+      "pubDate": 1793954862000
+    },
+    {
+      "title": "Hyperliquid Strategies seeks futures registration for perps",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793954574000
+    },
+    {
+      "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793953158000
+    },
+    {
+      "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+      "pubDate": 1793952292000
+    },
+    {
+      "title": "Chainalysis says breach exposed password hashes and live tokens",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793948074000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793945081000
+    },
+    {
+      "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
+      "pubDate": 1793942088000
+    },
+    {
+      "title": "Crypto exchanges tout cold storage ratios after Binance attack",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793941620000
+    },
+    {
+      "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
+      "pubDate": 1793931863000
+    },
     {
       "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
       "source": "CoinDesk",
@@ -19,12 +79,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
       "pubDate": 1793919962000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793919821000
     },
     {
       "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
@@ -111,7 +165,7 @@
       "pubDate": 1793905185000
     },
     {
-      "title": "Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+      "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
       "pubDate": 1793904520000
@@ -307,60 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid",
       "pubDate": 1793881624000
-    },
-    {
-      "title": "Binance Cuts Off SignalPlus API Keys Over 'Potential Security Issue' at Trading Platform",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382599/binance-cuts-off-signalplus-api-keys-over-potential-security-issue-at-trading-platform",
-      "pubDate": 1793881404000
-    },
-    {
-      "title": "Canadian Man Extradited to US Over Plot to Hijack University Supercomputers for Crypto",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382590/canadian-man-extradited-to-us-over-plot-to-hijack-university-supercomputers-for-crypto",
-      "pubDate": 1793880001000
-    },
-    {
-      "title": "Bitcoin miners are oversold following 35% October rout, VanEck says",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck",
-      "pubDate": 1793879363000
-    },
-    {
-      "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026",
-      "pubDate": 1793879154000
-    },
-    {
-      "title": "Thailand to block Bitget in December over unlicensed crypto trading",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793878400000
-    },
-    {
-      "title": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
-      "pubDate": 1793878200000
-    },
-    {
-      "title": "Live updates: Bitcoin drops more than 5% as stocks close out worst day since April 2025",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
-      "pubDate": 1793876231000
-    },
-    {
-      "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
-      "pubDate": 1793875494000
-    },
-    {
-      "title": "Arkansas Sues Kalshi, Joining a Growing List of States Targeting Prediction Markets",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382588/arkansas-sues-kalshi-joining-a-growing-list-of-states-targeting-prediction-markets",
-      "pubDate": 1793874538000
     }
   ]
 }
