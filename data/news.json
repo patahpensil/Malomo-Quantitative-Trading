@@ -1,7 +1,199 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1793958317170,
+  "generatedAt": 1793985710603,
   "articles": [
+    {
+      "title": "Former FBI Agent Pleads Guilty to Stealing $2.47 Million in Crypto From Investigations",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/former-fbi-agent-pleads-crypto-theft",
+      "pubDate": 1793984400000
+    },
+    {
+      "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
+      "pubDate": 1793983289000
+    },
+    {
+      "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock",
+      "pubDate": 1793982847000
+    },
+    {
+      "title": "Anthropic IPO Valuation Could Be Slashed in Half to $1T After AI Stock Rout: Report",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382716/anthropic-ipo-valuation-could-fall-to-1-trillion-after-ai-stock-rout-report",
+      "pubDate": 1793982538000
+    },
+    {
+      "title": "Strive (ASST) Posts $474.8 Million Common Net Income as Bitcoin Yield Hits 63.2%",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/strive-asst-posts-474-8m-common-net-income",
+      "pubDate": 1793981700000
+    },
+    {
+      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+      "pubDate": 1793978798000
+    },
+    {
+      "title": "Rule to Allow Crypto in 401(k)s Arrives at White House for Final Review",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/dol-rule-crypto-401k-white-house-review",
+      "pubDate": 1793977742000
+    },
+    {
+      "title": "Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/binance-hackers-swap-50m-xrp-bitcoin",
+      "pubDate": 1793976600000
+    },
+    {
+      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+      "pubDate": 1793975629000
+    },
+    {
+      "title": "Bitcoin Price Holds Near $75,000 After Hot October Jobs Report",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-75800-jobs",
+      "pubDate": 1793975411000
+    },
+    {
+      "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793975400000
+    },
+    {
+      "title": "South Korean Crypto Exchange Gopax Suspends Withdrawals and Trading After Hacking Threat",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/gopax-suspends-withdrawals-hacking-threat",
+      "pubDate": 1793974943000
+    },
+    {
+      "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
+      "pubDate": 1793973858000
+    },
+    {
+      "title": "Argentine Bitcoiners Debut “The Genesis of Satoshi Nakamoto” Artwork in Downtown Buenos Aires",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/culture/argentine-bitcoiners-debut-the-genesis-of-satoshi-nakamoto-artwork-in-downtown-buenos-aires",
+      "pubDate": 1793973600000
+    },
+    {
+      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793973434000
+    },
+    {
+      "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai",
+      "pubDate": 1793973184000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793971980000
+    },
+    {
+      "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
+      "pubDate": 1793971914000
+    },
+    {
+      "title": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater",
+      "pubDate": 1793971760000
+    },
+    {
+      "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793971388000
+    },
+    {
+      "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
+      "pubDate": 1793968200000
+    },
+    {
+      "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793967328000
+    },
+    {
+      "title": "Live updates: Bitcoin holds in narrow range, stocks bounce after strong October jobs report",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
+      "pubDate": 1793966320000
+    },
+    {
+      "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
+      "pubDate": 1793965775000
+    },
+    {
+      "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793964390000
+    },
+    {
+      "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793963813000
+    },
+    {
+      "title": "Greece approves 10% tax on crypto gains starting in 2027",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793963136000
+    },
+    {
+      "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
+      "pubDate": 1793962626000
+    },
+    {
+      "title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793962053000
+    },
+    {
+      "title": "Binance’s $6.3B hack leaves questions over hot wallet safeguards",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1793961657000
+    },
+    {
+      "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
+      "pubDate": 1793960007000
+    },
+    {
+      "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
+      "pubDate": 1793958807000
+    },
     {
       "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
       "source": "Cointelegraph",
@@ -37,12 +229,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1793948074000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793945081000
     },
     {
       "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
@@ -171,196 +357,10 @@
       "pubDate": 1793904520000
     },
     {
-      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793903565000
-    },
-    {
       "title": "Trump-Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books",
       "source": "Decrypt",
       "link": "https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books",
       "pubDate": 1793903131000
-    },
-    {
-      "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793902178000
-    },
-    {
-      "title": "S&P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382637/sp-500-plunges-wall-street-circuit-breaker-trump-record-highs",
-      "pubDate": 1793901921000
-    },
-    {
-      "title": "Bull Bitcoin Becomes First Exchange to Add Payjoin Privacy Deposits, Withdrawals, and Payjoin-by-Default Trading",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/business/bull-bitcoin-becomes-first-exchange-to-add-payjoin-privacy-deposits-withdrawals-and-payjoin-by-default-trading",
-      "pubDate": 1793901600000
-    },
-    {
-      "title": "South Korea Pushes 22% Crypto Tax to 2029 in Fourth Delay, Offers Three-Year Loss Carryforward",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/south-korea-crypto-tax-2029",
-      "pubDate": 1793901600000
-    },
-    {
-      "title": "Paraguay president resigns after collapse of Ueno digital bank",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793900425000
-    },
-    {
-      "title": "Hollywood Studios Quietly Ban Staff From Betting on Prediction Markets: Report",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382626/hollywood-studios-quietly-ban-staff-from-betting-on-prediction-markets-report",
-      "pubDate": 1793899870000
-    },
-    {
-      "title": "Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto",
-      "pubDate": 1793898063000
-    },
-    {
-      "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
-      "pubDate": 1793897901000
-    },
-    {
-      "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
-      "pubDate": 1793897348000
-    },
-    {
-      "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793897321000
-    },
-    {
-      "title": "Keel (KEEL) Sells Entire Bitcoin Treasury for $192 Million, Will Sell BTC Daily",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/keel-sells-entire-bitcoin-treasury-192m",
-      "pubDate": 1793897100000
-    },
-    {
-      "title": "Democrats to Push Broader Crypto Market Structure Bill After Sweeping US Midterms: Report",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382602/democrats-to-push-broader-crypto-market-structure-bill-after-sweeping-us-midterms-report",
-      "pubDate": 1793896640000
-    },
-    {
-      "title": "Bitcoin Erases Election Rally as AI Stocks Plunge, $428 Million in Crypto Longs Get Wiped Out",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382612/bitcoin-erases-election-rally-ai-stocks-plunge-428-million-crypto-longs",
-      "pubDate": 1793896151000
-    },
-    {
-      "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
-      "pubDate": 1793895212000
-    },
-    {
-      "title": "U.S.-Sanctioned Moscow Exchange Will List Bitcoin on Dec. 1 as Russia Pulls Crypto Trading Home",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/moscow-exchange-bitcoin-trading-dec-1",
-      "pubDate": 1793894400000
-    },
-    {
-      "title": "Bitcoin Price Crashes Over 5% to $75,000 as Tech Rout Wipes Out Leveraged Longs",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-drops-below-75000-tech",
-      "pubDate": 1793893698000
-    },
-    {
-      "title": "Ukraine Central Bank Refuses to Back Crypto Bill Cleared for Second Reading",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/ukraine-central-bank-refuses-crypto-bill",
-      "pubDate": 1793893500000
-    },
-    {
-      "title": "Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/fed-occ-quiz-banks-binance-hack",
-      "pubDate": 1793892300000
-    },
-    {
-      "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s",
-      "pubDate": 1793888510000
-    },
-    {
-      "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
-      "pubDate": 1793887200000
-    },
-    {
-      "title": "Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382606/sam-altman-says-its-fucking-annoying-his-ram-comments-were-taken-out-of-context",
-      "pubDate": 1793885845000
-    },
-    {
-      "title": "Blockchain is ‘perfect solution’ for AI agent trust, VeChain CEO says",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/blockchain-is-perfect-solution-for-ai-agent-trust-vechain-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793885697000
-    },
-    {
-      "title": "Can decentralized phone networks power the AI revolution?",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/can-decentralized-phone-networks-power-the-ai-revolution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793885400000
-    },
-    {
-      "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
-      "pubDate": 1793885380000
-    },
-    {
-      "title": "Morning Minute: Democrat Sweep Pumps Crypto as Clarity Act Resurfaces",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382603/morning-minute-democrat-sweep-pumps-crypto-as-clarity-act-resurfaces",
-      "pubDate": 1793884445000
-    },
-    {
-      "title": "Stablecoins Go Mainstream as Samsung Wallet Adds USDC on Solana",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana",
-      "pubDate": 1793883662000
-    },
-    {
-      "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
-      "pubDate": 1793883303000
-    },
-    {
-      "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
-      "pubDate": 1793883057000
-    },
-    {
-      "title": "Trump’s memecoin ventures derailed CLARITY Act, Scaramucci says",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/scaramucci-trump-memecoins-clarity-act-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793882376000
-    },
-    {
-      "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid",
-      "pubDate": 1793881624000
     }
   ]
 }
