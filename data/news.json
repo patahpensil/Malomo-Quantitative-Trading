@@ -1,7 +1,37 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794066734229,
+  "generatedAt": 1794082056320,
   "articles": [
+    {
+      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+      "pubDate": 1794078796000
+    },
+    {
+      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+      "pubDate": 1794073006000
+    },
+    {
+      "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue",
+      "pubDate": 1794070863000
+    },
+    {
+      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+      "pubDate": 1794070260000
+    },
+    {
+      "title": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382770/ai-chip-stocks-bounce-global-rout-bubble-starting-burst",
+      "pubDate": 1794067262000
+    },
     {
       "title": "Here’s what happened in crypto today",
       "source": "Cointelegraph",
@@ -331,36 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
       "pubDate": 1793954862000
-    },
-    {
-      "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
-      "pubDate": 1793952292000
-    },
-    {
-      "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
-      "pubDate": 1793942088000
-    },
-    {
-      "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
-      "pubDate": 1793931863000
-    },
-    {
-      "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
-      "pubDate": 1793928600000
-    },
-    {
-      "title": "Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
-      "pubDate": 1793919962000
     }
   ]
 }
