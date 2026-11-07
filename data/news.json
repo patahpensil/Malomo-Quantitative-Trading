@@ -1,18 +1,48 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794042563885,
+  "generatedAt": 1794066734229,
   "articles": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794061320000
+    },
+    {
+      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794060960000
+    },
+    {
+      "title": "Sony Axing Game Discs Will Have Outsized Impact on Low-Income Gamers, Experts Say",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382714/sony-axing-game-discs-will-have-outsized-impact-on-low-income-gamers-experts-say",
+      "pubDate": 1794060062000
+    },
+    {
+      "title": "Bitcoin holders have received eCash — What can you do with it?",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794058200000
+    },
+    {
+      "title": "US sanctions Canadian money-exchange firms over Iran ties",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794049847000
+    },
+    {
+      "title": "Suspicious prediction market activity seen before election poll release: NYT",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794042635000
+    },
     {
       "title": "Nvidia may face a more hostile post-election Washington: Report",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1794037524000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794002415000
     },
     {
       "title": "U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows",
@@ -285,18 +315,6 @@
       "pubDate": 1793962626000
     },
     {
-      "title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793962053000
-    },
-    {
-      "title": "Binance’s $6.3B hack leaves questions over hot wallet safeguards",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793961657000
-    },
-    {
       "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
       "source": "Decrypt",
       "link": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
@@ -309,22 +327,10 @@
       "pubDate": 1793958807000
     },
     {
-      "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793955636000
-    },
-    {
       "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
       "pubDate": 1793954862000
-    },
-    {
-      "title": "Hyperliquid Strategies seeks futures registration for perps",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793954574000
     },
     {
       "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
@@ -355,12 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
       "pubDate": 1793919962000
-    },
-    {
-      "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
-      "pubDate": 1793916963000
     }
   ]
 }
