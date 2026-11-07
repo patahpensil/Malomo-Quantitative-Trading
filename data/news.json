@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794017840345,
+  "generatedAt": 1794042563885,
   "articles": [
+    {
+      "title": "Nvidia may face a more hostile post-election Washington: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794037524000
+    },
     {
       "title": "Here’s what happened in crypto today",
       "source": "Cointelegraph",
@@ -319,12 +325,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1793954574000
-    },
-    {
-      "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793953158000
     },
     {
       "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
