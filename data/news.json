@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794162448989,
+  "generatedAt": 1794176586361,
   "articles": [
+    {
+      "title": "What the election results mean for crypto: State of Crypto",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
+      "pubDate": 1794166200000
+    },
+    {
+      "title": "Stablecoin growth has stalled. The payments boom hasn't",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
+      "pubDate": 1794165402000
+    },
     {
       "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
       "source": "Decrypt",
@@ -349,18 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
       "pubDate": 1793965775000
-    },
-    {
-      "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
-      "pubDate": 1793962626000
-    },
-    {
-      "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
-      "pubDate": 1793960007000
     }
   ]
 }
