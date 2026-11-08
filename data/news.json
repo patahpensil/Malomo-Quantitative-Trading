@@ -1,7 +1,31 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794116878937,
+  "generatedAt": 1794143507941,
   "articles": [
+    {
+      "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794142671000
+    },
+    {
+      "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
+      "pubDate": 1794142559000
+    },
+    {
+      "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794131328000
+    },
+    {
+      "title": "Binance’s  finance chief Kaiser Ng to leave company, report says",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794125576000
+    },
     {
       "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
       "source": "CoinDesk",
@@ -321,24 +345,6 @@
       "pubDate": 1793965775000
     },
     {
-      "title": "Binance hackers had 8-week intrusion window before $6.3B exploit: SEAL",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793964390000
-    },
-    {
-      "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793963813000
-    },
-    {
-      "title": "Greece approves 10% tax on crypto gains starting in 2027",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793963136000
-    },
-    {
       "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
       "source": "Decrypt",
       "link": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
@@ -355,12 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
       "pubDate": 1793958807000
-    },
-    {
-      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-      "pubDate": 1793954862000
     }
   ]
 }
