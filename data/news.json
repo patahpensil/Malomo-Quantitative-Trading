@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794143507941,
+  "generatedAt": 1794162448989,
   "articles": [
+    {
+      "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
+      "pubDate": 1794146463000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794144780000
+    },
     {
       "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
       "source": "Cointelegraph",
@@ -55,12 +67,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/382770/ai-chip-stocks-bounce-global-rout-bubble-starting-burst",
       "pubDate": 1794067262000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794061320000
     },
     {
       "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
@@ -355,12 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
       "pubDate": 1793960007000
-    },
-    {
-      "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
-      "pubDate": 1793958807000
     }
   ]
 }
