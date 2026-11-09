@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794176586361,
+  "generatedAt": 1794189219171,
   "articles": [
+    {
+      "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794178746000
+    },
     {
       "title": "What the election results mean for crypto: State of Crypto",
       "source": "CoinDesk",
@@ -343,12 +349,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
       "pubDate": 1793968200000
-    },
-    {
-      "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793967328000
     },
     {
       "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
