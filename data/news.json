@@ -1,7 +1,73 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794189219171,
+  "generatedAt": 1794216961023,
   "articles": [
+    {
+      "title": "U.S. inflation, corporate earnings: Crypto Week Ahead",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead",
+      "pubDate": 1794216807000
+    },
+    {
+      "title": "Binance, Tether and Trump crypto firms face Senate records deadline",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794214817000
+    },
+    {
+      "title": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794212255000
+    },
+    {
+      "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
+      "pubDate": 1794207281000
+    },
+    {
+      "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
+      "pubDate": 1794206205000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794203093000
+    },
+    {
+      "title": "Zcash devs propose another block time cut days after NU7 upgrade",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794202568000
+    },
+    {
+      "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+      "pubDate": 1794201414000
+    },
+    {
+      "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+      "pubDate": 1794200079000
+    },
+    {
+      "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794196988000
+    },
+    {
+      "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+      "pubDate": 1794194509000
+    },
     {
       "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
       "source": "Cointelegraph",
@@ -25,12 +91,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
       "pubDate": 1794146463000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794144780000
     },
     {
       "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
@@ -207,12 +267,6 @@
       "pubDate": 1793989362000
     },
     {
-      "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793987373000
-    },
-    {
       "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
       "source": "Decrypt",
       "link": "https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group",
@@ -291,12 +345,6 @@
       "pubDate": 1793975411000
     },
     {
-      "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793975400000
-    },
-    {
       "title": "South Korean Crypto Exchange Gopax Suspends Withdrawals and Trading After Hacking Threat",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/gopax-suspends-withdrawals-hacking-threat",
@@ -313,54 +361,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/culture/argentine-bitcoiners-debut-the-genesis-of-satoshi-nakamoto-artwork-in-downtown-buenos-aires",
       "pubDate": 1793973600000
-    },
-    {
-      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793973434000
-    },
-    {
-      "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai",
-      "pubDate": 1793973184000
-    },
-    {
-      "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
-      "pubDate": 1793971914000
-    },
-    {
-      "title": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater",
-      "pubDate": 1793971760000
-    },
-    {
-      "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1793971388000
-    },
-    {
-      "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
-      "pubDate": 1793968200000
-    },
-    {
-      "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
-      "pubDate": 1793966320000
-    },
-    {
-      "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
-      "pubDate": 1793965775000
     }
   ]
 }
