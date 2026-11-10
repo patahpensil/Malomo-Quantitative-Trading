@@ -1,7 +1,115 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794335682257,
+  "generatedAt": 1794354031483,
   "articles": [
+    {
+      "title": "Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/washington-bitcoin-merchants-snorkel",
+      "pubDate": 1794352493000
+    },
+    {
+      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794352108000
+    },
+    {
+      "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center",
+      "pubDate": 1794350762000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794348287000
+    },
+    {
+      "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
+      "pubDate": 1794346563000
+    },
+    {
+      "title": "Can crypto trust firms compete with banks in US derivatives settlements?",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794346480000
+    },
+    {
+      "title": "LNbits Releases 1.7.0 Urgent Security Update After November 8 Attacks Drain Funds",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/lnbits-releases-1-7-0-urgent-security-update-after-november-8-attacks-drain-funds",
+      "pubDate": 1794346365000
+    },
+    {
+      "title": "Across Protocol warns users to avoid app amid reports of drained wallets",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794345876000
+    },
+    {
+      "title": "Ava Labs exec says NYSE deal marks end of blockchain’s ‘general purpose era’",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794344864000
+    },
+    {
+      "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382974/nvidia-erases-2026-gains-republicans-threaten-ceo-subpoena",
+      "pubDate": 1794343550000
+    },
+    {
+      "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
+      "pubDate": 1794342993000
+    },
+    {
+      "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794342362000
+    },
+    {
+      "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents",
+      "pubDate": 1794341763000
+    },
+    {
+      "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
+      "pubDate": 1794341708000
+    },
+    {
+      "title": "Texas Rep. Files Bill Letting Cities Invest $10 Million in Bitcoin",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/texas-bill-invest-10-million-bitcoin",
+      "pubDate": 1794340800000
+    },
+    {
+      "title": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382956/elon-musk-calls-claude-opus-5-5-masterpiece-grok-wont-match",
+      "pubDate": 1794339962000
+    },
+    {
+      "title": "Poland’s Parliament Votes 240-202 to Let Officials Freeze Crypto Before Court Review",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/poland-votes-240-202-freeze-crypto",
+      "pubDate": 1794338406000
+    },
+    {
+      "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
+      "pubDate": 1794338162000
+    },
     {
       "title": "Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto’s Stablecoin Giants",
       "source": "Decrypt",
@@ -99,22 +207,10 @@
       "pubDate": 1794321900000
     },
     {
-      "title": "Onramp Launches Business Bitcoin Accounts With Two-Person Withdrawal Approvals as Wrench Attacks Climb",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/onramp-launches-business-bitcoin-accounts-approvals",
-      "pubDate": 1794321834000
-    },
-    {
       "title": "Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius",
       "source": "Decrypt",
       "link": "https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius",
       "pubDate": 1794321168000
-    },
-    {
-      "title": "Bitcoin Price Trades Down Near $73,500 After Hot CPI Print Lifts Fed Hike Bets",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-73900-cpi",
-      "pubDate": 1794320869000
     },
     {
       "title": "Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion",
@@ -139,12 +235,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1794318039000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794317677000
     },
     {
       "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
@@ -271,96 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1794297725000
-    },
-    {
-      "title": "Securitize agrees to buy River One to expand into asset-backed lending",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794296954000
-    },
-    {
-      "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
-      "pubDate": 1794294066000
-    },
-    {
-      "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
-      "pubDate": 1794287911000
-    },
-    {
-      "title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794287158000
-    },
-    {
-      "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
-      "pubDate": 1794286280000
-    },
-    {
-      "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
-      "pubDate": 1794280946000
-    },
-    {
-      "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794279894000
-    },
-    {
-      "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794271359000
-    },
-    {
-      "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
-      "pubDate": 1794264987000
-    },
-    {
-      "title": "Anthropic's Claude Fable 5.2 and Mythos 5.0 Are Impressive, But Be Prepared to Sell a Kidney to Afford Them",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382897/anthropic-claude-fable-5-2-and-mythos-5-2-impressive-and-expensive",
-      "pubDate": 1794263762000
-    },
-    {
-      "title": "AI Data Centers Are Buying Used Jet Engines as New Power Turbines Take Six Years",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382890/ai-data-centers-used-jet-engines-power-turbines",
-      "pubDate": 1794258963000
-    },
-    {
-      "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794258000000
-    },
-    {
-      "title": "Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/amundi-boosts-strategy-mstr-stake-44",
-      "pubDate": 1794256796000
-    },
-    {
-      "title": "Elizabeth Warren Plans Prediction Market Crackdown as She Prepares to Chair Senate Banking",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/elizabeth-warren-prediction-crackdown",
-      "pubDate": 1794256298000
-    },
-    {
-      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794255994000
     }
   ]
 }
