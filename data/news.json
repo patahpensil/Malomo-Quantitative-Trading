@@ -1,7 +1,103 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794278308214,
+  "generatedAt": 1794308279762,
   "articles": [
+    {
+      "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
+      "pubDate": 1794307717000
+    },
+    {
+      "title": "Live news: Traders price in fed rate hike for December as bitcoin and gold retreat",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
+      "pubDate": 1794307305000
+    },
+    {
+      "title": "'Tough Questions' Ahead: Warren Targets Prediction Markets, Trump Crypto as Banking Chair",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382910/tough-questions-ahead-warren-targets-prediction-markets-trump-crypto-as-banking-chair",
+      "pubDate": 1794307266000
+    },
+    {
+      "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794305302000
+    },
+    {
+      "title": "The crypto wallet that grew up inside Telegram is striking out on its own",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/10/the-crypto-wallet-that-grew-up-inside-telegram-is-striking-out-on-its-own",
+      "pubDate": 1794304757000
+    },
+    {
+      "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
+      "pubDate": 1794302070000
+    },
+    {
+      "title": "BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitgo-q3-2026-earnings-crypto-treasury-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794301516000
+    },
+    {
+      "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794297725000
+    },
+    {
+      "title": "Securitize agrees to buy River One to expand into asset-backed lending",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794296954000
+    },
+    {
+      "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
+      "pubDate": 1794294066000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794290400000
+    },
+    {
+      "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
+      "pubDate": 1794287911000
+    },
+    {
+      "title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794287158000
+    },
+    {
+      "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
+      "pubDate": 1794286280000
+    },
+    {
+      "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+      "pubDate": 1794280946000
+    },
+    {
+      "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794279894000
+    },
     {
       "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
       "source": "Cointelegraph",
@@ -19,12 +115,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/382897/anthropic-claude-fable-5-2-and-mythos-5-2-impressive-and-expensive",
       "pubDate": 1794263762000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794261986000
     },
     {
       "title": "AI Data Centers Are Buying Used Jet Engines as New Power Turbines Take Six Years",
@@ -271,96 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter",
       "pubDate": 1794225036000
-    },
-    {
-      "title": "Nvidia-led tech selloff weighs on crypto majors",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors",
-      "pubDate": 1794224524000
-    },
-    {
-      "title": "Coinbase’s US national trust bank charter takes effect",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794224332000
-    },
-    {
-      "title": "Trump Says He Knows 'Nothing' About World Liberty Financial as He Defends UAE Ties",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382813/trump-says-he-knows-nothing-about-world-liberty-financial-as-he-defends-uae-ties",
-      "pubDate": 1794223587000
-    },
-    {
-      "title": "Robinhood opens access to US IPOs for UK retail investors",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/robinhood-us-ipo-access-uk-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794222848000
-    },
-    {
-      "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade",
-      "pubDate": 1794221569000
-    },
-    {
-      "title": "Live news: Crypto prices give ground even as stocks and gold surge, oil plunges",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
-      "pubDate": 1794221508000
-    },
-    {
-      "title": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794218620000
-    },
-    {
-      "title": "Coinbase gets full U.S. trust charter from federal banking regulator",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
-      "pubDate": 1794218400000
-    },
-    {
-      "title": "Nvidia Board Investigates Jensen Huang After Report He Was Target of Chinese Spy Effort",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382793/nvidia-board-investigates-jensen-huang-after-report-he-was-target-of-chinese-spy-effort",
-      "pubDate": 1794217821000
-    },
-    {
-      "title": "U.S. inflation, corporate earnings: Crypto Week Ahead",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead",
-      "pubDate": 1794216807000
-    },
-    {
-      "title": "Binance, Tether and Trump crypto firms face Senate records deadline",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794214817000
-    },
-    {
-      "title": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794212255000
-    },
-    {
-      "title": "SpaceX proposes a $24 billion Texas supercomputer and a gas plant",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
-      "pubDate": 1794207281000
-    },
-    {
-      "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
-      "pubDate": 1794206205000
-    },
-    {
-      "title": "Zcash devs propose another block time cut days after NU7 upgrade",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794202568000
     }
   ]
 }
