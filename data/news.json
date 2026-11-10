@@ -1,7 +1,229 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794308279762,
+  "generatedAt": 1794335682257,
   "articles": [
+    {
+      "title": "Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto’s Stablecoin Giants",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants",
+      "pubDate": 1794335617000
+    },
+    {
+      "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794334327000
+    },
+    {
+      "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
+      "pubDate": 1794331942000
+    },
+    {
+      "title": "Hot US inflation raises odds of half-point Fed hike in December",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794331869000
+    },
+    {
+      "title": "Canaan (CAN) Swings to an $8 Million Profit on Bitcoin Gains as Rig Sales Collapse 96%",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/canaan-can-swings-8-million-profit",
+      "pubDate": 1794330925000
+    },
+    {
+      "title": "Polymarket US trading volume jumps 266% despite regulatory battles",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/polymarket-us-trading-volume-jumps-regulatory-battles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794330468000
+    },
+    {
+      "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
+      "pubDate": 1794330442000
+    },
+    {
+      "title": "Binance Warns iOS Flaw Could Expose Wallet Seed Phrases as Apple’s Latest iPhone Patch Stays Silent",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/binance-warns-ios-flaw-wallet-seed-phrases",
+      "pubDate": 1794330000000
+    },
+    {
+      "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
+      "pubDate": 1794328077000
+    },
+    {
+      "title": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794327903000
+    },
+    {
+      "title": "Miami-Dade County Now Accepts Bitcoin for Property Taxes",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/miami-dade-takes-bitcoin-property-taxes",
+      "pubDate": 1794327358000
+    },
+    {
+      "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
+      "pubDate": 1794325916000
+    },
+    {
+      "title": "Trump Media (DJT) Pledges 73% of Its Bitcoin to an Options Program as $1 Billion Note Deadline Nears",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/trump-media-pledges-73-percent-bitcoin",
+      "pubDate": 1794324000000
+    },
+    {
+      "title": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio",
+      "pubDate": 1794322862000
+    },
+    {
+      "title": "MARA Sells 13,597 Bitcoin for $1.1 Billion, Says More Sales Are Coming",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/mara-sells-13597-bitcoin-1-1-billion",
+      "pubDate": 1794322800000
+    },
+    {
+      "title": "Hyperscale Data (GPUS) Sells Its Last Bitcoin for AI Data Center, Months After Chasing $100 Million Treasury",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/hyperscale-data-sells-last-bitcoin-ai",
+      "pubDate": 1794321900000
+    },
+    {
+      "title": "Onramp Launches Business Bitcoin Accounts With Two-Person Withdrawal Approvals as Wrench Attacks Climb",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/onramp-launches-business-bitcoin-accounts-approvals",
+      "pubDate": 1794321834000
+    },
+    {
+      "title": "Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius",
+      "pubDate": 1794321168000
+    },
+    {
+      "title": "Bitcoin Price Trades Down Near $73,500 After Hot CPI Print Lifts Fed Hike Bets",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-73900-cpi",
+      "pubDate": 1794320869000
+    },
+    {
+      "title": "Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-to-78-valuing-company-at-up-to-1-4-trillion",
+      "pubDate": 1794319562000
+    },
+    {
+      "title": "Moody’s Taps Chainlink to Send Credit Ratings Across Multiple Blockchains",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382888/moodys-chainlink-credit-ratings-across-multiple-blockchains",
+      "pubDate": 1794319262000
+    },
+    {
+      "title": "Will stablecoins survive once the banks catch up?",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
+      "pubDate": 1794319200000
+    },
+    {
+      "title": "Poland’s lower house backs sanctions bill covering crypto freezes",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794318039000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794317677000
+    },
+    {
+      "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3",
+      "pubDate": 1794317529000
+    },
+    {
+      "title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794317400000
+    },
+    {
+      "title": "Morning Minute: Vitalik Recasts ETH as a Store of Value",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382931/morning-minute-vitalik-recasts-eth-as-a-store-of-value",
+      "pubDate": 1794317091000
+    },
+    {
+      "title": "Bitcoin may benefit as global tightening slows, Binance Research says",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794316559000
+    },
+    {
+      "title": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382928/binance-warns-of-apple-ios-flaw-that-could-expose-iphone-users-private-keys",
+      "pubDate": 1794314734000
+    },
+    {
+      "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
+      "pubDate": 1794314300000
+    },
+    {
+      "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
+      "pubDate": 1794312900000
+    },
+    {
+      "title": "Binance Halts MEXC Transfers as FinCEN Cuts Exchange Off From US Financial System",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382926/binance-halts-mexc-transfers-as-fincen-cuts-exchange-off-from-us-financial-system",
+      "pubDate": 1794312807000
+    },
+    {
+      "title": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794311095000
+    },
+    {
+      "title": "Nvidia, Jensen Huang Sued by Shareholders Over Alleged Ties to Suspected Chinese Spy",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382913/nvidia-jensen-huang-sued-by-shareholders-over-alleged-ties-to-suspected-chinese-spy",
+      "pubDate": 1794310016000
+    },
+    {
+      "title": "Binance warns iOS flaw could expose crypto wallet keys",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794309957000
+    },
+    {
+      "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
+      "pubDate": 1794309850000
+    },
+    {
+      "title": "Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794308211000
+    },
     {
       "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
       "source": "CoinDesk",
@@ -9,7 +231,7 @@
       "pubDate": 1794307717000
     },
     {
-      "title": "Live news: Traders price in fed rate hike for December as bitcoin and gold retreat",
+      "title": "Live news: Bitcoin falls to nearly three-month low after disappointing inflation data",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
       "pubDate": 1794307305000
@@ -61,12 +283,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
       "pubDate": 1794294066000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794290400000
     },
     {
       "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
@@ -145,222 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1794255994000
-    },
-    {
-      "title": "Google Takes Aim at Nvidia With New AI Chips Built for Privacy and Massive Memory",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382874/google-nvidia-new-ai-chips-privacy-massive-memory-ai",
-      "pubDate": 1794255362000
-    },
-    {
-      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794253954000
-    },
-    {
-      "title": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
-      "pubDate": 1794252975000
-    },
-    {
-      "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
-      "pubDate": 1794252962000
-    },
-    {
-      "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
-      "pubDate": 1794251163000
-    },
-    {
-      "title": "Nvidia's $350 Billion Scare: What Happens If Jensen Huang Leaves?",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382838/nvidias-350-billion-scare-what-happens-if-jensen-huang-leaves",
-      "pubDate": 1794249063000
-    },
-    {
-      "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794248729000
-    },
-    {
-      "title": "PNC Bank tests turning USDC payments into dollar deposits",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794246515000
-    },
-    {
-      "title": "Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
-      "pubDate": 1794246362000
-    },
-    {
-      "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794246062000
-    },
-    {
-      "title": "North Korea Is Minting Its Own Meme Coins to Launder Binance Hack Loot",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/north-korea-meme-coins-binance-hack",
-      "pubDate": 1794245188000
-    },
-    {
-      "title": "Vitalik Buterin Moves On From ‘Ultrasound Money,’ Says ETH’s Value Is Stability",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382837/vitalik-buterin-moves-on-from-ultrasound-money-says-eths-value-is-stability",
-      "pubDate": 1794244450000
-    },
-    {
-      "title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794244405000
-    },
-    {
-      "title": "Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382854/tom-lee-bitmine-adds-20m-ethereum-vitalik-eth-money",
-      "pubDate": 1794244101000
-    },
-    {
-      "title": "TD Cowen Gives Stablecoin Yield Ban 10% Odds as Banks Plan Push in Democrat-Led Congress",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/td-cowen-stablecoin-yield-ban-10-odds",
-      "pubDate": 1794243996000
-    },
-    {
-      "title": "BlackRock: Security Fears Are Driving Bitcoin Whales Into IBIT",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/blackrock-bitcoin-whales-self-custody-ibit",
-      "pubDate": 1794241800000
-    },
-    {
-      "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
-      "pubDate": 1794241185000
-    },
-    {
-      "title": "Binance to Close Accounts in Four EU Countries Dec. 31, Charging Idle Balances From Nov. 29",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/binance-closing-accounts-four-eu-countries",
-      "pubDate": 1794239603000
-    },
-    {
-      "title": "NYSE Taps Avalanche to Settle Its Planned Tokenized Stock Platform",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382833/nyse-avalanche-settle-tokenized-stock-platform",
-      "pubDate": 1794239362000
-    },
-    {
-      "title": "Google’s AI chip push adds more pressure on Nvidia",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia",
-      "pubDate": 1794237605000
-    },
-    {
-      "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
-      "pubDate": 1794236444000
-    },
-    {
-      "title": "U.S. Regulators Drop $250 Travel Rule Plan, Crypto Language Too",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/fincen-fed-withdraw-travel-rule-250",
-      "pubDate": 1794236400000
-    },
-    {
-      "title": "Kraken’s Dave Ripley: “That Was the Bear Market” and Bitcoin Is “On Our Way Out of It”",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/krakens-dave-ripley-that-was-the-bear-market-and-bitcoin-is-on-our-way-out-of-it",
-      "pubDate": 1794235025000
-    },
-    {
-      "title": "Strive (ASST) Adds 29 Bitcoin for $2.2 Million as Weekly Buys Slow After Crossing 43,000",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/strive-asst-adds-29-bitcoin-holdings-43153",
-      "pubDate": 1794234392000
-    },
-    {
-      "title": "Coinbase Wins Full Federal Trust Charter From OCC",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/coinbase-full-occ-national-trust-charter",
-      "pubDate": 1794233911000
-    },
-    {
-      "title": "Analysts see no broader ‘contagion’ from $6.3B Binance hack",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794232366000
-    },
-    {
-      "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
-      "pubDate": 1794231606000
-    },
-    {
-      "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794231000000
-    },
-    {
-      "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794230987000
-    },
-    {
-      "title": "Strategy Buys $82M in Bitcoin, Buys Back $188M of STRC",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382820/strategy-buys-82m-in-bitcoin-buys-back-188m-of-strc",
-      "pubDate": 1794230669000
-    },
-    {
-      "title": "Microsoft-Backed Space and Time Launches Platform to Let AI Agents Verify Private Data",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382697/microsoft-backed-space-and-time-launches-platform-to-let-ai-agents-verify-private-data",
-      "pubDate": 1794229262000
-    },
-    {
-      "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
-      "pubDate": 1794228095000
-    },
-    {
-      "title": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
-      "pubDate": 1794227833000
-    },
-    {
-      "title": "Bitcoin bulls can't rely on ETF flows",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
-      "pubDate": 1794227400000
-    },
-    {
-      "title": "EU taps industry to set standards for tokenized securities",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/eu-nominations-tokenization-standards-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794227226000
-    },
-    {
-      "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter",
-      "pubDate": 1794225036000
     }
   ]
 }
