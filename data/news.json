@@ -1,7 +1,121 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794405601989,
+  "generatedAt": 1794431606725,
   "articles": [
+    {
+      "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794429799000
+    },
+    {
+      "title": "This New AI Music Model Is Already Better Than Suno—We Put ACE to the Test",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review",
+      "pubDate": 1794428162000
+    },
+    {
+      "title": "Tether's Tiny AI Agent Beats Models 2.5 Times Its Size at Controlling Your Phone",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383066/tether-tiny-ai-agent-beats-models-phone",
+      "pubDate": 1794425762000
+    },
+    {
+      "title": "Tavi Costa: Bitcoin “Very Undervalued with “Violent Moves Ahead”",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/tavi-costa-bitcoin-very-undervalued-with-violent-moves-ahead",
+      "pubDate": 1794424581000
+    },
+    {
+      "title": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup",
+      "pubDate": 1794423962000
+    },
+    {
+      "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794421843000
+    },
+    {
+      "title": "Sam Lyman: “Bitcoin doesn’t need America. America needs Bitcoin.”",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/sam-lyman-bitcoin-doesnt-need-america-america-needs-bitcoin",
+      "pubDate": 1794421309000
+    },
+    {
+      "title": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history",
+      "pubDate": 1794419762000
+    },
+    {
+      "title": "What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana",
+      "pubDate": 1794416958000
+    },
+    {
+      "title": "MSCI Rules Today on Cutting Strategy (MSTR) From Its Indexes After a Draft List Marks It Deleted",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/msci-rules-today-strategy-mstr-deleted",
+      "pubDate": 1794416700000
+    },
+    {
+      "title": "A High-Severity Bug Could Have Stalled Bitcoin Mining—Bitcoin Core Has a Fix",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining",
+      "pubDate": 1794416337000
+    },
+    {
+      "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794414360000
+    },
+    {
+      "title": "OKX-ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big Tech Opts Out",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out",
+      "pubDate": 1794413641000
+    },
+    {
+      "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
+      "pubDate": 1794412845000
+    },
+    {
+      "title": "Russia’s Central Bank Clears Exchange to Open Bitcoin and Crypto Trading on Nov. 22",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/russia-clears-exchange-crypto-trading",
+      "pubDate": 1794412448000
+    },
+    {
+      "title": "ICE and OKX Set Nov. 23 Tokenized Stock Launch After 67 Companies Opt Out",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/ice-okx-nov-23-tokenized-stock-launch",
+      "pubDate": 1794412144000
+    },
+    {
+      "title": "Deutsche Bank Switches On Bitcoin Custody for Paying Clients",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/deutsche-bank-bitcoin-custody-live",
+      "pubDate": 1794408490000
+    },
+    {
+      "title": "Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/382992/decrypt-becomes-first-news-publisher-to-offer-perps-trading-powered-by-solanas-phoenix",
+      "pubDate": 1794405775000
+    },
+    {
+      "title": "Deutsche Bank launches crypto custody for companies and institutions",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794405738000
+    },
     {
       "title": "Here’s what happened in crypto today",
       "source": "Cointelegraph",
@@ -171,40 +285,22 @@
       "pubDate": 1794372150000
     },
     {
-      "title": "Crypto ally Tom Emmer elected House GOP minority whip",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794366465000
-    },
-    {
-      "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794359818000
-    },
-    {
-      "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794354591000
-    },
-    {
       "title": "Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/washington-bitcoin-merchants-snorkel",
       "pubDate": 1794352493000
     },
     {
-      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794352108000
-    },
-    {
       "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
       "source": "Decrypt",
       "link": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center",
       "pubDate": 1794350762000
+    },
+    {
+      "title": "Oil Selloff Sets Up “The Sweet Spot for Gold” and Bitcoin | Robbert van Batenburg",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/oil-selloff-sets-up-the-sweet-spot-for-gold-and-bitcoin-robbert-van-batenburg",
+      "pubDate": 1794347854000
     },
     {
       "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
@@ -217,6 +313,12 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/lnbits-releases-1-7-0-urgent-security-update-after-november-8-attacks-drain-funds",
       "pubDate": 1794346365000
+    },
+    {
+      "title": "James Lavish: Bitcoin Price Target, $400K–$500K by Mid-2029",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/james-lavish-bitcoin-price-target-400k-500k-by-mid-2029",
+      "pubDate": 1794345016000
     },
     {
       "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
@@ -243,22 +345,10 @@
       "pubDate": 1794341708000
     },
     {
-      "title": "Texas Rep. Files Bill Letting Cities Invest $10 Million in Bitcoin",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/texas-bill-invest-10-million-bitcoin",
-      "pubDate": 1794340800000
-    },
-    {
       "title": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It",
       "source": "Decrypt",
       "link": "https://decrypt.co/382956/elon-musk-calls-claude-opus-5-5-masterpiece-grok-wont-match",
       "pubDate": 1794339962000
-    },
-    {
-      "title": "Poland’s Parliament Votes 240-202 to Let Officials Freeze Crypto Before Court Review",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/poland-votes-240-202-freeze-crypto",
-      "pubDate": 1794338406000
     },
     {
       "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
@@ -271,96 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants",
       "pubDate": 1794335617000
-    },
-    {
-      "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
-      "pubDate": 1794331942000
-    },
-    {
-      "title": "Canaan (CAN) Swings to an $8 Million Profit on Bitcoin Gains as Rig Sales Collapse 96%",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/canaan-can-swings-8-million-profit",
-      "pubDate": 1794330925000
-    },
-    {
-      "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
-      "pubDate": 1794330442000
-    },
-    {
-      "title": "Binance Warns iOS Flaw Could Expose Wallet Seed Phrases as Apple’s Latest iPhone Patch Stays Silent",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/binance-warns-ios-flaw-wallet-seed-phrases",
-      "pubDate": 1794330000000
-    },
-    {
-      "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
-      "pubDate": 1794328077000
-    },
-    {
-      "title": "Miami-Dade County Now Accepts Bitcoin for Property Taxes",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/miami-dade-takes-bitcoin-property-taxes",
-      "pubDate": 1794327358000
-    },
-    {
-      "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
-      "pubDate": 1794325916000
-    },
-    {
-      "title": "Trump Media (DJT) Pledges 73% of Its Bitcoin to an Options Program as $1 Billion Note Deadline Nears",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/trump-media-pledges-73-percent-bitcoin",
-      "pubDate": 1794324000000
-    },
-    {
-      "title": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio",
-      "pubDate": 1794322862000
-    },
-    {
-      "title": "MARA Sells 13,597 Bitcoin for $1.1 Billion, Says More Sales Are Coming",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/mara-sells-13597-bitcoin-1-1-billion",
-      "pubDate": 1794322800000
-    },
-    {
-      "title": "Hyperscale Data (GPUS) Sells Its Last Bitcoin for AI Data Center, Months After Chasing $100 Million Treasury",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/hyperscale-data-sells-last-bitcoin-ai",
-      "pubDate": 1794321900000
-    },
-    {
-      "title": "Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius",
-      "pubDate": 1794321168000
-    },
-    {
-      "title": "Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-to-78-valuing-company-at-up-to-1-4-trillion",
-      "pubDate": 1794319562000
-    },
-    {
-      "title": "Moody’s Taps Chainlink to Send Credit Ratings Across Multiple Blockchains",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382888/moodys-chainlink-credit-ratings-across-multiple-blockchains",
-      "pubDate": 1794319262000
-    },
-    {
-      "title": "Will stablecoins survive once the banks catch up?",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
-      "pubDate": 1794319200000
     }
   ]
 }
