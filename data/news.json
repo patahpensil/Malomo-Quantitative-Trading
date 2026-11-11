@@ -1,7 +1,31 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794354031483,
+  "generatedAt": 1794376446158,
   "articles": [
+    {
+      "title": "Across Protocol restores website after hackers hijack domain",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794372150000
+    },
+    {
+      "title": "Crypto ally Tom Emmer elected House GOP minority whip",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794366465000
+    },
+    {
+      "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794359818000
+    },
+    {
+      "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794354591000
+    },
     {
       "title": "Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin",
       "source": "Bitcoin Magazine",
@@ -19,12 +43,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center",
       "pubDate": 1794350762000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794348287000
     },
     {
       "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
@@ -343,24 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/11/10/the-crypto-wallet-that-grew-up-inside-telegram-is-striking-out-on-its-own",
       "pubDate": 1794304757000
-    },
-    {
-      "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
-      "pubDate": 1794302070000
-    },
-    {
-      "title": "BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitgo-q3-2026-earnings-crypto-treasury-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794301516000
-    },
-    {
-      "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794297725000
     }
   ]
 }
