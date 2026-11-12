@@ -1,12 +1,84 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794431606725,
+  "generatedAt": 1794450446800,
   "articles": [
+    {
+      "title": "MSCI confirms Strategy’s removal from indexes at end of November",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794442153000
+    },
+    {
+      "title": "MSCI Removes Strategy (MSTR) From Its USA Index, Forcing Index Funds to Sell by Nov. 30",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/msci-removes-strategy-mstr-usa-index",
+      "pubDate": 1794440216000
+    },
+    {
+      "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794439124000
+    },
+    {
+      "title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794437087000
+    },
+    {
+      "title": "Nvidia-Backed CoreWeave Is Surging: Here’s What It Means for the AI Boom",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383099/nvidia-backed-coreweave-surging-what-means-for-ai-boom",
+      "pubDate": 1794436563000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794435326000
+    },
+    {
+      "title": "Uncalled US House races could send more crypto allies to Congress",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794434717000
+    },
+    {
+      "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
+      "pubDate": 1794433563000
+    },
+    {
+      "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794432961000
+    },
+    {
+      "title": "How Sam Altman-Backed Meanwhile Is Disrupting the $20T Life Insurance Industry",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/how-sam-altman-backed-meanwhile-is-disrupting-the-20t-life-insurance-industry",
+      "pubDate": 1794432635000
+    },
+    {
+      "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
+      "pubDate": 1794431763000
+    },
     {
       "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1794429799000
+    },
+    {
+      "title": "Outlook for Crypto Market Structure Bill By Democrats | Chris Giancarlo, Former CFTC Commissioner",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/outlook-for-crypto-market-structure-bill-by-democrats-chris-giancarlo-former-cftc-commissioner",
+      "pubDate": 1794429035000
     },
     {
       "title": "This New AI Music Model Is Already Better Than Suno—We Put ACE to the Test",
@@ -115,12 +187,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1794405738000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794404295000
     },
     {
       "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
@@ -255,36 +321,6 @@
       "pubDate": 1794391095000
     },
     {
-      "title": "ECB warns legislative delays could postpone digital euro launch",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ecb-warns-legislative-delays-digital-euro-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794387829000
-    },
-    {
-      "title": "Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794387331000
-    },
-    {
-      "title": "SEC enforcement actions fall 24%, crypto cases in spotlight",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794386610000
-    },
-    {
-      "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794376334000
-    },
-    {
-      "title": "Across Protocol restores website after hackers hijack domain",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794372150000
-    },
-    {
       "title": "Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/washington-bitcoin-merchants-snorkel",
@@ -297,28 +333,10 @@
       "pubDate": 1794350762000
     },
     {
-      "title": "Oil Selloff Sets Up “The Sweet Spot for Gold” and Bitcoin | Robbert van Batenburg",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/oil-selloff-sets-up-the-sweet-spot-for-gold-and-bitcoin-robbert-van-batenburg",
-      "pubDate": 1794347854000
-    },
-    {
       "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
       "source": "Decrypt",
       "link": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
       "pubDate": 1794346563000
-    },
-    {
-      "title": "LNbits Releases 1.7.0 Urgent Security Update After November 8 Attacks Drain Funds",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/lnbits-releases-1-7-0-urgent-security-update-after-november-8-attacks-drain-funds",
-      "pubDate": 1794346365000
-    },
-    {
-      "title": "James Lavish: Bitcoin Price Target, $400K–$500K by Mid-2029",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/james-lavish-bitcoin-price-target-400k-500k-by-mid-2029",
-      "pubDate": 1794345016000
     },
     {
       "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
@@ -343,24 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
       "pubDate": 1794341708000
-    },
-    {
-      "title": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382956/elon-musk-calls-claude-opus-5-5-masterpiece-grok-wont-match",
-      "pubDate": 1794339962000
-    },
-    {
-      "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
-      "pubDate": 1794338162000
-    },
-    {
-      "title": "Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto’s Stablecoin Giants",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants",
-      "pubDate": 1794335617000
     }
   ]
 }
