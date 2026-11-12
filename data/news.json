@@ -1,7 +1,85 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794450446800,
+  "generatedAt": 1794478193134,
   "articles": [
+    {
+      "title": "Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383114/pressure-mounts-on-nvidias-jensen-huang-amid-reports-of-second-affair",
+      "pubDate": 1794476838000
+    },
+    {
+      "title": "Live news: AI stocks slide with Nasdaq 100 futures in retreat following Wednesday's rally",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
+      "pubDate": 1794474904000
+    },
+    {
+      "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
+      "pubDate": 1794474420000
+    },
+    {
+      "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794470808000
+    },
+    {
+      "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
+      "pubDate": 1794469278000
+    },
+    {
+      "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
+      "pubDate": 1794466837000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794463200000
+    },
+    {
+      "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794462888000
+    },
+    {
+      "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
+      "pubDate": 1794462584000
+    },
+    {
+      "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
+      "pubDate": 1794460951000
+    },
+    {
+      "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
+      "pubDate": 1794460723000
+    },
+    {
+      "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794460031000
+    },
+    {
+      "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
+      "pubDate": 1794456227000
+    },
     {
       "title": "MSCI confirms Strategy’s removal from indexes at end of November",
       "source": "Cointelegraph",
@@ -31,12 +109,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/383099/nvidia-backed-coreweave-surging-what-means-for-ai-boom",
       "pubDate": 1794436563000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794435326000
     },
     {
       "title": "Uncalled US House races could send more crypto allies to Congress",
@@ -231,7 +303,7 @@
       "pubDate": 1794401184000
     },
     {
-      "title": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
+      "title": "FSB urges Turkey to tighten crypto oversight, set stablecoin rules",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1794401050000
@@ -279,12 +351,6 @@
       "pubDate": 1794396636000
     },
     {
-      "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794395126000
-    },
-    {
       "title": "Avalanche Won Over the NYSE. Now It Has to ‘Capture Value’ for AVAX",
       "source": "Decrypt",
       "link": "https://decrypt.co/382988/avalanche-won-over-the-nyse-now-it-has-to-capture-value-for-avax",
@@ -295,72 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
       "pubDate": 1794394294000
-    },
-    {
-      "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
-      "pubDate": 1794393949000
-    },
-    {
-      "title": "Prisoner Jailed for 8 Years Over $2.7M Crypto Theft Plot Run From His Cell",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382984/prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell",
-      "pubDate": 1794392453000
-    },
-    {
-      "title": "Bitget Wallet reports sevenfold jump in crypto phishing risk alerts",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794391200000
-    },
-    {
-      "title": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794391095000
-    },
-    {
-      "title": "Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/washington-bitcoin-merchants-snorkel",
-      "pubDate": 1794352493000
-    },
-    {
-      "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center",
-      "pubDate": 1794350762000
-    },
-    {
-      "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
-      "pubDate": 1794346563000
-    },
-    {
-      "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382974/nvidia-erases-2026-gains-republicans-threaten-ceo-subpoena",
-      "pubDate": 1794343550000
-    },
-    {
-      "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
-      "pubDate": 1794342993000
-    },
-    {
-      "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents",
-      "pubDate": 1794341763000
-    },
-    {
-      "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
-      "pubDate": 1794341708000
     }
   ]
 }
