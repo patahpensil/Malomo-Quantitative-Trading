@@ -1,7 +1,139 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794508340703,
+  "generatedAt": 1794527349586,
   "articles": [
+    {
+      "title": "Jane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million Shares",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/jane-street-lifts-strategy-mstr-stake",
+      "pubDate": 1794526247000
+    },
+    {
+      "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794525175000
+    },
+    {
+      "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+      "pubDate": 1794524152000
+    },
+    {
+      "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
+      "pubDate": 1794523661000
+    },
+    {
+      "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
+      "pubDate": 1794522962000
+    },
+    {
+      "title": "DOJ’s Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/doj-europol-operation-tornado-234-million",
+      "pubDate": 1794522922000
+    },
+    {
+      "title": "Bitcoin Faces Two Red Years For the First Time Ever",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/bitcoin-faces-two-red-years-for-the-first-time-ever",
+      "pubDate": 1794522606000
+    },
+    {
+      "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794522598000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794521501000
+    },
+    {
+      "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+      "pubDate": 1794521163000
+    },
+    {
+      "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794521101000
+    },
+    {
+      "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794520324000
+    },
+    {
+      "title": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes",
+      "pubDate": 1794518763000
+    },
+    {
+      "title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
+      "pubDate": 1794517669000
+    },
+    {
+      "title": "Jensen Huang Steps Down: Are the Cracks Beginning to Show in Circular AI Financing",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/jensen-huang-steps-down-are-the-cracks-beginning-to-show-in-circular-ai-financing",
+      "pubDate": 1794517213000
+    },
+    {
+      "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794517086000
+    },
+    {
+      "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet",
+      "pubDate": 1794515763000
+    },
+    {
+      "title": "Peter Schiff on the Bitcoin Crash: “Get the Hell Out”",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/peter-schiff-on-the-bitcoin-crash-get-the-hell-out",
+      "pubDate": 1794514528000
+    },
+    {
+      "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794514061000
+    },
+    {
+      "title": "Simon Dixon: What It Would Take for Me to Sell My Bitcoin for Gold",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/simon-dixon-what-it-would-take-for-me-to-sell-my-bitcoin-for-gold",
+      "pubDate": 1794511148000
+    },
+    {
+      "title": "Binance Says It Has Fully Covered the $6.34 Billion Hack With Company Funds",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/binance-covers-6-34-billion-hack",
+      "pubDate": 1794510734000
+    },
+    {
+      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo",
+      "pubDate": 1794509703000
+    },
     {
       "title": "Nvidia, AMD, Broadcom: The AI Stock Winners and Losers After Jensen Huang’s Ousting",
       "source": "Decrypt",
@@ -81,24 +213,6 @@
       "pubDate": 1794497669000
     },
     {
-      "title": "Geopolitical Strategist: Bitcoin Is the “Third Way” Between the Dollar and Yuan",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/geopolitical-strategist-bitcoin-is-the-third-way-between-the-dollar-and-yuan",
-      "pubDate": 1794497405000
-    },
-    {
-      "title": "BNY Mellon Raises Its Strive (ASST) Stake 28% to $7 Million as Monday’s 13F Deadline Nears",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bny-mellon-raises-strive-asst-stake-28",
-      "pubDate": 1794496620000
-    },
-    {
-      "title": "Rumble (RUM) Sells Two-Thirds of Its Bitcoin as AI Cloud Business Delivers First Profitable Quarter",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/rumble-rum-sells-two-thirds-bitcoin",
-      "pubDate": 1794495180000
-    },
-    {
       "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
@@ -115,18 +229,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
       "pubDate": 1794493491000
-    },
-    {
-      "title": "BlackRock’s IBIT Bleeds $2 Billion in Nine Straight Days of Outflows",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/blackrock-ibit-nine-days-outflows",
-      "pubDate": 1794493440000
-    },
-    {
-      "title": "Bitcoin Price Falls Below $72,000 as Nvidia CEO Jensen Huang Steps Down and Strategy (MSTR) Slides",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-below-72000",
-      "pubDate": 1794493311000
     },
     {
       "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack",
@@ -259,108 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1794479429000
-    },
-    {
-      "title": "India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
-      "pubDate": 1794478248000
-    },
-    {
-      "title": "Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383114/pressure-mounts-on-nvidias-jensen-huang-amid-reports-of-second-affair",
-      "pubDate": 1794476838000
-    },
-    {
-      "title": "Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
-      "pubDate": 1794474904000
-    },
-    {
-      "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
-      "pubDate": 1794474420000
-    },
-    {
-      "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794470808000
-    },
-    {
-      "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
-      "pubDate": 1794469278000
-    },
-    {
-      "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
-      "pubDate": 1794466837000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794463200000
-    },
-    {
-      "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794462888000
-    },
-    {
-      "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
-      "pubDate": 1794462584000
-    },
-    {
-      "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
-      "pubDate": 1794460951000
-    },
-    {
-      "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
-      "pubDate": 1794460723000
-    },
-    {
-      "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794460031000
-    },
-    {
-      "title": "MSCI confirms Strategy’s removal from indexes at end of November",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794442153000
-    },
-    {
-      "title": "MSCI Removes Strategy (MSTR) From Its USA Index, Forcing Index Funds to Sell by Nov. 30",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/msci-removes-strategy-mstr-usa-index",
-      "pubDate": 1794440216000
-    },
-    {
-      "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794439124000
-    },
-    {
-      "title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794437087000
     }
   ]
 }
