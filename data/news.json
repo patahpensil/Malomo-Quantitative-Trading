@@ -1,7 +1,73 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794527349586,
+  "generatedAt": 1794550937702,
   "articles": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794550606000
+    },
+    {
+      "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
+      "pubDate": 1794549821000
+    },
+    {
+      "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794549615000
+    },
+    {
+      "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
+      "pubDate": 1794548726000
+    },
+    {
+      "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
+      "pubDate": 1794546539000
+    },
+    {
+      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+      "pubDate": 1794541020000
+    },
+    {
+      "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794536967000
+    },
+    {
+      "title": "Former Nvidia CEO Huang had third alleged affair: Reuters",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794533187000
+    },
+    {
+      "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794531162000
+    },
+    {
+      "title": "DOJ Wins Court Authority to Seize $1.2 Billion of North Korea’s Stolen Binance Crypto as Freezes Top $2.7 Billion",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/doj-north-korea-binance-1-2-billion-seize",
+      "pubDate": 1794528900000
+    },
+    {
+      "title": "Bitcoin Price Trades Near $71,200 After a Fresh Session Low as the 10-Year Yield Holds Above 5%",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-71200-yields",
+      "pubDate": 1794527579000
+    },
     {
       "title": "Jane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million Shares",
       "source": "Bitcoin Magazine",
@@ -49,12 +115,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1794522598000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794521501000
     },
     {
       "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
@@ -169,18 +229,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/383139/tron-tether-chainalysis-new-crypto-crime-task-force-replacing-trm",
       "pubDate": 1794501362000
-    },
-    {
-      "title": "JPMorgan Lifts Its Strategy (MSTR) Stake 36% and Holds $540 Million in Bitcoin ETFs",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/jpmorgan-lifts-strategy-mstr-stake-36",
-      "pubDate": 1794500357000
-    },
-    {
-      "title": "Crypto Exchange Gemini Sells U.K. and EU Units to KAST for Under $10 Million",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/gemini-said-to-sell-uk-eu-units-kast",
-      "pubDate": 1794499677000
     },
     {
       "title": "Anchorage Digital’s Stablecoins Can Now Settle Payments on Visa’s Network",
@@ -313,54 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/383126/indias-financial-crimes-agency-searches-coindcx-delta-exchange-over-offshore-trades",
       "pubDate": 1794484990000
-    },
-    {
-      "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
-      "pubDate": 1794483821000
-    },
-    {
-      "title": "Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794483530000
-    },
-    {
-      "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
-      "pubDate": 1794483000000
-    },
-    {
-      "title": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
-      "pubDate": 1794482659000
-    },
-    {
-      "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794481200000
-    },
-    {
-      "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
-      "pubDate": 1794480126000
-    },
-    {
-      "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/12/nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight-quarters-bloomberg",
-      "pubDate": 1794479555000
-    },
-    {
-      "title": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794479429000
     }
   ]
 }
