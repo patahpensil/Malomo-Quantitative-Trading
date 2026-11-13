@@ -1,12 +1,144 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794550937702,
+  "generatedAt": 1794581446861,
   "articles": [
+    {
+      "title": "President Trump Taps Two Democrats in Bipartisan Slate of SEC and CFTC Nominees as Both Agencies Run Short-Handed",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/trump-sec-cftc-nominees-bipartisan",
+      "pubDate": 1794581100000
+    },
+    {
+      "title": "Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-69100-dollar",
+      "pubDate": 1794579104000
+    },
+    {
+      "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
+      "pubDate": 1794578520000
+    },
+    {
+      "title": "Crypto Laundering a 'Material Risk' for UK Ahead of FATF Review: RUSI",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383227/crypto-laundering-a-material-risk-for-uk-ahead-of-fatf-review-rusi",
+      "pubDate": 1794578125000
+    },
     {
       "title": "Here’s what happened in crypto today",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794550606000
+      "pubDate": 1794577784000
+    },
+    {
+      "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794577286000
+    },
+    {
+      "title": "‘Roadmap is Complete,' Cardano Founder Charles Hoskinson Says",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383221/roadmap-is-complete-cardano-founder-charles-hoskinson-says",
+      "pubDate": 1794576989000
+    },
+    {
+      "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794575059000
+    },
+    {
+      "title": "Morning Minute: Crypto Plummets as Jensen Huang Exits Nvidia",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383222/morning-minute-crypto-plummets-as-jensen-huang-exits-nvidia",
+      "pubDate": 1794575020000
+    },
+    {
+      "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794572341000
+    },
+    {
+      "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
+      "pubDate": 1794572062000
+    },
+    {
+      "title": "Digital Credit: Comparing The Six Bitcoin Preferred Stocks",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/digital-credit-comparing-the-six-bitcoin-preferred-stocks",
+      "pubDate": 1794571427000
+    },
+    {
+      "title": "Nvidia Employees Push Board to Bring Back Jensen Huang: Report",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383217/nvidia-employees-push-board-to-bring-back-jensen-huang-report",
+      "pubDate": 1794571127000
+    },
+    {
+      "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
+      "pubDate": 1794570745000
+    },
+    {
+      "title": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383214/bitcoin-drops-to-69k-on-concentrated-liquidation-and-weakening-demand",
+      "pubDate": 1794568844000
+    },
+    {
+      "title": "Congress Summons Ex-Nvidia CEO Jensen Huang, Lutnick Over Chip Exports to China",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383211/congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports-to-china",
+      "pubDate": 1794567354000
+    },
+    {
+      "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794563901000
+    },
+    {
+      "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794562745000
+    },
+    {
+      "title": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794562034000
+    },
+    {
+      "title": "Live news: Bitcoin plunges back towards bear market lows, wiping out late summer rally",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
+      "pubDate": 1794561418000
+    },
+    {
+      "title": "Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794560710000
+    },
+    {
+      "title": "Microsoft 365 outage hits Outlook email and Teams calendars worldwide",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/microsoft-365-global-outage-outlook-teams-ai-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794558361000
+    },
+    {
+      "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
+      "pubDate": 1794553529000
     },
     {
       "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
@@ -177,18 +309,6 @@
       "pubDate": 1794514061000
     },
     {
-      "title": "Simon Dixon: What It Would Take for Me to Sell My Bitcoin for Gold",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/simon-dixon-what-it-would-take-for-me-to-sell-my-bitcoin-for-gold",
-      "pubDate": 1794511148000
-    },
-    {
-      "title": "Binance Says It Has Fully Covered the $6.34 Billion Hack With Company Funds",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/binance-covers-6-34-billion-hack",
-      "pubDate": 1794510734000
-    },
-    {
       "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
       "source": "Decrypt",
       "link": "https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo",
@@ -219,12 +339,6 @@
       "pubDate": 1794501952000
     },
     {
-      "title": "Israel Discount Bank to Let Customers Trade Bitcoin in App Starting Nov. 26",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/discount-bank-bitcoin-trading-nov-26",
-      "pubDate": 1794501900000
-    },
-    {
       "title": "Tron, Tether and Chainalysis Form a New Crypto-Crime Task Force—Replacing One That Just Collapsed",
       "source": "Decrypt",
       "link": "https://decrypt.co/383139/tron-tether-chainalysis-new-crypto-crime-task-force-replacing-trm",
@@ -247,120 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1794498366000
-    },
-    {
-      "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
-      "pubDate": 1794498348000
-    },
-    {
-      "title": "Crypto for Advisors: The blockchain built to run financial markets",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
-      "pubDate": 1794497669000
-    },
-    {
-      "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
-      "pubDate": 1794494700000
-    },
-    {
-      "title": "Jensen Huang Resigns as Nvidia CEO, With CFO Colette Kress Named Interim Chief",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383134/jensen-huang-resigns-as-nvidia-ceo-with-cfo-colette-kress-named-interim-chief",
-      "pubDate": 1794494679000
-    },
-    {
-      "title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
-      "pubDate": 1794493491000
-    },
-    {
-      "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack",
-      "pubDate": 1794492062000
-    },
-    {
-      "title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794491942000
-    },
-    {
-      "title": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
-      "pubDate": 1794491873000
-    },
-    {
-      "title": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794491559000
-    },
-    {
-      "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794491043000
-    },
-    {
-      "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794490319000
-    },
-    {
-      "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794490200000
-    },
-    {
-      "title": "DTCC to Bring Tokenized Stocks and Treasuries to Solana in 2027",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027",
-      "pubDate": 1794489947000
-    },
-    {
-      "title": "Uber’s UK banking partner Griffin raises $20M for stablecoin services",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794489716000
-    },
-    {
-      "title": "Morning Minute: Tokenized Stock Venues Are Launching Without Big Tech’s Approval",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383129/morning-minute-tokenized-stock-venues-are-launching-without-big-techs-approval",
-      "pubDate": 1794488784000
-    },
-    {
-      "title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794486103000
-    },
-    {
-      "title": "Bitcoin weakness erases September's bullish signal",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
-      "pubDate": 1794485700000
-    },
-    {
-      "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
-      "pubDate": 1794485082000
-    },
-    {
-      "title": "India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383126/indias-financial-crimes-agency-searches-coindcx-delta-exchange-over-offshore-trades",
-      "pubDate": 1794484990000
     }
   ]
 }
