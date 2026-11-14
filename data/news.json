@@ -1,7 +1,25 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794620405613,
+  "generatedAt": 1794646335406,
   "articles": [
+    {
+      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794643950000
+    },
+    {
+      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794637993000
+    },
+    {
+      "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+      "pubDate": 1794630600000
+    },
     {
       "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
       "source": "CoinDesk",
@@ -327,22 +345,10 @@
       "pubDate": 1794533187000
     },
     {
-      "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794531162000
-    },
-    {
       "title": "DOJ Wins Court Authority to Seize $1.2 Billion of North Korea’s Stolen Binance Crypto as Freezes Top $2.7 Billion",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/doj-north-korea-binance-1-2-billion-seize",
       "pubDate": 1794528900000
-    },
-    {
-      "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794525175000
     },
     {
       "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
@@ -355,12 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
       "pubDate": 1794523661000
-    },
-    {
-      "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
-      "pubDate": 1794522962000
     }
   ]
 }
