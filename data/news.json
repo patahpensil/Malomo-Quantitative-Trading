@@ -1,7 +1,43 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794604908587,
+  "generatedAt": 1794620405613,
   "articles": [
+    {
+      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+      "pubDate": 1794612600000
+    },
+    {
+      "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
+      "pubDate": 1794608163000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794607717000
+    },
+    {
+      "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794607263000
+    },
+    {
+      "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794606567000
+    },
+    {
+      "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight",
+      "pubDate": 1794605763000
+    },
     {
       "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
       "source": "Cointelegraph",
@@ -139,12 +175,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/383227/crypto-laundering-a-material-risk-for-uk-ahead-of-fatf-review-rusi",
       "pubDate": 1794578125000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794577784000
     },
     {
       "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
@@ -331,36 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
       "pubDate": 1794522962000
-    },
-    {
-      "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794522598000
-    },
-    {
-      "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
-      "pubDate": 1794521163000
-    },
-    {
-      "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794521101000
-    },
-    {
-      "title": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes",
-      "pubDate": 1794518763000
-    },
-    {
-      "title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
-      "pubDate": 1794517669000
     }
   ]
 }
