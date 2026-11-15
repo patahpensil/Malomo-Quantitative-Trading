@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794701446527,
+  "generatedAt": 1794726199936,
   "articles": [
+    {
+      "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794724046000
+    },
+    {
+      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+      "pubDate": 1794711057000
+    },
     {
       "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
       "source": "Decrypt",
@@ -15,7 +27,7 @@
       "pubDate": 1794675662000
     },
     {
-      "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
+      "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
       "pubDate": 1794674009000
@@ -349,18 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1794562034000
-    },
-    {
-      "title": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
-      "pubDate": 1794561418000
-    },
-    {
-      "title": "Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794560710000
     }
   ]
 }
