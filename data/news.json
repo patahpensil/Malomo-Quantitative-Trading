@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794753608142,
+  "generatedAt": 1794773830975,
   "articles": [
+    {
+      "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+      "pubDate": 1794771000000
+    },
+    {
+      "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+      "pubDate": 1794758462000
+    },
     {
       "title": "Enterprise blockchain is going to come back from the dead",
       "source": "Cointelegraph",
@@ -349,18 +361,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/digital-credit-comparing-the-six-bitcoin-preferred-stocks",
       "pubDate": 1794571427000
-    },
-    {
-      "title": "Nvidia Employees Push Board to Bring Back Jensen Huang: Report",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383217/nvidia-employees-push-board-to-bring-back-jensen-huang-report",
-      "pubDate": 1794571127000
-    },
-    {
-      "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
-      "pubDate": 1794570745000
     }
   ]
 }
