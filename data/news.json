@@ -1,7 +1,43 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794726199936,
+  "generatedAt": 1794753608142,
   "articles": [
+    {
+      "title": "Enterprise blockchain is going to come back from the dead",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794753000000
+    },
+    {
+      "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+      "pubDate": 1794751262000
+    },
+    {
+      "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
+      "pubDate": 1794751200000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794741528000
+    },
+    {
+      "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794738197000
+    },
+    {
+      "title": "Coinone warns of phishing, identity theft after customer data breach",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794730078000
+    },
     {
       "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
       "source": "Cointelegraph",
@@ -79,12 +115,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
       "pubDate": 1794661020000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794655692000
     },
     {
       "title": "Microsoft confirms global outage resolved, rules out cyberattack",
@@ -331,36 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
       "pubDate": 1794570745000
-    },
-    {
-      "title": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383214/bitcoin-drops-to-69k-on-concentrated-liquidation-and-weakening-demand",
-      "pubDate": 1794568844000
-    },
-    {
-      "title": "Congress Summons Ex-Nvidia CEO Jensen Huang, Lutnick Over Chip Exports to China",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383211/congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports-to-china",
-      "pubDate": 1794567354000
-    },
-    {
-      "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794563901000
-    },
-    {
-      "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794562745000
-    },
-    {
-      "title": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794562034000
     }
   ]
 }
