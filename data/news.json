@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794773830975,
+  "generatedAt": 1794788186079,
   "articles": [
+    {
+      "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794786465000
+    },
+    {
+      "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794783059000
+    },
     {
       "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
       "source": "CoinDesk",
@@ -349,18 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1794572341000
-    },
-    {
-      "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
-      "pubDate": 1794572062000
-    },
-    {
-      "title": "Digital Credit: Comparing The Six Bitcoin Preferred Stocks",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/digital-credit-comparing-the-six-bitcoin-preferred-stocks",
-      "pubDate": 1794571427000
     }
   ]
 }
