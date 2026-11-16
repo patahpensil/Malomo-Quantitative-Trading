@@ -1,7 +1,49 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794788186079,
+  "generatedAt": 1794812988507,
   "articles": [
+    {
+      "title": "Cardano holders vote down $5 million bid to buy warehouse copper",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
+      "pubDate": 1794810462000
+    },
+    {
+      "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
+      "pubDate": 1794808901000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794808800000
+    },
+    {
+      "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794806920000
+    },
+    {
+      "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
+      "pubDate": 1794805277000
+    },
+    {
+      "title": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794804127000
+    },
+    {
+      "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794796387000
+    },
     {
       "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
       "source": "Cointelegraph",
@@ -45,13 +87,7 @@
       "pubDate": 1794751200000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794741528000
-    },
-    {
-      "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+      "title": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1794738197000
@@ -63,7 +99,7 @@
       "pubDate": 1794730078000
     },
     {
-      "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+      "title": "RWA protocol stUSDT winds down 3 years after $2.3B TVL peak",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1794724046000
@@ -325,42 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
       "pubDate": 1794578520000
-    },
-    {
-      "title": "Crypto Laundering a 'Material Risk' for UK Ahead of FATF Review: RUSI",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383227/crypto-laundering-a-material-risk-for-uk-ahead-of-fatf-review-rusi",
-      "pubDate": 1794578125000
-    },
-    {
-      "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794577286000
-    },
-    {
-      "title": "‘Roadmap is Complete,' Cardano Founder Charles Hoskinson Says",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383221/roadmap-is-complete-cardano-founder-charles-hoskinson-says",
-      "pubDate": 1794576989000
-    },
-    {
-      "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794575059000
-    },
-    {
-      "title": "Morning Minute: Crypto Plummets as Jensen Huang Exits Nvidia",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383222/morning-minute-crypto-plummets-as-jensen-huang-exits-nvidia",
-      "pubDate": 1794575020000
-    },
-    {
-      "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794572341000
     }
   ]
 }
