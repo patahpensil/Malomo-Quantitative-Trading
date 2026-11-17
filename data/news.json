@@ -1,7 +1,55 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794877182034,
+  "generatedAt": 1794905980468,
   "articles": [
+    {
+      "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
+      "pubDate": 1794901087000
+    },
+    {
+      "title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market",
+      "pubDate": 1794898489000
+    },
+    {
+      "title": "Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794897319000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794895200000
+    },
+    {
+      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+      "pubDate": 1794893843000
+    },
+    {
+      "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
+      "pubDate": 1794891725000
+    },
+    {
+      "title": "Trezor customer data exposed in 3rd partner breach this year",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794887182000
+    },
+    {
+      "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794877325000
+    },
     {
       "title": "Nvidia shares fall 4% as board reportedly rules out Huang return",
       "source": "Cointelegraph",
@@ -37,12 +85,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
       "pubDate": 1794867483000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794866856000
     },
     {
       "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
@@ -93,7 +135,7 @@
       "pubDate": 1794861363000
     },
     {
-      "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
+      "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto selloff",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
       "pubDate": 1794861321000
@@ -319,48 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
       "pubDate": 1794829632000
-    },
-    {
-      "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
-      "pubDate": 1794826994000
-    },
-    {
-      "title": "Singapore, Germany test cross-border FX settlement with CBDCs",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/singapore-german-central-banks-settlement-cbdcs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794826152000
-    },
-    {
-      "title": "BTC price tags 18-week low into Nvidia earnings: Three things to know in Bitcoin this week",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/btc-price-18-week-low-nvidia-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794825545000
-    },
-    {
-      "title": "German Lawmakers Back Customs Powers to Seize Crypto of 'Unclear Origin'",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383297/german-lawmakers-back-customs-powers-to-seize-crypto-of-unclear-origin",
-      "pubDate": 1794824715000
-    },
-    {
-      "title": "Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum",
-      "pubDate": 1794822895000
-    },
-    {
-      "title": "Live updates: Bitcoin trades near $65,000 as Nasdaq closes with 2.5% loss",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
-      "pubDate": 1794821658000
-    },
-    {
-      "title": "Elon Musk Joins 160,000 Backing Petition to Bring Jensen Huang Back to Nvidia",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383286/elon-musk-joins-160000-backing-petition-to-bring-jensen-huang-back-to-nvidia",
-      "pubDate": 1794821101000
     }
   ]
 }
