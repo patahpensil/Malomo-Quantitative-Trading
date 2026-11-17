@@ -1,7 +1,193 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794849648805,
+  "generatedAt": 1794877182034,
   "articles": [
+    {
+      "title": "Nvidia shares fall 4% as board reportedly rules out Huang return",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794873041000
+    },
+    {
+      "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794869697000
+    },
+    {
+      "title": "German lawmakers back crypto freezes outside criminal cases",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794869204000
+    },
+    {
+      "title": "Alibaba's Qwen 4 Max Leads China's AI Agent Race—But You Can't Download It",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383395/alibaba-qwen-4-max-leads-china-ai-agent-race-cant-download-it",
+      "pubDate": 1794869162000
+    },
+    {
+      "title": "Binance hack may push institutions to outside custody, FalconX exec says",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794867581000
+    },
+    {
+      "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
+      "pubDate": 1794867483000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794866856000
+    },
+    {
+      "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
+      "pubDate": 1794865864000
+    },
+    {
+      "title": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
+      "pubDate": 1794865563000
+    },
+    {
+      "title": "Why Bitcoin’s June Low May Not Be the Bottom — $58K the Key Test",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/why-bitcoins-june-low-may-not-be-the-bottom-58k-the-key-test",
+      "pubDate": 1794865436000
+    },
+    {
+      "title": "Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5%",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia",
+      "pubDate": 1794864036000
+    },
+    {
+      "title": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
+      "pubDate": 1794863763000
+    },
+    {
+      "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794861947000
+    },
+    {
+      "title": "Senate Agriculture Committee to Hear Trump’s CFTC Nominees Tuesday",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/cftc-nominees-senate-hearing-tuesday",
+      "pubDate": 1794861863000
+    },
+    {
+      "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
+      "pubDate": 1794861363000
+    },
+    {
+      "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
+      "pubDate": 1794861321000
+    },
+    {
+      "title": "Rob Hamilton: The AI “Black Hole” is Pulling Liquidity Away from Bitcoin",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/rob-hamilton-the-ai-black-hole-is-pulling-liquidity-away-from-bitcoin",
+      "pubDate": 1794861317000
+    },
+    {
+      "title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794860282000
+    },
+    {
+      "title": "Coinbase and Broadridge propose standard for tokenized stock disclosures",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794858978000
+    },
+    {
+      "title": "T. Rowe Price’s Blue Macellari: Institutions “Not Backing Away” From Bitcoin",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/t-rowe-prices-blue-macellari-institutions-not-backing-away-from-bitcoin",
+      "pubDate": 1794858280000
+    },
+    {
+      "title": "Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief",
+      "pubDate": 1794857763000
+    },
+    {
+      "title": "$36B Wealth Firm Strategist: Bitcoin’s Supercycle Is “Still Intact”",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/36b-wealth-firm-strategist-bitcoins-supercycle-is-still-intact",
+      "pubDate": 1794856634000
+    },
+    {
+      "title": "Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383351/trump-elon-musk-sam-altman-jensen-huang-nvidia",
+      "pubDate": 1794855902000
+    },
+    {
+      "title": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
+      "pubDate": 1794855259000
+    },
+    {
+      "title": "Fed Is Modeling AI 'Super Intelligence' Scenarios, Including Job Losses and a Stock Market Slump",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383354/fed-modeling-ai-super-intelligence-scenarios-job-losses-stock-market",
+      "pubDate": 1794854204000
+    },
+    {
+      "title": "German Bundestag Lets Customs Freeze Crypto Over €100,000 Without a Criminal Case as the Bill Goes to the Bundesrat",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/german-bundestag-crypto-over-100000",
+      "pubDate": 1794852900000
+    },
+    {
+      "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794852469000
+    },
+    {
+      "title": "Nvidia Stock Has a 20% Rebound in Sight—If Bulls Can Clear a Hurdle",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383334/nvidia-stock-rebound-in-sight-if-bulls-can-clear-hurdle",
+      "pubDate": 1794852363000
+    },
+    {
+      "title": "Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794851353000
+    },
+    {
+      "title": "Saylor’s Strategy Keeps Buying Bitcoin, Adding 'A Little Orange' Through the Dip",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383347/saylor-strategy-buying-bitcoin-adding-little-orange-dip",
+      "pubDate": 1794849626000
+    },
+    {
+      "title": "George Mekhail: Bitcoin’s Price Is a “Distraction” as Wall Street Quietly Accumulates",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/george-mekhail-bitcoins-price-is-a-distraction-as-wall-street-quietly-accumulates",
+      "pubDate": 1794849317000
+    },
     {
       "title": "'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares",
       "source": "Decrypt",
@@ -69,46 +255,10 @@
       "pubDate": 1794840946000
     },
     {
-      "title": "Hong Kong to License Crypto Dealers and Custodians by Year-End",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/hong-kong-license-crypto-dealers-custodian",
-      "pubDate": 1794840300000
-    },
-    {
-      "title": "Lighter pauses withdrawals after reported $10M account theft",
+      "title": "Lighter recovers $5M after $10M exploit linked to compromised API keys",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1794838790000
-    },
-    {
-      "title": "Sweden’s H100 Taps Coinbase Prime and Deribit for Its 3,506 Bitcoin Treasury as It Courts Family Offices",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/h100-coinbase-prime-bitcoin-treasury",
-      "pubDate": 1794838500000
-    },
-    {
-      "title": "Strive (ASST) Buys 251 Bitcoin for $17.5 Million as Shares Drop 10% Premarket",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/strive-buys-251-bitcoin-holdings-43404",
-      "pubDate": 1794837300000
-    },
-    {
-      "title": "Bitcoin Price Trades Near $64,000 After Weekend Plunge to $62,000",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-64000-tech",
-      "pubDate": 1794836534000
-    },
-    {
-      "title": "Strategy (MSTR) Adds 485 Bitcoin for $33.4 Million as It Spends $228 Million Buying Back Preferred Stock",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/strategy-mstr-adds-485-bitcoin-holdings",
-      "pubDate": 1794836310000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794835909000
     },
     {
       "title": "Banks are banning AI agents over security... and competition concerns",
@@ -201,7 +351,7 @@
       "pubDate": 1794822895000
     },
     {
-      "title": "Live updates: Bitcoin holds near weekend lows as Nasdaq falls more than 1%",
+      "title": "Live updates: Bitcoin trades near $65,000 as Nasdaq closes with 2.5% loss",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
       "pubDate": 1794821658000
@@ -211,156 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/383286/elon-musk-joins-160000-backing-petition-to-bring-jensen-huang-back-to-nvidia",
       "pubDate": 1794821101000
-    },
-    {
-      "title": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead",
-      "pubDate": 1794820987000
-    },
-    {
-      "title": "DBS, JPMorgan’s Kinexys launch 24/7 transfers of tokenized deposits",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794819050000
-    },
-    {
-      "title": "JPMorgan and DBS let clients move dollars across borders on weekends",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
-      "pubDate": 1794818760000
-    },
-    {
-      "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794817659000
-    },
-    {
-      "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
-      "pubDate": 1794817083000
-    },
-    {
-      "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
-      "pubDate": 1794815475000
-    },
-    {
-      "title": "Cardano holders vote down $5 million bid to buy warehouse copper",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
-      "pubDate": 1794810462000
-    },
-    {
-      "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
-      "pubDate": 1794808901000
-    },
-    {
-      "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794806920000
-    },
-    {
-      "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
-      "pubDate": 1794805277000
-    },
-    {
-      "title": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794804127000
-    },
-    {
-      "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794796387000
-    },
-    {
-      "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794786465000
-    },
-    {
-      "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794783059000
-    },
-    {
-      "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
-      "pubDate": 1794771000000
-    },
-    {
-      "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
-      "pubDate": 1794758462000
-    },
-    {
-      "title": "Peruvian Bull: The Yen Carry Trade and Bitcoin’s Road to $300k",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/peruvian-bull-the-yen-carry-trade-and-bitcoins-road-to-300k",
-      "pubDate": 1794754805000
-    },
-    {
-      "title": "Enterprise blockchain is going to come back from the dead",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794753000000
-    },
-    {
-      "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
-      "pubDate": 1794751262000
-    },
-    {
-      "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
-      "pubDate": 1794751200000
-    },
-    {
-      "title": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794738197000
-    },
-    {
-      "title": "Coinone warns of phishing, identity theft after customer data breach",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794730078000
-    },
-    {
-      "title": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs",
-      "pubDate": 1794726000000
-    },
-    {
-      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
-      "pubDate": 1794711057000
-    },
-    {
-      "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
-      "pubDate": 1794679262000
     }
   ]
 }
