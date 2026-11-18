@@ -1,7 +1,139 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794939832401,
+  "generatedAt": 1794964346507,
   "articles": [
+    {
+      "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
+      "pubDate": 1794962785000
+    },
+    {
+      "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794961003000
+    },
+    {
+      "title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383468/why-microsoft-thinks-smaller-cheaper-ai-beat-claude-gpt",
+      "pubDate": 1794957363000
+    },
+    {
+      "title": "Bitcoin Policy Institute Rebrands as Finney Foundation for Open Technology",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/bitcoin-policy-institute-rebrands-as-finney-foundation-for-open-technology",
+      "pubDate": 1794955503000
+    },
+    {
+      "title": "Nvidia Board Shuts Down Jensen Huang Comeback, Launches Search for New CEO",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383513/nvidia-board-shuts-down-jensen-huang-comeback",
+      "pubDate": 1794955193000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794955071000
+    },
+    {
+      "title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794954004000
+    },
+    {
+      "title": "Nvidia Shares Rise After Earnings Beat in First Report Since Jensen Huang's Exit",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383505/nvidia-shares-rise-earnings-beat-first-report-jensen-huang-exit",
+      "pubDate": 1794953898000
+    },
+    {
+      "title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794952595000
+    },
+    {
+      "title": "OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark",
+      "pubDate": 1794951962000
+    },
+    {
+      "title": "Nvidia shares rise on earnings beat, raised outlook despite leadership uncertainty",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
+      "pubDate": 1794950750000
+    },
+    {
+      "title": "Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-near-64000-strategy",
+      "pubDate": 1794949326000
+    },
+    {
+      "title": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
+      "pubDate": 1794948963000
+    },
+    {
+      "title": "Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal",
+      "pubDate": 1794947763000
+    },
+    {
+      "title": "Mark Yusko: Why Bitcoin Is Falling — $58k is the Key Level to Watch",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/mark-yusko-why-bitcoin-is-falling-58k-is-the-key-level-to-watch",
+      "pubDate": 1794947434000
+    },
+    {
+      "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794945904000
+    },
+    {
+      "title": "Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks",
+      "pubDate": 1794944763000
+    },
+    {
+      "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
+      "pubDate": 1794944757000
+    },
+    {
+      "title": "Wall Street Bought $4.2B of Bitcoin in Q3: What You Need to Know",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/wall-street-bought-4-2b-of-bitcoin-in-q3-what-you-need-to-know",
+      "pubDate": 1794944145000
+    },
+    {
+      "title": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
+      "pubDate": 1794943562000
+    },
+    {
+      "title": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
+      "pubDate": 1794942960000
+    },
+    {
+      "title": "Jensen Huang Says He'd Be 'Honored' to Return as Nvidia CEO, Despite Board's Resistance",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383454/jensen-huang-honored-return-nvidia-ceo-board-resistance",
+      "pubDate": 1794939823000
+    },
     {
       "title": "Situational Awareness Dumps Bitcoin Miners After Citadel Sale",
       "source": "Bitcoin Magazine",
@@ -87,34 +219,10 @@
       "pubDate": 1794928664000
     },
     {
-      "title": "Twenty One Capital (XXI) Buys 154 Bitcoin, Its First Purchase of 2026",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/twenty-one-capital-xxi-buys-154-bitcoin",
-      "pubDate": 1794928272000
-    },
-    {
       "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
       "pubDate": 1794928260000
-    },
-    {
-      "title": "Russia Lets Everyday Investors Buy Bitcoin Starting Today",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/russia-retail-bitcoin-buying-starts",
-      "pubDate": 1794927809000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794927280000
-    },
-    {
-      "title": "“We Need to Change Our Management”: Ricardo Salinas on Mexico’s Future, Bukele and Bitcoin",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/business/we-need-to-change-our-management-ricardo-salinas-on-mexicos-future-bukele-and-bitcoin",
-      "pubDate": 1794927250000
     },
     {
       "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
@@ -253,114 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/383411/nvidia-board-not-considering-jensen-huangs-return-report",
       "pubDate": 1794909272000
-    },
-    {
-      "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794907805000
-    },
-    {
-      "title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
-      "pubDate": 1794907649000
-    },
-    {
-      "title": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence",
-      "pubDate": 1794907279000
-    },
-    {
-      "title": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794906512000
-    },
-    {
-      "title": "Solana Foundation Backs CoinGecko as Crypto Data Giant Eyes Trading",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
-      "pubDate": 1794906063000
-    },
-    {
-      "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
-      "pubDate": 1794901087000
-    },
-    {
-      "title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market",
-      "pubDate": 1794898489000
-    },
-    {
-      "title": "Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794897319000
-    },
-    {
-      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
-      "pubDate": 1794893843000
-    },
-    {
-      "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
-      "pubDate": 1794891725000
-    },
-    {
-      "title": "Trezor customer data exposed in 3rd partner breach this year",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794887182000
-    },
-    {
-      "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794877325000
-    },
-    {
-      "title": "Nvidia shares fall 4% as board reportedly rules out Huang return",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794873041000
-    },
-    {
-      "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794869697000
-    },
-    {
-      "title": "German lawmakers back crypto freezes outside criminal cases",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794869204000
-    },
-    {
-      "title": "Alibaba's Qwen 4 Max Leads China's AI Agent Race—But You Can't Download It",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383395/alibaba-qwen-4-max-leads-china-ai-agent-race-cant-download-it",
-      "pubDate": 1794869162000
-    },
-    {
-      "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
-      "pubDate": 1794867483000
-    },
-    {
-      "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
-      "pubDate": 1794865864000
     }
   ]
 }
