@@ -1,7 +1,61 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1794964346507,
+  "generatedAt": 1794992458147,
   "articles": [
+    {
+      "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794991276000
+    },
+    {
+      "title": "Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794989363000
+    },
+    {
+      "title": "Google finds self-running AI hacking tool with Russian comments in its files",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files",
+      "pubDate": 1794987479000
+    },
+    {
+      "title": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
+      "pubDate": 1794986868000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794981600000
+    },
+    {
+      "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
+      "pubDate": 1794979810000
+    },
+    {
+      "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
+      "pubDate": 1794976461000
+    },
+    {
+      "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
+      "pubDate": 1794976117000
+    },
+    {
+      "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1794969592000
+    },
     {
       "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
       "source": "CoinDesk",
@@ -31,12 +85,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/383513/nvidia-board-shuts-down-jensen-huang-comeback",
       "pubDate": 1794955193000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794955071000
     },
     {
       "title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
@@ -313,54 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1794914298000
-    },
-    {
-      "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794914045000
-    },
-    {
-      "title": "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
-      "pubDate": 1794913525000
-    },
-    {
-      "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
-      "pubDate": 1794912492000
-    },
-    {
-      "title": "Live updates: Bitcoin and stocks continue slump as Huang signals interest in returning to Nvidia",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
-      "pubDate": 1794911606000
-    },
-    {
-      "title": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
-      "pubDate": 1794910938000
-    },
-    {
-      "title": "Nvidia faces first earnings test without Jensen Huang as AI stocks slide",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/17/nvidia-faces-first-earnings-test-without-jensen-huang-as-ai-stocks-slide",
-      "pubDate": 1794910621000
-    },
-    {
-      "title": "Google says hackers use AI agents to find and exploit software flaws",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794909959000
-    },
-    {
-      "title": "Nvidia Board Not Considering Jensen Huang's Return: Report",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383411/nvidia-board-not-considering-jensen-huangs-return-report",
-      "pubDate": 1794909272000
     }
   ]
 }
