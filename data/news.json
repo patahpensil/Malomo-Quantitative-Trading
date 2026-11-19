@@ -1,7 +1,91 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1795047075868,
+  "generatedAt": 1795074526711,
   "articles": [
+    {
+      "title": "Fed's rate hike push may be a mistake. Here's why",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue",
+      "pubDate": 1795069399000
+    },
+    {
+      "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795068000000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795068000000
+    },
+    {
+      "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
+      "pubDate": 1795066746000
+    },
+    {
+      "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795066065000
+    },
+    {
+      "title": "Binance hackers stole 192 tokens across 11 networks, court docs show",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795064985000
+    },
+    {
+      "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
+      "pubDate": 1795063570000
+    },
+    {
+      "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
+      "pubDate": 1795059648000
+    },
+    {
+      "title": "Why The $1T AI Credit Complex Could be Bitcoin’s Next Catalyst | Jeff Walton",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/why-the-1t-ai-credit-complex-could-be-bitcoins-next-catalyst-jeff-walton",
+      "pubDate": 1795056368000
+    },
+    {
+      "title": "Trump administration unveils new center to choke off scam payments",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795052733000
+    },
+    {
+      "title": "Fed officials saw October rate hold as a ‘close call,’ minutes show",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795048549000
+    },
+    {
+      "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
+      "pubDate": 1795048426000
+    },
+    {
+      "title": "Bloomberg’s James Seyffart: Wall Street Bought $4.2 BILLION BTC in Q3",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/bloombergs-james-seyffart-wall-street-bought-4-2-billion-btc-in-q3",
+      "pubDate": 1795048211000
+    },
+    {
+      "title": "Bitcoin: It’s So Over",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/bitcoin-its-so-over",
+      "pubDate": 1795044031000
+    },
     {
       "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
       "source": "CoinDesk",
@@ -13,12 +97,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
       "pubDate": 1795040162000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795039755000
     },
     {
       "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
@@ -189,28 +267,10 @@
       "pubDate": 1795015398000
     },
     {
-      "title": "New York State Pension Fund Boosts Strategy (MSTR) Stake by More Than 10%",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/ny-pension-fund-boosts-strategy-stake",
-      "pubDate": 1795013400000
-    },
-    {
       "title": "Movie2K Defendant Could Hand Over 40,000 Bitcoin to End Trial—and Stay a Billionaire",
       "source": "Decrypt",
       "link": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire",
       "pubDate": 1795011652000
-    },
-    {
-      "title": "Bitcoin Price Trades Near $64,000 as Fed’s Waller Floats Half-Point Hike",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-64000-waller",
-      "pubDate": 1795010987000
-    },
-    {
-      "title": "South Korea Set to Let 3,500 Companies Buy Bitcoin, Report Says",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/south-korea-companies-buy-bitcoin",
-      "pubDate": 1795010741000
     },
     {
       "title": "Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys",
@@ -301,66 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1794997987000
-    },
-    {
-      "title": "Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794997880000
-    },
-    {
-      "title": "Scattered Spider Hacker Sentenced to 6 Years Over $11.6M in Stolen Crypto",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383522/scattered-spider-hacker-sentenced-to-6-years-over-11-6m-in-stolen-crypto",
-      "pubDate": 1794997037000
-    },
-    {
-      "title": "Strategy stock could plunge 76% to $23, chart analyst warns",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/18/strategy-stock-could-crash-76-to-usd23-chart-analyst-warns",
-      "pubDate": 1794994301000
-    },
-    {
-      "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794993438000
-    },
-    {
-      "title": "Hyundai tests AI agent commerce on JPMorgan’s Kinexys blockchain",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/18/hyundai-tests-ai-agent-commerce-on-jpmorgan-s-kinexys-blockchain",
-      "pubDate": 1794993255000
-    },
-    {
-      "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794991276000
-    },
-    {
-      "title": "Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1794989363000
-    },
-    {
-      "title": "Google finds self-running AI hacking tool with Russian comments in its files",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files",
-      "pubDate": 1794987479000
-    },
-    {
-      "title": "Bitcoin falls below $63,000 as Anthropic prices IPO at $83, raising nearly $100 billion",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
-      "pubDate": 1794986868000
-    },
-    {
-      "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
-      "pubDate": 1794979810000
     }
   ]
 }
