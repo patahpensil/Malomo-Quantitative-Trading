@@ -1,7 +1,73 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1795131870667,
+  "generatedAt": 1795157857061,
   "articles": [
+    {
+      "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795155881000
+    },
+    {
+      "title": "Here's what's crashing gold and likely weighing on bitcoin too",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
+      "pubDate": 1795155135000
+    },
+    {
+      "title": "Anthropic shares may fall 5% at Friday’s open, crypto futures suggest",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
+      "pubDate": 1795154908000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795154400000
+    },
+    {
+      "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
+      "pubDate": 1795152745000
+    },
+    {
+      "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
+      "pubDate": 1795152051000
+    },
+    {
+      "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
+      "pubDate": 1795150688000
+    },
+    {
+      "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
+      "pubDate": 1795148932000
+    },
+    {
+      "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795145602000
+    },
+    {
+      "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
+      "pubDate": 1795145550000
+    },
+    {
+      "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795131842000
+    },
     {
       "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
       "source": "Decrypt",
@@ -31,12 +97,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/sec-charges-eight-colorado-firms-scam",
       "pubDate": 1795124700000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795124540000
     },
     {
       "title": "David Lawant: Seeing “Very Strong Inflow” for Bitcoin at $60k",
@@ -301,66 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
       "pubDate": 1795085306000
-    },
-    {
-      "title": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc",
-      "pubDate": 1795084776000
-    },
-    {
-      "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795084325000
-    },
-    {
-      "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
-      "pubDate": 1795083905000
-    },
-    {
-      "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
-      "pubDate": 1795083732000
-    },
-    {
-      "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795078498000
-    },
-    {
-      "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795076779000
-    },
-    {
-      "title": "BTCPay Server issues emergency update for 5 security flaws",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/btcpay-server-emergency-update-nginx-security-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795075477000
-    },
-    {
-      "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795074956000
-    },
-    {
-      "title": "Fed's rate hike push may be a mistake. Here's why",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue",
-      "pubDate": 1795069399000
-    },
-    {
-      "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795068000000
     }
   ]
 }
