@@ -1,9 +1,111 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1795190423673,
+  "generatedAt": 1795214115967,
   "articles": [
     {
-      "title": "Bitcoin Price Crashes Below $60,000 as Market Selloff Deepens",
+      "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+      "pubDate": 1795212331000
+    },
+    {
+      "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
+      "pubDate": 1795210562000
+    },
+    {
+      "title": "Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq",
+      "pubDate": 1795208882000
+    },
+    {
+      "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
+      "pubDate": 1795207014000
+    },
+    {
+      "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795203447000
+    },
+    {
+      "title": "SBF’s 'The Altruists' Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
+      "pubDate": 1795203363000
+    },
+    {
+      "title": "MSTR Head of Investor Relations Addresses Bitcoin Pullback, Equity Performance",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/mstr-head-of-investor-relations-addresses-bitcoin-pullback-equity-performance",
+      "pubDate": 1795202695000
+    },
+    {
+      "title": "SEC Freezes Assets in $560 Million Crypto Trading Ponzi Scheme",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/sec-freezes-crypto-560-million-ponzi",
+      "pubDate": 1795202156000
+    },
+    {
+      "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
+      "pubDate": 1795200363000
+    },
+    {
+      "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795199830000
+    },
+    {
+      "title": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent",
+      "pubDate": 1795198562000
+    },
+    {
+      "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
+      "pubDate": 1795198432000
+    },
+    {
+      "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
+      "pubDate": 1795196505000
+    },
+    {
+      "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795193751000
+    },
+    {
+      "title": "Researchers Publish Security Analysis of Bitcoin’s Post-Quantum SHRINCS Proposal",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/blockstream-shrincs-security-shrincs",
+      "pubDate": 1795193700000
+    },
+    {
+      "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+      "pubDate": 1795192559000
+    },
+    {
+      "title": "U.S. Treasury Secretary Pushes Back on Bigger Fed Hike",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/bessent-fed-bigger-rate-hike-bitcoin",
+      "pubDate": 1795191752000
+    },
+    {
+      "title": "Bitcoin Price Crashes to $59,000 as Market Selloff Deepens",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-below-60000",
       "pubDate": 1795190390000
@@ -31,6 +133,12 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1795188750000
+    },
+    {
+      "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
+      "pubDate": 1795186470000
     },
     {
       "title": "Block Says Most Bitcoin Payments on Square Are for Coffee and Food",
@@ -63,7 +171,7 @@
       "pubDate": 1795183215000
     },
     {
-      "title": "Live news: Bitcoin slips to fresh lows near $60,000 as Anthropic slides after Nasdaq debut",
+      "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
       "pubDate": 1795181733000
@@ -237,12 +345,6 @@
       "pubDate": 1795145602000
     },
     {
-      "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
-      "pubDate": 1795145550000
-    },
-    {
       "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -259,108 +361,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1795127118000
-    },
-    {
-      "title": "Inside Bukele’s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador’s Future",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/inside-bukeles-casa-presidencial-dinner-bitcoiners-discuss-energy-immigration-and-el-salvadors-future",
-      "pubDate": 1795126801000
-    },
-    {
-      "title": "Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/strategy-stock-sinks-62000",
-      "pubDate": 1795125216000
-    },
-    {
-      "title": "SEC Charges Eight Colorado Firms in $37 Million Fake Crypto Platform Scam",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/sec-charges-eight-colorado-firms-scam",
-      "pubDate": 1795124700000
-    },
-    {
-      "title": "David Lawant: Seeing “Very Strong Inflow” for Bitcoin at $60k",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/david-lawant-seeing-very-strong-inflow-for-bitcoin-at-60k",
-      "pubDate": 1795123813000
-    },
-    {
-      "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
-      "pubDate": 1795122726000
-    },
-    {
-      "title": "Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-slumps-under-62000",
-      "pubDate": 1795122140000
-    },
-    {
-      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795122102000
-    },
-    {
-      "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
-      "pubDate": 1795121162000
-    },
-    {
-      "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795120404000
-    },
-    {
-      "title": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
-      "pubDate": 1795119332000
-    },
-    {
-      "title": "Darius Dale: 2027 Should Be a “Great Year for Bitcoin” as Fed Rate Cuts Come",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/darius-dale-2027-should-be-a-great-year-for-bitcoin-as-fed-rate-cuts-come",
-      "pubDate": 1795119314000
-    },
-    {
-      "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795118794000
-    },
-    {
-      "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
-      "pubDate": 1795118022000
-    },
-    {
-      "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
-      "pubDate": 1795115304000
-    },
-    {
-      "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795112449000
-    },
-    {
-      "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
-      "pubDate": 1795112156000
-    },
-    {
-      "title": "Why higher rates could slow Bitcoin buying at treasury firms",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795111772000
     }
   ]
 }
