@@ -1,7 +1,49 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1795231512318,
+  "generatedAt": 1795261142597,
   "articles": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795259932000
+    },
+    {
+      "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795254536000
+    },
+    {
+      "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795247507000
+    },
+    {
+      "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+      "pubDate": 1795241802000
+    },
+    {
+      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+      "pubDate": 1795240759000
+    },
+    {
+      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795239635000
+    },
+    {
+      "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+      "pubDate": 1795234207000
+    },
     {
       "title": "Kalshi races to get ahead of New York order that could shut down exchange",
       "source": "CoinDesk",
@@ -195,12 +237,6 @@
       "pubDate": 1795181422000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795181398000
-    },
-    {
       "title": "Morning Minute: Anthropic IPO Pops, Sinks Markets",
       "source": "Decrypt",
       "link": "https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets",
@@ -325,42 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
       "pubDate": 1795154908000
-    },
-    {
-      "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
-      "pubDate": 1795152745000
-    },
-    {
-      "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
-      "pubDate": 1795152051000
-    },
-    {
-      "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
-      "pubDate": 1795150688000
-    },
-    {
-      "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795145602000
-    },
-    {
-      "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795131842000
-    },
-    {
-      "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
-      "pubDate": 1795127762000
     }
   ]
 }
