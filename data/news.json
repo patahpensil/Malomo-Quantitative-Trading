@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1795214115967,
+  "generatedAt": 1795231512318,
   "articles": [
+    {
+      "title": "Kalshi races to get ahead of New York order that could shut down exchange",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+      "pubDate": 1795215074000
+    },
+    {
+      "title": "Tracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/tracy-schuchart-bitcoin-trading-like-a-risk-asset-as-fed-hikes-loom",
+      "pubDate": 1795212611000
+    },
     {
       "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
       "source": "CoinDesk",
@@ -333,12 +345,6 @@
       "pubDate": 1795150688000
     },
     {
-      "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
-      "pubDate": 1795148932000
-    },
-    {
       "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -355,12 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
       "pubDate": 1795127762000
-    },
-    {
-      "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795127118000
     }
   ]
 }
