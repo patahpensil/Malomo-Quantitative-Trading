@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1795304685332,
+  "generatedAt": 1795328841341,
   "articles": [
+    {
+      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795325323000
+    },
     {
       "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
       "source": "Decrypt",
@@ -355,12 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default",
       "pubDate": 1795169266000
-    },
-    {
-      "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
-      "pubDate": 1795168923000
     }
   ]
 }
