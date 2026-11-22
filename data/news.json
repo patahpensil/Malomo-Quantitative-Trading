@@ -1,7 +1,13 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1795358974270,
+  "generatedAt": 1795381147951,
   "articles": [
+    {
+      "title": "More on the pending oversight hearings: State of Crypto",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/",
+      "pubDate": 1795375800000
+    },
     {
       "title": "The future of onchain FX could start with users, not institutional liquidity",
       "source": "Cointelegraph",
@@ -79,6 +85,12 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
       "pubDate": 1795269666000
+    },
+    {
+      "title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos",
+      "pubDate": 1795269600000
     },
     {
       "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
@@ -349,18 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
       "pubDate": 1795175451000
-    },
-    {
-      "title": "Bitcoin drops for third straight day as Asian tech shares slide",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide",
-      "pubDate": 1795174922000
-    },
-    {
-      "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795174301000
     }
   ]
 }
