@@ -1,7 +1,19 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1795381147951,
+  "generatedAt": 1795397460461,
   "articles": [
+    {
+      "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795395229000
+    },
+    {
+      "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795387629000
+    },
     {
       "title": "More on the pending oversight hearings: State of Crypto",
       "source": "CoinDesk",
@@ -349,18 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
       "pubDate": 1795176908000
-    },
-    {
-      "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
-      "pubDate": 1795176614000
-    },
-    {
-      "title": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
-      "pubDate": 1795175451000
     }
   ]
 }
