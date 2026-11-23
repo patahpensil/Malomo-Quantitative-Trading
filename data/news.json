@@ -1,7 +1,67 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1795397460461,
+  "generatedAt": 1795426804974,
   "articles": [
+    {
+      "title": "‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795424744000
+    },
+    {
+      "title": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795421332000
+    },
+    {
+      "title": "Crypto thieves are using online ads to infect iPhones with a single tap, research finds",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/23/moldyroost-malvertizing-campaign-uses-one-tap-iphone-hacks-to-hunt-crypto-wallet-keys-research-shows",
+      "pubDate": 1795419930000
+    },
+    {
+      "title": "This Swedish bitcoin treasury firm lost 30 BTC trading part of its own stack",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/23/this-swedish-bitcoin-treasury-firm-lost-30-btc-trading-part-of-its-own-stack",
+      "pubDate": 1795418325000
+    },
+    {
+      "title": "Cardano holders are turning down a $4 million request for running its flagship event",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event",
+      "pubDate": 1795414545000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795413600000
+    },
+    {
+      "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
+      "pubDate": 1795412542000
+    },
+    {
+      "title": "Market rout kills 50 basis points December Fed rate hike bets",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
+      "pubDate": 1795409147000
+    },
+    {
+      "title": "Trump renews call for Nvidia to rehire Jensen Huang as CEO",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795405040000
+    },
+    {
+      "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795402059000
+    },
     {
       "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
       "source": "Cointelegraph",
@@ -21,6 +81,12 @@
       "pubDate": 1795375800000
     },
     {
+      "title": "ByteTree CEO: This $170 Trillion Industry Is “The Most Important Thing for Bitcoin”",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/bytetree-ceo-this-170-trillion-industry-is-the-most-important-thing-for-bitcoin",
+      "pubDate": 1795359633000
+    },
+    {
       "title": "The future of onchain FX could start with users, not institutional liquidity",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -37,12 +103,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
       "pubDate": 1795356000000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795346727000
     },
     {
       "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
@@ -301,66 +361,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/block-square-bitcoin-payments-report",
       "pubDate": 1795185900000
-    },
-    {
-      "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
-      "pubDate": 1795185510000
-    },
-    {
-      "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
-      "pubDate": 1795184757000
-    },
-    {
-      "title": "Bitcoin Hovers Just Above Average Holder’s Cost Basis as Price Keeps Dipping",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-hovers-above-realized-price",
-      "pubDate": 1795184700000
-    },
-    {
-      "title": "Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-61500-asia",
-      "pubDate": 1795183215000
-    },
-    {
-      "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
-      "pubDate": 1795181733000
-    },
-    {
-      "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
-      "pubDate": 1795181422000
-    },
-    {
-      "title": "Morning Minute: Anthropic IPO Pops, Sinks Markets",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets",
-      "pubDate": 1795180981000
-    },
-    {
-      "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795180899000
-    },
-    {
-      "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
-      "pubDate": 1795180309000
-    },
-    {
-      "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
-      "pubDate": 1795176908000
     }
   ]
 }
