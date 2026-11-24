@@ -1,7 +1,43 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1795471106986,
+  "generatedAt": 1795499527310,
   "articles": [
+    {
+      "title": "Why 42 Macro says it’s waiting to buy the Bitcoin dip",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795496850000
+    },
+    {
+      "title": "Google wants to make you the star of your own AI slop movies",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/google-wants-make-you-star-your-own-ai-slop-movies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795490002000
+    },
+    {
+      "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795480586000
+    },
+    {
+      "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
+      "pubDate": 1795479904000
+    },
+    {
+      "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795477414000
+    },
+    {
+      "title": "China's Z.ai Says Its New AI Model Can Think Like One Four Times Its Size",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383851/chinas-zai-new-ai-model-glm-think-like-four-times-size",
+      "pubDate": 1795475162000
+    },
     {
       "title": "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses",
       "source": "Decrypt",
@@ -9,10 +45,10 @@
       "pubDate": 1795470363000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795470044000
+      "title": "“This Is An Excellent Entry Point” – UTXO’s Loren Asmus Gives Bitcoin Outlook",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/this-is-an-excellent-entry-point-utxos-loren-asmus-gives-bitcoin-outlook",
+      "pubDate": 1795469411000
     },
     {
       "title": "Why One Math Proof Has AI Experts Warning Humans Might Soon Lose Control",
@@ -213,12 +249,6 @@
       "pubDate": 1795445220000
     },
     {
-      "title": "Bitcoin Core Patches Node-Stall Bug Found by Block’s AI Scanner",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-core-patches-ai-found-node-bug",
-      "pubDate": 1795445100000
-    },
-    {
       "title": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed",
@@ -331,36 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/11/23/japan-to-ramp-up-crypto-tax-audits-after-uncovering-usd24-5-million-in-hidden-income",
       "pubDate": 1795433580000
-    },
-    {
-      "title": "Live updates: Bitcoin climbs back above $61,000 as stocks rebound from AI rout",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/23/live-updates-bitcoin-climbs-back-above-usd61-000-as-stocks-rebound-from-ai-rout",
-      "pubDate": 1795433349000
-    },
-    {
-      "title": "BTC price gains 12% from $55K: Three things to know in Bitcoin this week",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/btc-price-stock-futures-rebound-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795432857000
-    },
-    {
-      "title": "Bitcoin Rebounds to $61K After Weekend Plunge to Two-Year Low",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383758/bitcoin-rebounds-to-61k-after-weekend-plunge-to-two-year-low",
-      "pubDate": 1795432462000
-    },
-    {
-      "title": "South Korea to expand cryptocurrency account freezes and curb illicit transfers abroad",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/23/south-korea-to-expand-cryptocurrency-account-freezes-and-curb-illicit-transfers-abroad",
-      "pubDate": 1795431199000
-    },
-    {
-      "title": "Bitcoin breaks a record streak of 'lower highs.' Here's what it means",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-breaks-a-record-streak-of-lower-highs-here-s-what-it-means",
-      "pubDate": 1795429862000
     }
   ]
 }
