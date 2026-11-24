@@ -1,7 +1,241 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1795499527310,
+  "generatedAt": 1795541272646,
   "articles": [
+    {
+      "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795540151000
+    },
+    {
+      "title": "How South Korea’s proposed 20% cap could change who runs Upbit",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795538006000
+    },
+    {
+      "title": "Coldcard Postmortem Says Weak Seeds, Not Hacked Devices, Drove Bitcoin Thefts",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/coldcard-postmortem-seed-flaw",
+      "pubDate": 1795537200000
+    },
+    {
+      "title": "Stacks Opens Bond 4 With 1,050 BTC of Bitcoin Staking Capacity",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/press-releases/stacks-opens-bond-4-with-1050-btc-of-bitcoin-staking-capacity",
+      "pubDate": 1795536183000
+    },
+    {
+      "title": "Europol Traces $28M in Crypto Behind Europe's Illegal Streaming Industry",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383877/europol-traces-28m-in-crypto-behind-europes-illegal-streaming-industry",
+      "pubDate": 1795536044000
+    },
+    {
+      "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
+      "pubDate": 1795536025000
+    },
+    {
+      "title": "Anchorage Digital to unveil new asset-management subsidiary",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary",
+      "pubDate": 1795532792000
+    },
+    {
+      "title": "Global Debt Will Make Bitcoin the Best Performing Asset in the World",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/global-debt-will-make-bitcoin-the-best-performing-asset-in-the-world",
+      "pubDate": 1795532405000
+    },
+    {
+      "title": "UniCredit Opens Bitcoin to Italian Savers, Capping Gains at 65%",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/unicredit-bitcoin-certificate-italy",
+      "pubDate": 1795532289000
+    },
+    {
+      "title": "South Korea Unveils Crypto Bill Capping Exchange Ownership at 20%",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/south-korea-crypto-bill-exchange-ownership-cap",
+      "pubDate": 1795531500000
+    },
+    {
+      "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
+      "pubDate": 1795531253000
+    },
+    {
+      "title": "DOJ Moves to Forfeit $1.1 Billion in USDC Stolen in Binance Hack",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/doj-forfeit-usdc-binance-hack",
+      "pubDate": 1795530600000
+    },
+    {
+      "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
+      "pubDate": 1795529583000
+    },
+    {
+      "title": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795529423000
+    },
+    {
+      "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795528676000
+    },
+    {
+      "title": "Relai Launches Stacks, Letting Bitcoin Savers Split Plans by Goal",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/relai-launches-stacks-bitcoin-savings",
+      "pubDate": 1795528258000
+    },
+    {
+      "title": "Bitcoin Price Slips to $60,000 as November ETF Outflows Hit Record",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-60000-etf-outflows",
+      "pubDate": 1795528038000
+    },
+    {
+      "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
+      "pubDate": 1795527963000
+    },
+    {
+      "title": "Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795527826000
+    },
+    {
+      "title": "Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795525904000
+    },
+    {
+      "title": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383868/morning-minute-jensen-returns-markets-soar-except-crypto",
+      "pubDate": 1795525669000
+    },
+    {
+      "title": "GTA 6 PC Ports ‘Nuked’ Just Days Before Devs Expected It to Be Playable",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383860/gta-6-pc-ports-nuked-just-days-before-devs-expected-it-to-be-playable",
+      "pubDate": 1795525290000
+    },
+    {
+      "title": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered",
+      "pubDate": 1795524469000
+    },
+    {
+      "title": "Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto",
+      "pubDate": 1795524460000
+    },
+    {
+      "title": "$14.7B in ‘Lost’ Bitcoin Has Moved Since 2018: Report",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383854/14-7b-in-lost-bitcoin-has-moved-since-2018-report",
+      "pubDate": 1795524047000
+    },
+    {
+      "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
+      "pubDate": 1795523788000
+    },
+    {
+      "title": "JPMorgan, HSBC and StoneX complete first digital gold trades in London",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london",
+      "pubDate": 1795521879000
+    },
+    {
+      "title": "South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-draft-bill-crypto-innovation-user-protection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795521856000
+    },
+    {
+      "title": "Bitcoin dipped on Huang’s Nvidia exit but jumped 5% on his return",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-huangs-return-18-below-pre-resignation-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795520433000
+    },
+    {
+      "title": "Trump Says He 'Made the Deal' to Reinstate Jensen Huang, Sparking Bipartisan Backlash",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383853/trump-says-he-made-the-deal-to-reinstate-jensen-huang-sparking-bipartisan-backlash",
+      "pubDate": 1795520113000
+    },
+    {
+      "title": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
+      "pubDate": 1795519916000
+    },
+    {
+      "title": "Bitcoin’s drop to $55,000 left a record 11.6 million BTC underwater",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater",
+      "pubDate": 1795518698000
+    },
+    {
+      "title": "U.S. seeks $1.1 billion seized in Binance hack as North Korean funds keep moving",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/24/u-s-seeks-usd1-1-billion-seized-in-binance-hack-as-north-korean-funds-keep-moving",
+      "pubDate": 1795517931000
+    },
+    {
+      "title": "BTCS sells more than half its ether to repay $43.8 million in Aave debt",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/24/btcs-sells-more-than-half-its-ether-to-repay-usd43-8-million-in-aave-debt",
+      "pubDate": 1795517730000
+    },
+    {
+      "title": "South Korea regulator backs bank-controlled stablecoins after months of dispute",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
+      "pubDate": 1795516154000
+    },
+    {
+      "title": "Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
+      "pubDate": 1795514918000
+    },
+    {
+      "title": "Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795512345000
+    },
+    {
+      "title": "Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795506110000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795500000000
+    },
     {
       "title": "Why 42 Macro says it’s waiting to buy the Bitcoin dip",
       "source": "Cointelegraph",
@@ -69,12 +303,6 @@
       "pubDate": 1795467843000
     },
     {
-      "title": "Bitcoin Price Fades Near $61,000 as Stocks Soar on Huang’s Return",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-fades-61000-huang",
-      "pubDate": 1795467501000
-    },
-    {
       "title": "Kalshi secures temporary win in New York gambling law dispute",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -85,12 +313,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
       "pubDate": 1795466162000
-    },
-    {
-      "title": "Bitcoin-Gold Ratio Signals Potential Bottom: What to Watch",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/bitcoin-gold-ratio-signals-potential-bottom-what-to-watch",
-      "pubDate": 1795465812000
     },
     {
       "title": "Why Nvidia Needed Jensen Huang Back—And What His Return Really Changes",
@@ -111,34 +333,16 @@
       "pubDate": 1795461406000
     },
     {
-      "title": "Grant Cardone: Bitcoin to 5x – MSTR So Cheap “You Have to Buy it”",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/grant-cardone-bitcoin-to-5x-mstr-so-cheap-you-have-to-buy-it",
-      "pubDate": 1795461317000
-    },
-    {
       "title": "GPU Jesus Has Risen: Jensen Huang’s Nvidia Comeback Gets a Meme Parade",
       "source": "Decrypt",
       "link": "https://decrypt.co/383820/jensen-huang-returns-nvidia-memes-gpu-jesus",
       "pubDate": 1795459521000
     },
     {
-      "title": "Bitdeer Sells All 281 Bitcoin It Mined Last Week, Holds None",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/bitdeer-sells-281-bitcoin-holds-none",
-      "pubDate": 1795458600000
-    },
-    {
       "title": "New York judge declines to block Kalshi from operating in the state for now",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/policy/2026/11/23/new-york-judge-declines-to-block-kalshi-from-operating-in-the-state-for-now",
       "pubDate": 1795458123000
-    },
-    {
-      "title": "Bitwise Head of Research: Did NVIDIA Just Ignite the Bitcoin Bull Market?",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/bitwise-head-of-research-did-nvidia-just-ignite-the-bitcoin-bull-market",
-      "pubDate": 1795458073000
     },
     {
       "title": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
@@ -157,210 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/11/23/nvidia-s-jensen-huang-faces-senate-scrutiny-despite-trump-backed-return-as-ceo",
       "pubDate": 1795457525000
-    },
-    {
-      "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795455738000
-    },
-    {
-      "title": "Bitcoin rebound already losing steam as AI trade returns with a bang",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank",
-      "pubDate": 1795455087000
-    },
-    {
-      "title": "Jensen Huang’s Wealth Rises $36 Billion as Nvidia Surge Burns Short Sellers for $12 Billion",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383815/jensen-huang-fortune-37-billion-nvidia-soars-short-sellers-rekt",
-      "pubDate": 1795454888000
-    },
-    {
-      "title": "Solo Bitcoin Miner Wins $191,000 Block Reward With Just 11 TH/s",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/solo-bitcoin-miner-191000-block-reward",
-      "pubDate": 1795454700000
-    },
-    {
-      "title": "Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795452677000
-    },
-    {
-      "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
-      "pubDate": 1795452363000
-    },
-    {
-      "title": "Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/23/cathie-wood-s-ark-invest-pulls-the-plug-on-two-planned-crypto-etfs",
-      "pubDate": 1795451943000
-    },
-    {
-      "title": "Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang’s Return",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383801/bitcoin-rallies-anthropic-sinks-as-nvidia-surges-35-on-jensen-huangs-return",
-      "pubDate": 1795451524000
-    },
-    {
-      "title": "Cross River Bank enters Bitcoin-backed lending with $250K loans",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795451017000
-    },
-    {
-      "title": "How market depth shapes the price of a weekend Bitcoin sale",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/how-market-depth-shapes-the-price-of-a-weekend-bitcoin-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795449475000
-    },
-    {
-      "title": "Nvidia Soars as Huang Returns, Lifting Stocks and Crypto Shares",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/nvidia-soars-huang-returns-crypto",
-      "pubDate": 1795449022000
-    },
-    {
-      "title": "Cross River Bank Launches Its First Bitcoin-Backed Loans With LendingUSA",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/cross-river-bank-bitcoin-backed-loans",
-      "pubDate": 1795448700000
-    },
-    {
-      "title": "Binance hackers push $247 million through transactions designed to cloud the source",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source",
-      "pubDate": 1795447741000
-    },
-    {
-      "title": "Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin",
-      "pubDate": 1795446152000
-    },
-    {
-      "title": "Nvidia reinstates Jensen Huang as CEO amid ongoing intelligence probe",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/nvidia-reinstates-jensen-huang-ceo-intelligence-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795445220000
-    },
-    {
-      "title": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed",
-      "pubDate": 1795444998000
-    },
-    {
-      "title": "Nvidia soars as Jensen Huang returns to lead company",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/23/jensen-huang-returns-as-nvidia-ceo-as-shares-jump-27",
-      "pubDate": 1795443224000
-    },
-    {
-      "title": "Nvidia Reinstates Jensen Huang as CEO Days After Board Ruled Out His Return",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383797/nvidia-reinstates-jensen-huang-as-ceo-days-after-board-ruled-out-his-return",
-      "pubDate": 1795442841000
-    },
-    {
-      "title": "OKX, ICE launch 113 tokenized assets despite issuer objections",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/okxice-launch-113-tokenized-assets-objections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795442400000
-    },
-    {
-      "title": "Fidelity Investments, Strive, Etoro join OKX-ICE tokenized securities venue",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/23/fidelity-investments-strive-etoro-join-okx-ice-tokenized-securities-venue",
-      "pubDate": 1795441784000
-    },
-    {
-      "title": "Trump-linked American Bitcoin secures $150M credit line from FalconX",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/trumps-american-bitcoin-rises-150m-credit-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795441456000
-    },
-    {
-      "title": "Morning Minute: Crypto Rebounds after NVDA Drives Friday Selloff",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383778/morning-minute-crypto-rebounds-after-nvda-drives-friday-selloff",
-      "pubDate": 1795440853000
-    },
-    {
-      "title": "Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/strategy-buy-457-bitcoin-btc-treasury-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795440661000
-    },
-    {
-      "title": "AI agents are using credit cards. Where does that leave crypto?",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/ai-agents-are-using-credit-cards-where-does-that-leave-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795440600000
-    },
-    {
-      "title": "Strategy Buys $30M in Bitcoin, Moves $1B From USD Reserve to Cash Pot",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383779/strategy-buys-30m-in-bitcoin-moves-1b-from-usd-reserve-to-cash-pot",
-      "pubDate": 1795440335000
-    },
-    {
-      "title": "Critics of Netflix’s FTX drama point to Obama’s producer credit",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/netflix-ftx-scrutiny-obama-production-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795439703000
-    },
-    {
-      "title": "Czech Authorities Charge 15 Over $12M Unlicensed Crypto Casino",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383775/czech-authorities-charge-15-over-12m-unlicensed-crypto-casino",
-      "pubDate": 1795439303000
-    },
-    {
-      "title": "Live updates: Bitcoin climbs only modestly as Nasdaq soars 6% on Huang return",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
-      "pubDate": 1795438880000
-    },
-    {
-      "title": "Solana Meme Coin for Fiona the Hippo Raises $100K for Cincinnati Zoo Charity",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383762/solana-meme-coin-for-fiona-the-hippo-sends-100k-to-cincinnati-zoo-charity",
-      "pubDate": 1795437810000
-    },
-    {
-      "title": "Bitcoin's losing streak is second-longest ever, and some observers see more downside",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/23/bitcoin-s-losing-streak-is-second-longest-ever-and-some-observers-see-more-downside",
-      "pubDate": 1795437025000
-    },
-    {
-      "title": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
-      "pubDate": 1795436015000
-    },
-    {
-      "title": "Bitcoin rebounds from 2-year low as Wall Street futures recover",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebounds-from-2-year-low-as-wall-street-futures-recover",
-      "pubDate": 1795434669000
-    },
-    {
-      "title": "ECB to let banks pledge more tokenized securities as collateral",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ecb-expands-eurosystem-collateral-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795434578000
-    },
-    {
-      "title": "Japan to ramp up crypto tax audits after uncovering $24.5 million in hidden income",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/23/japan-to-ramp-up-crypto-tax-audits-after-uncovering-usd24-5-million-in-hidden-income",
-      "pubDate": 1795433580000
     }
   ]
 }
