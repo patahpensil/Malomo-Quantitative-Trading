@@ -1,7 +1,277 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1795602077100,
+  "generatedAt": 1795637126099,
   "articles": [
+    {
+      "title": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor",
+      "pubDate": 1795636200000
+    },
+    {
+      "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
+      "pubDate": 1795634934000
+    },
+    {
+      "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795632891000
+    },
+    {
+      "title": "Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/switzerland-57-countries-crypto-tax",
+      "pubDate": 1795632005000
+    },
+    {
+      "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
+      "pubDate": 1795631087000
+    },
+    {
+      "title": "Elon Musk’s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space",
+      "pubDate": 1795630690000
+    },
+    {
+      "title": "Bithumb Says October Hack Exposed Passports, Bank Accounts and Wallet Addresses",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/bithumb-hack-exposed-passports-wallet-addresses",
+      "pubDate": 1795630500000
+    },
+    {
+      "title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795629190000
+    },
+    {
+      "title": "DOJ Targets 800 Defendants in Largest-Ever Scam Crackdown, Including Crypto Fraud",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/doj-largest-ever-scam-crackdown-crypto",
+      "pubDate": 1795629000000
+    },
+    {
+      "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
+      "pubDate": 1795628762000
+    },
+    {
+      "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+      "pubDate": 1795628313000
+    },
+    {
+      "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795628002000
+    },
+    {
+      "title": "HRF Announces Funding of Seven Bitcoin Projects for People Living Under Authoritarian Regimes",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/hrf-bitcoin-development-seven-projects",
+      "pubDate": 1795627350000
+    },
+    {
+      "title": "Nvidia agrees to $290M settlement over crypto mining revenue disclosures",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795627173000
+    },
+    {
+      "title": "Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators",
+      "pubDate": 1795626962000
+    },
+    {
+      "title": "CleanSpark Weighs Selling More Bitcoin Than It Mines After $987M Loss",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/cleanspark-987-million-loss-fiscal-2026",
+      "pubDate": 1795626790000
+    },
+    {
+      "title": "FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/fcc-authorizes-spacex-1m-satellites-orbital-ai-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795626653000
+    },
+    {
+      "title": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383967/bitcoin-sinks-inflation-trump-tariffs-ai-selloff",
+      "pubDate": 1795625570000
+    },
+    {
+      "title": "Ukraine Passes Law to Legalize and Tax Its Crypto Market From July 2027",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027",
+      "pubDate": 1795622855000
+    },
+    {
+      "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
+      "pubDate": 1795622551000
+    },
+    {
+      "title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
+      "pubDate": 1795622527000
+    },
+    {
+      "title": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
+      "pubDate": 1795622384000
+    },
+    {
+      "title": "Next Technology (NXTT) Sells 500 Bitcoin to Fund AI Push",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/next-technology-nxtt-sells-500-bitcoin",
+      "pubDate": 1795620600000
+    },
+    {
+      "title": "Square’s NATIONWIDE Bitcoin Payments Rollout: What People Are Actually Buying",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/squares-nationwide-bitcoin-payments-rollout-what-people-are-actually-buying",
+      "pubDate": 1795619701000
+    },
+    {
+      "title": "Bitcoin Price Slumps Below $57,500 as Nasdaq Sinks 4% at Open",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-57500-nasdaq",
+      "pubDate": 1795618441000
+    },
+    {
+      "title": "France’s Senate Rejects Rule Forcing Bitcoin Holders to Declare Self-Custody Wallets",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/france-senate-rejects-self-custody",
+      "pubDate": 1795618264000
+    },
+    {
+      "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
+      "pubDate": 1795618037000
+    },
+    {
+      "title": "Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ftx-coo-netflix-portrayal-binance-founder-racist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795616496000
+    },
+    {
+      "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
+      "pubDate": 1795614098000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795613165000
+    },
+    {
+      "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets",
+      "pubDate": 1795612524000
+    },
+    {
+      "title": "Ukraine passes bill to legalize crypto and tax profits at 23%",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795611729000
+    },
+    {
+      "title": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
+      "pubDate": 1795609126000
+    },
+    {
+      "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
+      "pubDate": 1795607870000
+    },
+    {
+      "title": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383941/florida-man-jailed-for-using-ai-to-pose-as-streamer-n3on-in-260k-crypto-scam",
+      "pubDate": 1795607526000
+    },
+    {
+      "title": "Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
+      "pubDate": 1795607514000
+    },
+    {
+      "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795607394000
+    },
+    {
+      "title": "Hong Kong launches tokenized debt platform with 24-hour settlement",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795606270000
+    },
+    {
+      "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
+      "pubDate": 1795606232000
+    },
+    {
+      "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
+      "pubDate": 1795605837000
+    },
+    {
+      "title": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795605146000
+    },
+    {
+      "title": "Bitcoin price may fall below $53K if bear-market history repeats",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-bear-market-history-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795604978000
+    },
+    {
+      "title": "EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push",
+      "pubDate": 1795604427000
+    },
+    {
+      "title": "HYPE drops 8% as Trump bump gives way to 40% slide from peak",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/hyperliquid-hype-price-falls-abraxas-capital-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795604272000
+    },
+    {
+      "title": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383935/take-two-hits-gta-6-pc-port-leonida-with-dmca-taking-down-3007-github-repos",
+      "pubDate": 1795602957000
+    },
     {
       "title": "French Senate rejects 100K euro crypto wallet disclosure requirement",
       "source": "Cointelegraph",
@@ -21,7 +291,7 @@
       "pubDate": 1795596028000
     },
     {
-      "title": "Live updates: Bitcoin slips back under $60,000 as HYPE leads altcoins lower",
+      "title": "Live updates: Bitcoin climbs from lows as markets bounce from big early declines",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
       "pubDate": 1795595747000
@@ -43,12 +313,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
       "pubDate": 1795587308000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795585843000
     },
     {
       "title": "Solana DEX Velocity halts trading over bug just months after relaunch",
@@ -87,280 +351,16 @@
       "pubDate": 1795570859000
     },
     {
-      "title": "Hackers breach CIA intelligence network in latest US cyberattack",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795564096000
-    },
-    {
       "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
       "source": "Decrypt",
       "link": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous",
       "pubDate": 1795559762000
     },
     {
-      "title": "Bitcoin Faces 6-Year Moving Average Test Only Seen During FTX Collapse",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/bitcoin-faces-6-year-moving-average-test-only-seen-during-ftx-collapse",
-      "pubDate": 1795559403000
-    },
-    {
-      "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795557025000
-    },
-    {
       "title": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code",
       "source": "Decrypt",
       "link": "https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code",
       "pubDate": 1795556762000
-    },
-    {
-      "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
-      "pubDate": 1795554962000
-    },
-    {
-      "title": "“Escape Velocity” Coming for Bitcoin with Repeat of 2017 Cycle | Michaël van de Poppe",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/escape-velocity-coming-for-bitcoin-with-repeat-of-2017-cycle-michael-van-de-poppe",
-      "pubDate": 1795554930000
-    },
-    {
-      "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795553307000
-    },
-    {
-      "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
-      "pubDate": 1795552562000
-    },
-    {
-      "title": "André Dragosch: Bitcoin at “Fire Sale” Valuations Heading Into Fed Pivot",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/andre-dragosch-bitcoin-at-fire-sale-valuations-heading-into-fed-pivot",
-      "pubDate": 1795551657000
-    },
-    {
-      "title": "Bitcoin Lender Ledn Moves US Clients Onshore With New Custody Accounts",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/ledn-launches-us-custody-accounts",
-      "pubDate": 1795551319000
-    },
-    {
-      "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795549463000
-    },
-    {
-      "title": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near",
-      "pubDate": 1795548932000
-    },
-    {
-      "title": "Inside the UAE’s $1.5 Billion Bitcoin & Real Estate Play",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/inside-the-uaes-1-5-billion-bitcoin-real-estate-play",
-      "pubDate": 1795548871000
-    },
-    {
-      "title": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795547066000
-    },
-    {
-      "title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
-      "pubDate": 1795546527000
-    },
-    {
-      "title": "Anchorage Digital Sets Up Asset Manager to Offer Bitcoin Yield to Clients",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/anchorage-digital-bitcoin-yield-asset-manager",
-      "pubDate": 1795545481000
-    },
-    {
-      "title": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
-      "pubDate": 1795545363000
-    },
-    {
-      "title": "CFTC sets new prediction market rules as more firms seek US entry",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795545102000
-    },
-    {
-      "title": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors",
-      "pubDate": 1795544162000
-    },
-    {
-      "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795543642000
-    },
-    {
-      "title": "Utah moves to drop criminal pursuit of Kalshi after the firm halted services there",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/24/utah-moves-to-drop-criminal-pursuit-of-kalshi-after-the-firm-halted-services-there",
-      "pubDate": 1795542608000
-    },
-    {
-      "title": "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/resources/what-is-pons-the-robinhood-chain-meme-coin-launchpad-explained",
-      "pubDate": 1795542322000
-    },
-    {
-      "title": "Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Security Breach",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach",
-      "pubDate": 1795542183000
-    },
-    {
-      "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795540151000
-    },
-    {
-      "title": "How South Korea’s proposed 20% cap could change who runs Upbit",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795538006000
-    },
-    {
-      "title": "Coldcard Postmortem Says Weak Seeds, Not Hacked Devices, Drove Bitcoin Thefts",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/coldcard-postmortem-seed-flaw",
-      "pubDate": 1795537200000
-    },
-    {
-      "title": "Stacks Opens Bond 4 With 1,050 BTC of Bitcoin Staking Capacity",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/press-releases/stacks-opens-bond-4-with-1050-btc-of-bitcoin-staking-capacity",
-      "pubDate": 1795536183000
-    },
-    {
-      "title": "Europol Traces $28M in Crypto Behind Europe's Illegal Streaming Industry",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383877/europol-traces-28m-in-crypto-behind-europes-illegal-streaming-industry",
-      "pubDate": 1795536044000
-    },
-    {
-      "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
-      "pubDate": 1795536025000
-    },
-    {
-      "title": "Anchorage Digital to unveil new asset-management subsidiary",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary",
-      "pubDate": 1795532792000
-    },
-    {
-      "title": "Global Debt Will Make Bitcoin the Best Performing Asset in the World",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/global-debt-will-make-bitcoin-the-best-performing-asset-in-the-world",
-      "pubDate": 1795532405000
-    },
-    {
-      "title": "UniCredit Opens Bitcoin to Italian Savers, Capping Gains at 65%",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/unicredit-bitcoin-certificate-italy",
-      "pubDate": 1795532289000
-    },
-    {
-      "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
-      "pubDate": 1795531253000
-    },
-    {
-      "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
-      "pubDate": 1795529583000
-    },
-    {
-      "title": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795529423000
-    },
-    {
-      "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795528676000
-    },
-    {
-      "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
-      "pubDate": 1795527963000
-    },
-    {
-      "title": "Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795527826000
-    },
-    {
-      "title": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383868/morning-minute-jensen-returns-markets-soar-except-crypto",
-      "pubDate": 1795525669000
-    },
-    {
-      "title": "GTA 6 PC Ports ‘Nuked’ Just Days Before Devs Expected It to Be Playable",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383860/gta-6-pc-ports-nuked-just-days-before-devs-expected-it-to-be-playable",
-      "pubDate": 1795525290000
-    },
-    {
-      "title": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered",
-      "pubDate": 1795524469000
-    },
-    {
-      "title": "Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto",
-      "pubDate": 1795524460000
-    },
-    {
-      "title": "$14.7B in ‘Lost’ Bitcoin Has Moved Since 2018: Report",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383854/14-7b-in-lost-bitcoin-has-moved-since-2018-report",
-      "pubDate": 1795524047000
-    },
-    {
-      "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
-      "pubDate": 1795523788000
-    },
-    {
-      "title": "JPMorgan, HSBC and StoneX complete first digital gold trades in London",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london",
-      "pubDate": 1795521879000
     }
   ]
 }
