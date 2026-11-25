@@ -1,7 +1,91 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1795570303230,
+  "generatedAt": 1795602077100,
   "articles": [
+    {
+      "title": "French Senate rejects 100K euro crypto wallet disclosure requirement",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/french-senate-rejects-disclosing-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795600692000
+    },
+    {
+      "title": "Stablecoin redemptions hit $12B in 30 days, echoing 2022 bear market",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/stablecoin-cash-out-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795600342000
+    },
+    {
+      "title": "EU seeks up to $55B for AI and quantum computing fund: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/eu-55-billion-ai-quantum-computing-investment-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795596028000
+    },
+    {
+      "title": "Live updates: Bitcoin slips back under $60,000 as HYPE leads altcoins lower",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
+      "pubDate": 1795595747000
+    },
+    {
+      "title": "South Korea’s crypto bill could move stablecoin race beyond token issuance",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795589699000
+    },
+    {
+      "title": "Solana developers move to stop validators finishing work on blocks that already lost",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
+      "pubDate": 1795588390000
+    },
+    {
+      "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
+      "pubDate": 1795587308000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795585843000
+    },
+    {
+      "title": "Solana DEX Velocity halts trading over bug just months after relaunch",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795584775000
+    },
+    {
+      "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
+      "pubDate": 1795582642000
+    },
+    {
+      "title": "A year after buying bitcoin, Czech central bank won't say what it's worth",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
+      "pubDate": 1795582208000
+    },
+    {
+      "title": "Trump willing to pardon Jensen Huang, says it won’t be necessary",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795580082000
+    },
+    {
+      "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one",
+      "pubDate": 1795577720000
+    },
+    {
+      "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795570859000
+    },
     {
       "title": "Hackers breach CIA intelligence network in latest US cyberattack",
       "source": "Cointelegraph",
@@ -19,12 +103,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/videos/bitcoin-faces-6-year-moving-average-test-only-seen-during-ftx-collapse",
       "pubDate": 1795559403000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795558330000
     },
     {
       "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
@@ -243,12 +321,6 @@
       "pubDate": 1795527826000
     },
     {
-      "title": "Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795525904000
-    },
-    {
       "title": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
       "source": "Decrypt",
       "link": "https://decrypt.co/383868/morning-minute-jensen-returns-markets-soar-except-crypto",
@@ -289,78 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london",
       "pubDate": 1795521879000
-    },
-    {
-      "title": "South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-draft-bill-crypto-innovation-user-protection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795521856000
-    },
-    {
-      "title": "Bitcoin dipped on Huang’s Nvidia exit but jumped 5% on his return",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-huangs-return-18-below-pre-resignation-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795520433000
-    },
-    {
-      "title": "Trump Says He 'Made the Deal' to Reinstate Jensen Huang, Sparking Bipartisan Backlash",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383853/trump-says-he-made-the-deal-to-reinstate-jensen-huang-sparking-bipartisan-backlash",
-      "pubDate": 1795520113000
-    },
-    {
-      "title": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
-      "pubDate": 1795519916000
-    },
-    {
-      "title": "Bitcoin’s drop to $55,000 left a record 11.6 million BTC underwater",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater",
-      "pubDate": 1795518698000
-    },
-    {
-      "title": "U.S. seeks $1.1 billion seized in Binance hack as North Korean funds keep moving",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/24/u-s-seeks-usd1-1-billion-seized-in-binance-hack-as-north-korean-funds-keep-moving",
-      "pubDate": 1795517931000
-    },
-    {
-      "title": "BTCS sells more than half its ether to repay $43.8 million in Aave debt",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/24/btcs-sells-more-than-half-its-ether-to-repay-usd43-8-million-in-aave-debt",
-      "pubDate": 1795517730000
-    },
-    {
-      "title": "South Korea regulator backs bank-controlled stablecoins after months of dispute",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
-      "pubDate": 1795516154000
-    },
-    {
-      "title": "Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
-      "pubDate": 1795514918000
-    },
-    {
-      "title": "Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795512345000
-    },
-    {
-      "title": "Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795506110000
-    },
-    {
-      "title": "Why 42 Macro says it’s waiting to buy the Bitcoin dip",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795496850000
     }
   ]
 }
