@@ -1,7 +1,133 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1795661100591,
+  "generatedAt": 1795695126721,
   "articles": [
+    {
+      "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report",
+      "pubDate": 1795693823000
+    },
+    {
+      "title": "Standard Chartered’s Zodia Custody suffers data breach: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/standard-chartered-zodia-suffers-data-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795693026000
+    },
+    {
+      "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
+      "pubDate": 1795692470000
+    },
+    {
+      "title": "New York Wins $1.37B Judgment Against NovaTech Founders Who Fled the US",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/384025/new-york-wins-1-37b-judgment-against-novatech-founders-who-fled-the-us",
+      "pubDate": 1795692358000
+    },
+    {
+      "title": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795692179000
+    },
+    {
+      "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
+      "pubDate": 1795691842000
+    },
+    {
+      "title": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
+      "pubDate": 1795690568000
+    },
+    {
+      "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
+      "pubDate": 1795689633000
+    },
+    {
+      "title": "Zcash devs urge users to migrate 2% of ZEC supply to accelerate Sapling pool retirement",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/zcash-users-migrate-zec-supply-sapling-pool-retirement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795688128000
+    },
+    {
+      "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795686154000
+    },
+    {
+      "title": "Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795684695000
+    },
+    {
+      "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
+      "pubDate": 1795680093000
+    },
+    {
+      "title": "Zcash developers want users to move $300 million out of an older privacy system",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
+      "pubDate": 1795676965000
+    },
+    {
+      "title": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes",
+      "pubDate": 1795673949000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795672800000
+    },
+    {
+      "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795672388000
+    },
+    {
+      "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show",
+      "pubDate": 1795671038000
+    },
+    {
+      "title": "Sky proposes emergency vote on $25M transfer amid liquidity stress",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795670966000
+    },
+    {
+      "title": "1Password hacker stole customer names and emails, but vaults safe",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/1password-hacker-stole-customer-names-and-emails-but-vaults-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795668916000
+    },
+    {
+      "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
+      "pubDate": 1795668361000
+    },
+    {
+      "title": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795667085000
+    },
     {
       "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
       "source": "Cointelegraph",
@@ -19,12 +145,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
       "pubDate": 1795646289000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795645993000
     },
     {
       "title": "Stanford Professor Reveals “Praxis” Bitcoin Cryptography Breakthrough",
@@ -125,7 +245,7 @@
     {
       "title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
       "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "link": "<![CDATA[https://cointelegraph.com/markets/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1795629190000
     },
     {
@@ -241,126 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets",
       "pubDate": 1795612524000
-    },
-    {
-      "title": "Ukraine passes bill to legalize crypto and tax profits at 23%",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795611729000
-    },
-    {
-      "title": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
-      "pubDate": 1795609126000
-    },
-    {
-      "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
-      "pubDate": 1795607870000
-    },
-    {
-      "title": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383941/florida-man-jailed-for-using-ai-to-pose-as-streamer-n3on-in-260k-crypto-scam",
-      "pubDate": 1795607526000
-    },
-    {
-      "title": "Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
-      "pubDate": 1795607514000
-    },
-    {
-      "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795607394000
-    },
-    {
-      "title": "Hong Kong launches tokenized debt platform with 24-hour settlement",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795606270000
-    },
-    {
-      "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
-      "pubDate": 1795606232000
-    },
-    {
-      "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
-      "pubDate": 1795605837000
-    },
-    {
-      "title": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795605146000
-    },
-    {
-      "title": "Bitcoin price may fall below $53K if bear-market history repeats",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-bear-market-history-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795604978000
-    },
-    {
-      "title": "EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push",
-      "pubDate": 1795604427000
-    },
-    {
-      "title": "HYPE drops 8% as Trump bump gives way to 40% slide from peak",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/hyperliquid-hype-price-falls-abraxas-capital-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795604272000
-    },
-    {
-      "title": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383935/take-two-hits-gta-6-pc-port-leonida-with-dmca-taking-down-3007-github-repos",
-      "pubDate": 1795602957000
-    },
-    {
-      "title": "French Senate rejects 100K euro crypto wallet disclosure requirement",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/french-senate-rejects-disclosing-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795600692000
-    },
-    {
-      "title": "Stablecoin redemptions hit $12B in 30 days, echoing 2022 bear market",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/stablecoin-cash-out-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795600342000
-    },
-    {
-      "title": "EU seeks up to $55B for AI and quantum computing fund: Report",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/eu-55-billion-ai-quantum-computing-investment-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795596028000
-    },
-    {
-      "title": "Live updates: Bitcoin climbs from lows as markets bounce from big early declines",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
-      "pubDate": 1795595747000
-    },
-    {
-      "title": "Solana developers move to stop validators finishing work on blocks that already lost",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
-      "pubDate": 1795588390000
-    },
-    {
-      "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
-      "pubDate": 1795587308000
     }
   ]
 }
