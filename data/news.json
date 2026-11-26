@@ -1,7 +1,85 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1795637126099,
+  "generatedAt": 1795661100591,
   "articles": [
+    {
+      "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795656800000
+    },
+    {
+      "title": "Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/bitcoin-is-vanishing-into-deep-storage-faster-than-miners-make-it",
+      "pubDate": 1795649412000
+    },
+    {
+      "title": "China's Google Just Released Its Fast New AI Model for Free",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+      "pubDate": 1795646289000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795645993000
+    },
+    {
+      "title": "Stanford Professor Reveals “Praxis” Bitcoin Cryptography Breakthrough",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/stanford-professor-reveals-praxis-bitcoin-cryptography-breakthrough",
+      "pubDate": 1795644926000
+    },
+    {
+      "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795643618000
+    },
+    {
+      "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
+      "pubDate": 1795643162000
+    },
+    {
+      "title": "Matt Hougan: $1.6 MILLION Bitcoin Price Target “Conservative”",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/matt-hougan-1-6-million-bitcoin-price-target-conservative",
+      "pubDate": 1795641744000
+    },
+    {
+      "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795641739000
+    },
+    {
+      "title": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
+      "pubDate": 1795641362000
+    },
+    {
+      "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795641099000
+    },
+    {
+      "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
+      "pubDate": 1795638963000
+    },
+    {
+      "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
+      "pubDate": 1795637163000
+    },
     {
       "title": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
       "source": "Bitcoin Magazine",
@@ -141,24 +219,6 @@
       "pubDate": 1795620600000
     },
     {
-      "title": "Square’s NATIONWIDE Bitcoin Payments Rollout: What People Are Actually Buying",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/squares-nationwide-bitcoin-payments-rollout-what-people-are-actually-buying",
-      "pubDate": 1795619701000
-    },
-    {
-      "title": "Bitcoin Price Slumps Below $57,500 as Nasdaq Sinks 4% at Open",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-57500-nasdaq",
-      "pubDate": 1795618441000
-    },
-    {
-      "title": "France’s Senate Rejects Rule Forcing Bitcoin Holders to Declare Self-Custody Wallets",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/france-senate-rejects-self-custody",
-      "pubDate": 1795618264000
-    },
-    {
       "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
@@ -175,12 +235,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
       "pubDate": 1795614098000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795613165000
     },
     {
       "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
@@ -297,12 +351,6 @@
       "pubDate": 1795595747000
     },
     {
-      "title": "South Korea’s crypto bill could move stablecoin race beyond token issuance",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795589699000
-    },
-    {
       "title": "Solana developers move to stop validators finishing work on blocks that already lost",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
@@ -313,54 +361,6 @@
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
       "pubDate": 1795587308000
-    },
-    {
-      "title": "Solana DEX Velocity halts trading over bug just months after relaunch",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795584775000
-    },
-    {
-      "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
-      "pubDate": 1795582642000
-    },
-    {
-      "title": "A year after buying bitcoin, Czech central bank won't say what it's worth",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
-      "pubDate": 1795582208000
-    },
-    {
-      "title": "Trump willing to pardon Jensen Huang, says it won’t be necessary",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795580082000
-    },
-    {
-      "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one",
-      "pubDate": 1795577720000
-    },
-    {
-      "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795570859000
-    },
-    {
-      "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous",
-      "pubDate": 1795559762000
-    },
-    {
-      "title": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code",
-      "pubDate": 1795556762000
     }
   ]
 }
