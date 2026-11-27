@@ -1,7 +1,37 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1795729860509,
+  "generatedAt": 1795752193136,
   "articles": [
+    {
+      "title": "AI is driving a flood of crypto bug reports. Now it’s helping sort them",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795744058000
+    },
+    {
+      "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795739739000
+    },
+    {
+      "title": "‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795732786000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795731126000
+    },
+    {
+      "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown",
+      "pubDate": 1795730462000
+    },
     {
       "title": "BNB Chain details new layer-1 for trading, private finance and AI",
       "source": "Cointelegraph",
@@ -135,12 +165,6 @@
       "pubDate": 1795700876000
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795700704000
-    },
-    {
       "title": "7 bizarre things crypto whales spent a fortune on",
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/magazine/7-bizarre-things-crypto-whales-spent-a-fortune-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -261,28 +285,10 @@
       "pubDate": 1795673949000
     },
     {
-      "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795672388000
-    },
-    {
       "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show",
       "pubDate": 1795671038000
-    },
-    {
-      "title": "Sky proposes emergency vote on $25M transfer amid liquidity stress",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795670966000
-    },
-    {
-      "title": "1Password hacker stole customer names and emails, but vaults safe",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/1password-hacker-stole-customer-names-and-emails-but-vaults-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795668916000
     },
     {
       "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
@@ -355,12 +361,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/news/switzerland-57-countries-crypto-tax",
       "pubDate": 1795632005000
-    },
-    {
-      "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
-      "pubDate": 1795631087000
     }
   ]
 }
