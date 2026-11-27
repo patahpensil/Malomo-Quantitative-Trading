@@ -1,18 +1,138 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1795786924320,
+  "generatedAt": 1795819005051,
   "articles": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795817571000
+    },
+    {
+      "title": "OpenAI Turns the Tables on Apple With Its Own Trade-Secret Theft Claims",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/384222/openai-countersuit-apple-trade-secret-theft-claims",
+      "pubDate": 1795815963000
+    },
+    {
+      "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795814129000
+    },
+    {
+      "title": "Could AI Break Bitcoin? Not Yet, Research Firm K33 Says",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says",
+      "pubDate": 1795812362000
+    },
+    {
+      "title": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market",
+      "pubDate": 1795808762000
+    },
+    {
+      "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795807380000
+    },
+    {
+      "title": "$7 Billion in Bitcoin Options Just Expired: Here’s What It Means",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means",
+      "pubDate": 1795803363000
+    },
+    {
+      "title": "Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack",
+      "pubDate": 1795802400000
+    },
+    {
+      "title": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data",
+      "pubDate": 1795801409000
+    },
+    {
+      "title": "China sets March 2027 rollout for blockchain identity regulations",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795801043000
+    },
+    {
+      "title": "Nvidia's Blackwell Chips Turn Up in China as Trump Floats Government Stake",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/384153/nvidias-blackwell-chips-turn-up-in-china-as-trump-floats-government-stake",
+      "pubDate": 1795799370000
+    },
+    {
+      "title": "Russia’s VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/russia-vtb-bitcoin-trading-crypto-test",
+      "pubDate": 1795799172000
+    },
+    {
+      "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795798131000
+    },
+    {
+      "title": "AI-Powered GTA 6 PC Ports Now Have Multiplayer as Modders Unlock 30 and 60 FPS",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/384138/ai-powered-gta-6-pc-ports-now-have-multiplayer-as-modders-unlock-30-and-60-fps",
+      "pubDate": 1795796500000
+    },
+    {
+      "title": "New York Wins $1.37 Billion Judgment Against NovaTech Crypto Ponzi Founders",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/new-york-novatech-judgment-1-37-billion",
+      "pubDate": 1795796100000
+    },
+    {
+      "title": "Spain Lets Anti-Money Laundering Unit Freeze Crypto Accounts Without a Judge",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/news/spain-sepblac-freeze-crypto-accounts",
+      "pubDate": 1795791600000
+    },
+    {
+      "title": "Peter St. Onge: “Massively Bullish” for Bitcoin if Fed Abandons 2% Inflation Target",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/videos/peter-st-onge-massively-bullish-for-bitcoin-if-fed-abandons-2-inflation-target",
+      "pubDate": 1795790709000
+    },
+    {
+      "title": "What was Coinbase worth while Nasdaq was closed?",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-was-coinbase-worth-while-nasdaq-was-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795790454000
+    },
+    {
+      "title": "Bitcoin Price Trades Near $61,300 as Tech Stock Futures Rally",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-61300-tech-futures",
+      "pubDate": 1795787835000
+    },
+    {
+      "title": "What's on the Ethereum Roadmap: Glamsterdam, Hegotá and Beyond",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond",
+      "pubDate": 1795787404000
+    },
+    {
+      "title": "Binance to launch tokenized IPO program after regulatory approval: Yi He",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-ipo-program-regulatory-approval-yi-he?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795787040000
+    },
     {
       "title": "Galaxy Withdraws Call That Bitcoin’s Bear Market Ended in June",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/markets/galaxy-withdraws-bitcoin-bear",
       "pubDate": 1795786200000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795786106000
     },
     {
       "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack",
@@ -51,7 +171,7 @@
       "pubDate": 1795779947000
     },
     {
-      "title": "Live updates: Bitcoin rebounds above $61,000 as AI stocks lead premarket gains",
+      "title": "Live updates: Bitcoin's Thanksgiving gains prove fleeting",
       "source": "CoinDesk",
       "link": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
       "pubDate": 1795779277000
@@ -195,22 +315,10 @@
       "pubDate": 1795728827000
     },
     {
-      "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795727633000
-    },
-    {
       "title": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
       "source": "Decrypt",
       "link": "https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys",
       "pubDate": 1795726863000
-    },
-    {
-      "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795723518000
     },
     {
       "title": "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
@@ -219,22 +327,10 @@
       "pubDate": 1795719662000
     },
     {
-      "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795717591000
-    },
-    {
       "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
       "source": "Decrypt",
       "link": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
       "pubDate": 1795716929000
-    },
-    {
-      "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795714793000
     },
     {
       "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
@@ -255,12 +351,6 @@
       "pubDate": 1795711382000
     },
     {
-      "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795711244000
-    },
-    {
       "title": "The Agentic Economy Is WAY Bigger Than You Think | Xen Baynham-Herd",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/videos/the-agentic-economy-is-way-bigger-than-you-think-xen-baynham-herd",
@@ -271,96 +361,6 @@
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/culture/bitcoin-has-become-boring-finally",
       "pubDate": 1795708287000
-    },
-    {
-      "title": "How EU brokers could lose access to Kyrgyz crypto exchanges",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/how-eu-brokers-could-lose-access-to-kyrgyz-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795707907000
-    },
-    {
-      "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
-      "pubDate": 1795707763000
-    },
-    {
-      "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/384053/openai-fixes-chatgpt-billing-error-promises-to-make-it-40-worse",
-      "pubDate": 1795705874000
-    },
-    {
-      "title": "Elon Musk Says ‘Multiplanetary’ SpaceX Could Be Worth $118 Quintillion. Yes, Quintillion",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/384043/elon-musk-says-multiplanetary-spacex-could-be-worth-118-quintillion-yes-quintillion",
-      "pubDate": 1795703935000
-    },
-    {
-      "title": "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/384036/cournot-raises-5m-to-build-ai-native-oracle-for-verifiable-intelligence",
-      "pubDate": 1795703182000
-    },
-    {
-      "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
-      "pubDate": 1795701958000
-    },
-    {
-      "title": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/384033/standard-chartereds-zodia-custody-says-hackers-accessed-client-contact-details",
-      "pubDate": 1795698799000
-    },
-    {
-      "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
-      "pubDate": 1795696731000
-    },
-    {
-      "title": "Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/384030/galaxy-research-withdraws-call-that-bitcoins-bear-market-is-over",
-      "pubDate": 1795695968000
-    },
-    {
-      "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
-      "pubDate": 1795695286000
-    },
-    {
-      "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report",
-      "pubDate": 1795693823000
-    },
-    {
-      "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
-      "pubDate": 1795692470000
-    },
-    {
-      "title": "New York Wins $1.37B Judgment Against NovaTech Founders Who Fled the US",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/384025/new-york-wins-1-37b-judgment-against-novatech-founders-who-fled-the-us",
-      "pubDate": 1795692358000
-    },
-    {
-      "title": "Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/bitcoin-is-vanishing-into-deep-storage-faster-than-miners-make-it",
-      "pubDate": 1795649412000
-    },
-    {
-      "title": "China's Google Just Released Its Fast New AI Model for Free",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
-      "pubDate": 1795646289000
     }
   ]
 }
