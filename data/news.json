@@ -1,7 +1,163 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1795752193136,
+  "generatedAt": 1795786924320,
   "articles": [
+    {
+      "title": "Galaxy Withdraws Call That Bitcoin’s Bear Market Ended in June",
+      "source": "Bitcoin Magazine",
+      "link": "https://bitcoinmagazine.com/markets/galaxy-withdraws-bitcoin-bear",
+      "pubDate": 1795786200000
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795786106000
+    },
+    {
+      "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack",
+      "pubDate": 1795785857000
+    },
+    {
+      "title": "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports",
+      "pubDate": 1795785550000
+    },
+    {
+      "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795783194000
+    },
+    {
+      "title": "Austria-supervised crypto firms report 20.4B euros in H1 trading volume",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/austria-supervised-crypto-firms-report-204b-h1-volume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795782000000
+    },
+    {
+      "title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13",
+      "pubDate": 1795781767000
+    },
+    {
+      "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
+      "pubDate": 1795779947000
+    },
+    {
+      "title": "Live updates: Bitcoin rebounds above $61,000 as AI stocks lead premarket gains",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
+      "pubDate": 1795779277000
+    },
+    {
+      "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+      "pubDate": 1795778562000
+    },
+    {
+      "title": "Kalshi Courts Small Businesses With 'Microinsurance' as State Crackdowns Bite",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/384118/kalshi-courts-small-businesses-with-microinsurance-as-state-crackdowns-bite",
+      "pubDate": 1795778387000
+    },
+    {
+      "title": "Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-supply-metric-new-capitulation-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795778068000
+    },
+    {
+      "title": "Injective asks SEC to allow order books for tokenized stock trading",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading",
+      "pubDate": 1795777637000
+    },
+    {
+      "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin",
+      "pubDate": 1795776687000
+    },
+    {
+      "title": "Bluefin to shut down perps, refocus on spot trading and tokenized RWAs",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/bluefin-shut-down-perps-refocus-spot-trading-tokenized-rwas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795775166000
+    },
+    {
+      "title": "Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade",
+      "source": "Decrypt",
+      "link": "https://decrypt.co/384104/ethereum-sets-december-15-date-for-delayed-glamsterdam-testnet-upgrade",
+      "pubDate": 1795774551000
+    },
+    {
+      "title": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years",
+      "pubDate": 1795773600000
+    },
+    {
+      "title": "Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound",
+      "pubDate": 1795772995000
+    },
+    {
+      "title": "ESMA to overhaul EU’s MiCA crypto register in 2027",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/esma-overhaul-eu-mica-crypto-register-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795766679000
+    },
+    {
+      "title": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why",
+      "pubDate": 1795764781000
+    },
+    {
+      "title": "New York AG secures $1.37B court judgment against NovaTech founders",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/new-york-ag-137b-court-judgment-novatech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795763984000
+    },
+    {
+      "title": "Japan’s crypto security group taps SEAL to speed up hack response",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795756956000
+    },
+    {
+      "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
+      "pubDate": 1795755992000
+    },
+    {
+      "title": "Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795754856000
+    },
+    {
+      "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
+      "pubDate": 1795754747000
+    },
+    {
+      "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+      "pubDate": 1795753787000
+    },
     {
       "title": "AI is driving a flood of crypto bug reports. Now it’s helping sort them",
       "source": "Cointelegraph",
@@ -19,12 +175,6 @@
       "source": "Cointelegraph",
       "link": "<![CDATA[https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "pubDate": 1795732786000
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795731126000
     },
     {
       "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
@@ -159,18 +309,6 @@
       "pubDate": 1795701958000
     },
     {
-      "title": "Nasdaq exec pushes for common EU rules on tokenized securities",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/nasdaq-exec-eu-wide-legal-framework-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795700876000
-    },
-    {
-      "title": "7 bizarre things crypto whales spent a fortune on",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/magazine/7-bizarre-things-crypto-whales-spent-a-fortune-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795699800000
-    },
-    {
       "title": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
       "source": "Decrypt",
       "link": "https://decrypt.co/384033/standard-chartereds-zodia-custody-says-hackers-accessed-client-contact-details",
@@ -195,22 +333,10 @@
       "pubDate": 1795695286000
     },
     {
-      "title": "Vitalik Buterin calls for verifiable chips as hardware wallet threats evolve",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/vitalik-buterin-verifiable-chips-hardware-wallet-threats-evolve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795695239000
-    },
-    {
       "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
       "source": "Decrypt",
       "link": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report",
       "pubDate": 1795693823000
-    },
-    {
-      "title": "Standard Chartered’s Zodia Custody suffers data breach",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/standard-chartered-zodia-suffers-data-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795693026000
     },
     {
       "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
@@ -225,78 +351,6 @@
       "pubDate": 1795692358000
     },
     {
-      "title": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795692179000
-    },
-    {
-      "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
-      "pubDate": 1795691842000
-    },
-    {
-      "title": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
-      "pubDate": 1795690568000
-    },
-    {
-      "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
-      "pubDate": 1795689633000
-    },
-    {
-      "title": "Zcash devs urge users to migrate 2% of ZEC supply to accelerate Sapling pool retirement",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/zcash-users-migrate-zec-supply-sapling-pool-retirement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795688128000
-    },
-    {
-      "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795686154000
-    },
-    {
-      "title": "Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795684695000
-    },
-    {
-      "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
-      "pubDate": 1795680093000
-    },
-    {
-      "title": "Zcash developers want to phase out older privacy system as a precaution against future attacks",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
-      "pubDate": 1795676965000
-    },
-    {
-      "title": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes",
-      "pubDate": 1795673949000
-    },
-    {
-      "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show",
-      "pubDate": 1795671038000
-    },
-    {
-      "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
-      "source": "CoinDesk",
-      "link": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
-      "pubDate": 1795668361000
-    },
-    {
       "title": "Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It",
       "source": "Bitcoin Magazine",
       "link": "https://bitcoinmagazine.com/videos/bitcoin-is-vanishing-into-deep-storage-faster-than-miners-make-it",
@@ -307,60 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
       "pubDate": 1795646289000
-    },
-    {
-      "title": "Stanford Professor Reveals “Praxis” Bitcoin Cryptography Breakthrough",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/stanford-professor-reveals-praxis-bitcoin-cryptography-breakthrough",
-      "pubDate": 1795644926000
-    },
-    {
-      "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
-      "pubDate": 1795643162000
-    },
-    {
-      "title": "Matt Hougan: $1.6 MILLION Bitcoin Price Target “Conservative”",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/matt-hougan-1-6-million-bitcoin-price-target-conservative",
-      "pubDate": 1795641744000
-    },
-    {
-      "title": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
-      "pubDate": 1795641362000
-    },
-    {
-      "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
-      "pubDate": 1795638963000
-    },
-    {
-      "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
-      "pubDate": 1795637163000
-    },
-    {
-      "title": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor",
-      "pubDate": 1795636200000
-    },
-    {
-      "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
-      "source": "Decrypt",
-      "link": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
-      "pubDate": 1795634934000
-    },
-    {
-      "title": "Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/news/switzerland-57-countries-crypto-tax",
-      "pubDate": 1795632005000
     }
   ]
 }
