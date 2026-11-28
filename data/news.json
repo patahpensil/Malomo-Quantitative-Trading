@@ -1,7 +1,31 @@
 {
   "_note": "Dihasilkan otomatis oleh scripts/fetch-news.js via GitHub Actions. Jangan sunting tangan.",
-  "generatedAt": 1795839104389,
+  "generatedAt": 1795872566872,
   "articles": [
+    {
+      "title": "Bitcoin not delivering: The bear market has digital asset veteran questioning BTC's value",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/28/bitcoin-not-delivering-the-bear-market-has-digital-asset-veteran-questioning-btc-s-value",
+      "pubDate": 1795870938000
+    },
+    {
+      "title": "ASEAN+3 agrees on initiative to explore crypto payments cooperation",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795861860000
+    },
+    {
+      "title": "Trump-linked crypto token WLFI plunges 50% to record lows",
+      "source": "CoinDesk",
+      "link": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50",
+      "pubDate": 1795858371000
+    },
+    {
+      "title": "Binance plans Asia hub in Bhutan, receives preliminary approval",
+      "source": "Cointelegraph",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "pubDate": 1795851780000
+    },
     {
       "title": "Here’s what happened in crypto today",
       "source": "Cointelegraph",
@@ -303,18 +327,6 @@
       "pubDate": 1795730462000
     },
     {
-      "title": "BNB Chain details new layer-1 for trading, private finance and AI",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795729363000
-    },
-    {
-      "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
-      "source": "Cointelegraph",
-      "link": "<![CDATA[https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "pubDate": 1795728827000
-    },
-    {
       "title": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
       "source": "Decrypt",
       "link": "https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys",
@@ -349,18 +361,6 @@
       "source": "Decrypt",
       "link": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order",
       "pubDate": 1795711382000
-    },
-    {
-      "title": "The Agentic Economy Is WAY Bigger Than You Think | Xen Baynham-Herd",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/videos/the-agentic-economy-is-way-bigger-than-you-think-xen-baynham-herd",
-      "pubDate": 1795710612000
-    },
-    {
-      "title": "Bitcoin Has Become Boring, Finally",
-      "source": "Bitcoin Magazine",
-      "link": "https://bitcoinmagazine.com/culture/bitcoin-has-become-boring-finally",
-      "pubDate": 1795708287000
     }
   ]
 }
